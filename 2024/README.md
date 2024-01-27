@@ -121,6 +121,7 @@
 ## CVE-2024-22514 ()
 > 
 - [Orange-418/CVE-2024-22514-Remote-Code-Execution](https://github.com/Orange-418/CVE-2024-22514-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Orange-418/CVE-2024-22514-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Orange-418/CVE-2024-22514-Remote-Code-Execution">
+- [Orange-418/AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution](https://github.com/Orange-418/AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Orange-418/AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Orange-418/AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution">
 
 ---
 ## CVE-2024-22416 (2024-01-18T00:15:00)
