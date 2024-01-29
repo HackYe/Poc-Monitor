@@ -42,6 +42,11 @@
 - [mochammadrafi/CVE-2023-7028](https://github.com/mochammadrafi/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/mochammadrafi/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/mochammadrafi/CVE-2023-7028">
 
 ---
+## CVE-2023-6985 ()
+> 
+- [RandomRobbieBF/CVE-2023-6985](https://github.com/RandomRobbieBF/CVE-2023-6985)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-6985">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-6985">
+
+---
 ## CVE-2023-6933 ()
 > 
 - [w2xim3/CVE-2023-6933](https://github.com/w2xim3/CVE-2023-6933)	<img alt="forks" src="https://img.shields.io/github/forks/w2xim3/CVE-2023-6933">	<img alt="stars" src="https://img.shields.io/github/stars/w2xim3/CVE-2023-6933">
