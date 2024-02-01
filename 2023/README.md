@@ -2521,6 +2521,7 @@ prior to
 - [Asbawy/Automation-for-Juniper-cve-2023-36845](https://github.com/Asbawy/Automation-for-Juniper-cve-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/Asbawy/Automation-for-Juniper-cve-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/Asbawy/Automation-for-Juniper-cve-2023-36845">
 - [jahithoque/Juniper-CVE-2023-36845-Mass-Hunting](https://github.com/jahithoque/Juniper-CVE-2023-36845-Mass-Hunting)	<img alt="forks" src="https://img.shields.io/github/forks/jahithoque/Juniper-CVE-2023-36845-Mass-Hunting">	<img alt="stars" src="https://img.shields.io/github/stars/jahithoque/Juniper-CVE-2023-36845-Mass-Hunting">
 - [cyb3rzest/Juniper-Bug-Automation-CVE-2023-36845](https://github.com/cyb3rzest/Juniper-Bug-Automation-CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3rzest/Juniper-Bug-Automation-CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3rzest/Juniper-Bug-Automation-CVE-2023-36845">
+- [hackingyseguridad/nmap](https://github.com/hackingyseguridad/nmap)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/nmap">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/nmap">
 
 ---
 ## CVE-2023-36844 (2023-08-17T20:15:00)
