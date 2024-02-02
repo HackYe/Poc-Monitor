@@ -90,6 +90,7 @@
 - [huyqa/cve-2024-23897](https://github.com/huyqa/cve-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/huyqa/cve-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/huyqa/cve-2024-23897">
 - [jopraveen/CVE-2024-23897](https://github.com/jopraveen/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/jopraveen/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/jopraveen/CVE-2024-23897">
 - [AbraXa5/Jenkins-CVE-2024-23897](https://github.com/AbraXa5/Jenkins-CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/AbraXa5/Jenkins-CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/AbraXa5/Jenkins-CVE-2024-23897">
+- [brijne/CVE-2024-23897-RCE](https://github.com/brijne/CVE-2024-23897-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/brijne/CVE-2024-23897-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/brijne/CVE-2024-23897-RCE">
 
 ---
 ## CVE-2024-23747 (2024-01-29T14:15:00)
@@ -214,6 +215,11 @@
 ## CVE-2024-22145 ()
 > 
 - [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-22145">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-22145">
+
+---
+## CVE-2024-21893 (2024-01-31T18:15:00)
+> A server-side request forgery vulnerability in the SAML component of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x) and Ivanti Neurons for ZTA allows an attacker to access certain restricted resources without authentication.
+- [h4x0r-dz/CVE-2024-21893.py](https://github.com/h4x0r-dz/CVE-2024-21893.py)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2024-21893.py">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2024-21893.py">
 
 ---
 ## CVE-2024-21887 (2024-01-12T17:15:00)
