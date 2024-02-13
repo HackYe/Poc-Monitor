@@ -161,6 +161,11 @@
 - [mbadanoiu/CVE-2021-46364](https://github.com/mbadanoiu/CVE-2021-46364)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-46364">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-46364">
 
 ---
+## CVE-2021-46363 (2022-02-11T21:15:00)
+> An issue in the Export function of Magnolia v6.2.3 and below allows attackers to perform Formula Injection attacks via crafted CSV/XLS files. These formulas may result in arbitrary code execution on a victim's computer when opening the exported files with Microsoft Excel.
+- [mbadanoiu/CVE-2021-46363](https://github.com/mbadanoiu/CVE-2021-46363)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-46363">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-46363">
+
+---
 ## CVE-2021-46167 (2022-04-13T15:15:00)
 > An access control issue in the authentication module of wizplat PD065 v1.19 allows attackers to access sensitive data and cause a Denial of Service (DoS).
 - [Live-Hack-CVE/CVE-2021-46167](https://github.com/Live-Hack-CVE/CVE-2021-46167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46167">
