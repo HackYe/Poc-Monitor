@@ -156,6 +156,11 @@
 - [febinrev/CVE-2021-46398_Chamilo-LMS-RCE](https://github.com/febinrev/CVE-2021-46398_Chamilo-LMS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/febinrev/CVE-2021-46398_Chamilo-LMS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/febinrev/CVE-2021-46398_Chamilo-LMS-RCE">
 
 ---
+## CVE-2021-46365 (2022-02-11T21:15:00)
+> An issue in the Export function of Magnolia v6.2.3 and below allows attackers to execute XML External Entity attacks via a crafted XLF file.
+- [mbadanoiu/CVE-2021-46365](https://github.com/mbadanoiu/CVE-2021-46365)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-46365">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-46365">
+
+---
 ## CVE-2021-46364 (2022-02-11T21:15:00)
 > A vulnerability in the Snake YAML parser of Magnolia CMS v6.2.3 and below allows attackers to execute arbitrary code via a crafted YAML file.
 - [mbadanoiu/CVE-2021-46364](https://github.com/mbadanoiu/CVE-2021-46364)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-46364">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-46364">
