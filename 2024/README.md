@@ -372,6 +372,7 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 ## CVE-2024-21413 (2024-02-13T18:16:00)
 > Microsoft Outlook Remote Code Execution Vulnerability
 - [duy-31/CVE-2024-21413](https://github.com/duy-31/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2024-21413">
+- [enesilhaydin/CVE-2024-21413-gmail](https://github.com/enesilhaydin/CVE-2024-21413-gmail)	<img alt="forks" src="https://img.shields.io/github/forks/enesilhaydin/CVE-2024-21413-gmail">	<img alt="stars" src="https://img.shields.io/github/stars/enesilhaydin/CVE-2024-21413-gmail">
 
 ---
 ## CVE-2024-21306 (2024-01-09T18:15:00)
