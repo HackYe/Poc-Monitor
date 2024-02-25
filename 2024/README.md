@@ -99,6 +99,11 @@
 - [Agampreet-Singh/CVE-2024-25202](https://github.com/Agampreet-Singh/CVE-2024-25202)	<img alt="forks" src="https://img.shields.io/github/forks/Agampreet-Singh/CVE-2024-25202">	<img alt="stars" src="https://img.shields.io/github/stars/Agampreet-Singh/CVE-2024-25202">
 
 ---
+## CVE-2024-25169 ()
+> 
+- [shenhav12/CVE-2024-25169-Mezzaine-v6.0.0](https://github.com/shenhav12/CVE-2024-25169-Mezzaine-v6.0.0)	<img alt="forks" src="https://img.shields.io/github/forks/shenhav12/CVE-2024-25169-Mezzaine-v6.0.0">	<img alt="stars" src="https://img.shields.io/github/stars/shenhav12/CVE-2024-25169-Mezzaine-v6.0.0">
+
+---
 ## CVE-2024-25092 ()
 > 
 - [RandomRobbieBF/CVE-2024-25092](https://github.com/RandomRobbieBF/CVE-2024-25092)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-25092">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-25092">
