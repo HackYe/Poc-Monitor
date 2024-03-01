@@ -583,6 +583,7 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [laysakura/CVE-2024-21626-demo](https://github.com/laysakura/CVE-2024-21626-demo)	<img alt="forks" src="https://img.shields.io/github/forks/laysakura/CVE-2024-21626-demo">	<img alt="stars" src="https://img.shields.io/github/stars/laysakura/CVE-2024-21626-demo">
 - [V0WKeep3r/CVE-2024-21626-runcPOC](https://github.com/V0WKeep3r/CVE-2024-21626-runcPOC)	<img alt="forks" src="https://img.shields.io/github/forks/V0WKeep3r/CVE-2024-21626-runcPOC">	<img alt="stars" src="https://img.shields.io/github/stars/V0WKeep3r/CVE-2024-21626-runcPOC">
 - [dombisza/cve-2024-21626](https://github.com/dombisza/cve-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/dombisza/cve-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/dombisza/cve-2024-21626">
+- [abian2/CVE-2024-21626](https://github.com/abian2/CVE-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/abian2/CVE-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/abian2/CVE-2024-21626">
 
 ---
 ## CVE-2024-21413 (2024-02-13T18:16:00)
