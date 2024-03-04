@@ -764,6 +764,11 @@ This is possible because the application is vulnerable to insecure deserializati
 - [Agampreet-Singh/CVE-2024-0652](https://github.com/Agampreet-Singh/CVE-2024-0652)	<img alt="forks" src="https://img.shields.io/github/forks/Agampreet-Singh/CVE-2024-0652">	<img alt="stars" src="https://img.shields.io/github/stars/Agampreet-Singh/CVE-2024-0652">
 
 ---
+## CVE-2024-0519 (2024-01-16T22:15:00)
+> Out of bounds memory access in V8 in Google Chrome prior to 120.0.6099.224 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [JohnHormond/CVE-2024-0519-Chrome-exploit](https://github.com/JohnHormond/CVE-2024-0519-Chrome-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHormond/CVE-2024-0519-Chrome-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHormond/CVE-2024-0519-Chrome-exploit">
+
+---
 ## CVE-2024-0402 (2024-01-26T01:15:00)
 > An issue has been discovered in GitLab CE/EE affecting all versions from 16.0 prior to 16.6.6, 16.7 prior to 16.7.4, and 16.8 prior to 16.8.1 which allows an authenticated user to write files to arbitrary locations on the GitLab server while creating a workspace.
 - [ch4nui/CVE-2024-0402-RCE](https://github.com/ch4nui/CVE-2024-0402-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ch4nui/CVE-2024-0402-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ch4nui/CVE-2024-0402-RCE">
@@ -803,3 +808,4 @@ This is possible because the application is vulnerable to insecure deserializati
 ## CVE-2024-0001 ()
 > 
 - [RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001](https://github.com/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001)	<img alt="forks" src="https://img.shields.io/github/forks/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001">	<img alt="stars" src="https://img.shields.io/github/stars/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001">
+- [jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/jiupta/CVE-2024-0001-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/jiupta/CVE-2024-0001-EXP">
