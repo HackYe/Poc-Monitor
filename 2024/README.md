@@ -253,6 +253,21 @@
 - [BurakSevben/CVE-2024-24134](https://github.com/BurakSevben/CVE-2024-24134)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24134">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24134">
 
 ---
+## CVE-2024-24108 ()
+> 
+- [ASR511-OO7/CVE-2024-24108](https://github.com/ASR511-OO7/CVE-2024-24108)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24108">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24108">
+
+---
+## CVE-2024-24105 ()
+> 
+- [ASR511-OO7/CVE-2024-24105](https://github.com/ASR511-OO7/CVE-2024-24105)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24105">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24105">
+
+---
+## CVE-2024-24104 ()
+> 
+- [ASR511-OO7/CVE-2024-24104](https://github.com/ASR511-OO7/CVE-2024-24104)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24104">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24104">
+
+---
 ## CVE-2024-24103 ()
 > 
 - [ASR511-OO7/CVE-2024-24103](https://github.com/ASR511-OO7/CVE-2024-24103)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24103">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24103">
