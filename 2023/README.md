@@ -370,8 +370,8 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 - [2048JiaLi/CVE-2023-51385](https://github.com/2048JiaLi/CVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/2048JiaLi/CVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/2048JiaLi/CVE-2023-51385">
 
 ---
-## CVE-2023-51281 ()
-> 
+## CVE-2023-51281 (2024-03-07T01:15:00)
+> Cross Site Scripting vulnerability in Customer Support System v.1.0 allows a remote attacker to escalate privileges via a crafted script firstname, "lastname", "middlename", "contact" and address parameters.
 - [geraldoalcantara/CVE-2023-51281](https://github.com/geraldoalcantara/CVE-2023-51281)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-51281">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-51281">
 
 ---
@@ -571,8 +571,8 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [geraldoalcantara/CVE-2023-49989](https://github.com/geraldoalcantara/CVE-2023-49989)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49989">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49989">
 
 ---
-## CVE-2023-49988 ()
-> 
+## CVE-2023-49988 (2024-03-07T01:15:00)
+> Hotel Booking Management v1.0 was discovered to contain a SQL injection vulnerability via the npss parameter at rooms.php.
 - [geraldoalcantara/CVE-2023-49988](https://github.com/geraldoalcantara/CVE-2023-49988)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49988">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49988">
 
 ---
