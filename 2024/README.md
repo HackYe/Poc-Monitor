@@ -94,6 +94,7 @@
 ## CVE-2024-29272 (2024-03-22T04:15:00)
 > Arbitrary File Upload vulnerability in VvvebJs before version 1.7.5, allows unauthenticated remote attackers to execute arbitrary code and obtain sensitive information via the sanitizeFileName parameter in save.php.
 - [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272)	<img alt="forks" src="https://img.shields.io/github/forks/awjkjflkwlekfdjs/CVE-2024-29272">	<img alt="stars" src="https://img.shields.io/github/stars/awjkjflkwlekfdjs/CVE-2024-29272">
+- [awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272)	<img alt="forks" src="https://img.shields.io/github/forks/awjkjflkwlekfdjs/CVE-2024-29272">	<img alt="stars" src="https://img.shields.io/github/stars/awjkjflkwlekfdjs/CVE-2024-29272">
 
 ---
 ## CVE-2024-29197 ()
