@@ -885,6 +885,7 @@ QuTScloud c5.1.5.2651 and later
 - [TheRedDevil1/CVE-2024-21762](https://github.com/TheRedDevil1/CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2024-21762">
 - [d0rb/CVE-2024-21762](https://github.com/d0rb/CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-21762">
 - [S0SkiPlosK1/CVE-2024-21762-POC](https://github.com/S0SkiPlosK1/CVE-2024-21762-POC)	<img alt="forks" src="https://img.shields.io/github/forks/S0SkiPlosK1/CVE-2024-21762-POC">	<img alt="stars" src="https://img.shields.io/github/stars/S0SkiPlosK1/CVE-2024-21762-POC">
+- [MrCyberSec/CVE-2024-21762-Fortinet-RCE-ALLWORK](https://github.com/MrCyberSec/CVE-2024-21762-Fortinet-RCE-ALLWORK)	<img alt="forks" src="https://img.shields.io/github/forks/MrCyberSec/CVE-2024-21762-Fortinet-RCE-ALLWORK">	<img alt="stars" src="https://img.shields.io/github/stars/MrCyberSec/CVE-2024-21762-Fortinet-RCE-ALLWORK">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
