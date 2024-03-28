@@ -2078,6 +2078,11 @@
 - [Live-Hack-CVE/CVE-2019-16167](https://github.com/Live-Hack-CVE/CVE-2019-16167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16167">
 
 ---
+## CVE-2019-16113 (2019-09-08T21:15:00)
+> Bludit 3.9.2 allows remote code execution via bl-kernel/ajax/upload-images.php because PHP code can be entered with a .jpg file name, and then this PHP code can write other PHP code to a ../ pathname.
+- [mind2hex/CVE-2019-16113](https://github.com/mind2hex/CVE-2019-16113)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2019-16113">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2019-16113">
+
+---
 ## CVE-2019-16098 (2019-09-11T17:15:00)
 > The driver in Micro-Star MSI Afterburner 4.6.2.15658 (aka RTCore64.sys and RTCore32.sys) allows any authenticated user to read and write to arbitrary memory, I/O ports, and MSRs. This can be exploited for privilege escalation, code execution under high privileges, and information disclosure. These signed drivers can also be used to bypass the Microsoft driver-signing policy to deploy malicious code.
 - [0xDivyanshu-new/CVE-2019-16098](https://github.com/0xDivyanshu-new/CVE-2019-16098)	<img alt="forks" src="https://img.shields.io/github/forks/0xDivyanshu-new/CVE-2019-16098">	<img alt="stars" src="https://img.shields.io/github/stars/0xDivyanshu-new/CVE-2019-16098">
