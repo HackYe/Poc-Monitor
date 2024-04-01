@@ -63,6 +63,8 @@
 - [mesutgungor/xz-backdoor-vulnerability](https://github.com/mesutgungor/xz-backdoor-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/mesutgungor/xz-backdoor-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/mesutgungor/xz-backdoor-vulnerability">
 - [reuteras/CVE-2024-3094](https://github.com/reuteras/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/reuteras/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/reuteras/CVE-2024-3094">
 - [amlweems/xzbot](https://github.com/amlweems/xzbot)	<img alt="forks" src="https://img.shields.io/github/forks/amlweems/xzbot">	<img alt="stars" src="https://img.shields.io/github/stars/amlweems/xzbot">
+- [ackemed/detectar_cve-2024-3094](https://github.com/ackemed/detectar_cve-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/ackemed/detectar_cve-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/ackemed/detectar_cve-2024-3094">
+- [gustavorobertux/CVE-2024-3094](https://github.com/gustavorobertux/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/gustavorobertux/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/gustavorobertux/CVE-2024-3094">
 
 ---
 ## CVE-2024-29455 ()
