@@ -2817,6 +2817,11 @@
 - [Live-Hack-CVE/CVE-2019-0845](https://github.com/Live-Hack-CVE/CVE-2019-0845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-0845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-0845">
 
 ---
+## CVE-2019-0708 (2019-05-16T19:29:00)
+> A remote code execution vulnerability exists in Remote Desktop Services formerly known as Terminal Services when an unauthenticated attacker connects to the target system using RDP and sends specially crafted requests, aka 'Remote Desktop Services Remote Code Execution Vulnerability'.
+- [jdouglas12a/CVE-2019-0708](https://github.com/jdouglas12a/CVE-2019-0708)	<img alt="forks" src="https://img.shields.io/github/forks/jdouglas12a/CVE-2019-0708">	<img alt="stars" src="https://img.shields.io/github/stars/jdouglas12a/CVE-2019-0708">
+
+---
 ## CVE-2019-0604 (2019-03-05T23:29:00)
 > A remote code execution vulnerability exists in Microsoft SharePoint when the software fails to check the source markup of an application package, aka 'Microsoft SharePoint Remote Code Execution Vulnerability'. This CVE ID is unique from CVE-2019-0594.
 - [davidlebr1/cve-2019-0604-SP2010-netv3.5](https://github.com/davidlebr1/cve-2019-0604-SP2010-netv3.5)	<img alt="forks" src="https://img.shields.io/github/forks/davidlebr1/cve-2019-0604-SP2010-netv3.5">	<img alt="stars" src="https://img.shields.io/github/stars/davidlebr1/cve-2019-0604-SP2010-netv3.5">
