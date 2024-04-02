@@ -71,6 +71,7 @@
 - [hackingetico21/revisaxzutils](https://github.com/hackingetico21/revisaxzutils)	<img alt="forks" src="https://img.shields.io/github/forks/hackingetico21/revisaxzutils">	<img alt="stars" src="https://img.shields.io/github/stars/hackingetico21/revisaxzutils">
 - [ScrimForever/CVE-2024-3094](https://github.com/ScrimForever/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/ScrimForever/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/ScrimForever/CVE-2024-3094">
 - [robertdebock/ansible-role-cve_2024_3094](https://github.com/robertdebock/ansible-role-cve_2024_3094)	<img alt="forks" src="https://img.shields.io/github/forks/robertdebock/ansible-role-cve_2024_3094">	<img alt="stars" src="https://img.shields.io/github/stars/robertdebock/ansible-role-cve_2024_3094">
+- [pentestfunctions/CVE-2024-3094](https://github.com/pentestfunctions/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/pentestfunctions/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/pentestfunctions/CVE-2024-3094">
 
 ---
 ## CVE-2024-29455 ()
