@@ -47,6 +47,7 @@
 - [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-3273">
 - [adhikara13/CVE-2024-3273](https://github.com/adhikara13/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2024-3273">
 - [yarienkiva/honeypot-dlink-CVE-2024-3273](https://github.com/yarienkiva/honeypot-dlink-CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/yarienkiva/honeypot-dlink-CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/yarienkiva/honeypot-dlink-CVE-2024-3273">
+- [nickswink/D-Link-NAS-Devices-Unauthenticated-RCE](https://github.com/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE">
 
 ---
 ## CVE-2024-31380 ()
@@ -1456,6 +1457,7 @@ QuTScloud c5.1.5.2651 and later
 - [MrCyberSec/CVE-2024-21762-Fortinet-RCE-ALLWORK](https://github.com/MrCyberSec/CVE-2024-21762-Fortinet-RCE-ALLWORK)	<img alt="forks" src="https://img.shields.io/github/forks/MrCyberSec/CVE-2024-21762-Fortinet-RCE-ALLWORK">	<img alt="stars" src="https://img.shields.io/github/stars/MrCyberSec/CVE-2024-21762-Fortinet-RCE-ALLWORK">
 - [lore-is-already-taken/multicheck_CVE-2024-21762](https://github.com/lore-is-already-taken/multicheck_CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/lore-is-already-taken/multicheck_CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/lore-is-already-taken/multicheck_CVE-2024-21762">
 - [AlexLondan/CVE-2024-21762-Fortinet-RCE-ALLWORK](https://github.com/AlexLondan/CVE-2024-21762-Fortinet-RCE-ALLWORK)	<img alt="forks" src="https://img.shields.io/github/forks/AlexLondan/CVE-2024-21762-Fortinet-RCE-ALLWORK">	<img alt="stars" src="https://img.shields.io/github/stars/AlexLondan/CVE-2024-21762-Fortinet-RCE-ALLWORK">
+- [lolminerxmrig/multicheck_CVE-2024-21762](https://github.com/lolminerxmrig/multicheck_CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/multicheck_CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/multicheck_CVE-2024-21762">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
