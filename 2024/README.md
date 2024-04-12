@@ -1620,6 +1620,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 > Microsoft SharePoint Server Remote Code Execution Vulnerability
 - [CVE-searcher/CVE-2024-21426-SharePoint-RCE](https://github.com/CVE-searcher/CVE-2024-21426-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CVE-searcher/CVE-2024-21426-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CVE-searcher/CVE-2024-21426-SharePoint-RCE">
 - [JohnnyBradvo/CVE-2024-21426-SharePoint-RCE](https://github.com/JohnnyBradvo/CVE-2024-21426-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-21426-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-21426-SharePoint-RCE">
+- [Geniorio01/CVE-2024-21426-SharePoint-RCE](https://github.com/Geniorio01/CVE-2024-21426-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Geniorio01/CVE-2024-21426-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Geniorio01/CVE-2024-21426-SharePoint-RCE">
 
 ---
 ## CVE-2024-21413 (2024-02-13T18:16:00)
