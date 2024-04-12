@@ -34,6 +34,7 @@
 ## CVE-2024-3400 ()
 > 
 - [havebeenpwned/CVE-2024-3400-POC](https://github.com/havebeenpwned/CVE-2024-3400-POC)	<img alt="forks" src="https://img.shields.io/github/forks/havebeenpwned/CVE-2024-3400-POC">	<img alt="stars" src="https://img.shields.io/github/stars/havebeenpwned/CVE-2024-3400-POC">
+- [letsrockyouu/CVE-2024-3400-POC](https://github.com/letsrockyouu/CVE-2024-3400-POC)	<img alt="forks" src="https://img.shields.io/github/forks/letsrockyouu/CVE-2024-3400-POC">	<img alt="stars" src="https://img.shields.io/github/stars/letsrockyouu/CVE-2024-3400-POC">
 
 ---
 ## CVE-2024-33333 ()
