@@ -481,6 +481,11 @@
 - [FoxyProxys/CVE-2024-3000](https://github.com/FoxyProxys/CVE-2024-3000)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2024-3000">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2024-3000">
 
 ---
+## CVE-2024-29988 ()
+> 
+- [mrobsidian1/CVE-2024-29988-MS-Exchange-RCE](https://github.com/mrobsidian1/CVE-2024-29988-MS-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mrobsidian1/CVE-2024-29988-MS-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mrobsidian1/CVE-2024-29988-MS-Exchange-RCE">
+
+---
 ## CVE-2024-29455 ()
 > 
 - [yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29455">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29455">
@@ -1614,6 +1619,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 
 
 - [gogobuster/CVE-2024-21591-POC](https://github.com/gogobuster/CVE-2024-21591-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gogobuster/CVE-2024-21591-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gogobuster/CVE-2024-21591-POC">
+
+---
+## CVE-2024-21508 ()
+> 
+- [Geniorio01/CVE-2024-21508-mysql2-RCE](https://github.com/Geniorio01/CVE-2024-21508-mysql2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Geniorio01/CVE-2024-21508-mysql2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Geniorio01/CVE-2024-21508-mysql2-RCE">
 
 ---
 ## CVE-2024-21426 (2024-03-12T17:15:00)
