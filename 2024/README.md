@@ -1094,6 +1094,7 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [corysabol/batbadbut-demo](https://github.com/corysabol/batbadbut-demo)	<img alt="forks" src="https://img.shields.io/github/forks/corysabol/batbadbut-demo">	<img alt="stars" src="https://img.shields.io/github/stars/corysabol/batbadbut-demo">
 - [mishalhossin/CVE-2024-24576-PoC-Python](https://github.com/mishalhossin/CVE-2024-24576-PoC-Python)	<img alt="forks" src="https://img.shields.io/github/forks/mishalhossin/CVE-2024-24576-PoC-Python">	<img alt="stars" src="https://img.shields.io/github/stars/mishalhossin/CVE-2024-24576-PoC-Python">
 - [lpn/CVE-2024-24576.jl](https://github.com/lpn/CVE-2024-24576.jl)	<img alt="forks" src="https://img.shields.io/github/forks/lpn/CVE-2024-24576.jl">	<img alt="stars" src="https://img.shields.io/github/stars/lpn/CVE-2024-24576.jl">
+- [p14t1num/cve-2024-24576-python](https://github.com/p14t1num/cve-2024-24576-python)	<img alt="forks" src="https://img.shields.io/github/forks/p14t1num/cve-2024-24576-python">	<img alt="stars" src="https://img.shields.io/github/stars/p14t1num/cve-2024-24576-python">
 
 ---
 ## CVE-2024-24567 (2024-01-30T21:15:00)
