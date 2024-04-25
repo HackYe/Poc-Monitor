@@ -187,8 +187,10 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [ViktorNaum/CVE-2024-31497-POC](https://github.com/ViktorNaum/CVE-2024-31497-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ViktorNaum/CVE-2024-31497-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ViktorNaum/CVE-2024-31497-POC">
 
 ---
-## CVE-2024-31380 ()
-> 
+## CVE-2024-31380 (2024-04-03T12:15:00)
+> Improper Control of Generation of Code ('Code Injection') vulnerability in Soflyy Oxygen Builder allows Code Injection.This issue affects Oxygen Builder: from n/a through 4.8.2.
+
+
 - [Chokopik/CVE-2024-31380-POC](https://github.com/Chokopik/CVE-2024-31380-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopik/CVE-2024-31380-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopik/CVE-2024-31380-POC">
 
 ---
@@ -762,6 +764,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 ---
 ## CVE-2024-2876 ()
 > 
+- [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3zilla/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3zilla/CVE-2024-2876">
 - [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3zilla/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3zilla/CVE-2024-2876">
 
 ---
