@@ -2225,6 +2225,7 @@ critical systems.
 ## CVE-2024-1655 (2024-04-15T04:15:00)
 > Certain ASUS WiFi routers models has an OS Command Injection vulnerability, allowing an authenticated remote attacker to execute arbitrary system commands by sending a specially crafted request.
 - [lnversed/CVE-2024-1655](https://github.com/lnversed/CVE-2024-1655)	<img alt="forks" src="https://img.shields.io/github/forks/lnversed/CVE-2024-1655">	<img alt="stars" src="https://img.shields.io/github/stars/lnversed/CVE-2024-1655">
+- [lnversed/CVE-2024-1655](https://github.com/lnversed/CVE-2024-1655)	<img alt="forks" src="https://img.shields.io/github/forks/lnversed/CVE-2024-1655">	<img alt="stars" src="https://img.shields.io/github/stars/lnversed/CVE-2024-1655">
 
 ---
 ## CVE-2024-1651 (2024-02-20T00:15:00)
