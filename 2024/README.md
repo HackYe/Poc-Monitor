@@ -952,6 +952,16 @@ QuTScloud c5.1.5.2651 and later
 - [adminquit/CVE-2024-28288](https://github.com/adminquit/CVE-2024-28288)	<img alt="forks" src="https://img.shields.io/github/forks/adminquit/CVE-2024-28288">	<img alt="stars" src="https://img.shields.io/github/stars/adminquit/CVE-2024-28288">
 
 ---
+## CVE-2024-28279 ()
+> 
+- [unrealjbr/CVE-2024-28279](https://github.com/unrealjbr/CVE-2024-28279)	<img alt="forks" src="https://img.shields.io/github/forks/unrealjbr/CVE-2024-28279">	<img alt="stars" src="https://img.shields.io/github/stars/unrealjbr/CVE-2024-28279">
+
+---
+## CVE-2024-28277 ()
+> 
+- [unrealjbr/CVE-2024-28277](https://github.com/unrealjbr/CVE-2024-28277)	<img alt="forks" src="https://img.shields.io/github/forks/unrealjbr/CVE-2024-28277">	<img alt="stars" src="https://img.shields.io/github/stars/unrealjbr/CVE-2024-28277">
+
+---
 ## CVE-2024-28276 ()
 > 
 - [unrealjbr/CVE-2024-28276](https://github.com/unrealjbr/CVE-2024-28276)	<img alt="forks" src="https://img.shields.io/github/forks/unrealjbr/CVE-2024-28276">	<img alt="stars" src="https://img.shields.io/github/stars/unrealjbr/CVE-2024-28276">
