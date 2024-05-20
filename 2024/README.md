@@ -122,6 +122,11 @@
 - [alas1n/eslint-nextjs-cve-2024-34351-detector](https://github.com/alas1n/eslint-nextjs-cve-2024-34351-detector)	<img alt="forks" src="https://img.shields.io/github/forks/alas1n/eslint-nextjs-cve-2024-34351-detector">	<img alt="stars" src="https://img.shields.io/github/stars/alas1n/eslint-nextjs-cve-2024-34351-detector">
 
 ---
+## CVE-2024-3435 (2024-05-16T09:15:00)
+> A path traversal vulnerability exists in the 'save_settings' endpoint of the parisneo/lollms-webui application, affecting versions up to the latest release before 9.5. The vulnerability arises due to insufficient sanitization of the 'config' parameter in the 'apply_settings' function, allowing an attacker to manipulate the application's configuration by sending specially crafted JSON payloads. This could lead to remote code execution (RCE) by bypassing existing patches designed to mitigate such vulnerabilities.
+- [ymuraki-csc/cve-2024-3435](https://github.com/ymuraki-csc/cve-2024-3435)	<img alt="forks" src="https://img.shields.io/github/forks/ymuraki-csc/cve-2024-3435">	<img alt="stars" src="https://img.shields.io/github/stars/ymuraki-csc/cve-2024-3435">
+
+---
 ## CVE-2024-34310 (2024-05-14T15:38:00)
 > Jin Fang Times Content Management System v3.2.3 was discovered to contain a SQL injection vulnerability via the id parameter.
 - [3309899621/CVE-2024-34310](https://github.com/3309899621/CVE-2024-34310)	<img alt="forks" src="https://img.shields.io/github/forks/3309899621/CVE-2024-34310">	<img alt="stars" src="https://img.shields.io/github/stars/3309899621/CVE-2024-34310">
@@ -388,6 +393,8 @@ QuTScloud c5.1.5.2651 and later
 - [amalmurali47/git_rce](https://github.com/amalmurali47/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/amalmurali47/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/amalmurali47/git_rce">
 - [aitorcastel/poc_CVE-2024-32002](https://github.com/aitorcastel/poc_CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/aitorcastel/poc_CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/aitorcastel/poc_CVE-2024-32002">
 - [aitorcastel/poc_CVE-2024-32002_submodule](https://github.com/aitorcastel/poc_CVE-2024-32002_submodule)	<img alt="forks" src="https://img.shields.io/github/forks/aitorcastel/poc_CVE-2024-32002_submodule">	<img alt="stars" src="https://img.shields.io/github/stars/aitorcastel/poc_CVE-2024-32002_submodule">
+- [10cks/captain](https://github.com/10cks/captain)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/captain">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/captain">
+- [10cks/hook](https://github.com/10cks/hook)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/hook">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/hook">
 
 ---
 ## CVE-2024-31848 ()
