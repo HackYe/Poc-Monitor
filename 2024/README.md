@@ -321,6 +321,7 @@ QuTScloud c5.1.5.2651 and later
 > 
 - [Stuub/CVE-2024-32640-SQLI-MuraCMS](https://github.com/Stuub/CVE-2024-32640-SQLI-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-32640-SQLI-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-32640-SQLI-MuraCMS">
 - [0x3f3c/CVE-2024-32640-SQLI-MuraCMS](https://github.com/0x3f3c/CVE-2024-32640-SQLI-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/0x3f3c/CVE-2024-32640-SQLI-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/0x3f3c/CVE-2024-32640-SQLI-MuraCMS">
+- [nancyariah4/CVE-2024-32640-Admin-MuraCMS](https://github.com/nancyariah4/CVE-2024-32640-Admin-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-32640-Admin-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-32640-Admin-MuraCMS">
 
 ---
 ## CVE-2024-32523 (2024-05-17T09:15:00)
