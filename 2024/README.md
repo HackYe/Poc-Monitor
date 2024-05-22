@@ -462,6 +462,7 @@ QuTScloud c5.1.5.2651 and later
 - [ycdxsb/CVE-2024-32002-hulk](https://github.com/ycdxsb/CVE-2024-32002-hulk)	<img alt="forks" src="https://img.shields.io/github/forks/ycdxsb/CVE-2024-32002-hulk">	<img alt="stars" src="https://img.shields.io/github/stars/ycdxsb/CVE-2024-32002-hulk">
 - [vincepsh/CVE-2024-32002-hook](https://github.com/vincepsh/CVE-2024-32002-hook)	<img alt="forks" src="https://img.shields.io/github/forks/vincepsh/CVE-2024-32002-hook">	<img alt="stars" src="https://img.shields.io/github/stars/vincepsh/CVE-2024-32002-hook">
 - [vincepsh/CVE-2024-32002](https://github.com/vincepsh/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/vincepsh/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/vincepsh/CVE-2024-32002">
+- [LuxEndrith/CVE-2024-32002-Git](https://github.com/LuxEndrith/CVE-2024-32002-Git)	<img alt="forks" src="https://img.shields.io/github/forks/LuxEndrith/CVE-2024-32002-Git">	<img alt="stars" src="https://img.shields.io/github/stars/LuxEndrith/CVE-2024-32002-Git">
 
 ---
 ## CVE-2024-31848 ()
@@ -2251,6 +2252,19 @@ An OData injection vulnerability exists in the BIG-IP Next Central Manager API (
 - [lolminerxmrig/multicheck_CVE-2024-21762](https://github.com/lolminerxmrig/multicheck_CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/multicheck_CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/multicheck_CVE-2024-21762">
 - [zzcentury/FortiGate-CVE-2024-21762](https://github.com/zzcentury/FortiGate-CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/zzcentury/FortiGate-CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/zzcentury/FortiGate-CVE-2024-21762">
 - [Codeb3af/Cve-2024-21762-](https://github.com/Codeb3af/Cve-2024-21762-)	<img alt="forks" src="https://img.shields.io/github/forks/Codeb3af/Cve-2024-21762-">	<img alt="stars" src="https://img.shields.io/github/stars/Codeb3af/Cve-2024-21762-">
+
+---
+## CVE-2024-21683 (2024-05-21T23:15:00)
+> This High severity RCE (Remote Code Execution) vulnerability was introduced in version 5.2 of Confluence Data Center and Server.
+
+This RCE (Remote Code Execution) vulnerability, with a CVSS Score of 8.3, allows an authenticated attacker to execute arbitrary code which has high impact to confidentiality, high impact to integrity, high impact to availability, and requires no user interaction. 
+
+Atlassian recommends that Confluence Data Center and Server customers upgrade to latest version. If you are unable to do so, upgrade your instance to one of the specified supported fixed versions. See the release notes https://confluence.atlassian.com/doc/confluence-release-notes-327.html
+
+You can download the latest version of Confluence Data Center and Server from the download center https://www.atlassian.com/software/confluence/download-archives.
+
+This vulnerability was found internally.
+- [absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
