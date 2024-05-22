@@ -465,6 +465,7 @@ QuTScloud c5.1.5.2651 and later
 - [LuxEndrith/CVE-2024-32002-Git](https://github.com/LuxEndrith/CVE-2024-32002-Git)	<img alt="forks" src="https://img.shields.io/github/forks/LuxEndrith/CVE-2024-32002-Git">	<img alt="stars" src="https://img.shields.io/github/stars/LuxEndrith/CVE-2024-32002-Git">
 - [PoC0007/main_repo](https://github.com/PoC0007/main_repo)	<img alt="forks" src="https://img.shields.io/github/forks/PoC0007/main_repo">	<img alt="stars" src="https://img.shields.io/github/stars/PoC0007/main_repo">
 - [PoC0007/malicious](https://github.com/PoC0007/malicious)	<img alt="forks" src="https://img.shields.io/github/forks/PoC0007/malicious">	<img alt="stars" src="https://img.shields.io/github/stars/PoC0007/malicious">
+- [JJoosh/hook](https://github.com/JJoosh/hook)	<img alt="forks" src="https://img.shields.io/github/forks/JJoosh/hook">	<img alt="stars" src="https://img.shields.io/github/stars/JJoosh/hook">
 
 ---
 ## CVE-2024-31848 ()
