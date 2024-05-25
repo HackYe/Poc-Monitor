@@ -120,6 +120,11 @@
 - [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079)	<img alt="forks" src="https://img.shields.io/github/forks/DxRvs/vaultize_CVE-2024-36079">	<img alt="stars" src="https://img.shields.io/github/stars/DxRvs/vaultize_CVE-2024-36079">
 
 ---
+## CVE-2024-35511 ()
+> 
+- [efekaanakkar/CVE-2024-35511](https://github.com/efekaanakkar/CVE-2024-35511)	<img alt="forks" src="https://img.shields.io/github/forks/efekaanakkar/CVE-2024-35511">	<img alt="stars" src="https://img.shields.io/github/stars/efekaanakkar/CVE-2024-35511">
+
+---
 ## CVE-2024-35475 (2024-05-22T14:15:00)
 > A Cross-Site Request Forgery (CSRF) vulnerability was discovered in OpenKM Community Edition on or before version 6.3.12. The vulnerability exists in /admin/DatabaseQuery, which allows an attacker to manipulate a victim with administrative privileges to execute arbitrary SQL commands.
 - [carsonchan12345/CVE-2024-35475](https://github.com/carsonchan12345/CVE-2024-35475)	<img alt="forks" src="https://img.shields.io/github/forks/carsonchan12345/CVE-2024-35475">	<img alt="stars" src="https://img.shields.io/github/stars/carsonchan12345/CVE-2024-35475">
@@ -501,6 +506,7 @@ QuTScloud c5.1.5.2651 and later
 - [JakobTheDev/cve-2024-32002-poc-aw](https://github.com/JakobTheDev/cve-2024-32002-poc-aw)	<img alt="forks" src="https://img.shields.io/github/forks/JakobTheDev/cve-2024-32002-poc-aw">	<img alt="stars" src="https://img.shields.io/github/stars/JakobTheDev/cve-2024-32002-poc-aw">
 - [JakobTheDev/cve-2024-32002-submodule-aw](https://github.com/JakobTheDev/cve-2024-32002-submodule-aw)	<img alt="forks" src="https://img.shields.io/github/forks/JakobTheDev/cve-2024-32002-submodule-aw">	<img alt="stars" src="https://img.shields.io/github/stars/JakobTheDev/cve-2024-32002-submodule-aw">
 - [JakobTheDev/cve-2024-32002-submodule-rce](https://github.com/JakobTheDev/cve-2024-32002-submodule-rce)	<img alt="forks" src="https://img.shields.io/github/forks/JakobTheDev/cve-2024-32002-submodule-rce">	<img alt="stars" src="https://img.shields.io/github/stars/JakobTheDev/cve-2024-32002-submodule-rce">
+- [markuta/CVE-2024-32002](https://github.com/markuta/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/markuta/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/markuta/CVE-2024-32002">
 
 ---
 ## CVE-2024-31848 ()
@@ -596,6 +602,11 @@ QuTScloud c5.1.5.2651 and later
 ## CVE-2024-31025 ()
 > 
 - [no3586/CVE-2024-31025](https://github.com/no3586/CVE-2024-31025)	<img alt="forks" src="https://img.shields.io/github/forks/no3586/CVE-2024-31025">	<img alt="stars" src="https://img.shields.io/github/stars/no3586/CVE-2024-31025">
+
+---
+## CVE-2024-30998 ()
+> 
+- [efekaanakkar/CVE-2024-30998](https://github.com/efekaanakkar/CVE-2024-30998)	<img alt="forks" src="https://img.shields.io/github/forks/efekaanakkar/CVE-2024-30998">	<img alt="stars" src="https://img.shields.io/github/stars/efekaanakkar/CVE-2024-30998">
 
 ---
 ## CVE-2024-30973 (2024-05-06T22:15:00)
