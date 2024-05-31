@@ -26,6 +26,11 @@
 - [JohnnyBradvo/CVE-2024-5555](https://github.com/JohnnyBradvo/CVE-2024-5555)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-5555">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-5555">
 
 ---
+## CVE-2024-5522 ()
+> 
+- [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-5522-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-5522-Poc">
+
+---
 ## CVE-2024-5084 (2024-05-23T15:15:00)
 > The Hash Form – Drag & Drop Form Builder plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'file_upload_action' function in all versions up to, and including, 1.1.0. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 - [KTN1990/CVE-2024-5084](https://github.com/KTN1990/CVE-2024-5084)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-5084">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-5084">
@@ -2812,6 +2817,7 @@ authentication.   
 > The LearnDash LMS plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 4.10.2 via API. This makes it possible for unauthenticated attackers to obtain access to quiz questions.
 - [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210">
 - [Cappricio-Securities/CVE-2024-1208](https://github.com/Cappricio-Securities/CVE-2024-1208)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-1208">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-1208">
+- [Cappricio-Securities/.github](https://github.com/Cappricio-Securities/.github)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/.github">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/.github">
 
 ---
 ## CVE-2024-1086 (2024-01-31T13:15:00)
