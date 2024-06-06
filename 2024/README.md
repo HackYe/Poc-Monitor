@@ -208,8 +208,8 @@
 - [zomasec/CVE-2024-3495-POC](https://github.com/zomasec/CVE-2024-3495-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zomasec/CVE-2024-3495-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zomasec/CVE-2024-3495-POC">
 
 ---
-## CVE-2024-34832 ()
-> 
+## CVE-2024-34832 (2024-06-06T15:15:00)
+> Directory Traversal vulnerability in CubeCart v.6.5.5 and before allows an attacker to execute arbitrary code via a crafted file uploaded to the _g and node parameters.
 - [julio-cfa/CVE-2024-34832](https://github.com/julio-cfa/CVE-2024-34832)	<img alt="forks" src="https://img.shields.io/github/forks/julio-cfa/CVE-2024-34832">	<img alt="stars" src="https://img.shields.io/github/stars/julio-cfa/CVE-2024-34832">
 
 ---
@@ -1806,6 +1806,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [GuayoyoCyber/CVE-2024-24919](https://github.com/GuayoyoCyber/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/GuayoyoCyber/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/GuayoyoCyber/CVE-2024-24919">
 - [0xans/CVE-2024-24919](https://github.com/0xans/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/0xans/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/0xans/CVE-2024-24919">
 - [Tim-Hoekstra/CVE-2024-24919](https://github.com/Tim-Hoekstra/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/Tim-Hoekstra/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/Tim-Hoekstra/CVE-2024-24919">
+- [starlox0/CVE-2024-24919-POC](https://github.com/starlox0/CVE-2024-24919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/starlox0/CVE-2024-24919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/starlox0/CVE-2024-24919-POC">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
