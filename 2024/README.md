@@ -87,6 +87,8 @@
 - [Junp0/CVE-2024-4577](https://github.com/Junp0/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Junp0/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Junp0/CVE-2024-4577">
 - [zjhzjhhh/CVE-2024-4577](https://github.com/zjhzjhhh/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/zjhzjhhh/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/zjhzjhhh/CVE-2024-4577">
 - [watchtowrlabs/CVE-2024-4577](https://github.com/watchtowrlabs/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-4577">
+- [huseyinstif/CVE-2024-4577-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-4577-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-4577-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-4577-Nuclei-Template">
+- [taida957789/CVE-2024-4577](https://github.com/taida957789/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/taida957789/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/taida957789/CVE-2024-4577">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
