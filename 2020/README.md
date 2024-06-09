@@ -4020,8 +4020,8 @@
 - [Live-Hack-CVE/CVE-2020-13963](https://github.com/Live-Hack-CVE/CVE-2020-13963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13963">
 
 ---
-## CVE-2020-13958 ()
-> 
+## CVE-2020-13958 (2020-11-17T16:15:00)
+> A vulnerability in Apache OpenOffice scripting events allows an attacker to construct documents containing hyperlinks pointing to an executable on the target users file system. These hyperlinks can be triggered unconditionally. In fixed versions no internal protocol may be called from the document event handler and other hyperlinks require a control-click.
 - [Grey-Junior/CVE-2020-13958](https://github.com/Grey-Junior/CVE-2020-13958)	<img alt="forks" src="https://img.shields.io/github/forks/Grey-Junior/CVE-2020-13958">	<img alt="stars" src="https://img.shields.io/github/stars/Grey-Junior/CVE-2020-13958">
 
 ---
