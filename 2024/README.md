@@ -2814,6 +2814,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [Madan301/CVE-2024-2054](https://github.com/Madan301/CVE-2024-2054)	<img alt="forks" src="https://img.shields.io/github/forks/Madan301/CVE-2024-2054">	<img alt="stars" src="https://img.shields.io/github/stars/Madan301/CVE-2024-2054">
 
 ---
+## CVE-2024-20405 ()
+> 
+- [AbdElRahmanEzzat1995/CVE-2024-20405](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20405)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20405">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20405">
+
+---
 ## CVE-2024-20404 ()
 > 
 - [AbdElRahmanEzzat1995/CVE-2024-20404](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20404)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20404">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20404">
