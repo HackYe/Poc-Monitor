@@ -5252,6 +5252,7 @@
 ## CVE-2020-0014 ()
 > 
 - [ASIFASSU/CVE-2020-0014](https://github.com/ASIFASSU/CVE-2020-0014)	<img alt="forks" src="https://img.shields.io/github/forks/ASIFASSU/CVE-2020-0014">	<img alt="stars" src="https://img.shields.io/github/stars/ASIFASSU/CVE-2020-0014">
+- [tea9/CVE-2020-0014-Toast](https://github.com/tea9/CVE-2020-0014-Toast)	<img alt="forks" src="https://img.shields.io/github/forks/tea9/CVE-2020-0014-Toast">	<img alt="stars" src="https://img.shields.io/github/stars/tea9/CVE-2020-0014-Toast">
 
 ---
 ## CVE-2020-0009 (2020-01-08T16:15:00)
