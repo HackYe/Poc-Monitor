@@ -239,6 +239,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [uname-s/CVE-2024-37889](https://github.com/uname-s/CVE-2024-37889)	<img alt="forks" src="https://img.shields.io/github/forks/uname-s/CVE-2024-37889">	<img alt="stars" src="https://img.shields.io/github/stars/uname-s/CVE-2024-37889">
 
 ---
+## CVE-2024-37888 (2024-06-14T18:15:00)
+> The Open Link is a CKEditor plugin, extending context menu with a possibility to open link in a new tab. The vulnerability allowed to execute JavaScript code by abusing link href attribute. It affects all users using the Open Link plugin at version < **1.0.5**.
+- [7Ragnarok7/CVE-2024-37888](https://github.com/7Ragnarok7/CVE-2024-37888)	<img alt="forks" src="https://img.shields.io/github/forks/7Ragnarok7/CVE-2024-37888">	<img alt="stars" src="https://img.shields.io/github/stars/7Ragnarok7/CVE-2024-37888">
+
+---
 ## CVE-2024-37843 ()
 > 
 - [gsmith257-cyber/CVE-2024-37843-POC](https://github.com/gsmith257-cyber/CVE-2024-37843-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gsmith257-cyber/CVE-2024-37843-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gsmith257-cyber/CVE-2024-37843-POC">
