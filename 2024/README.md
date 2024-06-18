@@ -224,6 +224,11 @@
 - [uname-s/CVE-2024-37889](https://github.com/uname-s/CVE-2024-37889)	<img alt="forks" src="https://img.shields.io/github/forks/uname-s/CVE-2024-37889">	<img alt="stars" src="https://img.shields.io/github/stars/uname-s/CVE-2024-37889">
 
 ---
+## CVE-2024-37843 ()
+> 
+- [gsmith257-cyber/CVE-2024-37843-POC](https://github.com/gsmith257-cyber/CVE-2024-37843-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gsmith257-cyber/CVE-2024-37843-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gsmith257-cyber/CVE-2024-37843-POC">
+
+---
 ## CVE-2024-37393 (2024-06-10T20:15:00)
 > Multiple LDAP injections vulnerabilities exist in SecurEnvoy MFA before 9.4.514 due to improper validation of user-supplied input. An unauthenticated remote attacker could exfiltrate data from Active Directory through blind LDAP injection attacks against the DESKTOP service exposed on the /secserver HTTP endpoint. This may include ms-Mcs-AdmPwd, which has a cleartext password for the Local Administrator Password Solution (LAPS) feature.
 - [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393)	<img alt="forks" src="https://img.shields.io/github/forks/optistream/securenvoy-cve-2024-37393">	<img alt="stars" src="https://img.shields.io/github/stars/optistream/securenvoy-cve-2024-37393">
@@ -1233,6 +1238,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [lvyitian/CVE-2024-30078-](https://github.com/lvyitian/CVE-2024-30078-)	<img alt="forks" src="https://img.shields.io/github/forks/lvyitian/CVE-2024-30078-">	<img alt="stars" src="https://img.shields.io/github/stars/lvyitian/CVE-2024-30078-">
 - [N00BS3c/CVE-2024-30078](https://github.com/N00BS3c/CVE-2024-30078)	<img alt="forks" src="https://img.shields.io/github/forks/N00BS3c/CVE-2024-30078">	<img alt="stars" src="https://img.shields.io/github/stars/N00BS3c/CVE-2024-30078">
 - [52by/CVE-2024-30078](https://github.com/52by/CVE-2024-30078)	<img alt="forks" src="https://img.shields.io/github/forks/52by/CVE-2024-30078">	<img alt="stars" src="https://img.shields.io/github/stars/52by/CVE-2024-30078">
+- [kvx07/CVE_2024_30078_A_POC](https://github.com/kvx07/CVE_2024_30078_A_POC)	<img alt="forks" src="https://img.shields.io/github/forks/kvx07/CVE_2024_30078_A_POC">	<img alt="stars" src="https://img.shields.io/github/stars/kvx07/CVE_2024_30078_A_POC">
 
 ---
 ## CVE-2024-30043 (2024-05-14T17:17:00)
@@ -2411,6 +2417,7 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [Mr-r00t11/CVE-2024-23692](https://github.com/Mr-r00t11/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-23692">
 - [Tupler/CVE-2024-23692-exp](https://github.com/Tupler/CVE-2024-23692-exp)	<img alt="forks" src="https://img.shields.io/github/forks/Tupler/CVE-2024-23692-exp">	<img alt="stars" src="https://img.shields.io/github/stars/Tupler/CVE-2024-23692-exp">
 - [BBD-YZZ/CVE-2024-23692](https://github.com/BBD-YZZ/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2024-23692">
+- [0x20c/CVE-2024-23692-EXP](https://github.com/0x20c/CVE-2024-23692-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-23692-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-23692-EXP">
 
 ---
 ## CVE-2024-23652 (2024-01-31T22:15:00)
