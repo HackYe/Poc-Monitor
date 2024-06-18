@@ -8883,6 +8883,11 @@
 - [uthrasri/System_Connectivity_Wificond_CVE-2021-0392](https://github.com/uthrasri/System_Connectivity_Wificond_CVE-2021-0392)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/System_Connectivity_Wificond_CVE-2021-0392">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/System_Connectivity_Wificond_CVE-2021-0392">
 
 ---
+## CVE-2021-0390 (2021-03-10T16:15:00)
+> In various methods of WifiNetworkSuggestionsManager.java, there is a possible modification of suggested networks due to a missing permission check. This could lead to local escalation of privilege by a background user on the same device with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-8.1 Android-9 Android-10Android ID: A-174749461
+- [uthrasri/frameworks_opt_net_CVE-2021-0390](https://github.com/uthrasri/frameworks_opt_net_CVE-2021-0390)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/frameworks_opt_net_CVE-2021-0390">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/frameworks_opt_net_CVE-2021-0390">
+
+---
 ## CVE-2021-0325 (2021-02-10T17:15:00)
 > In ih264d_parse_pslice of ih264d_parse_pslice.c, there is a possible out of bounds write due to a heap buffer overflow. This could lead to remote code execution with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-8.1 Android-9 Android-10 Android-11Android ID: A-174238784
 - [nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325](https://github.com/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325">
