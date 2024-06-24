@@ -5760,8 +5760,8 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [AndreOve/CVE-2023-24955-real-RCE](https://github.com/AndreOve/CVE-2023-24955-real-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AndreOve/CVE-2023-24955-real-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AndreOve/CVE-2023-24955-real-RCE">
 
 ---
-## CVE-2023-24871 ()
-> 
+## CVE-2023-24871 (2023-03-14T17:15:00)
+> Windows Bluetooth Service Remote Code Execution Vulnerability
 - [ynwarcs/CVE-2023-24871](https://github.com/ynwarcs/CVE-2023-24871)	<img alt="forks" src="https://img.shields.io/github/forks/ynwarcs/CVE-2023-24871">	<img alt="stars" src="https://img.shields.io/github/stars/ynwarcs/CVE-2023-24871">
 
 ---
