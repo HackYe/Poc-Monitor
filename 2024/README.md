@@ -555,6 +555,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2024-33911">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2024-33911">
 
 ---
+## CVE-2024-33883 (2024-04-28T16:15:00)
+> The ejs (aka Embedded JavaScript templates) package before 3.1.10 for Node.js lacks certain pollution protection.
+- [Grantzile/PoC-CVE-2024-33883](https://github.com/Grantzile/PoC-CVE-2024-33883)	<img alt="forks" src="https://img.shields.io/github/forks/Grantzile/PoC-CVE-2024-33883">	<img alt="stars" src="https://img.shields.io/github/stars/Grantzile/PoC-CVE-2024-33883">
+
+---
 ## CVE-2024-33775 (2024-05-01T13:15:00)
 > An issue with the Autodiscover component in Nagios XI 2024R1.01 allows a remote attacker to escalate privileges via a crafted Dashlet.
 - [Neo-XeD/CVE-2024-33775](https://github.com/Neo-XeD/CVE-2024-33775)	<img alt="forks" src="https://img.shields.io/github/forks/Neo-XeD/CVE-2024-33775">	<img alt="stars" src="https://img.shields.io/github/stars/Neo-XeD/CVE-2024-33775">
@@ -587,8 +592,8 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [tekua/CVE-2024-33113](https://github.com/tekua/CVE-2024-33113)	<img alt="forks" src="https://img.shields.io/github/forks/tekua/CVE-2024-33113">	<img alt="stars" src="https://img.shields.io/github/stars/tekua/CVE-2024-33113">
 
 ---
-## CVE-2024-33111 ()
-> 
+## CVE-2024-33111 (2024-05-06T15:15:00)
+> D-Link DIR-845L router <=v1.01KRb03 is vulnerable to Cross Site Scripting (XSS) via /htdocs/webinc/js/bsc_sms_inbox.php.
 - [FaLLenSKiLL1/CVE-2024-33111](https://github.com/FaLLenSKiLL1/CVE-2024-33111)	<img alt="forks" src="https://img.shields.io/github/forks/FaLLenSKiLL1/CVE-2024-33111">	<img alt="stars" src="https://img.shields.io/github/stars/FaLLenSKiLL1/CVE-2024-33111">
 
 ---
