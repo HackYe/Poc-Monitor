@@ -30,6 +30,14 @@
 - [getdrive/CVE-2024-6387-PoC](https://github.com/getdrive/CVE-2024-6387-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/CVE-2024-6387-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/CVE-2024-6387-PoC">
 - [shyrwall/cve-2024-6387-poc](https://github.com/shyrwall/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/shyrwall/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/shyrwall/cve-2024-6387-poc">
 - [FerasAlrimali/CVE-2024-6387-POC](https://github.com/FerasAlrimali/CVE-2024-6387-POC)	<img alt="forks" src="https://img.shields.io/github/forks/FerasAlrimali/CVE-2024-6387-POC">	<img alt="stars" src="https://img.shields.io/github/stars/FerasAlrimali/CVE-2024-6387-POC">
+- [TrustResearcher/CVE-2024-6387-Updated-SSH-RCE](https://github.com/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE">
+- [passwa11/cve-2024-6387-poc](https://github.com/passwa11/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/cve-2024-6387-poc">
+- [kuffsit/check_cve_2024_6387](https://github.com/kuffsit/check_cve_2024_6387)	<img alt="forks" src="https://img.shields.io/github/forks/kuffsit/check_cve_2024_6387">	<img alt="stars" src="https://img.shields.io/github/stars/kuffsit/check_cve_2024_6387">
+
+---
+## CVE-2024-6050 ()
+> 
+- [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050)	<img alt="forks" src="https://img.shields.io/github/forks/kac89/CVE-2024-6050">	<img alt="stars" src="https://img.shields.io/github/stars/kac89/CVE-2024-6050">
 
 ---
 ## CVE-2024-6028 (2024-06-25T09:15:00)
