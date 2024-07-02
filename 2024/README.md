@@ -37,6 +37,7 @@
 - [xaitax/CVE-2024-6387_Check](https://github.com/xaitax/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/xaitax/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/xaitax/CVE-2024-6387_Check">
 - [jack0we/CVE-2024-6387](https://github.com/jack0we/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/jack0we/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/jack0we/CVE-2024-6387">
 - [wiggels/regresshion-check](https://github.com/wiggels/regresshion-check)	<img alt="forks" src="https://img.shields.io/github/forks/wiggels/regresshion-check">	<img alt="stars" src="https://img.shields.io/github/stars/wiggels/regresshion-check">
+- [3yujw7njai/CVE-2024-6387](https://github.com/3yujw7njai/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/3yujw7njai/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/3yujw7njai/CVE-2024-6387">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -333,23 +334,23 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791)	<img alt="forks" src="https://img.shields.io/github/forks/czheisenberg/CVE-2024-37791">	<img alt="stars" src="https://img.shields.io/github/stars/czheisenberg/CVE-2024-37791">
 
 ---
-## CVE-2024-37765 ()
-> 
+## CVE-2024-37765 (2024-07-01T22:15:00)
+> Machform up to version 19 is affected by an authenticated Blind SQL injection in the user account settings page.
 - [Atreb92/cve-2024-37765](https://github.com/Atreb92/cve-2024-37765)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37765">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37765">
 
 ---
-## CVE-2024-37764 ()
-> 
+## CVE-2024-37764 (2024-07-01T22:15:00)
+> MachForm up to version 19 is affected by an authenticated stored cross-site scripting.
 - [Atreb92/cve-2024-37764](https://github.com/Atreb92/cve-2024-37764)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37764">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37764">
 
 ---
-## CVE-2024-37763 ()
-> 
+## CVE-2024-37763 (2024-07-01T22:15:00)
+> MachForm up to version 19 is affected by an unauthenticated stored cross-site scripting which affects users with valid sessions whom can view compiled forms results.
 - [Atreb92/cve-2024-37763](https://github.com/Atreb92/cve-2024-37763)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37763">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37763">
 
 ---
-## CVE-2024-37762 ()
-> 
+## CVE-2024-37762 (2024-07-01T22:15:00)
+> MachForm up to version 21 is affected by an authenticated unrestricted file upload which leads to a remote code execution.
 - [Atreb92/cve-2024-37762](https://github.com/Atreb92/cve-2024-37762)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37762">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37762">
 
 ---
