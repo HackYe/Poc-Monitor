@@ -85,6 +85,7 @@
 - [password123456/cve-security-response-guidelines](https://github.com/password123456/cve-security-response-guidelines)	<img alt="forks" src="https://img.shields.io/github/forks/password123456/cve-security-response-guidelines">	<img alt="stars" src="https://img.shields.io/github/stars/password123456/cve-security-response-guidelines">
 - [sxlmnwb/CVE-2024-6387](https://github.com/sxlmnwb/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/sxlmnwb/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/sxlmnwb/CVE-2024-6387">
 - [Symbolexe/CVE-2024-6387](https://github.com/Symbolexe/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/Symbolexe/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/Symbolexe/CVE-2024-6387">
+- [harshinsecurity/sentinelssh](https://github.com/harshinsecurity/sentinelssh)	<img alt="forks" src="https://img.shields.io/github/forks/harshinsecurity/sentinelssh">	<img alt="stars" src="https://img.shields.io/github/stars/harshinsecurity/sentinelssh">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -3041,8 +3042,8 @@ QuTScloud c5.1.5.2651 and later
 - [Oxdestiny/CVE-2024-21899-RCE-POC](https://github.com/Oxdestiny/CVE-2024-21899-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Oxdestiny/CVE-2024-21899-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Oxdestiny/CVE-2024-21899-RCE-POC">
 
 ---
-## CVE-2024-21894 ()
-> 
+## CVE-2024-21894 (2024-04-04T23:15:00)
+> A heap overflow vulnerability in IPSec component of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure allows an unauthenticated malicious user to send specially crafted requests in-order-to crash the service thereby causing a DoS attack. In certain conditions this may lead to execution of arbitrary code 
 - [Ronoffer/CVE-2024-21894-Proof-of-concept](https://github.com/Ronoffer/CVE-2024-21894-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/Ronoffer/CVE-2024-21894-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/Ronoffer/CVE-2024-21894-Proof-of-concept">
 - [RansomGroupCVE/CVE-2024-21894-POC](https://github.com/RansomGroupCVE/CVE-2024-21894-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RansomGroupCVE/CVE-2024-21894-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RansomGroupCVE/CVE-2024-21894-POC">
 - [AlexLondan/CVE-2024-21894-Proof-of-concept](https://github.com/AlexLondan/CVE-2024-21894-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/AlexLondan/CVE-2024-21894-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/AlexLondan/CVE-2024-21894-Proof-of-concept">
@@ -3726,6 +3727,15 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-0190 (2024-01-02T19:15:00)
 > A vulnerability was found in RRJ Nueva Ecija Engineer Online Portal 1.0 and classified as problematic. This issue affects some unknown processing of the file add_quiz.php of the component Quiz Handler. The manipulation of the argument Quiz Title/Quiz Description with the input </title><scRipt>alert(x)</scRipt> leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-249503.
 - [codeb0ss/CVE-2024-0190-PoC](https://github.com/codeb0ss/CVE-2024-0190-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-0190-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-0190-PoC">
+
+---
+## CVE-2024-0044 (2024-03-11T17:15:00)
+> In createSessionInternal of PackageInstallerService.java, there is a possible run-as any app due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
+
+
+- [Re13orn/CVE-2024-0044-EXP](https://github.com/Re13orn/CVE-2024-0044-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Re13orn/CVE-2024-0044-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Re13orn/CVE-2024-0044-EXP">
+- [pl4int3xt/cve_2024_0044](https://github.com/pl4int3xt/cve_2024_0044)	<img alt="forks" src="https://img.shields.io/github/forks/pl4int3xt/cve_2024_0044">	<img alt="stars" src="https://img.shields.io/github/stars/pl4int3xt/cve_2024_0044">
+- [scs-labrat/android_autorooter](https://github.com/scs-labrat/android_autorooter)	<img alt="forks" src="https://img.shields.io/github/forks/scs-labrat/android_autorooter">	<img alt="stars" src="https://img.shields.io/github/stars/scs-labrat/android_autorooter">
 
 ---
 ## CVE-2024-0039 (2024-03-11T17:15:00)
