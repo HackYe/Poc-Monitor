@@ -64,6 +64,7 @@
 ## CVE-2011-0228 (2011-08-29T20:55:00)
 > The Data Security component in Apple iOS before 4.2.10 and 4.3.x before 4.3.5 does not check the basicConstraints parameter during validation of X.509 certificate chains, which allows man-in-the-middle attackers to spoof an SSL server by using a non-CA certificate to sign a certificate for an arbitrary domain.
 - [meetlight942/PentesterLab-Intercept-CVE-2011-0228](https://github.com/meetlight942/PentesterLab-Intercept-CVE-2011-0228)	<img alt="forks" src="https://img.shields.io/github/forks/meetlight942/PentesterLab-Intercept-CVE-2011-0228">	<img alt="stars" src="https://img.shields.io/github/stars/meetlight942/PentesterLab-Intercept-CVE-2011-0228">
+- [meetlight942/PentesterLab-Intercept-CVE-2011-0228](https://github.com/meetlight942/PentesterLab-Intercept-CVE-2011-0228)	<img alt="forks" src="https://img.shields.io/github/forks/meetlight942/PentesterLab-Intercept-CVE-2011-0228">	<img alt="stars" src="https://img.shields.io/github/stars/meetlight942/PentesterLab-Intercept-CVE-2011-0228">
 
 ---
 ## CVE-2011-0104 (2011-04-13T18:55:00)
