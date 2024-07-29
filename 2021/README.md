@@ -332,6 +332,11 @@
 - [Live-Hack-CVE/CVE-2021-45444](https://github.com/Live-Hack-CVE/CVE-2021-45444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45444">
 
 ---
+## CVE-2021-45428 (2022-01-03T14:15:00)
+> TLR-2005KSH is affected by an incorrect access control vulnerability. THe PUT method is enabled so an attacker can upload arbitrary files including HTML and CGI formats.
+- [projectforsix/CVE-2021-45428-Defacer](https://github.com/projectforsix/CVE-2021-45428-Defacer)	<img alt="forks" src="https://img.shields.io/github/forks/projectforsix/CVE-2021-45428-Defacer">	<img alt="stars" src="https://img.shields.io/github/stars/projectforsix/CVE-2021-45428-Defacer">
+
+---
 ## CVE-2021-45389 (2022-01-04T16:15:00)
 > A flaw was found with the JWT token. A self-signed JWT token could be injected into the update manager and bypass the authentication process, thus could escalate privileges. This affects StarWind SAN and NAS build 1578 and StarWind Command Center build 6864.
 - [Live-Hack-CVE/CVE-2021-45389](https://github.com/Live-Hack-CVE/CVE-2021-45389)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45389">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45389">
