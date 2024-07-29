@@ -452,8 +452,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [sh3bu/CVE-2024-41662](https://github.com/sh3bu/CVE-2024-41662)	<img alt="forks" src="https://img.shields.io/github/forks/sh3bu/CVE-2024-41662">	<img alt="stars" src="https://img.shields.io/github/stars/sh3bu/CVE-2024-41662">
 
 ---
-## CVE-2024-41628 ()
-> 
+## CVE-2024-41628 (2024-07-26T21:15:00)
+> Directory Traversal vulnerability in Severalnines Cluster Control 1.9.8 before 1.9.8-9778, 2.0.0 before 2.0.0-9779, and 2.1.0 before 2.1.0-9780 allows a remote attacker to include and display file content in an HTTP request via the CMON API.
 - [Redshift-CyberSecurity/CVE-2024-41628](https://github.com/Redshift-CyberSecurity/CVE-2024-41628)	<img alt="forks" src="https://img.shields.io/github/forks/Redshift-CyberSecurity/CVE-2024-41628">	<img alt="stars" src="https://img.shields.io/github/stars/Redshift-CyberSecurity/CVE-2024-41628">
 
 ---
@@ -592,6 +592,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-39929 (2024-07-04T15:15:00)
 > Exim through 4.97.1 misparses a multiline RFC 2231 header filename, and thus remote attackers can bypass a $mime_filename extension-blocking protection mechanism, and potentially deliver executable attachments to the mailboxes of end users.
 - [rxerium/CVE-2024-39929](https://github.com/rxerium/CVE-2024-39929)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2024-39929">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2024-39929">
+- [michael-david-fry/CVE-2024-39929](https://github.com/michael-david-fry/CVE-2024-39929)	<img alt="forks" src="https://img.shields.io/github/forks/michael-david-fry/CVE-2024-39929">	<img alt="stars" src="https://img.shields.io/github/stars/michael-david-fry/CVE-2024-39929">
 
 ---
 ## CVE-2024-39844 (2024-07-03T17:15:00)
@@ -4406,8 +4407,8 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [codeb0ss/CVE-2024-0190-PoC](https://github.com/codeb0ss/CVE-2024-0190-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-0190-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-0190-PoC">
 
 ---
-## CVE-2024-0049 ()
-> 
+## CVE-2024-0049 (2024-03-11T17:15:00)
+> In multiple locations, there is a possible out of bounds write due to a heap buffer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User  interaction is not needed for exploitation.
 - [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049">
 
 ---
@@ -4422,8 +4423,8 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [Kai2er/CVE-2024-0044-EXP](https://github.com/Kai2er/CVE-2024-0044-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Kai2er/CVE-2024-0044-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Kai2er/CVE-2024-0044-EXP">
 
 ---
-## CVE-2024-0040 ()
-> 
+## CVE-2024-0040 (2024-02-16T02:15:00)
+> In setParameter of MtpPacket.cpp, there is a possible out of bounds read due to a heap buffer overflow. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040">
 
 ---
@@ -4432,8 +4433,8 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [41yn14/CVE-2024-0039-Exploit](https://github.com/41yn14/CVE-2024-0039-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/41yn14/CVE-2024-0039-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/41yn14/CVE-2024-0039-Exploit">
 
 ---
-## CVE-2024-0023 ()
-> 
+## CVE-2024-0023 (2024-02-16T20:15:00)
+> In ConvertRGBToPlanarYUV of Codec2BufferUtils.cpp, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [AbrarKhan/G3_Frameworks_av_CVE-2024-0023](https://github.com/AbrarKhan/G3_Frameworks_av_CVE-2024-0023)	<img alt="forks" src="https://img.shields.io/github/forks/AbrarKhan/G3_Frameworks_av_CVE-2024-0023">	<img alt="stars" src="https://img.shields.io/github/stars/AbrarKhan/G3_Frameworks_av_CVE-2024-0023">
 
 ---
