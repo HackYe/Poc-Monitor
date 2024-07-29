@@ -1153,8 +1153,8 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [dovankha/CVE-2024-34220](https://github.com/dovankha/CVE-2024-34220)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34220">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34220">
 
 ---
-## CVE-2024-34144 ()
-> 
+## CVE-2024-34144 (2024-05-02T14:15:00)
+> A sandbox bypass vulnerability involving crafted constructor bodies in Jenkins Script Security Plugin 1335.vf07d9ce377a_e and earlier allows attackers with permission to define and run sandboxed scripts, including Pipelines, to bypass the sandbox protection and execute arbitrary code in the context of the Jenkins controller JVM.
 - [MXWXZ/CVE-2024-34144](https://github.com/MXWXZ/CVE-2024-34144)	<img alt="forks" src="https://img.shields.io/github/forks/MXWXZ/CVE-2024-34144">	<img alt="stars" src="https://img.shields.io/github/stars/MXWXZ/CVE-2024-34144">
 
 ---
