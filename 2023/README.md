@@ -147,6 +147,11 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538)	<img alt="forks" src="https://img.shields.io/github/forks/Arszilla/CVE-2023-6538">	<img alt="stars" src="https://img.shields.io/github/stars/Arszilla/CVE-2023-6538">
 
 ---
+## CVE-2023-6444 ()
+> 
+- [Wayne-Ker/CVE-2023-6444-POC](https://github.com/Wayne-Ker/CVE-2023-6444-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Wayne-Ker/CVE-2023-6444-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Wayne-Ker/CVE-2023-6444-POC">
+
+---
 ## CVE-2023-6289 (2023-12-18T20:15:00)
 > The Swift Performance Lite WordPress plugin before 2.3.6.15 does not prevent users from exporting the plugin's settings, which may include sensitive information such as Cloudflare API tokens.
 - [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-6289">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-6289">
