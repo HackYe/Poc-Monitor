@@ -5938,6 +5938,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [angelopioamirante/CVE-2023-24317](https://github.com/angelopioamirante/CVE-2023-24317)	<img alt="forks" src="https://img.shields.io/github/forks/angelopioamirante/CVE-2023-24317">	<img alt="stars" src="https://img.shields.io/github/stars/angelopioamirante/CVE-2023-24317">
 
 ---
+## CVE-2023-24249 ()
+> 
+- [IDUZZEL/CVE-2023-24249-Exploit](https://github.com/IDUZZEL/CVE-2023-24249-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IDUZZEL/CVE-2023-24249-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IDUZZEL/CVE-2023-24249-Exploit">
+
+---
 ## CVE-2023-24203 (2024-05-14T17:15:00)
 > Cross Site Scripting vulnerability in SourceCodester Simple Customer Relationship Management System v1.0 allows attacker to execute arbitary code via the company or query parameter(s).
 - [momo1239/CVE-2023-24203-and-CVE-2023-24204](https://github.com/momo1239/CVE-2023-24203-and-CVE-2023-24204)	<img alt="forks" src="https://img.shields.io/github/forks/momo1239/CVE-2023-24203-and-CVE-2023-24204">	<img alt="stars" src="https://img.shields.io/github/stars/momo1239/CVE-2023-24203-and-CVE-2023-24204">
