@@ -562,8 +562,8 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [fa-rrel/CVE-2024-4577-RCE](https://github.com/fa-rrel/CVE-2024-4577-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-4577-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-4577-RCE">
 
 ---
-## CVE-2024-45589 ()
-> 
+## CVE-2024-45589 (2024-09-05T16:15:00)
+> RapidIdentity LTS through 2023.0.2 and Cloud through 2024.08.0 improperly restricts excessive authentication attempts and allows a remote attacker to cause a denial of service via the username parameters.
 - [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589)	<img alt="forks" src="https://img.shields.io/github/forks/BenRogozinski/CVE-2024-45589">	<img alt="stars" src="https://img.shields.io/github/stars/BenRogozinski/CVE-2024-45589">
 - [BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589)	<img alt="forks" src="https://img.shields.io/github/forks/BenRogozinski/CVE-2024-45589">	<img alt="stars" src="https://img.shields.io/github/stars/BenRogozinski/CVE-2024-45589">
 
@@ -1842,7 +1842,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [ex-ARnX/CVE-2024-34102-PoC](https://github.com/ex-ARnX/CVE-2024-34102-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ex-ARnX/CVE-2024-34102-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ex-ARnX/CVE-2024-34102-PoC">
 - [etx-Arn/CVE-2024-34102-RCE](https://github.com/etx-Arn/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/etx-Arn/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/etx-Arn/CVE-2024-34102-RCE">
 - [etx-Arn/CVE-2024-34102-RCE-PoC](https://github.com/etx-Arn/CVE-2024-34102-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/etx-Arn/CVE-2024-34102-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/etx-Arn/CVE-2024-34102-RCE-PoC">
-- [EQSTSeminar/CVE-2024-34102](https://github.com/EQSTSeminar/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTSeminar/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTSeminar/CVE-2024-34102">
+- [EQSTLab/CVE-2024-34102](https://github.com/EQSTLab/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-34102">
 - [wubinworks/magento2-cosmic-sting-patch](https://github.com/wubinworks/magento2-cosmic-sting-patch)	<img alt="forks" src="https://img.shields.io/github/forks/wubinworks/magento2-cosmic-sting-patch">	<img alt="stars" src="https://img.shields.io/github/stars/wubinworks/magento2-cosmic-sting-patch">
 - [Jhonsonwannaa/CVE-2024-34102](https://github.com/Jhonsonwannaa/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-34102">
 
@@ -4909,6 +4909,12 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-2054 (2024-03-21T02:52:00)
 > The Artica-Proxy administrative web application will deserialize arbitrary PHP objects supplied by unauthenticated users and subsequently enable code execution as the "www-data" user.
 - [Madan301/CVE-2024-2054](https://github.com/Madan301/CVE-2024-2054)	<img alt="forks" src="https://img.shields.io/github/forks/Madan301/CVE-2024-2054">	<img alt="stars" src="https://img.shields.io/github/stars/Madan301/CVE-2024-2054">
+
+---
+## CVE-2024-20419 (2024-07-17T17:15:00)
+> A vulnerability in the authentication system of Cisco Smart Software Manager On-Prem (SSM On-Prem) could allow an unauthenticated, remote attacker to change the password of any user, including administrative users.
+ This vulnerability is due to improper implementation of the password-change process. An attacker could exploit this vulnerability by sending crafted HTTP requests to an affected device. A successful exploit could allow an attacker to access the web UI or API with the privileges of the compromised user.
+- [codeb0ss/CVE-2024-20419-PoC](https://github.com/codeb0ss/CVE-2024-20419-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-20419-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-20419-PoC">
 
 ---
 ## CVE-2024-20405 (2024-06-05T17:15:00)
