@@ -1130,6 +1130,11 @@ Allocated by task 6166:
 - [Masamuneee/CVE-2024-4367-Analysis](https://github.com/Masamuneee/CVE-2024-4367-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Masamuneee/CVE-2024-4367-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Masamuneee/CVE-2024-4367-Analysis">
 
 ---
+## CVE-2024-43582 (2024-10-08T18:15:00)
+> Remote Desktop Protocol Server Remote Code Execution Vulnerability
+- [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jinxongwi/CVE-2024-43582-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jinxongwi/CVE-2024-43582-RCE">
+
+---
 ## CVE-2024-4358 (2024-05-29T15:16:00)
 > In Progress Telerik Report Server, version 2024 Q1 (10.0.24.305) or earlier, on IIS, an unauthenticated attacker can gain access to Telerik Report Server restricted functionality via an authentication bypass vulnerability.
 - [sinsinology/CVE-2024-4358](https://github.com/sinsinology/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2024-4358">
@@ -2330,7 +2335,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [etx-Arn/CVE-2024-34102-RCE-PoC](https://github.com/etx-Arn/CVE-2024-34102-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/etx-Arn/CVE-2024-34102-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/etx-Arn/CVE-2024-34102-RCE-PoC">
 - [EQSTLab/CVE-2024-34102](https://github.com/EQSTLab/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-34102">
 - [wubinworks/magento2-cosmic-sting-patch](https://github.com/wubinworks/magento2-cosmic-sting-patch)	<img alt="forks" src="https://img.shields.io/github/forks/wubinworks/magento2-cosmic-sting-patch">	<img alt="stars" src="https://img.shields.io/github/stars/wubinworks/magento2-cosmic-sting-patch">
-- [Jhonsonwannaa/CVE-2024-34102](https://github.com/Jhonsonwannaa/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-34102">
+- [dream434/CVE-2024-34102](https://github.com/dream434/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/dream434/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/dream434/CVE-2024-34102">
 - [bka/magento-cve-2024-34102-exploit-cosmicstring](https://github.com/bka/magento-cve-2024-34102-exploit-cosmicstring)	<img alt="forks" src="https://img.shields.io/github/forks/bka/magento-cve-2024-34102-exploit-cosmicstring">	<img alt="stars" src="https://img.shields.io/github/stars/bka/magento-cve-2024-34102-exploit-cosmicstring">
 
 ---
