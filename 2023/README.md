@@ -6723,8 +6723,8 @@ For more details, please review the linked advisory on this CVE.
 - [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215)	<img alt="forks" src="https://img.shields.io/github/forks/zwxxb/CVE-2023-2215">	<img alt="stars" src="https://img.shields.io/github/stars/zwxxb/CVE-2023-2215">
 
 ---
-## CVE-2023-22098 ()
-> 
+## CVE-2023-22098 (2023-10-17T22:15:00)
+> Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core).  Supported versions that are affected are Prior to 7.0.12. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox.  While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. Note: Only applicable to 7.0.x platform. CVSS 3.1 Base Score 8.2 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:C/C:H/I:H/A:H).
 - [Diego-AltF4/CVE-2023-22098](https://github.com/Diego-AltF4/CVE-2023-22098)	<img alt="forks" src="https://img.shields.io/github/forks/Diego-AltF4/CVE-2023-22098">	<img alt="stars" src="https://img.shields.io/github/stars/Diego-AltF4/CVE-2023-22098">
 
 ---
