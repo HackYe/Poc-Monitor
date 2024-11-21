@@ -1863,6 +1863,7 @@ Allocated by task 6166:
 - [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-4439">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-4439">
 - [xssor-dz/-CVE-2024-4439](https://github.com/xssor-dz/-CVE-2024-4439)	<img alt="forks" src="https://img.shields.io/github/forks/xssor-dz/-CVE-2024-4439">	<img alt="stars" src="https://img.shields.io/github/stars/xssor-dz/-CVE-2024-4439">
 - [soltanali0/CVE-2024-4439](https://github.com/soltanali0/CVE-2024-4439)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2024-4439">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2024-4439">
+- [w0r1i0g1ht/CVE-2024-4439](https://github.com/w0r1i0g1ht/CVE-2024-4439)	<img alt="forks" src="https://img.shields.io/github/forks/w0r1i0g1ht/CVE-2024-4439">	<img alt="stars" src="https://img.shields.io/github/stars/w0r1i0g1ht/CVE-2024-4439">
 
 ---
 ## CVE-2024-44349 (2024-10-08T17:15:00)
