@@ -2448,6 +2448,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [exploitsecure/CVE-2024-43639](https://github.com/exploitsecure/CVE-2024-43639)	<img alt="forks" src="https://img.shields.io/github/forks/exploitsecure/CVE-2024-43639">	<img alt="stars" src="https://img.shields.io/github/stars/exploitsecure/CVE-2024-43639">
 
 ---
+## CVE-2024-436 ()
+> 
+- [Julian-gmz/CVE-2024-436_Exploit](https://github.com/Julian-gmz/CVE-2024-436_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Julian-gmz/CVE-2024-436_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Julian-gmz/CVE-2024-436_Exploit">
+
+---
 ## CVE-2024-43582 (2024-10-08T18:15:00)
 > Remote Desktop Protocol Server Remote Code Execution Vulnerability
 - [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jinxongwi/CVE-2024-43582-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jinxongwi/CVE-2024-43582-RCE">
@@ -7658,6 +7663,11 @@ authentication.   
 ## CVE-2024-12883 ()
 > 
 - [mhtsec/cve-2024-12883](https://github.com/mhtsec/cve-2024-12883)	<img alt="forks" src="https://img.shields.io/github/forks/mhtsec/cve-2024-12883">	<img alt="stars" src="https://img.shields.io/github/stars/mhtsec/cve-2024-12883">
+
+---
+## CVE-2024-12849 ()
+> 
+- [RandomRobbieBF/CVE-2024-12849](https://github.com/RandomRobbieBF/CVE-2024-12849)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12849">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12849">
 
 ---
 ## CVE-2024-1269 (2024-02-07T02:15:00)
