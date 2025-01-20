@@ -694,7 +694,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [Sibijo/mitigate_ssh](https://github.com/Sibijo/mitigate_ssh)	<img alt="forks" src="https://img.shields.io/github/forks/Sibijo/mitigate_ssh">	<img alt="stars" src="https://img.shields.io/github/stars/Sibijo/mitigate_ssh">
 - [Passyed/regreSSHion-Fix](https://github.com/Passyed/regreSSHion-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/Passyed/regreSSHion-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/Passyed/regreSSHion-Fix">
 - [k4t3pr0/CVE-2024-6387-Check](https://github.com/k4t3pr0/CVE-2024-6387-Check)	<img alt="forks" src="https://img.shields.io/github/forks/k4t3pr0/CVE-2024-6387-Check">	<img alt="stars" src="https://img.shields.io/github/stars/k4t3pr0/CVE-2024-6387-Check">
-- [liqhtnd/sshd-logingracetime0](https://github.com/liqhtnd/sshd-logingracetime0)	<img alt="forks" src="https://img.shields.io/github/forks/liqhtnd/sshd-logingracetime0">	<img alt="stars" src="https://img.shields.io/github/stars/liqhtnd/sshd-logingracetime0">
+- [liqhtnd/sshd-logingracetime](https://github.com/liqhtnd/sshd-logingracetime)	<img alt="forks" src="https://img.shields.io/github/forks/liqhtnd/sshd-logingracetime">	<img alt="stars" src="https://img.shields.io/github/stars/liqhtnd/sshd-logingracetime">
 - [dream434/CVE-2024-6387](https://github.com/dream434/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/dream434/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/dream434/CVE-2024-6387">
 - [ThatNotEasy/CVE-2024-6387](https://github.com/ThatNotEasy/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-6387">
 - [W1hithat/CVE-2024-6387](https://github.com/W1hithat/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/W1hithat/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/W1hithat/CVE-2024-6387">
@@ -714,6 +714,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [awusan125/test_for6387](https://github.com/awusan125/test_for6387)	<img alt="forks" src="https://img.shields.io/github/forks/awusan125/test_for6387">	<img alt="stars" src="https://img.shields.io/github/stars/awusan125/test_for6387">
 - [YassDEV221608/CVE-2024-6387_PoC](https://github.com/YassDEV221608/CVE-2024-6387_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/YassDEV221608/CVE-2024-6387_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/YassDEV221608/CVE-2024-6387_PoC">
 - [anhvutuan/CVE-2024-6387-poc-1](https://github.com/anhvutuan/CVE-2024-6387-poc-1)	<img alt="forks" src="https://img.shields.io/github/forks/anhvutuan/CVE-2024-6387-poc-1">	<img alt="stars" src="https://img.shields.io/github/stars/anhvutuan/CVE-2024-6387-poc-1">
+- [AzrDll/CVE-2024-6387](https://github.com/AzrDll/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/AzrDll/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/AzrDll/CVE-2024-6387">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
@@ -2914,6 +2915,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [HimmeL-Byte/CVE-2024-41570-SSRF-RCE](https://github.com/HimmeL-Byte/CVE-2024-41570-SSRF-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">
 - [HimmeL-Byte/CVE-2024-41570-SSRF-RCE](https://github.com/HimmeL-Byte/CVE-2024-41570-SSRF-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">
 - [chebuya/Havoc-C2-SSRF-poc](https://github.com/chebuya/Havoc-C2-SSRF-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/Havoc-C2-SSRF-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/Havoc-C2-SSRF-poc">
+- [Doc-Grinch/Havoc-CVE-2024-41570-and-RCE](https://github.com/Doc-Grinch/Havoc-CVE-2024-41570-and-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Doc-Grinch/Havoc-CVE-2024-41570-and-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Doc-Grinch/Havoc-CVE-2024-41570-and-RCE">
 
 ---
 ## CVE-2024-41453 ()
