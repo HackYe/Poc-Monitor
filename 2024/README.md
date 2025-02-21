@@ -2931,6 +2931,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [s4vvysec/CVE-2024-4367-POC](https://github.com/s4vvysec/CVE-2024-4367-POC)	<img alt="forks" src="https://img.shields.io/github/forks/s4vvysec/CVE-2024-4367-POC">	<img alt="stars" src="https://img.shields.io/github/stars/s4vvysec/CVE-2024-4367-POC">
 
 ---
+## CVE-2024-43583 ()
+> 
+- [Kvngtheta/CVE-2024-43583-PoC](https://github.com/Kvngtheta/CVE-2024-43583-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Kvngtheta/CVE-2024-43583-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Kvngtheta/CVE-2024-43583-PoC">
+
+---
 ## CVE-2024-43582 (2024-10-08T18:15:00)
 > Remote Desktop Protocol Server Remote Code Execution Vulnerability
 - [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jinxongwi/CVE-2024-43582-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jinxongwi/CVE-2024-43582-RCE">
@@ -6740,10 +6745,12 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [smkxt1/CVE-2024-24919](https://github.com/smkxt1/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/smkxt1/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/smkxt1/CVE-2024-24919">
 - [LuisMateo1/Arbitrary-File-Read-CVE-2024-24919](https://github.com/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919">
 - [AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-](https://github.com/AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-">
-- [geniuszlyy/CVE-2024-24919](https://github.com/geniuszlyy/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2024-24919">
+- [geniuszly/CVE-2024-24919](https://github.com/geniuszly/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszly/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszly/CVE-2024-24919">
 - [skyrowalker/CVE-2024-24919](https://github.com/skyrowalker/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/skyrowalker/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/skyrowalker/CVE-2024-24919">
 - [sar-3mar/CVE-2024-24919_POC](https://github.com/sar-3mar/CVE-2024-24919_POC)	<img alt="forks" src="https://img.shields.io/github/forks/sar-3mar/CVE-2024-24919_POC">	<img alt="stars" src="https://img.shields.io/github/stars/sar-3mar/CVE-2024-24919_POC">
 - [funixone/CVE-2024-24919---Exploit-Script](https://github.com/funixone/CVE-2024-24919---Exploit-Script)	<img alt="forks" src="https://img.shields.io/github/forks/funixone/CVE-2024-24919---Exploit-Script">	<img alt="stars" src="https://img.shields.io/github/stars/funixone/CVE-2024-24919---Exploit-Script">
+- [hashdr1ft/SOC_287](https://github.com/hashdr1ft/SOC_287)	<img alt="forks" src="https://img.shields.io/github/forks/hashdr1ft/SOC_287">	<img alt="stars" src="https://img.shields.io/github/stars/hashdr1ft/SOC_287">
+- [NingXin2002/Check-Point_poc](https://github.com/NingXin2002/Check-Point_poc)	<img alt="forks" src="https://img.shields.io/github/forks/NingXin2002/Check-Point_poc">	<img alt="stars" src="https://img.shields.io/github/stars/NingXin2002/Check-Point_poc">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
