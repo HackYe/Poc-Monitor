@@ -509,6 +509,7 @@
 - [beyond-devsecops/CVE-2025-24813](https://github.com/beyond-devsecops/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/beyond-devsecops/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/beyond-devsecops/CVE-2025-24813">
 - [u238/Tomcat-CVE_2025_24813](https://github.com/u238/Tomcat-CVE_2025_24813)	<img alt="forks" src="https://img.shields.io/github/forks/u238/Tomcat-CVE_2025_24813">	<img alt="stars" src="https://img.shields.io/github/stars/u238/Tomcat-CVE_2025_24813">
 - [AlperenY-cs/CVE-2025-24813](https://github.com/AlperenY-cs/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/AlperenY-cs/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/AlperenY-cs/CVE-2025-24813">
+- [manjula-aw/CVE-2025-24813](https://github.com/manjula-aw/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/manjula-aw/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/manjula-aw/CVE-2025-24813">
 
 ---
 ## CVE-2025-2476 ()
@@ -739,6 +740,7 @@
 - [0xBingo/CVE-2025-1974](https://github.com/0xBingo/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/0xBingo/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/0xBingo/CVE-2025-1974">
 - [tuladhar/ingress-nightmare](https://github.com/tuladhar/ingress-nightmare)	<img alt="forks" src="https://img.shields.io/github/forks/tuladhar/ingress-nightmare">	<img alt="stars" src="https://img.shields.io/github/stars/tuladhar/ingress-nightmare">
 - [rjhaikal/POC-IngressNightmare-CVE-2025-1974](https://github.com/rjhaikal/POC-IngressNightmare-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/rjhaikal/POC-IngressNightmare-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/rjhaikal/POC-IngressNightmare-CVE-2025-1974">
+- [lufeirider/IngressNightmare-PoC](https://github.com/lufeirider/IngressNightmare-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lufeirider/IngressNightmare-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lufeirider/IngressNightmare-PoC">
 
 ---
 ## CVE-2025-1716 ()
