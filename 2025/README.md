@@ -325,6 +325,7 @@
 - [ValGrace/middleware-auth-bypass](https://github.com/ValGrace/middleware-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ValGrace/middleware-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ValGrace/middleware-auth-bypass">
 - [goncalocsousa1/CVE-2025-29927](https://github.com/goncalocsousa1/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/goncalocsousa1/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/goncalocsousa1/CVE-2025-29927">
 - [pickovven/vulnerable-nextjs-14-CVE-2025-29927](https://github.com/pickovven/vulnerable-nextjs-14-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/pickovven/vulnerable-nextjs-14-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/pickovven/vulnerable-nextjs-14-CVE-2025-29927">
+- [l1uk/nextjs-middleware-exploit](https://github.com/l1uk/nextjs-middleware-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/l1uk/nextjs-middleware-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/l1uk/nextjs-middleware-exploit">
 
 ---
 ## CVE-2025-29814 ()
@@ -430,6 +431,11 @@
 > 
 - [OscarBataille/CVE-2025-26794](https://github.com/OscarBataille/CVE-2025-26794)	<img alt="forks" src="https://img.shields.io/github/forks/OscarBataille/CVE-2025-26794">	<img alt="stars" src="https://img.shields.io/github/stars/OscarBataille/CVE-2025-26794">
 - [ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi](https://github.com/ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/ishwardeepp/CVE-2025-26794-Exim-Mail-SQLi">
+
+---
+## CVE-2025-26647 ()
+> 
+- [groshi215/CVE-2025-26647](https://github.com/groshi215/CVE-2025-26647)	<img alt="forks" src="https://img.shields.io/github/forks/groshi215/CVE-2025-26647">	<img alt="stars" src="https://img.shields.io/github/stars/groshi215/CVE-2025-26647">
 
 ---
 ## CVE-2025-26633 ()
@@ -711,6 +717,7 @@
 - [Heimd411/CVE-2025-24813-noPoC](https://github.com/Heimd411/CVE-2025-24813-noPoC)	<img alt="forks" src="https://img.shields.io/github/forks/Heimd411/CVE-2025-24813-noPoC">	<img alt="stars" src="https://img.shields.io/github/stars/Heimd411/CVE-2025-24813-noPoC">
 - [horsehacks/CVE-2025-24813-checker](https://github.com/horsehacks/CVE-2025-24813-checker)	<img alt="forks" src="https://img.shields.io/github/forks/horsehacks/CVE-2025-24813-checker">	<img alt="stars" src="https://img.shields.io/github/stars/horsehacks/CVE-2025-24813-checker">
 - [GadaLuBau1337/CVE-2025-24813](https://github.com/GadaLuBau1337/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/GadaLuBau1337/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/GadaLuBau1337/CVE-2025-24813">
+- [f8l124/CVE-2025-24813-POC](https://github.com/f8l124/CVE-2025-24813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/f8l124/CVE-2025-24813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/f8l124/CVE-2025-24813-POC">
 
 ---
 ## CVE-2025-24799 ()
