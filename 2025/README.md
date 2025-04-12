@@ -175,6 +175,7 @@
 > 
 - [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Immersive-Labs-Sec/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Immersive-Labs-Sec/CVE-2025-31161">
 - [llussiess/CVE-2025-31161](https://github.com/llussiess/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/llussiess/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/llussiess/CVE-2025-31161">
+- [ghostsec420/ShatteredFTP](https://github.com/ghostsec420/ShatteredFTP)	<img alt="forks" src="https://img.shields.io/github/forks/ghostsec420/ShatteredFTP">	<img alt="stars" src="https://img.shields.io/github/stars/ghostsec420/ShatteredFTP">
 
 ---
 ## CVE-2025-31131 ()
@@ -789,6 +790,7 @@
 - [f8l124/CVE-2025-24813-POC](https://github.com/f8l124/CVE-2025-24813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/f8l124/CVE-2025-24813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/f8l124/CVE-2025-24813-POC">
 - [Franconyu/Poc_for_CVE-2025-24813](https://github.com/Franconyu/Poc_for_CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Franconyu/Poc_for_CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Franconyu/Poc_for_CVE-2025-24813">
 - [Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE](https://github.com/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2025-24813-PoC-Apache-Tomcat-RCE">
+- [Mattb709/CVE-2025-24813-Scanner](https://github.com/Mattb709/CVE-2025-24813-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2025-24813-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2025-24813-Scanner">
 
 ---
 ## CVE-2025-24799 ()
