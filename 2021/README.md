@@ -2314,6 +2314,7 @@
 - [luongchivi/Preproduce-CVE-2021-41773](https://github.com/luongchivi/Preproduce-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/luongchivi/Preproduce-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/luongchivi/Preproduce-CVE-2021-41773">
 - [khaidtraivch/CVE-2021-41773-Apache-2.4.49-](https://github.com/khaidtraivch/CVE-2021-41773-Apache-2.4.49-)	<img alt="forks" src="https://img.shields.io/github/forks/khaidtraivch/CVE-2021-41773-Apache-2.4.49-">	<img alt="stars" src="https://img.shields.io/github/stars/khaidtraivch/CVE-2021-41773-Apache-2.4.49-">
 - [JIYUN02/cve-2021-41773](https://github.com/JIYUN02/cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/JIYUN02/cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/JIYUN02/cve-2021-41773">
+- [ZephrFish/CVE-2021-41773-PoC](https://github.com/ZephrFish/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2021-41773-PoC">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -6989,6 +6990,7 @@
 - [timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt](https://github.com/timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt">
 - [WiredPulse/Invoke-HAFNIUMCheck.ps1](https://github.com/WiredPulse/Invoke-HAFNIUMCheck.ps1)	<img alt="forks" src="https://img.shields.io/github/forks/WiredPulse/Invoke-HAFNIUMCheck.ps1">	<img alt="stars" src="https://img.shields.io/github/stars/WiredPulse/Invoke-HAFNIUMCheck.ps1">
 - [glen-pearson/ProxyLogon-CVE-2021-26855](https://github.com/glen-pearson/ProxyLogon-CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/glen-pearson/ProxyLogon-CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/glen-pearson/ProxyLogon-CVE-2021-26855">
+- [ZephrFish/Exch-CVE-2021-26855](https://github.com/ZephrFish/Exch-CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/Exch-CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/Exch-CVE-2021-26855">
 
 ---
 ## CVE-2021-26828 ()
