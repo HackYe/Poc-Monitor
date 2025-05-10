@@ -506,6 +506,7 @@
 - [rf-peixoto/sap_netweaver_cve-2025-31324-](https://github.com/rf-peixoto/sap_netweaver_cve-2025-31324-)	<img alt="forks" src="https://img.shields.io/github/forks/rf-peixoto/sap_netweaver_cve-2025-31324-">	<img alt="stars" src="https://img.shields.io/github/stars/rf-peixoto/sap_netweaver_cve-2025-31324-">
 - [NULLTRACE0X/CVE-2025-31324](https://github.com/NULLTRACE0X/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/NULLTRACE0X/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/NULLTRACE0X/CVE-2025-31324">
 - [nairuzabulhul/nuclei-template-cve-2025-31324-check](https://github.com/nairuzabulhul/nuclei-template-cve-2025-31324-check)	<img alt="forks" src="https://img.shields.io/github/forks/nairuzabulhul/nuclei-template-cve-2025-31324-check">	<img alt="stars" src="https://img.shields.io/github/stars/nairuzabulhul/nuclei-template-cve-2025-31324-check">
+- [sug4r-wr41th/CVE-2025-31324](https://github.com/sug4r-wr41th/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2025-31324">
 
 ---
 ## CVE-2025-31161 ()
@@ -1388,6 +1389,8 @@
 ## CVE-2025-24203 ()
 > 
 - [BlueDiamond2021/iOS-CVE-2025-24203-Paths](https://github.com/BlueDiamond2021/iOS-CVE-2025-24203-Paths)	<img alt="forks" src="https://img.shields.io/github/forks/BlueDiamond2021/iOS-CVE-2025-24203-Paths">	<img alt="stars" src="https://img.shields.io/github/stars/BlueDiamond2021/iOS-CVE-2025-24203-Paths">
+- [BlueDiamond2021/iOS-CVE-2025-24203-Paths](https://github.com/BlueDiamond2021/iOS-CVE-2025-24203-Paths)	<img alt="forks" src="https://img.shields.io/github/forks/BlueDiamond2021/iOS-CVE-2025-24203-Paths">	<img alt="stars" src="https://img.shields.io/github/stars/BlueDiamond2021/iOS-CVE-2025-24203-Paths">
+- [jailbreakdotparty/dirtyZero](https://github.com/jailbreakdotparty/dirtyZero)	<img alt="forks" src="https://img.shields.io/github/forks/jailbreakdotparty/dirtyZero">	<img alt="stars" src="https://img.shields.io/github/stars/jailbreakdotparty/dirtyZero">
 
 ---
 ## CVE-2025-24200 ()
