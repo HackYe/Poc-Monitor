@@ -181,6 +181,7 @@
 - [doomygloom/CVE-2025-4664](https://github.com/doomygloom/CVE-2025-4664)	<img alt="forks" src="https://img.shields.io/github/forks/doomygloom/CVE-2025-4664">	<img alt="stars" src="https://img.shields.io/github/stars/doomygloom/CVE-2025-4664">
 - [korden-c/CVE-2025-4664](https://github.com/korden-c/CVE-2025-4664)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-4664">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-4664">
 - [speinador/CVE-2025-4664-](https://github.com/speinador/CVE-2025-4664-)	<img alt="forks" src="https://img.shields.io/github/forks/speinador/CVE-2025-4664-">	<img alt="stars" src="https://img.shields.io/github/stars/speinador/CVE-2025-4664-">
+- [Leviticus-Triage/ChromSploit-Framework](https://github.com/Leviticus-Triage/ChromSploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/Leviticus-Triage/ChromSploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/Leviticus-Triage/ChromSploit-Framework">
 
 ---
 ## CVE-2025-46271 ()
@@ -613,6 +614,11 @@
 - [Epivalent/CVE-2025-32433-detection](https://github.com/Epivalent/CVE-2025-32433-detection)	<img alt="forks" src="https://img.shields.io/github/forks/Epivalent/CVE-2025-32433-detection">	<img alt="stars" src="https://img.shields.io/github/stars/Epivalent/CVE-2025-32433-detection">
 - [rizky412/CVE-2025-32433](https://github.com/rizky412/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/rizky412/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/rizky412/CVE-2025-32433">
 - [0x7556/CVE-2025-32433](https://github.com/0x7556/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2025-32433">
+
+---
+## CVE-2025-32421 ()
+> 
+- [zeroc00I/CVE-2025-32421](https://github.com/zeroc00I/CVE-2025-32421)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2025-32421">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2025-32421">
 
 ---
 ## CVE-2025-32407 ()
