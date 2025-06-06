@@ -1452,6 +1452,7 @@
 ## CVE-2025-27152 ()
 > 
 - [davidblakecoe/axios-CVE-2025-27152-PoC](https://github.com/davidblakecoe/axios-CVE-2025-27152-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/davidblakecoe/axios-CVE-2025-27152-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/davidblakecoe/axios-CVE-2025-27152-PoC">
+- [andreglock/axios-ssrf](https://github.com/andreglock/axios-ssrf)	<img alt="forks" src="https://img.shields.io/github/forks/andreglock/axios-ssrf">	<img alt="stars" src="https://img.shields.io/github/stars/andreglock/axios-ssrf">
 
 ---
 ## CVE-2025-27007 ()
@@ -1922,6 +1923,11 @@
 - [windz3r0day/CVE-2025-24085](https://github.com/windz3r0day/CVE-2025-24085)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2025-24085">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2025-24085">
 - [pxx917144686/12345](https://github.com/pxx917144686/12345)	<img alt="forks" src="https://img.shields.io/github/forks/pxx917144686/12345">	<img alt="stars" src="https://img.shields.io/github/stars/pxx917144686/12345">
 - [apt-007/12345](https://github.com/apt-007/12345)	<img alt="forks" src="https://img.shields.io/github/forks/apt-007/12345">	<img alt="stars" src="https://img.shields.io/github/stars/apt-007/12345">
+
+---
+## CVE-2025-24076 ()
+> 
+- [mbanyamer/CVE-2025-24076](https://github.com/mbanyamer/CVE-2025-24076)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2025-24076">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2025-24076">
 
 ---
 ## CVE-2025-24071 ()
