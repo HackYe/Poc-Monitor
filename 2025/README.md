@@ -230,6 +230,7 @@
 ## CVE-2025-48828 ()
 > 
 - [ill-deed/vBulletin-CVE-2025-48828-Multi-target](https://github.com/ill-deed/vBulletin-CVE-2025-48828-Multi-target)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/vBulletin-CVE-2025-48828-Multi-target">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/vBulletin-CVE-2025-48828-Multi-target">
+- [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
 
 ---
 ## CVE-2025-48827 ()
@@ -242,6 +243,11 @@
 ## CVE-2025-48708 ()
 > 
 - [B1tBreaker/CVE-2025-48708](https://github.com/B1tBreaker/CVE-2025-48708)	<img alt="forks" src="https://img.shields.io/github/forks/B1tBreaker/CVE-2025-48708">	<img alt="stars" src="https://img.shields.io/github/stars/B1tBreaker/CVE-2025-48708">
+
+---
+## CVE-2025-48703 ()
+> 
+- [trh4ckn0n/CVE-2025-48703](https://github.com/trh4ckn0n/CVE-2025-48703)	<img alt="forks" src="https://img.shields.io/github/forks/trh4ckn0n/CVE-2025-48703">	<img alt="stars" src="https://img.shields.io/github/stars/trh4ckn0n/CVE-2025-48703">
 
 ---
 ## CVE-2025-48466 ()
