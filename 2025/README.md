@@ -1194,6 +1194,7 @@
 - [susancodes55/CVE-2025-32463-sudo-poc](https://github.com/susancodes55/CVE-2025-32463-sudo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/susancodes55/CVE-2025-32463-sudo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/susancodes55/CVE-2025-32463-sudo-poc">
 - [0xb0rn3/CVE-2025-32463-EXPLOIT](https://github.com/0xb0rn3/CVE-2025-32463-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/0xb0rn3/CVE-2025-32463-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/0xb0rn3/CVE-2025-32463-EXPLOIT">
 - [danielsummerton12/sudo-zero-day-CVE-2025-32463](https://github.com/danielsummerton12/sudo-zero-day-CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/sudo-zero-day-CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/sudo-zero-day-CVE-2025-32463">
+- [danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc](https://github.com/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">
 
 ---
 ## CVE-2025-32462 ()
