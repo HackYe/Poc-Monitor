@@ -11,6 +11,11 @@
 - [sunhuiHi666/CVE-2025-7605](https://github.com/sunhuiHi666/CVE-2025-7605)	<img alt="forks" src="https://img.shields.io/github/forks/sunhuiHi666/CVE-2025-7605">	<img alt="stars" src="https://img.shields.io/github/stars/sunhuiHi666/CVE-2025-7605">
 
 ---
+## CVE-2025-7340 ()
+> 
+- [Nxploited/CVE-2025-7340](https://github.com/Nxploited/CVE-2025-7340)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-7340">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-7340">
+
+---
 ## CVE-2025-6970 ()
 > 
 - [RandomRobbieBF/CVE-2025-6970](https://github.com/RandomRobbieBF/CVE-2025-6970)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-6970">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-6970">
