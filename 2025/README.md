@@ -266,6 +266,7 @@
 - [nisargsuthar/suricata-rule-CVE-2025-53770](https://github.com/nisargsuthar/suricata-rule-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/nisargsuthar/suricata-rule-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/nisargsuthar/suricata-rule-CVE-2025-53770">
 - [JustinnT/cve-2025-53770-](https://github.com/JustinnT/cve-2025-53770-)	<img alt="forks" src="https://img.shields.io/github/forks/JustinnT/cve-2025-53770-">	<img alt="stars" src="https://img.shields.io/github/stars/JustinnT/cve-2025-53770-">
 - [bharath-cyber-root/sharepoint-toolshell-cve-2025-53770](https://github.com/bharath-cyber-root/sharepoint-toolshell-cve-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/bharath-cyber-root/sharepoint-toolshell-cve-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/bharath-cyber-root/sharepoint-toolshell-cve-2025-53770">
+- [Rabbitbong/OurSharePoint-CVE-2025-53770](https://github.com/Rabbitbong/OurSharePoint-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Rabbitbong/OurSharePoint-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Rabbitbong/OurSharePoint-CVE-2025-53770">
 
 ---
 ## CVE-2025-53640 ()
