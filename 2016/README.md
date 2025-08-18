@@ -431,6 +431,7 @@
 ## CVE-2016-5394 ()
 > 
 - [shoucheng3/apache__sling-org-apache-sling-xss_CVE-2016-5394_1-0-8](https://github.com/shoucheng3/apache__sling-org-apache-sling-xss_CVE-2016-5394_1-0-8)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__sling-org-apache-sling-xss_CVE-2016-5394_1-0-8">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__sling-org-apache-sling-xss_CVE-2016-5394_1-0-8">
+- [epicosy/VUL4J-23](https://github.com/epicosy/VUL4J-23)	<img alt="forks" src="https://img.shields.io/github/forks/epicosy/VUL4J-23">	<img alt="stars" src="https://img.shields.io/github/stars/epicosy/VUL4J-23">
 
 ---
 ## CVE-2016-5386 (2016-07-19T02:00:00)
