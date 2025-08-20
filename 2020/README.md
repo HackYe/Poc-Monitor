@@ -973,6 +973,7 @@
 ## CVE-2020-5405 ()
 > 
 - [shoucheng3/spring-cloud__spring-cloud-config_CVE-2020-5405_2-1-6-RELEASE](https://github.com/shoucheng3/spring-cloud__spring-cloud-config_CVE-2020-5405_2-1-6-RELEASE)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/spring-cloud__spring-cloud-config_CVE-2020-5405_2-1-6-RELEASE">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/spring-cloud__spring-cloud-config_CVE-2020-5405_2-1-6-RELEASE">
+- [DSO-Lab/defvul](https://github.com/DSO-Lab/defvul)	<img alt="forks" src="https://img.shields.io/github/forks/DSO-Lab/defvul">	<img alt="stars" src="https://img.shields.io/github/stars/DSO-Lab/defvul">
 
 ---
 ## CVE-2020-5403 (2020-03-03T19:15:00)
@@ -1761,6 +1762,11 @@
 ## CVE-2020-2922 (2020-04-15T14:15:00)
 > Vulnerability in the MySQL Client product of Oracle MySQL (component: C API). Supported versions that are affected are 5.6.47 and prior, 5.7.29 and prior and 8.0.18 and prior. Difficult to exploit vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Client. Successful attacks of this vulnerability can result in unauthorized read access to a subset of MySQL Client accessible data. CVSS 3.0 Base Score 3.7 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N).
 - [Live-Hack-CVE/CVE-2020-2922](https://github.com/Live-Hack-CVE/CVE-2020-2922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2922">
+
+---
+## CVE-2020-29204 ()
+> 
+- [shoucheng3/xuxueli__xxl-job_CVE-2020-29204_2-2-0](https://github.com/shoucheng3/xuxueli__xxl-job_CVE-2020-29204_2-2-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/xuxueli__xxl-job_CVE-2020-29204_2-2-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/xuxueli__xxl-job_CVE-2020-29204_2-2-0">
 
 ---
 ## CVE-2020-2915 (2020-04-15T14:15:00)
