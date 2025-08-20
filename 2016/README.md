@@ -370,6 +370,18 @@
 - [shoucheng3/asf__cxf_CVE-2016-6812_3-0-11](https://github.com/shoucheng3/asf__cxf_CVE-2016-6812_3-0-11)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__cxf_CVE-2016-6812_3-0-11">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__cxf_CVE-2016-6812_3-0-11">
 
 ---
+## CVE-2016-6662 ()
+> 
+- [kanyaars/CVE-2016-6662](https://github.com/kanyaars/CVE-2016-6662)	<img alt="forks" src="https://img.shields.io/github/forks/kanyaars/CVE-2016-6662">	<img alt="stars" src="https://img.shields.io/github/stars/kanyaars/CVE-2016-6662">
+- [LSQUARE14/SQL_to_RCE_Lab](https://github.com/LSQUARE14/SQL_to_RCE_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/LSQUARE14/SQL_to_RCE_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/LSQUARE14/SQL_to_RCE_Lab">
+- [MAYASEVEN/CVE-2016-6662](https://github.com/MAYASEVEN/CVE-2016-6662)	<img alt="forks" src="https://img.shields.io/github/forks/MAYASEVEN/CVE-2016-6662">	<img alt="stars" src="https://img.shields.io/github/stars/MAYASEVEN/CVE-2016-6662">
+- [boompig/cve-2016-6662](https://github.com/boompig/cve-2016-6662)	<img alt="forks" src="https://img.shields.io/github/forks/boompig/cve-2016-6662">	<img alt="stars" src="https://img.shields.io/github/stars/boompig/cve-2016-6662">
+- [Ashrafdev/MySQL-Remote-Root-Code-Execution](https://github.com/Ashrafdev/MySQL-Remote-Root-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Ashrafdev/MySQL-Remote-Root-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Ashrafdev/MySQL-Remote-Root-Code-Execution">
+- [meersjo/ansible-mysql-cve-2016-6662](https://github.com/meersjo/ansible-mysql-cve-2016-6662)	<img alt="forks" src="https://img.shields.io/github/forks/meersjo/ansible-mysql-cve-2016-6662">	<img alt="stars" src="https://img.shields.io/github/stars/meersjo/ansible-mysql-cve-2016-6662">
+- [KosukeShimofuji/CVE-2016-6662](https://github.com/KosukeShimofuji/CVE-2016-6662)	<img alt="forks" src="https://img.shields.io/github/forks/KosukeShimofuji/CVE-2016-6662">	<img alt="stars" src="https://img.shields.io/github/stars/KosukeShimofuji/CVE-2016-6662">
+- [konstantin-kelemen/mysqld_safe-CVE-2016-6662-patch](https://github.com/konstantin-kelemen/mysqld_safe-CVE-2016-6662-patch)	<img alt="forks" src="https://img.shields.io/github/forks/konstantin-kelemen/mysqld_safe-CVE-2016-6662-patch">	<img alt="stars" src="https://img.shields.io/github/stars/konstantin-kelemen/mysqld_safe-CVE-2016-6662-patch">
+
+---
 ## CVE-2016-6328 (2018-10-31T22:29:00)
 > A vulnerability was found in libexif. An integer overflow when parsing the MNOTE entry data of the input file. This can cause Denial-of-Service (DoS) and Information Disclosure (disclosing some critical heap chunk metadata, even other applications' private data).
 - [Pazhanivelmani/libexif_Android10_r33_CVE-2016-6328](https://github.com/Pazhanivelmani/libexif_Android10_r33_CVE-2016-6328)	<img alt="forks" src="https://img.shields.io/github/forks/Pazhanivelmani/libexif_Android10_r33_CVE-2016-6328">	<img alt="stars" src="https://img.shields.io/github/stars/Pazhanivelmani/libexif_Android10_r33_CVE-2016-6328">
