@@ -303,6 +303,11 @@
 - [RootHarpy/CVE-2025-5815-Nuclei-Template](https://github.com/RootHarpy/CVE-2025-5815-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/RootHarpy/CVE-2025-5815-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/RootHarpy/CVE-2025-5815-Nuclei-Template">
 
 ---
+## CVE-2025-57773 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-57773](https://github.com/B1ack4sh/Blackash-CVE-2025-57773)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-57773">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-57773">
+
+---
 ## CVE-2025-5777 ()
 > 
 - [nagenar/CVE-2025-5777-Session-Hijack](https://github.com/nagenar/CVE-2025-5777-Session-Hijack)	<img alt="forks" src="https://img.shields.io/github/forks/nagenar/CVE-2025-5777-Session-Hijack">	<img alt="stars" src="https://img.shields.io/github/stars/nagenar/CVE-2025-5777-Session-Hijack">
