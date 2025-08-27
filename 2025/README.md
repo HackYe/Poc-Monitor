@@ -1897,6 +1897,11 @@
 - [LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload](https://github.com/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload)	<img alt="forks" src="https://img.shields.io/github/forks/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload">	<img alt="stars" src="https://img.shields.io/github/stars/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload">
 
 ---
+## CVE-2025-38676 ()
+> 
+- [14mb1v45h/CVE-2025-38676](https://github.com/14mb1v45h/CVE-2025-38676)	<img alt="forks" src="https://img.shields.io/github/forks/14mb1v45h/CVE-2025-38676">	<img alt="stars" src="https://img.shields.io/github/stars/14mb1v45h/CVE-2025-38676">
+
+---
 ## CVE-2025-38001 ()
 > 
 - [0xdevil/CVE-2025-38001](https://github.com/0xdevil/CVE-2025-38001)	<img alt="forks" src="https://img.shields.io/github/forks/0xdevil/CVE-2025-38001">	<img alt="stars" src="https://img.shields.io/github/stars/0xdevil/CVE-2025-38001">
@@ -3532,6 +3537,7 @@
 - [x0da6h/POC-for-CVE-2025-24893](https://github.com/x0da6h/POC-for-CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/x0da6h/POC-for-CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/x0da6h/POC-for-CVE-2025-24893">
 - [ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup](https://github.com/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup">
 - [torjan0/xwiki_solrsearch-rce-exploit](https://github.com/torjan0/xwiki_solrsearch-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/torjan0/xwiki_solrsearch-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/torjan0/xwiki_solrsearch-rce-exploit">
+- [AzureADTrent/CVE-2025-24893-Reverse-Shell](https://github.com/AzureADTrent/CVE-2025-24893-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2025-24893-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2025-24893-Reverse-Shell">
 
 ---
 ## CVE-2025-24813 ()
