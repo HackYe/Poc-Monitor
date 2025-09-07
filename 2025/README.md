@@ -4114,6 +4114,7 @@
 - [jpts/cve-2025-23266-poc](https://github.com/jpts/cve-2025-23266-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jpts/cve-2025-23266-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jpts/cve-2025-23266-poc">
 - [r0binak/CVE-2025-23266](https://github.com/r0binak/CVE-2025-23266)	<img alt="forks" src="https://img.shields.io/github/forks/r0binak/CVE-2025-23266">	<img alt="stars" src="https://img.shields.io/github/stars/r0binak/CVE-2025-23266">
 - [Mindasy/cve-2025-23266-migration-bypass](https://github.com/Mindasy/cve-2025-23266-migration-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Mindasy/cve-2025-23266-migration-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Mindasy/cve-2025-23266-migration-bypass">
+- [mrk336/CVE-2025-23266](https://github.com/mrk336/CVE-2025-23266)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-23266">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-23266">
 
 ---
 ## CVE-2025-23245655 ()
@@ -4617,6 +4618,7 @@
 - [SalehAlgnay/7-Zip-CVE-2025-0411-POC](https://github.com/SalehAlgnay/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SalehAlgnay/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SalehAlgnay/7-Zip-CVE-2025-0411-POC">
 - [betulssahin/CVE-2025-0411-7-Zip-Mark-of-the-Web-Bypass](https://github.com/betulssahin/CVE-2025-0411-7-Zip-Mark-of-the-Web-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/betulssahin/CVE-2025-0411-7-Zip-Mark-of-the-Web-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/betulssahin/CVE-2025-0411-7-Zip-Mark-of-the-Web-Bypass">
 - [B1ack4sh/Blackash-CVE-2025-0411](https://github.com/B1ack4sh/Blackash-CVE-2025-0411)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-0411">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-0411">
+- [RustMacrosRecoil/7-Zip-CVE-2025-0411-POC](https://github.com/RustMacrosRecoil/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RustMacrosRecoil/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RustMacrosRecoil/7-Zip-CVE-2025-0411-POC">
 
 ---
 ## CVE-2025-0401 ()
