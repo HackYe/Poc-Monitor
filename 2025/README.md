@@ -3578,6 +3578,7 @@
 - [dr4x-c0d3r/sudo-chroot](https://github.com/dr4x-c0d3r/sudo-chroot)	<img alt="forks" src="https://img.shields.io/github/forks/dr4x-c0d3r/sudo-chroot">	<img alt="stars" src="https://img.shields.io/github/stars/dr4x-c0d3r/sudo-chroot">
 - [dr4xp/sudo-chroot](https://github.com/dr4xp/sudo-chroot)	<img alt="forks" src="https://img.shields.io/github/forks/dr4xp/sudo-chroot">	<img alt="stars" src="https://img.shields.io/github/stars/dr4xp/sudo-chroot">
 - [robbin0919/CVE-2025-32463](https://github.com/robbin0919/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/robbin0919/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/robbin0919/CVE-2025-32463">
+- [DensuLabs/CVE-2025-32463](https://github.com/DensuLabs/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/DensuLabs/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/DensuLabs/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
@@ -5013,6 +5014,8 @@
 - [AliAmouz/CVE2025-24893](https://github.com/AliAmouz/CVE2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/AliAmouz/CVE2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/AliAmouz/CVE2025-24893">
 - [ibrahmsql/CVE-2025-24893](https://github.com/ibrahmsql/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-24893">
 - [Yukik4z3/CVE-2025-24893](https://github.com/Yukik4z3/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Yukik4z3/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Yukik4z3/CVE-2025-24893">
+- [rvizx/CVE-2025-24893](https://github.com/rvizx/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2025-24893">
+- [achnouri/Editor-CTF-writre-up](https://github.com/achnouri/Editor-CTF-writre-up)	<img alt="forks" src="https://img.shields.io/github/forks/achnouri/Editor-CTF-writre-up">	<img alt="stars" src="https://img.shields.io/github/stars/achnouri/Editor-CTF-writre-up">
 
 ---
 ## CVE-2025-24813 ()
