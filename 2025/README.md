@@ -3716,6 +3716,7 @@
 > 
 - [crondenice/CVE-2025-34299](https://github.com/crondenice/CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/crondenice/CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/crondenice/CVE-2025-34299">
 - [rxerium/CVE-2025-34299](https://github.com/rxerium/CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-34299">
+- [B1ack4sh/Blackash-CVE-2025-34299](https://github.com/B1ack4sh/Blackash-CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-34299">
 
 ---
 ## CVE-2025-34226 ()
@@ -4175,6 +4176,11 @@
 ## CVE-2025-32259 ()
 > 
 - [HossamEAhmed/wp-ulike-cve-2025-32259-poc](https://github.com/HossamEAhmed/wp-ulike-cve-2025-32259-poc)	<img alt="forks" src="https://img.shields.io/github/forks/HossamEAhmed/wp-ulike-cve-2025-32259-poc">	<img alt="stars" src="https://img.shields.io/github/stars/HossamEAhmed/wp-ulike-cve-2025-32259-poc">
+
+---
+## CVE-2025-3222 ()
+> 
+- [romromellow1996/cve-2025-3222-Exploit](https://github.com/romromellow1996/cve-2025-3222-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/romromellow1996/cve-2025-3222-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/romromellow1996/cve-2025-3222-Exploit">
 
 ---
 ## CVE-2025-32206 ()
@@ -6379,6 +6385,11 @@
 ## CVE-2025-12539 ()
 > 
 - [Nxploited/CVE-2025-12539](https://github.com/Nxploited/CVE-2025-12539)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-12539">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-12539">
+
+---
+## CVE-2025-12480 ()
+> 
+- [velmetrac/CVE-2025-12480](https://github.com/velmetrac/CVE-2025-12480)	<img alt="forks" src="https://img.shields.io/github/forks/velmetrac/CVE-2025-12480">	<img alt="stars" src="https://img.shields.io/github/stars/velmetrac/CVE-2025-12480">
 
 ---
 ## CVE-2025-12463 ()
