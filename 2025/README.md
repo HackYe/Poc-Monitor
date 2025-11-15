@@ -1053,6 +1053,8 @@
 - [dexterm300/cve-2025-59287-exploit-poc](https://github.com/dexterm300/cve-2025-59287-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexterm300/cve-2025-59287-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexterm300/cve-2025-59287-exploit-poc">
 - [th1n0/CVE-2025-59287](https://github.com/th1n0/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/th1n0/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/th1n0/CVE-2025-59287">
 - [crondenice/CVE-2025-59287](https://github.com/crondenice/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/crondenice/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/crondenice/CVE-2025-59287">
+- [Twodimensionalitylevelcrossing817/CVE-2025-59287](https://github.com/Twodimensionalitylevelcrossing817/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/Twodimensionalitylevelcrossing817/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/Twodimensionalitylevelcrossing817/CVE-2025-59287">
+- [N3k0t-dev/PoC-CVE-collection](https://github.com/N3k0t-dev/PoC-CVE-collection)	<img alt="forks" src="https://img.shields.io/github/forks/N3k0t-dev/PoC-CVE-collection">	<img alt="stars" src="https://img.shields.io/github/stars/N3k0t-dev/PoC-CVE-collection">
 
 ---
 ## CVE-2025-59285 ()
