@@ -449,6 +449,16 @@
 - [wasfyelbaz/CVE-2025-66022](https://github.com/wasfyelbaz/CVE-2025-66022)	<img alt="forks" src="https://img.shields.io/github/forks/wasfyelbaz/CVE-2025-66022">	<img alt="stars" src="https://img.shields.io/github/stars/wasfyelbaz/CVE-2025-66022">
 
 ---
+## CVE-2025-65900 ()
+> 
+- [Noxurge/CVE-2025-65900](https://github.com/Noxurge/CVE-2025-65900)	<img alt="forks" src="https://img.shields.io/github/forks/Noxurge/CVE-2025-65900">	<img alt="stars" src="https://img.shields.io/github/stars/Noxurge/CVE-2025-65900">
+
+---
+## CVE-2025-65899 ()
+> 
+- [Noxurge/CVE-2025-65899](https://github.com/Noxurge/CVE-2025-65899)	<img alt="forks" src="https://img.shields.io/github/forks/Noxurge/CVE-2025-65899">	<img alt="stars" src="https://img.shields.io/github/stars/Noxurge/CVE-2025-65899">
+
+---
 ## CVE-2025-65881 ()
 > 
 - [MMAKINGDOM/CVE-2025-65881](https://github.com/MMAKINGDOM/CVE-2025-65881)	<img alt="forks" src="https://img.shields.io/github/forks/MMAKINGDOM/CVE-2025-65881">	<img alt="stars" src="https://img.shields.io/github/stars/MMAKINGDOM/CVE-2025-65881">
