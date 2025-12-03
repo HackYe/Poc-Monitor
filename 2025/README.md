@@ -6887,6 +6887,11 @@
 - [twiggy23buck/CVE-2025-13559-Exploit](https://github.com/twiggy23buck/CVE-2025-13559-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/twiggy23buck/CVE-2025-13559-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/twiggy23buck/CVE-2025-13559-Exploit">
 
 ---
+## CVE-2025-13390 ()
+> 
+- [blackklanpro-198/CVE-2025-13390-Exploit](https://github.com/blackklanpro-198/CVE-2025-13390-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/blackklanpro-198/CVE-2025-13390-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/blackklanpro-198/CVE-2025-13390-Exploit">
+
+---
 ## CVE-2025-1338 ()
 > 
 - [jxcaxtc/CVE-2025-1338](https://github.com/jxcaxtc/CVE-2025-1338)	<img alt="forks" src="https://img.shields.io/github/forks/jxcaxtc/CVE-2025-1338">	<img alt="stars" src="https://img.shields.io/github/stars/jxcaxtc/CVE-2025-1338">
