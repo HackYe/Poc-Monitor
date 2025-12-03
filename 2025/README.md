@@ -6901,6 +6901,7 @@
 > 
 - [blackklanpro-198/CVE-2025-13390-Exploit](https://github.com/blackklanpro-198/CVE-2025-13390-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/blackklanpro-198/CVE-2025-13390-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/blackklanpro-198/CVE-2025-13390-Exploit">
 - [sidmug3307/CVE-2025-13390-Exploit](https://github.com/sidmug3307/CVE-2025-13390-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sidmug3307/CVE-2025-13390-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sidmug3307/CVE-2025-13390-Exploit">
+- [d0n601/CVE-2025-13390](https://github.com/d0n601/CVE-2025-13390)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-13390">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-13390">
 
 ---
 ## CVE-2025-1338 ()
