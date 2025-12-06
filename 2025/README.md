@@ -2205,6 +2205,7 @@
 - [cypholab/evilact](https://github.com/cypholab/evilact)	<img alt="forks" src="https://img.shields.io/github/forks/cypholab/evilact">	<img alt="stars" src="https://img.shields.io/github/stars/cypholab/evilact">
 - [shren207/CVE-2025-55182](https://github.com/shren207/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/shren207/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/shren207/CVE-2025-55182">
 - [sumanrox/rschunter](https://github.com/sumanrox/rschunter)	<img alt="forks" src="https://img.shields.io/github/forks/sumanrox/rschunter">	<img alt="stars" src="https://img.shields.io/github/stars/sumanrox/rschunter">
+- [joaonevess/chain-reaction](https://github.com/joaonevess/chain-reaction)	<img alt="forks" src="https://img.shields.io/github/forks/joaonevess/chain-reaction">	<img alt="stars" src="https://img.shields.io/github/stars/joaonevess/chain-reaction">
 
 ---
 ## CVE-2025-54988 ()
