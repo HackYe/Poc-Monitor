@@ -2196,6 +2196,7 @@
 - [grp-ops/react2shell](https://github.com/grp-ops/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/grp-ops/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/grp-ops/react2shell">
 - [fankh/cve-2025-55182-test-lab-windows](https://github.com/fankh/cve-2025-55182-test-lab-windows)	<img alt="forks" src="https://img.shields.io/github/forks/fankh/cve-2025-55182-test-lab-windows">	<img alt="stars" src="https://img.shields.io/github/stars/fankh/cve-2025-55182-test-lab-windows">
 - [cypholab/evilact](https://github.com/cypholab/evilact)	<img alt="forks" src="https://img.shields.io/github/forks/cypholab/evilact">	<img alt="stars" src="https://img.shields.io/github/stars/cypholab/evilact">
+- [shren207/CVE-2025-55182](https://github.com/shren207/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/shren207/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/shren207/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
