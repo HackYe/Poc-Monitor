@@ -2225,6 +2225,8 @@
 - [philparzer/nextjs-react2shell-detect](https://github.com/philparzer/nextjs-react2shell-detect)	<img alt="forks" src="https://img.shields.io/github/forks/philparzer/nextjs-react2shell-detect">	<img alt="stars" src="https://img.shields.io/github/stars/philparzer/nextjs-react2shell-detect">
 - [alessiodos/react2shell-scanner](https://github.com/alessiodos/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/alessiodos/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/alessiodos/react2shell-scanner">
 - [mbanyamer/React2Shell](https://github.com/mbanyamer/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/React2Shell">
+- [orgito1015/CVE-2025-55182-RCE-Exploit](https://github.com/orgito1015/CVE-2025-55182-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/orgito1015/CVE-2025-55182-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/orgito1015/CVE-2025-55182-RCE-Exploit">
+- [Bashamega/react-CVE-2025-55182-fixer](https://github.com/Bashamega/react-CVE-2025-55182-fixer)	<img alt="forks" src="https://img.shields.io/github/forks/Bashamega/react-CVE-2025-55182-fixer">	<img alt="stars" src="https://img.shields.io/github/stars/Bashamega/react-CVE-2025-55182-fixer">
 
 ---
 ## CVE-2025-54988 ()
