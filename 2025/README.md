@@ -2266,6 +2266,7 @@
 - [DelvyGonzalez/react2shell-security-toolkit](https://github.com/DelvyGonzalez/react2shell-security-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/DelvyGonzalez/react2shell-security-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/DelvyGonzalez/react2shell-security-toolkit">
 - [ahmedshamsddin/CVE-2025-55182-Exploit](https://github.com/ahmedshamsddin/CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedshamsddin/CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedshamsddin/CVE-2025-55182-Exploit">
 - [jumodada/react-cve-2025-55182-demo](https://github.com/jumodada/react-cve-2025-55182-demo)	<img alt="forks" src="https://img.shields.io/github/forks/jumodada/react-cve-2025-55182-demo">	<img alt="stars" src="https://img.shields.io/github/stars/jumodada/react-cve-2025-55182-demo">
+- [LemonTeatw1/CVE-2025-55182-exploit](https://github.com/LemonTeatw1/CVE-2025-55182-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/LemonTeatw1/CVE-2025-55182-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/LemonTeatw1/CVE-2025-55182-exploit">
 
 ---
 ## CVE-2025-54988 ()
