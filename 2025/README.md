@@ -2324,6 +2324,9 @@
 - [lincemorado97/CVE-2025-55182_CVE-2025-66478](https://github.com/lincemorado97/CVE-2025-55182_CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/lincemorado97/CVE-2025-55182_CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/lincemorado97/CVE-2025-55182_CVE-2025-66478">
 - [justmadeid/CVE-2025-55182](https://github.com/justmadeid/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/justmadeid/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/justmadeid/CVE-2025-55182">
 - [TH-SecForge/CVE-2025-55182](https://github.com/TH-SecForge/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-55182">
+- [thekamran/CVE-2025-55182-Proof-of-Concept](https://github.com/thekamran/CVE-2025-55182-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/thekamran/CVE-2025-55182-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/thekamran/CVE-2025-55182-Proof-of-Concept">
+- [Night-have-dreams/CVE-2025-55182-PoC](https://github.com/Night-have-dreams/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Night-have-dreams/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Night-have-dreams/CVE-2025-55182-PoC">
+- [C00LN3T/React4Shell](https://github.com/C00LN3T/React4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/C00LN3T/React4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/C00LN3T/React4Shell">
 
 ---
 ## CVE-2025-54988 ()
