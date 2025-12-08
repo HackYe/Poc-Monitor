@@ -2341,6 +2341,8 @@
 - [Macaroniwdcheese/CVE-2025-55182-Lab](https://github.com/Macaroniwdcheese/CVE-2025-55182-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Macaroniwdcheese/CVE-2025-55182-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Macaroniwdcheese/CVE-2025-55182-Lab">
 - [LvMalware/CVE-2025-55182](https://github.com/LvMalware/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/LvMalware/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/LvMalware/CVE-2025-55182">
 - [HUAHUAI23/CVE-2025-55182-POC](https://github.com/HUAHUAI23/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/HUAHUAI23/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/HUAHUAI23/CVE-2025-55182-POC">
+- [yaupunal/CVE-2025-55182-scanner](https://github.com/yaupunal/CVE-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yaupunal/CVE-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yaupunal/CVE-2025-55182-scanner">
+- [cahyod/react2shell](https://github.com/cahyod/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/cahyod/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/cahyod/react2shell">
 
 ---
 ## CVE-2025-54988 ()
