@@ -466,6 +466,7 @@
 - [B1gh0rnn/CVE-2025-66516](https://github.com/B1gh0rnn/CVE-2025-66516)	<img alt="forks" src="https://img.shields.io/github/forks/B1gh0rnn/CVE-2025-66516">	<img alt="stars" src="https://img.shields.io/github/stars/B1gh0rnn/CVE-2025-66516">
 - [jessicasmithka/CVE-2025-66516-Exploit](https://github.com/jessicasmithka/CVE-2025-66516-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jessicasmithka/CVE-2025-66516-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jessicasmithka/CVE-2025-66516-Exploit">
 - [sitanshuforever/cve-2025-66516](https://github.com/sitanshuforever/cve-2025-66516)	<img alt="forks" src="https://img.shields.io/github/forks/sitanshuforever/cve-2025-66516">	<img alt="stars" src="https://img.shields.io/github/stars/sitanshuforever/cve-2025-66516">
+- [Ashwesker/Blackash-CVE-2025-66516-](https://github.com/Ashwesker/Blackash-CVE-2025-66516-)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-66516-">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-66516-">
 
 ---
 ## CVE-2025-66478 ()
@@ -2331,6 +2332,10 @@
 - [thekamran/CVE-2025-55182-Proof-of-Concept](https://github.com/thekamran/CVE-2025-55182-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/thekamran/CVE-2025-55182-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/thekamran/CVE-2025-55182-Proof-of-Concept">
 - [0xsj/CVE-2025-55182](https://github.com/0xsj/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xsj/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xsj/CVE-2025-55182">
 - [Syrins/CVE-2025-55182-React2Shell-RCE](https://github.com/Syrins/CVE-2025-55182-React2Shell-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Syrins/CVE-2025-55182-React2Shell-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Syrins/CVE-2025-55182-React2Shell-RCE">
+- [hamm0nz/react2shell-audit](https://github.com/hamm0nz/react2shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/hamm0nz/react2shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/hamm0nz/react2shell-audit">
+- [Benrich127N/react2shell_analyzer](https://github.com/Benrich127N/react2shell_analyzer)	<img alt="forks" src="https://img.shields.io/github/forks/Benrich127N/react2shell_analyzer">	<img alt="stars" src="https://img.shields.io/github/stars/Benrich127N/react2shell_analyzer">
+- [randarts/react-rce](https://github.com/randarts/react-rce)	<img alt="forks" src="https://img.shields.io/github/forks/randarts/react-rce">	<img alt="stars" src="https://img.shields.io/github/stars/randarts/react-rce">
+- [7amzahard/React2shell](https://github.com/7amzahard/React2shell)	<img alt="forks" src="https://img.shields.io/github/forks/7amzahard/React2shell">	<img alt="stars" src="https://img.shields.io/github/stars/7amzahard/React2shell">
 
 ---
 ## CVE-2025-54988 ()
