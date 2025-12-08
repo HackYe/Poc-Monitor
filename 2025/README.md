@@ -2361,6 +2361,7 @@
 - [horsenyet/RSC-Detect-CVE-2025-55182](https://github.com/horsenyet/RSC-Detect-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/horsenyet/RSC-Detect-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/horsenyet/RSC-Detect-CVE-2025-55182">
 - [FurkanKAYAPINAR/ReactNext2Shell](https://github.com/FurkanKAYAPINAR/ReactNext2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/ReactNext2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/ReactNext2Shell">
 - [AggressiveUser/React2Hell](https://github.com/AggressiveUser/React2Hell)	<img alt="forks" src="https://img.shields.io/github/forks/AggressiveUser/React2Hell">	<img alt="stars" src="https://img.shields.io/github/stars/AggressiveUser/React2Hell">
+- [LQTjim/next-bug-CVE-2025-55182](https://github.com/LQTjim/next-bug-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/LQTjim/next-bug-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/LQTjim/next-bug-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -7292,6 +7293,7 @@
 - [KrE80r/cve-2025-13486-vuln-setup](https://github.com/KrE80r/cve-2025-13486-vuln-setup)	<img alt="forks" src="https://img.shields.io/github/forks/KrE80r/cve-2025-13486-vuln-setup">	<img alt="stars" src="https://img.shields.io/github/stars/KrE80r/cve-2025-13486-vuln-setup">
 - [MataKucing-OFC/CVE-2025-13486](https://github.com/MataKucing-OFC/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/MataKucing-OFC/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/MataKucing-OFC/CVE-2025-13486">
 - [0xgh057r3c0n/CVE-2025-13486](https://github.com/0xgh057r3c0n/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-13486">
+- [pukixploit/CVE-2025-13486](https://github.com/pukixploit/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/pukixploit/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/pukixploit/CVE-2025-13486">
 
 ---
 ## CVE-2025-13390 ()
