@@ -524,6 +524,7 @@
 - [enesbuyuk/react2shell-security-tool](https://github.com/enesbuyuk/react2shell-security-tool)	<img alt="forks" src="https://img.shields.io/github/forks/enesbuyuk/react2shell-security-tool">	<img alt="stars" src="https://img.shields.io/github/stars/enesbuyuk/react2shell-security-tool">
 - [FurkanKAYAPINAR/React-Next-Scanner](https://github.com/FurkanKAYAPINAR/React-Next-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/React-Next-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/React-Next-Scanner">
 - [FurkanKAYAPINAR/ReactNext2Shell](https://github.com/FurkanKAYAPINAR/ReactNext2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/ReactNext2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/ReactNext2Shell">
+- [adrianhazgarcia/React4Shell](https://github.com/adrianhazgarcia/React4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/adrianhazgarcia/React4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/adrianhazgarcia/React4Shell">
 
 ---
 ## CVE-2025-66022 ()
@@ -2363,6 +2364,7 @@
 - [AggressiveUser/React2Hell](https://github.com/AggressiveUser/React2Hell)	<img alt="forks" src="https://img.shields.io/github/forks/AggressiveUser/React2Hell">	<img alt="stars" src="https://img.shields.io/github/stars/AggressiveUser/React2Hell">
 - [LQTjim/next-bug-CVE-2025-55182](https://github.com/LQTjim/next-bug-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/LQTjim/next-bug-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/LQTjim/next-bug-CVE-2025-55182">
 - [AliAbdollahiii/react2shell_detector](https://github.com/AliAbdollahiii/react2shell_detector)	<img alt="forks" src="https://img.shields.io/github/forks/AliAbdollahiii/react2shell_detector">	<img alt="stars" src="https://img.shields.io/github/stars/AliAbdollahiii/react2shell_detector">
+- [I3r1h0n/React2Shell](https://github.com/I3r1h0n/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/React2Shell">
 
 ---
 ## CVE-2025-54988 ()
