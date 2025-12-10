@@ -283,6 +283,7 @@
 ## CVE-2025-8061 ()
 > 
 - [symeonp/Lenovo-CVE-2025-8061](https://github.com/symeonp/Lenovo-CVE-2025-8061)	<img alt="forks" src="https://img.shields.io/github/forks/symeonp/Lenovo-CVE-2025-8061">	<img alt="stars" src="https://img.shields.io/github/stars/symeonp/Lenovo-CVE-2025-8061">
+- [spawn451/CVE-2025-8061-Exploit](https://github.com/spawn451/CVE-2025-8061-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/spawn451/CVE-2025-8061-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/spawn451/CVE-2025-8061-Exploit">
 
 ---
 ## CVE-2025-8018 ()
