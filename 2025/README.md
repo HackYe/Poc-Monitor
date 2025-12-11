@@ -1103,6 +1103,7 @@
 ## CVE-2025-62221 ()
 > 
 - [JeanKauffman1305/CVE-2025-62221-Exploit-](https://github.com/JeanKauffman1305/CVE-2025-62221-Exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/JeanKauffman1305/CVE-2025-62221-Exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/JeanKauffman1305/CVE-2025-62221-Exploit-">
+- [LoKinii/CVE-2025-62221-Exploit](https://github.com/LoKinii/CVE-2025-62221-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/LoKinii/CVE-2025-62221-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/LoKinii/CVE-2025-62221-Exploit">
 
 ---
 ## CVE-2025-62220 ()
@@ -2556,6 +2557,7 @@
 - [oscarmine/R2SAE](https://github.com/oscarmine/R2SAE)	<img alt="forks" src="https://img.shields.io/github/forks/oscarmine/R2SAE">	<img alt="stars" src="https://img.shields.io/github/stars/oscarmine/R2SAE">
 - [min8282/CVE-2025-55182](https://github.com/min8282/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/min8282/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/min8282/CVE-2025-55182">
 - [MoisesTapia/react2shell-metasploit](https://github.com/MoisesTapia/react2shell-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/MoisesTapia/react2shell-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/MoisesTapia/react2shell-metasploit">
+- [exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC](https://github.com/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC">
 
 ---
 ## CVE-2025-54988 ()
@@ -4828,7 +4830,7 @@
 > 
 - [crondenice/CVE-2025-34299](https://github.com/crondenice/CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/crondenice/CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/crondenice/CVE-2025-34299">
 - [rxerium/CVE-2025-34299](https://github.com/rxerium/CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-34299">
-- [B1ack4sh/Blackash-CVE-2025-34299](https://github.com/B1ack4sh/Blackash-CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-34299">
+- [Ashwesker/Blackash-CVE-2025-34299](https://github.com/Ashwesker/Blackash-CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-34299">
 - [Chocapikk/CVE-2025-34299](https://github.com/Chocapikk/CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-34299">
 - [KrE80r/CVE-2025-34299-lab](https://github.com/KrE80r/CVE-2025-34299-lab)	<img alt="forks" src="https://img.shields.io/github/forks/KrE80r/CVE-2025-34299-lab">	<img alt="stars" src="https://img.shields.io/github/stars/KrE80r/CVE-2025-34299-lab">
 
