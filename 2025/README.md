@@ -2152,6 +2152,11 @@
 - [5qu1n7/CVE-2025-55817](https://github.com/5qu1n7/CVE-2025-55817)	<img alt="forks" src="https://img.shields.io/github/forks/5qu1n7/CVE-2025-55817">	<img alt="stars" src="https://img.shields.io/github/stars/5qu1n7/CVE-2025-55817">
 
 ---
+## CVE-2025-55816 ()
+> 
+- [partywavesec/CVE-2025-55816](https://github.com/partywavesec/CVE-2025-55816)	<img alt="forks" src="https://img.shields.io/github/forks/partywavesec/CVE-2025-55816">	<img alt="stars" src="https://img.shields.io/github/stars/partywavesec/CVE-2025-55816">
+
+---
 ## CVE-2025-55780 ()
 > 
 - [ISH2YU/CVE-2025-55780](https://github.com/ISH2YU/CVE-2025-55780)	<img alt="forks" src="https://img.shields.io/github/forks/ISH2YU/CVE-2025-55780">	<img alt="stars" src="https://img.shields.io/github/stars/ISH2YU/CVE-2025-55780">
@@ -7554,6 +7559,11 @@
 - [MataKucing-OFC/CVE-2025-13486](https://github.com/MataKucing-OFC/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/MataKucing-OFC/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/MataKucing-OFC/CVE-2025-13486">
 - [0xgh057r3c0n/CVE-2025-13486](https://github.com/0xgh057r3c0n/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-13486">
 - [pukixploit/CVE-2025-13486](https://github.com/pukixploit/CVE-2025-13486)	<img alt="forks" src="https://img.shields.io/github/forks/pukixploit/CVE-2025-13486">	<img alt="stars" src="https://img.shields.io/github/stars/pukixploit/CVE-2025-13486">
+
+---
+## CVE-2025-13401 ()
+> 
+- [ciscocamelo/CVE-2025-13401-XSS-Stored](https://github.com/ciscocamelo/CVE-2025-13401-XSS-Stored)	<img alt="forks" src="https://img.shields.io/github/forks/ciscocamelo/CVE-2025-13401-XSS-Stored">	<img alt="stars" src="https://img.shields.io/github/stars/ciscocamelo/CVE-2025-13401-XSS-Stored">
 
 ---
 ## CVE-2025-13390 ()
