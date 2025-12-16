@@ -2763,6 +2763,8 @@
 - [itumo-arigatone/study-CVE-2025-55182](https://github.com/itumo-arigatone/study-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/itumo-arigatone/study-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/itumo-arigatone/study-CVE-2025-55182">
 - [EQSTLab/CVE-2025-55182](https://github.com/EQSTLab/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2025-55182">
 - [d0cnull/nextjs-CVE-2025-55182](https://github.com/d0cnull/nextjs-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/d0cnull/nextjs-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/d0cnull/nextjs-CVE-2025-55182">
+- [Geekujin/React2-PowerShell-CVE-Checker](https://github.com/Geekujin/React2-PowerShell-CVE-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/Geekujin/React2-PowerShell-CVE-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/Geekujin/React2-PowerShell-CVE-Checker">
+- [scumfrog/FiberBreak](https://github.com/scumfrog/FiberBreak)	<img alt="forks" src="https://img.shields.io/github/forks/scumfrog/FiberBreak">	<img alt="stars" src="https://img.shields.io/github/stars/scumfrog/FiberBreak">
 
 ---
 ## CVE-2025-54988 ()
