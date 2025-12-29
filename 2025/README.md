@@ -7753,6 +7753,12 @@
 - [DoTTak/CVE-2025-22783](https://github.com/DoTTak/CVE-2025-22783)	<img alt="forks" src="https://img.shields.io/github/forks/DoTTak/CVE-2025-22783">	<img alt="stars" src="https://img.shields.io/github/stars/DoTTak/CVE-2025-22783">
 
 ---
+## CVE-2025-22777 ()
+> 
+- [SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-](https://github.com/SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-">
+- [RandomRobbieBF/CVE-2025-22777](https://github.com/RandomRobbieBF/CVE-2025-22777)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-22777">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-22777">
+
+---
 ## CVE-2025-22710 ()
 > 
 - [DoTTak/CVE-2025-22710](https://github.com/DoTTak/CVE-2025-22710)	<img alt="forks" src="https://img.shields.io/github/forks/DoTTak/CVE-2025-22710">	<img alt="stars" src="https://img.shields.io/github/stars/DoTTak/CVE-2025-22710">
@@ -8207,7 +8213,7 @@
 ## CVE-2025-14558 ()
 > 
 - [JohannesLks/CVE-2025-14558](https://github.com/JohannesLks/CVE-2025-14558)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2025-14558">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2025-14558">
-- [Ashwesker/Blackash-CVE-2025-14558](https://github.com/Ashwesker/Blackash-CVE-2025-14558)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-14558">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-14558">
+- [Ashwesker/Ashwesker-CVE-2025-14558](https://github.com/Ashwesker/Ashwesker-CVE-2025-14558)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-14558">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-14558">
 
 ---
 ## CVE-2025-14440 ()
