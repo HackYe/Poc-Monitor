@@ -3067,6 +3067,7 @@
 - [KingHacker353/R2C-CVE-2025-55182-66478](https://github.com/KingHacker353/R2C-CVE-2025-55182-66478)	<img alt="forks" src="https://img.shields.io/github/forks/KingHacker353/R2C-CVE-2025-55182-66478">	<img alt="stars" src="https://img.shields.io/github/stars/KingHacker353/R2C-CVE-2025-55182-66478">
 - [MysticalHearts/CVE-2025-55182-React2Shell-RCE-Shell](https://github.com/MysticalHearts/CVE-2025-55182-React2Shell-RCE-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/MysticalHearts/CVE-2025-55182-React2Shell-RCE-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/MysticalHearts/CVE-2025-55182-React2Shell-RCE-Shell">
 - [MysticalHearts/mysticalhearts.github.io](https://github.com/MysticalHearts/mysticalhearts.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/MysticalHearts/mysticalhearts.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/MysticalHearts/mysticalhearts.github.io">
+- [amirali-ramezani/react2shell-CVE-2025-55182-](https://github.com/amirali-ramezani/react2shell-CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/amirali-ramezani/react2shell-CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/amirali-ramezani/react2shell-CVE-2025-55182-">
 
 ---
 ## CVE-2025-54988 ()
@@ -8132,6 +8133,7 @@
 - [franksec42/mongobleed-exploit-CVE-2025-14847](https://github.com/franksec42/mongobleed-exploit-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/franksec42/mongobleed-exploit-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/franksec42/mongobleed-exploit-CVE-2025-14847">
 - [lincemorado97/CVE-2025-14847](https://github.com/lincemorado97/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/lincemorado97/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/lincemorado97/CVE-2025-14847">
 - [kuyrathdaro/cve-2025-14847](https://github.com/kuyrathdaro/cve-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/cve-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/cve-2025-14847">
+- [Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847](https://github.com/Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847">
 
 ---
 ## CVE-2025-14765 ()
