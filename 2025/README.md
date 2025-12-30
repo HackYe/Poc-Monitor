@@ -3255,6 +3255,7 @@
 - [crondenice/CVE-2025-54236](https://github.com/crondenice/CVE-2025-54236)	<img alt="forks" src="https://img.shields.io/github/forks/crondenice/CVE-2025-54236">	<img alt="stars" src="https://img.shields.io/github/stars/crondenice/CVE-2025-54236">
 - [wubinworks/magento2-session-reaper-patch](https://github.com/wubinworks/magento2-session-reaper-patch)	<img alt="forks" src="https://img.shields.io/github/forks/wubinworks/magento2-session-reaper-patch">	<img alt="stars" src="https://img.shields.io/github/stars/wubinworks/magento2-session-reaper-patch">
 - [amalpvatayam67/day01-sessionreaper-lab](https://github.com/amalpvatayam67/day01-sessionreaper-lab)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day01-sessionreaper-lab">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day01-sessionreaper-lab">
+- [Baba01hacker666/cve-2025-54236](https://github.com/Baba01hacker666/cve-2025-54236)	<img alt="forks" src="https://img.shields.io/github/forks/Baba01hacker666/cve-2025-54236">	<img alt="stars" src="https://img.shields.io/github/stars/Baba01hacker666/cve-2025-54236">
 
 ---
 ## CVE-2025-5419 ()
@@ -3546,6 +3547,7 @@
 ## CVE-2025-52691 ()
 > 
 - [yt2w/CVE-2025-52691](https://github.com/yt2w/CVE-2025-52691)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-52691">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-52691">
+- [rxerium/CVE-2025-52691](https://github.com/rxerium/CVE-2025-52691)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-52691">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-52691">
 
 ---
 ## CVE-2025-52689 ()
