@@ -1660,6 +1660,11 @@
 - [GovindPalakkal/CVE-2025-61299_POC](https://github.com/GovindPalakkal/CVE-2025-61299_POC)	<img alt="forks" src="https://img.shields.io/github/forks/GovindPalakkal/CVE-2025-61299_POC">	<img alt="stars" src="https://img.shields.io/github/stars/GovindPalakkal/CVE-2025-61299_POC">
 
 ---
+## CVE-2025-61246 ()
+> 
+- [hackergovind/CVE-2025-61246](https://github.com/hackergovind/CVE-2025-61246)	<img alt="forks" src="https://img.shields.io/github/forks/hackergovind/CVE-2025-61246">	<img alt="stars" src="https://img.shields.io/github/stars/hackergovind/CVE-2025-61246">
+
+---
 ## CVE-2025-61229 ()
 > 
 - [graypixel2121/CVE-2025-61229](https://github.com/graypixel2121/CVE-2025-61229)	<img alt="forks" src="https://img.shields.io/github/forks/graypixel2121/CVE-2025-61229">	<img alt="stars" src="https://img.shields.io/github/stars/graypixel2121/CVE-2025-61229">
@@ -8457,6 +8462,7 @@
 - [blackklanpro-198/CVE-2025-13390-Exploit](https://github.com/blackklanpro-198/CVE-2025-13390-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/blackklanpro-198/CVE-2025-13390-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/blackklanpro-198/CVE-2025-13390-Exploit">
 - [sidmug3307/CVE-2025-13390-Exploit](https://github.com/sidmug3307/CVE-2025-13390-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sidmug3307/CVE-2025-13390-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sidmug3307/CVE-2025-13390-Exploit">
 - [d0n601/CVE-2025-13390](https://github.com/d0n601/CVE-2025-13390)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-13390">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-13390">
+- [Nxploited/CVE-2025-13390](https://github.com/Nxploited/CVE-2025-13390)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-13390">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-13390">
 
 ---
 ## CVE-2025-1338 ()
