@@ -8581,6 +8581,11 @@
 - [AN5I/cve-2025-12735-expr-eval-rce](https://github.com/AN5I/cve-2025-12735-expr-eval-rce)	<img alt="forks" src="https://img.shields.io/github/forks/AN5I/cve-2025-12735-expr-eval-rce">	<img alt="stars" src="https://img.shields.io/github/stars/AN5I/cve-2025-12735-expr-eval-rce">
 
 ---
+## CVE-2025-12674 ()
+> 
+- [Nxploited/CVE-2025-12674](https://github.com/Nxploited/CVE-2025-12674)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-12674">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-12674">
+
+---
 ## CVE-2025-12654 ()
 > 
 - [Kirbirls/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Kirbirls/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Kirbirls/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Kirbirls/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
