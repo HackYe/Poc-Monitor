@@ -6024,6 +6024,7 @@
 - [Epivalent/CVE-2025-32433-detection](https://github.com/Epivalent/CVE-2025-32433-detection)	<img alt="forks" src="https://img.shields.io/github/forks/Epivalent/CVE-2025-32433-detection">	<img alt="stars" src="https://img.shields.io/github/stars/Epivalent/CVE-2025-32433-detection">
 - [rizky412/CVE-2025-32433](https://github.com/rizky412/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/rizky412/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/rizky412/CVE-2025-32433">
 - [0x7556/CVE-2025-32433](https://github.com/0x7556/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2025-32433">
+- [ladosudeste/CVE-2025-3243](https://github.com/ladosudeste/CVE-2025-3243)	<img alt="forks" src="https://img.shields.io/github/forks/ladosudeste/CVE-2025-3243">	<img alt="stars" src="https://img.shields.io/github/stars/ladosudeste/CVE-2025-3243">
 
 ---
 ## CVE-2025-32429 ()
@@ -6684,6 +6685,7 @@
 - [congdong007/CVE-2025-29306_poc](https://github.com/congdong007/CVE-2025-29306_poc)	<img alt="forks" src="https://img.shields.io/github/forks/congdong007/CVE-2025-29306_poc">	<img alt="stars" src="https://img.shields.io/github/stars/congdong007/CVE-2025-29306_poc">
 - [B1ack4sh/Blackash-CVE-2025-29306](https://github.com/B1ack4sh/Blackash-CVE-2025-29306)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-29306">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-29306">
 - [amalpvatayam67/day06-foxcms-rce](https://github.com/amalpvatayam67/day06-foxcms-rce)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day06-foxcms-rce">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day06-foxcms-rce">
+- [mantanhacker/Mass-CVE-2025-29306](https://github.com/mantanhacker/Mass-CVE-2025-29306)	<img alt="forks" src="https://img.shields.io/github/forks/mantanhacker/Mass-CVE-2025-29306">	<img alt="stars" src="https://img.shields.io/github/stars/mantanhacker/Mass-CVE-2025-29306">
 
 ---
 ## CVE-2025-29279 ()
