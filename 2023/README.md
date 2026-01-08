@@ -3918,6 +3918,7 @@ prior to
 - [Dreamy-elfland/CVE-2023-36846](https://github.com/Dreamy-elfland/CVE-2023-36846)	<img alt="forks" src="https://img.shields.io/github/forks/Dreamy-elfland/CVE-2023-36846">	<img alt="stars" src="https://img.shields.io/github/stars/Dreamy-elfland/CVE-2023-36846">
 - [r3dcl1ff/CVE-2023-36844_Juniper_RCE](https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/r3dcl1ff/CVE-2023-36844_Juniper_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/r3dcl1ff/CVE-2023-36844_Juniper_RCE">
 - [Chocapikk/CVE-2023-36846](https://github.com/Chocapikk/CVE-2023-36846)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-36846">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-36846">
+- [iveresk/CVE-2023-36845-6-](https://github.com/iveresk/CVE-2023-36845-6-)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2023-36845-6-">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2023-36845-6-">
 
 ---
 ## CVE-2023-36845 (2023-08-17T20:15:00)
@@ -6047,7 +6048,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [Okaytc/minio_unauth_check](https://github.com/Okaytc/minio_unauth_check)	<img alt="forks" src="https://img.shields.io/github/forks/Okaytc/minio_unauth_check">	<img alt="stars" src="https://img.shields.io/github/stars/Okaytc/minio_unauth_check">
 - [MzzdToT/CVE-2023-28432](https://github.com/MzzdToT/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/MzzdToT/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/MzzdToT/CVE-2023-28432">
 - [acheiii/CVE-2023-28432](https://github.com/acheiii/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/acheiii/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/acheiii/CVE-2023-28432">
-- [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
+- [peiqiF4ck/WebFrameworkTools-5.5-enhance](https://github.com/peiqiF4ck/WebFrameworkTools-5.5-enhance)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.5-enhance">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.5-enhance">
 - [steponeerror/Cve-2023-28432-](https://github.com/steponeerror/Cve-2023-28432-)	<img alt="forks" src="https://img.shields.io/github/forks/steponeerror/Cve-2023-28432-">	<img alt="stars" src="https://img.shields.io/github/stars/steponeerror/Cve-2023-28432-">
 - [yuyongxr/minio_cve-2023-28432](https://github.com/yuyongxr/minio_cve-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/yuyongxr/minio_cve-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/yuyongxr/minio_cve-2023-28432">
 - [Cuerz/CVE-2023-28432](https://github.com/Cuerz/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/Cuerz/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/Cuerz/CVE-2023-28432">
@@ -6068,6 +6069,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [xk-mt/CVE-2023-28432](https://github.com/xk-mt/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/xk-mt/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/xk-mt/CVE-2023-28432">
 - [BitWiz4rd/CVE-2023-28432](https://github.com/BitWiz4rd/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/BitWiz4rd/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/BitWiz4rd/CVE-2023-28432">
 - [fhAnso/CVE-2023-28432](https://github.com/fhAnso/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/fhAnso/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/fhAnso/CVE-2023-28432">
+- [NET-Flowers/CVE-2023-28432](https://github.com/NET-Flowers/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/NET-Flowers/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/NET-Flowers/CVE-2023-28432">
 
 ---
 ## CVE-2023-28424 (2023-03-20T13:15:00)
