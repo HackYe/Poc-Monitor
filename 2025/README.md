@@ -8342,6 +8342,7 @@
 - [KingHacker353/CVE-2025-20393](https://github.com/KingHacker353/CVE-2025-20393)	<img alt="forks" src="https://img.shields.io/github/forks/KingHacker353/CVE-2025-20393">	<img alt="stars" src="https://img.shields.io/github/stars/KingHacker353/CVE-2025-20393">
 - [StasonJatham/cisco-sa-sma-attack-N9bf4](https://github.com/StasonJatham/cisco-sa-sma-attack-N9bf4)	<img alt="forks" src="https://img.shields.io/github/forks/StasonJatham/cisco-sa-sma-attack-N9bf4">	<img alt="stars" src="https://img.shields.io/github/stars/StasonJatham/cisco-sa-sma-attack-N9bf4">
 - [Ashwesker/Blackash-CVE-2025-20393](https://github.com/Ashwesker/Blackash-CVE-2025-20393)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-20393">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-20393">
+- [cyberdudebivash/CYBERDUDEBIVASH-Cisco-AsyncOS-CVE-2025-20393-Scanner](https://github.com/cyberdudebivash/CYBERDUDEBIVASH-Cisco-AsyncOS-CVE-2025-20393-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/cyberdudebivash/CYBERDUDEBIVASH-Cisco-AsyncOS-CVE-2025-20393-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/cyberdudebivash/CYBERDUDEBIVASH-Cisco-AsyncOS-CVE-2025-20393-Scanner">
 
 ---
 ## CVE-2025-20384 ()
