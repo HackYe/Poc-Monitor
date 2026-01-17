@@ -11,6 +11,11 @@
 - [Jvr2022/CVE-2026-23745](https://github.com/Jvr2022/CVE-2026-23745)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-23745">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-23745">
 
 ---
+## CVE-2026-23550 ()
+> 
+- [TheTorjanCaptain/CVE-2026-23550-PoC](https://github.com/TheTorjanCaptain/CVE-2026-23550-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheTorjanCaptain/CVE-2026-23550-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheTorjanCaptain/CVE-2026-23550-PoC">
+
+---
 ## CVE-2026-23478 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-23478](https://github.com/Ashwesker/Ashwesker-CVE-2026-23478)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-23478">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-23478">
