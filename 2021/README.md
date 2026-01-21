@@ -9109,6 +9109,7 @@
 - [bluetoothStrawberry/cve-2021-21425](https://github.com/bluetoothStrawberry/cve-2021-21425)	<img alt="forks" src="https://img.shields.io/github/forks/bluetoothStrawberry/cve-2021-21425">	<img alt="stars" src="https://img.shields.io/github/stars/bluetoothStrawberry/cve-2021-21425">
 - [CsEnox/CVE-2021-21425](https://github.com/CsEnox/CVE-2021-21425)	<img alt="forks" src="https://img.shields.io/github/forks/CsEnox/CVE-2021-21425">	<img alt="stars" src="https://img.shields.io/github/stars/CsEnox/CVE-2021-21425">
 - [frknktlca/GravCMS_Nmap_Script](https://github.com/frknktlca/GravCMS_Nmap_Script)	<img alt="forks" src="https://img.shields.io/github/forks/frknktlca/GravCMS_Nmap_Script">	<img alt="stars" src="https://img.shields.io/github/stars/frknktlca/GravCMS_Nmap_Script">
+- [afifudinmtop/CVE-2021-21425](https://github.com/afifudinmtop/CVE-2021-21425)	<img alt="forks" src="https://img.shields.io/github/forks/afifudinmtop/CVE-2021-21425">	<img alt="stars" src="https://img.shields.io/github/stars/afifudinmtop/CVE-2021-21425">
 
 ---
 ## CVE-2021-21424 ()
