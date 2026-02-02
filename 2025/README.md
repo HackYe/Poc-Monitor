@@ -1806,6 +1806,7 @@
 - [AshrafZaryouh/CVE-2025-61882-Executive-Summary](https://github.com/AshrafZaryouh/CVE-2025-61882-Executive-Summary)	<img alt="forks" src="https://img.shields.io/github/forks/AshrafZaryouh/CVE-2025-61882-Executive-Summary">	<img alt="stars" src="https://img.shields.io/github/stars/AshrafZaryouh/CVE-2025-61882-Executive-Summary">
 - [GhoStZA-debug/CVE-2025-61882](https://github.com/GhoStZA-debug/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/GhoStZA-debug/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/GhoStZA-debug/CVE-2025-61882">
 - [Zhert-lab/CVE-2025-61882-CVE-2025-61884](https://github.com/Zhert-lab/CVE-2025-61882-CVE-2025-61884)	<img alt="forks" src="https://img.shields.io/github/forks/Zhert-lab/CVE-2025-61882-CVE-2025-61884">	<img alt="stars" src="https://img.shields.io/github/stars/Zhert-lab/CVE-2025-61882-CVE-2025-61884">
+- [222dff-afk/Blackash-CVE-2025-61882](https://github.com/222dff-afk/Blackash-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/222dff-afk/Blackash-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/222dff-afk/Blackash-CVE-2025-61882">
 
 ---
 ## CVE-2025-61777 ()
@@ -6090,6 +6091,7 @@
 - [uziii2208/CVE-2025-33073](https://github.com/uziii2208/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/uziii2208/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/uziii2208/CVE-2025-33073">
 - [Ashwesker/Ashwesker-CVE-2025-33073](https://github.com/Ashwesker/Ashwesker-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-33073">
 - [Iddygodwin/CVE-2025-33073](https://github.com/Iddygodwin/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Iddygodwin/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Iddygodwin/CVE-2025-33073">
+- [irjfifndn-prog/Blackash-CVE-2025-33073](https://github.com/irjfifndn-prog/Blackash-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/irjfifndn-prog/Blackash-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/irjfifndn-prog/Blackash-CVE-2025-33073">
 
 ---
 ## CVE-2025-33053 ()
