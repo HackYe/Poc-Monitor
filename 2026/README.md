@@ -125,6 +125,8 @@
 - [Good123321-bot/good123321-bot.github.io](https://github.com/Good123321-bot/good123321-bot.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Good123321-bot/good123321-bot.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Good123321-bot/good123321-bot.github.io">
 - [SeptembersEND/CVE--2026-24061](https://github.com/SeptembersEND/CVE--2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/SeptembersEND/CVE--2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/SeptembersEND/CVE--2026-24061">
 - [franckferman/CVE_2026_24061_PoC](https://github.com/franckferman/CVE_2026_24061_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/franckferman/CVE_2026_24061_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/franckferman/CVE_2026_24061_PoC">
+- [Moxxic1/moxxic1.github.io](https://github.com/Moxxic1/moxxic1.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Moxxic1/moxxic1.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Moxxic1/moxxic1.github.io">
+- [Moxxic1/Tell-Me-Root](https://github.com/Moxxic1/Tell-Me-Root)	<img alt="forks" src="https://img.shields.io/github/forks/Moxxic1/Tell-Me-Root">	<img alt="stars" src="https://img.shields.io/github/stars/Moxxic1/Tell-Me-Root">
 
 ---
 ## CVE-2026-2406 ()
