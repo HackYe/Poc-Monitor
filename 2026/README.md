@@ -121,6 +121,10 @@
 - [0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061](https://github.com/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/0xXyc/telnet-inetutils-auth-bypass-CVE-2026-24061">
 - [ridpath/Terrminus-CVE-2026-2406](https://github.com/ridpath/Terrminus-CVE-2026-2406)	<img alt="forks" src="https://img.shields.io/github/forks/ridpath/Terrminus-CVE-2026-2406">	<img alt="stars" src="https://img.shields.io/github/stars/ridpath/Terrminus-CVE-2026-2406">
 - [ibrahmsql/CVE-2026-24061-PoC](https://github.com/ibrahmsql/CVE-2026-24061-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2026-24061-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2026-24061-PoC">
+- [Good123321-bot/CVE-2026-24061-POC](https://github.com/Good123321-bot/CVE-2026-24061-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Good123321-bot/CVE-2026-24061-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Good123321-bot/CVE-2026-24061-POC">
+- [Good123321-bot/good123321-bot.github.io](https://github.com/Good123321-bot/good123321-bot.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Good123321-bot/good123321-bot.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Good123321-bot/good123321-bot.github.io">
+- [SeptembersEND/CVE--2026-24061](https://github.com/SeptembersEND/CVE--2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/SeptembersEND/CVE--2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/SeptembersEND/CVE--2026-24061">
+- [franckferman/CVE_2026_24061_PoC](https://github.com/franckferman/CVE_2026_24061_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/franckferman/CVE_2026_24061_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/franckferman/CVE_2026_24061_PoC">
 
 ---
 ## CVE-2026-2406 ()
