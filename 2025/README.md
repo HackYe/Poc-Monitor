@@ -2163,6 +2163,7 @@
 - [phamdinhquy2512/CVE-2025-6019-Exploitation](https://github.com/phamdinhquy2512/CVE-2025-6019-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/phamdinhquy2512/CVE-2025-6019-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/phamdinhquy2512/CVE-2025-6019-Exploitation">
 - [0x5chltz/CVE-2025-6019](https://github.com/0x5chltz/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/0x5chltz/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/0x5chltz/CVE-2025-6019">
 - [AzureADTrent/CVE-2025-6018-and-CVE-2025-6019-Privilege-Escalation](https://github.com/AzureADTrent/CVE-2025-6018-and-CVE-2025-6019-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2025-6018-and-CVE-2025-6019-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2025-6018-and-CVE-2025-6019-Privilege-Escalation">
+- [symphony2colour/CVE-2025-6019-udisks-lpe-no-image](https://github.com/symphony2colour/CVE-2025-6019-udisks-lpe-no-image)	<img alt="forks" src="https://img.shields.io/github/forks/symphony2colour/CVE-2025-6019-udisks-lpe-no-image">	<img alt="stars" src="https://img.shields.io/github/stars/symphony2colour/CVE-2025-6019-udisks-lpe-no-image">
 
 ---
 ## CVE-2025-60188 ()
