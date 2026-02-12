@@ -1860,6 +1860,7 @@
 - [Zhert-lab/CVE-2025-61882-CVE-2025-61884](https://github.com/Zhert-lab/CVE-2025-61882-CVE-2025-61884)	<img alt="forks" src="https://img.shields.io/github/forks/Zhert-lab/CVE-2025-61882-CVE-2025-61884">	<img alt="stars" src="https://img.shields.io/github/stars/Zhert-lab/CVE-2025-61882-CVE-2025-61884">
 - [222dff-afk/Blackash-CVE-2025-61882](https://github.com/222dff-afk/Blackash-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/222dff-afk/Blackash-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/222dff-afk/Blackash-CVE-2025-61882">
 - [George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE](https://github.com/George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-61882-Oracle-BI-Publisher-RCE">
+- [sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study](https://github.com/sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study)	<img alt="forks" src="https://img.shields.io/github/forks/sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study">	<img alt="stars" src="https://img.shields.io/github/stars/sid-203/Enterprise-Information-Security-Risk-Assessment-Oracle-E-Business-Suite-Case-Study">
 
 ---
 ## CVE-2025-61777 ()
@@ -2193,6 +2194,7 @@
 - [0rionCollector/Exploit-Chain-CVE-2025-6018-6019](https://github.com/0rionCollector/Exploit-Chain-CVE-2025-6018-6019)	<img alt="forks" src="https://img.shields.io/github/forks/0rionCollector/Exploit-Chain-CVE-2025-6018-6019">	<img alt="stars" src="https://img.shields.io/github/stars/0rionCollector/Exploit-Chain-CVE-2025-6018-6019">
 - [MichaelVenturella/CVE-2025-6018-6019-PoC](https://github.com/MichaelVenturella/CVE-2025-6018-6019-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelVenturella/CVE-2025-6018-6019-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelVenturella/CVE-2025-6018-6019-PoC">
 - [matesz44/CVE-2025-6018-19](https://github.com/matesz44/CVE-2025-6018-19)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-6018-19">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-6018-19">
+- [DesertDemons/CVE-2025-6018-6019](https://github.com/DesertDemons/CVE-2025-6018-6019)	<img alt="forks" src="https://img.shields.io/github/forks/DesertDemons/CVE-2025-6018-6019">	<img alt="stars" src="https://img.shields.io/github/stars/DesertDemons/CVE-2025-6018-6019">
 
 ---
 ## CVE-2025-60021 ()
