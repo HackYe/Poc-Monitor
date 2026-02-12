@@ -568,6 +568,7 @@
 - [patchpoint/CVE-2026-20841](https://github.com/patchpoint/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/patchpoint/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/patchpoint/CVE-2026-20841">
 - [atiilla/CVE-2026-20841](https://github.com/atiilla/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-20841">
 - [dogukankurnaz/CVE-2026-20841-PoC](https://github.com/dogukankurnaz/CVE-2026-20841-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/dogukankurnaz/CVE-2026-20841-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/dogukankurnaz/CVE-2026-20841-PoC">
+- [SecureWithUmer/CVE-2026-20841](https://github.com/SecureWithUmer/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/SecureWithUmer/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/SecureWithUmer/CVE-2026-20841">
 
 ---
 ## CVE-2026-20805 ()
