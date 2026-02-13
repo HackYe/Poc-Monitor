@@ -2172,6 +2172,9 @@
 - [matesz44/CVE-2025-6018-19](https://github.com/matesz44/CVE-2025-6018-19)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-6018-19">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-6018-19">
 - [MichaelVenturella/CVE-2025-6018-6019-PoC](https://github.com/MichaelVenturella/CVE-2025-6018-6019-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelVenturella/CVE-2025-6018-6019-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelVenturella/CVE-2025-6018-6019-PoC">
 - [muyuanlove/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit](https://github.com/muyuanlove/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/muyuanlove/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/muyuanlove/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit">
+- [HexRazor/CVE-2025-6019](https://github.com/HexRazor/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/HexRazor/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/HexRazor/CVE-2025-6019">
+- [localh0ste/CVE-2025-6018-and-CVE-2025-6019](https://github.com/localh0ste/CVE-2025-6018-and-CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/localh0ste/CVE-2025-6018-and-CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/localh0ste/CVE-2025-6018-and-CVE-2025-6019">
+- [DesertDemons/CVE-2025-6018-6019](https://github.com/DesertDemons/CVE-2025-6018-6019)	<img alt="forks" src="https://img.shields.io/github/forks/DesertDemons/CVE-2025-6018-6019">	<img alt="stars" src="https://img.shields.io/github/stars/DesertDemons/CVE-2025-6018-6019">
 
 ---
 ## CVE-2025-60188 ()
