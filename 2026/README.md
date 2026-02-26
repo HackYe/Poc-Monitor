@@ -128,6 +128,11 @@
 - [ali-py3/exploi-CVE-2026-2670](https://github.com/ali-py3/exploi-CVE-2026-2670)	<img alt="forks" src="https://img.shields.io/github/forks/ali-py3/exploi-CVE-2026-2670">	<img alt="stars" src="https://img.shields.io/github/stars/ali-py3/exploi-CVE-2026-2670">
 
 ---
+## CVE-2026-2636 ()
+> 
+- [oxfemale/CVE-2026-2636_PoC](https://github.com/oxfemale/CVE-2026-2636_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/oxfemale/CVE-2026-2636_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/oxfemale/CVE-2026-2636_PoC">
+
+---
 ## CVE-2026-26335 ()
 > 
 - [mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE](https://github.com/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26335-Calero-VeraSMART-RCE">
@@ -559,6 +564,8 @@
 - [cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector](https://github.com/cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/cyberdudebivash/CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector">
 - [O99099O/By-Poloss..-..CVE-2026-23550](https://github.com/O99099O/By-Poloss..-..CVE-2026-23550)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/By-Poloss..-..CVE-2026-23550">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/By-Poloss..-..CVE-2026-23550">
 - [DedsecTeam-BlackHat/CVE-2026-23550](https://github.com/DedsecTeam-BlackHat/CVE-2026-23550)	<img alt="forks" src="https://img.shields.io/github/forks/DedsecTeam-BlackHat/CVE-2026-23550">	<img alt="stars" src="https://img.shields.io/github/stars/DedsecTeam-BlackHat/CVE-2026-23550">
+- [epsilonpoint88-glitch/EpSiLoNPoInT-](https://github.com/epsilonpoint88-glitch/EpSiLoNPoInT-)	<img alt="forks" src="https://img.shields.io/github/forks/epsilonpoint88-glitch/EpSiLoNPoInT-">	<img alt="stars" src="https://img.shields.io/github/stars/epsilonpoint88-glitch/EpSiLoNPoInT-">
+- [dzmind2312/Mass-CVE-2026-23550-Exploit](https://github.com/dzmind2312/Mass-CVE-2026-23550-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dzmind2312/Mass-CVE-2026-23550-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dzmind2312/Mass-CVE-2026-23550-Exploit">
 
 ---
 ## CVE-2026-23478 ()
