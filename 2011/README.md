@@ -96,6 +96,8 @@
 ## CVE-2011-1473 ()
 > 
 - [khaledibnalwalid/CVE-2011-1473-POC](https://github.com/khaledibnalwalid/CVE-2011-1473-POC)	<img alt="forks" src="https://img.shields.io/github/forks/khaledibnalwalid/CVE-2011-1473-POC">	<img alt="stars" src="https://img.shields.io/github/stars/khaledibnalwalid/CVE-2011-1473-POC">
+- [zjt674449039/cve-2011-1473](https://github.com/zjt674449039/cve-2011-1473)	<img alt="forks" src="https://img.shields.io/github/forks/zjt674449039/cve-2011-1473">	<img alt="stars" src="https://img.shields.io/github/stars/zjt674449039/cve-2011-1473">
+- [XDLDCG/bash-tls-reneg-attack](https://github.com/XDLDCG/bash-tls-reneg-attack)	<img alt="forks" src="https://img.shields.io/github/forks/XDLDCG/bash-tls-reneg-attack">	<img alt="stars" src="https://img.shields.io/github/stars/XDLDCG/bash-tls-reneg-attack">
 
 ---
 ## CVE-2011-1249 (2011-06-16T20:55:00)
