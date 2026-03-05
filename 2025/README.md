@@ -3734,7 +3734,7 @@
 - [predyy/totorum](https://github.com/predyy/totorum)	<img alt="forks" src="https://img.shields.io/github/forks/predyy/totorum">	<img alt="stars" src="https://img.shields.io/github/stars/predyy/totorum">
 - [DeDnY/CVE-2025-55182-in-docker](https://github.com/DeDnY/CVE-2025-55182-in-docker)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-in-docker">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-in-docker">
 - [H4R335HR/reactshell](https://github.com/H4R335HR/reactshell)	<img alt="forks" src="https://img.shields.io/github/forks/H4R335HR/reactshell">	<img alt="stars" src="https://img.shields.io/github/stars/H4R335HR/reactshell">
-- [zaryouhashraf/CVE-2025-55182](https://github.com/zaryouhashraf/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2025-55182">
+- [0xAshwesker/CVE-2025-55182](https://github.com/0xAshwesker/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2025-55182">
 - [alptexans/RSC-Detect-CVE-2025-55182](https://github.com/alptexans/RSC-Detect-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/alptexans/RSC-Detect-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/alptexans/RSC-Detect-CVE-2025-55182">
 - [Yusril-git/OWASP-Detection-Lab](https://github.com/Yusril-git/OWASP-Detection-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Yusril-git/OWASP-Detection-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Yusril-git/OWASP-Detection-Lab">
 - [revasec/CVE-2025-55182-Interactive-mode](https://github.com/revasec/CVE-2025-55182-Interactive-mode)	<img alt="forks" src="https://img.shields.io/github/forks/revasec/CVE-2025-55182-Interactive-mode">	<img alt="stars" src="https://img.shields.io/github/stars/revasec/CVE-2025-55182-Interactive-mode">
@@ -6661,7 +6661,8 @@
 - [SpycioKon/CVE-2025-32463](https://github.com/SpycioKon/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/SpycioKon/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/SpycioKon/CVE-2025-32463">
 - [vpr-labs/CVE-2025-32463](https://github.com/vpr-labs/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/vpr-labs/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/vpr-labs/CVE-2025-32463">
 - [danilo1992-sys/CVE-2025-32463](https://github.com/danilo1992-sys/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/danilo1992-sys/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/danilo1992-sys/CVE-2025-32463">
-- [zaryouhashraf/CVE-2025-32463](https://github.com/zaryouhashraf/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2025-32463">
+- [0xAshwesker/CVE-2025-32463](https://github.com/0xAshwesker/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2025-32463">
+- [yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab](https://github.com/yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab">
 
 ---
 ## CVE-2025-32462 ()
