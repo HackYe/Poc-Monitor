@@ -49,6 +49,11 @@
 - [George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098](https://github.com/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">
 
 ---
+## CVE-2026-30863 ()
+> 
+- [Worthes/CVE-2026-30863-Exploit](https://github.com/Worthes/CVE-2026-30863-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Worthes/CVE-2026-30863-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Worthes/CVE-2026-30863-Exploit">
+
+---
 ## CVE-2026-3062 ()
 > 
 - [z3r0h3ro/CVE-2026-3062-chain](https://github.com/z3r0h3ro/CVE-2026-3062-chain)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-3062-chain">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-3062-chain">
@@ -779,9 +784,10 @@
 - [gglessner/cve_2026_21962_scanner](https://github.com/gglessner/cve_2026_21962_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gglessner/cve_2026_21962_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gglessner/cve_2026_21962_scanner">
 - [gglessner/cve_2026_21962_scanner](https://github.com/gglessner/cve_2026_21962_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gglessner/cve_2026_21962_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gglessner/cve_2026_21962_scanner">
 - [ThumpBo/CVE-2026-21962](https://github.com/ThumpBo/CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/ThumpBo/CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/ThumpBo/CVE-2026-21962">
-- [gregk4sec/CVE-2026-21962](https://github.com/gregk4sec/CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2026-21962">
+- [gregk4sec/CVE-2026-21962-o](https://github.com/gregk4sec/CVE-2026-21962-o)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2026-21962-o">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2026-21962-o">
 - [George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-](https://github.com/George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-">
 - [gregk4sec/cve-2026-21962](https://github.com/gregk4sec/cve-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/cve-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/cve-2026-21962">
+- [boroeurnprach/Ashwesker-CVE-2026-21962](https://github.com/boroeurnprach/Ashwesker-CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/Ashwesker-CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/Ashwesker-CVE-2026-21962">
 
 ---
 ## CVE-2026-21957 ()
