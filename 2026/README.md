@@ -269,6 +269,11 @@
 - [mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE](https://github.com/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26030-Microsoft-Semantic-Kernel-1.39.4-RCE">
 
 ---
+## CVE-2026-26026 ()
+> 
+- [Ne0re0/CVE-2026-26026-Exploit-PoC](https://github.com/Ne0re0/CVE-2026-26026-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ne0re0/CVE-2026-26026-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ne0re0/CVE-2026-26026-Exploit-PoC">
+
+---
 ## CVE-2026-26012 ()
 > 
 - [Dulieno/CVE-2026-26012](https://github.com/Dulieno/CVE-2026-26012)	<img alt="forks" src="https://img.shields.io/github/forks/Dulieno/CVE-2026-26012">	<img alt="stars" src="https://img.shields.io/github/stars/Dulieno/CVE-2026-26012">
@@ -382,6 +387,8 @@
 - [adibirzu/openclaw-security-monitor](https://github.com/adibirzu/openclaw-security-monitor)	<img alt="forks" src="https://img.shields.io/github/forks/adibirzu/openclaw-security-monitor">	<img alt="stars" src="https://img.shields.io/github/stars/adibirzu/openclaw-security-monitor">
 - [ethiack/moltbot-1click-rce](https://github.com/ethiack/moltbot-1click-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ethiack/moltbot-1click-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ethiack/moltbot-1click-rce">
 - [EQSTLab/CVE-2026-25253](https://github.com/EQSTLab/CVE-2026-25253)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-25253">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-25253">
+- [FrigateCaptain/openclaw_vulnerabilities_and_solutions](https://github.com/FrigateCaptain/openclaw_vulnerabilities_and_solutions)	<img alt="forks" src="https://img.shields.io/github/forks/FrigateCaptain/openclaw_vulnerabilities_and_solutions">	<img alt="stars" src="https://img.shields.io/github/stars/FrigateCaptain/openclaw_vulnerabilities_and_solutions">
+- [Ckokoski/moatbot-security](https://github.com/Ckokoski/moatbot-security)	<img alt="forks" src="https://img.shields.io/github/forks/Ckokoski/moatbot-security">	<img alt="stars" src="https://img.shields.io/github/stars/Ckokoski/moatbot-security">
 
 ---
 ## CVE-2026-25242 ()
