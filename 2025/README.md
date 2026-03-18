@@ -3220,6 +3220,7 @@
 - [luisyapura/Analisis-y-Explotacion-de-CVE-2025-5548](https://github.com/luisyapura/Analisis-y-Explotacion-de-CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/luisyapura/Analisis-y-Explotacion-de-CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/luisyapura/Analisis-y-Explotacion-de-CVE-2025-5548">
 - [PopClom/CVE-2025-5548](https://github.com/PopClom/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/PopClom/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/PopClom/CVE-2025-5548">
 - [x3nt4ur0/CVE-2025-5548](https://github.com/x3nt4ur0/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/x3nt4ur0/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/x3nt4ur0/CVE-2025-5548">
+- [FKShield/CVE-2025-5548](https://github.com/FKShield/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/FKShield/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/FKShield/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
