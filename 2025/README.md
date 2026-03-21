@@ -4211,6 +4211,7 @@
 - [Cameloo1/sharepoint-toolshell-micro-postmortem](https://github.com/Cameloo1/sharepoint-toolshell-micro-postmortem)	<img alt="forks" src="https://img.shields.io/github/forks/Cameloo1/sharepoint-toolshell-micro-postmortem">	<img alt="stars" src="https://img.shields.io/github/stars/Cameloo1/sharepoint-toolshell-micro-postmortem">
 - [anwakub/CVE-2025-53770](https://github.com/anwakub/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/anwakub/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/anwakub/CVE-2025-53770">
 - [rbctee/CVE-2025-53770](https://github.com/rbctee/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/rbctee/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/rbctee/CVE-2025-53770">
+- [J4ck3LSyN-Gen2/CVE-2025-53770](https://github.com/J4ck3LSyN-Gen2/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2025-53770">
 
 ---
 ## CVE-2025-53744 ()
