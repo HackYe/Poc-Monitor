@@ -556,6 +556,7 @@
 ## CVE-2026-26198 ()
 > 
 - [blackhatlegend/CVE-2026-26198](https://github.com/blackhatlegend/CVE-2026-26198)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-26198">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-26198">
+- [sergicortesabadia/CVE-2026-26198-analysis](https://github.com/sergicortesabadia/CVE-2026-26198-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/sergicortesabadia/CVE-2026-26198-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/sergicortesabadia/CVE-2026-26198-analysis">
 
 ---
 ## CVE-2026-26030 ()
@@ -1040,6 +1041,7 @@
 - [fckoo/mcpjaminspector-unauth-rce](https://github.com/fckoo/mcpjaminspector-unauth-rce)	<img alt="forks" src="https://img.shields.io/github/forks/fckoo/mcpjaminspector-unauth-rce">	<img alt="stars" src="https://img.shields.io/github/stars/fckoo/mcpjaminspector-unauth-rce">
 - [InzegoSec/CVE-2026-23744](https://github.com/InzegoSec/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/InzegoSec/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/InzegoSec/CVE-2026-23744">
 - [z4yd3/PoC-CVE-2026-23744](https://github.com/z4yd3/PoC-CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/z4yd3/PoC-CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/z4yd3/PoC-CVE-2026-23744">
+- [yassertioursi/htb-kobold-writeup](https://github.com/yassertioursi/htb-kobold-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/yassertioursi/htb-kobold-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/yassertioursi/htb-kobold-writeup">
 
 ---
 ## CVE-2026-23723 ()
