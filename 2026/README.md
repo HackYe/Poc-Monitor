@@ -864,6 +864,11 @@
 - [p3Nt3st3r-sTAr/CVE-2026-2413-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-2413-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-2413-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-2413-POC">
 
 ---
+## CVE-2026-24126 ()
+> 
+- [alexb616/Weblate-CVE-2026-24126](https://github.com/alexb616/Weblate-CVE-2026-24126)	<img alt="forks" src="https://img.shields.io/github/forks/alexb616/Weblate-CVE-2026-24126">	<img alt="stars" src="https://img.shields.io/github/stars/alexb616/Weblate-CVE-2026-24126">
+
+---
 ## CVE-2026-24061 ()
 > 
 - [TryA9ain/CVE-2026-24061](https://github.com/TryA9ain/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/TryA9ain/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/TryA9ain/CVE-2026-24061">
@@ -1045,6 +1050,7 @@
 ## CVE-2026-23745 ()
 > 
 - [Jvr2022/CVE-2026-23745](https://github.com/Jvr2022/CVE-2026-23745)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-23745">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-23745">
+- [Novem13th/CVE-2026-23745-via-graphql-DEMO](https://github.com/Novem13th/CVE-2026-23745-via-graphql-DEMO)	<img alt="forks" src="https://img.shields.io/github/forks/Novem13th/CVE-2026-23745-via-graphql-DEMO">	<img alt="stars" src="https://img.shields.io/github/stars/Novem13th/CVE-2026-23745-via-graphql-DEMO">
 
 ---
 ## CVE-2026-23744 ()
