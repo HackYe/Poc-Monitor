@@ -1285,6 +1285,7 @@
 - [Liquid1998/Variatype.htb-CVE-2025-66034](https://github.com/Liquid1998/Variatype.htb-CVE-2025-66034)	<img alt="forks" src="https://img.shields.io/github/forks/Liquid1998/Variatype.htb-CVE-2025-66034">	<img alt="stars" src="https://img.shields.io/github/stars/Liquid1998/Variatype.htb-CVE-2025-66034">
 - [d0x-awrqxavc/CVE-2025-66034](https://github.com/d0x-awrqxavc/CVE-2025-66034)	<img alt="forks" src="https://img.shields.io/github/forks/d0x-awrqxavc/CVE-2025-66034">	<img alt="stars" src="https://img.shields.io/github/stars/d0x-awrqxavc/CVE-2025-66034">
 - [v3cn4x00/POC-CVE-2025-66034](https://github.com/v3cn4x00/POC-CVE-2025-66034)	<img alt="forks" src="https://img.shields.io/github/forks/v3cn4x00/POC-CVE-2025-66034">	<img alt="stars" src="https://img.shields.io/github/stars/v3cn4x00/POC-CVE-2025-66034">
+- [4nuxd/CVE-2025-66034](https://github.com/4nuxd/CVE-2025-66034)	<img alt="forks" src="https://img.shields.io/github/forks/4nuxd/CVE-2025-66034">	<img alt="stars" src="https://img.shields.io/github/stars/4nuxd/CVE-2025-66034">
 
 ---
 ## CVE-2025-66022 ()
@@ -7183,6 +7184,11 @@
 - [hackmelocal/CVE-2025-31486-Simulation](https://github.com/hackmelocal/CVE-2025-31486-Simulation)	<img alt="forks" src="https://img.shields.io/github/forks/hackmelocal/CVE-2025-31486-Simulation">	<img alt="stars" src="https://img.shields.io/github/stars/hackmelocal/CVE-2025-31486-Simulation">
 - [nkuty/CVE-2025-30208-31125-31486-32395](https://github.com/nkuty/CVE-2025-30208-31125-31486-32395)	<img alt="forks" src="https://img.shields.io/github/forks/nkuty/CVE-2025-30208-31125-31486-32395">	<img alt="stars" src="https://img.shields.io/github/stars/nkuty/CVE-2025-30208-31125-31486-32395">
 - [hackmelocal/CVE-2025-31486-Simulation](https://github.com/hackmelocal/CVE-2025-31486-Simulation)	<img alt="forks" src="https://img.shields.io/github/forks/hackmelocal/CVE-2025-31486-Simulation">	<img alt="stars" src="https://img.shields.io/github/stars/hackmelocal/CVE-2025-31486-Simulation">
+
+---
+## CVE-2025-31337 ()
+> 
+- [1numak1/CVE-2025-31337](https://github.com/1numak1/CVE-2025-31337)	<img alt="forks" src="https://img.shields.io/github/forks/1numak1/CVE-2025-31337">	<img alt="stars" src="https://img.shields.io/github/stars/1numak1/CVE-2025-31337">
 
 ---
 ## CVE-2025-31324 ()
