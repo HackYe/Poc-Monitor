@@ -7190,6 +7190,7 @@
 ## CVE-2025-31337 ()
 > 
 - [1numak1/CVE-2025-31337](https://github.com/1numak1/CVE-2025-31337)	<img alt="forks" src="https://img.shields.io/github/forks/1numak1/CVE-2025-31337">	<img alt="stars" src="https://img.shields.io/github/stars/1numak1/CVE-2025-31337">
+- [coleleavitt/AAMVA-PDF417-Vulnerability-Research](https://github.com/coleleavitt/AAMVA-PDF417-Vulnerability-Research)	<img alt="forks" src="https://img.shields.io/github/forks/coleleavitt/AAMVA-PDF417-Vulnerability-Research">	<img alt="stars" src="https://img.shields.io/github/stars/coleleavitt/AAMVA-PDF417-Vulnerability-Research">
 
 ---
 ## CVE-2025-31324 ()
