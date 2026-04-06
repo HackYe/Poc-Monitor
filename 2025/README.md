@@ -4967,6 +4967,7 @@
 - [0xBlackash/CVE-2025-49844](https://github.com/0xBlackash/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-49844">
 - [Cilectiy/CVE-2025-49844](https://github.com/Cilectiy/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Cilectiy/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Cilectiy/CVE-2025-49844">
 - [zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell](https://github.com/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell)	<img alt="forks" src="https://img.shields.io/github/forks/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell">	<img alt="stars" src="https://img.shields.io/github/stars/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell">
+- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2025-49844">
 
 ---
 ## CVE-2025-49752 ()
@@ -9647,6 +9648,7 @@
 - [im-hanzou/mongobleed](https://github.com/im-hanzou/mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/mongobleed">
 - [sho-luv/MongoBleed](https://github.com/sho-luv/MongoBleed)	<img alt="forks" src="https://img.shields.io/github/forks/sho-luv/MongoBleed">	<img alt="stars" src="https://img.shields.io/github/stars/sho-luv/MongoBleed">
 - [0xBlackash/CVE-2025-14847](https://github.com/0xBlackash/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-14847">
+- [dawnsmithcyber/azure-vulnerability-remediation-project](https://github.com/dawnsmithcyber/azure-vulnerability-remediation-project)	<img alt="forks" src="https://img.shields.io/github/forks/dawnsmithcyber/azure-vulnerability-remediation-project">	<img alt="stars" src="https://img.shields.io/github/stars/dawnsmithcyber/azure-vulnerability-remediation-project">
 
 ---
 ## CVE-2025-14783 ()
