@@ -2605,6 +2605,7 @@ The specific flaw exists within the smtp service, which listens on TCP port 25 b
 - [cammclain/CVE-2023-42115](https://github.com/cammclain/CVE-2023-42115)	<img alt="forks" src="https://img.shields.io/github/forks/cammclain/CVE-2023-42115">	<img alt="stars" src="https://img.shields.io/github/stars/cammclain/CVE-2023-42115">
 - [isotaka134/cve-2023-42115](https://github.com/isotaka134/cve-2023-42115)	<img alt="forks" src="https://img.shields.io/github/forks/isotaka134/cve-2023-42115">	<img alt="stars" src="https://img.shields.io/github/stars/isotaka134/cve-2023-42115">
 - [doaso/CVE-2023-42115](https://github.com/doaso/CVE-2023-42115)	<img alt="forks" src="https://img.shields.io/github/forks/doaso/CVE-2023-42115">	<img alt="stars" src="https://img.shields.io/github/stars/doaso/CVE-2023-42115">
+- [kirinse/cve-2023-42115](https://github.com/kirinse/cve-2023-42115)	<img alt="forks" src="https://img.shields.io/github/forks/kirinse/cve-2023-42115">	<img alt="stars" src="https://img.shields.io/github/stars/kirinse/cve-2023-42115">
 
 ---
 ## CVE-2023-4208 (2023-09-06T14:15:00)
