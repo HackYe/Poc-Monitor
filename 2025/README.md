@@ -2777,6 +2777,7 @@
 - [AzureADTrent/CVE-2025-58434-59528](https://github.com/AzureADTrent/CVE-2025-58434-59528)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2025-58434-59528">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2025-58434-59528">
 - [p1ctur3p3rf3ct/CVE-2025-58434](https://github.com/p1ctur3p3rf3ct/CVE-2025-58434)	<img alt="forks" src="https://img.shields.io/github/forks/p1ctur3p3rf3ct/CVE-2025-58434">	<img alt="stars" src="https://img.shields.io/github/stars/p1ctur3p3rf3ct/CVE-2025-58434">
 - [jwsly12/CVE-2025-58434-59528-htb-ctf](https://github.com/jwsly12/CVE-2025-58434-59528-htb-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/jwsly12/CVE-2025-58434-59528-htb-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/jwsly12/CVE-2025-58434-59528-htb-ctf">
+- [kartik2005221/CVE-2025-58434-poc](https://github.com/kartik2005221/CVE-2025-58434-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kartik2005221/CVE-2025-58434-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kartik2005221/CVE-2025-58434-poc">
 
 ---
 ## CVE-2025-5840 ()
@@ -4009,6 +4010,7 @@
 - [kaxm23/CVE-2025-55182-Auto-Scanner](https://github.com/kaxm23/CVE-2025-55182-Auto-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/kaxm23/CVE-2025-55182-Auto-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/kaxm23/CVE-2025-55182-Auto-Scanner">
 - [kaxm23/rust-cve-2025-55182-scanner](https://github.com/kaxm23/rust-cve-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/kaxm23/rust-cve-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/kaxm23/rust-cve-2025-55182-scanner">
 - [RewantChaudhari/nextjs-rce-incident-response](https://github.com/RewantChaudhari/nextjs-rce-incident-response)	<img alt="forks" src="https://img.shields.io/github/forks/RewantChaudhari/nextjs-rce-incident-response">	<img alt="stars" src="https://img.shields.io/github/stars/RewantChaudhari/nextjs-rce-incident-response">
+- [oscar-mine/R2SAE](https://github.com/oscar-mine/R2SAE)	<img alt="forks" src="https://img.shields.io/github/forks/oscar-mine/R2SAE">	<img alt="stars" src="https://img.shields.io/github/stars/oscar-mine/R2SAE">
 
 ---
 ## CVE-2025-55130 ()
