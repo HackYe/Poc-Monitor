@@ -2585,6 +2585,10 @@
 - [secopssite/HTB](https://github.com/secopssite/HTB)	<img alt="forks" src="https://img.shields.io/github/forks/secopssite/HTB">	<img alt="stars" src="https://img.shields.io/github/stars/secopssite/HTB">
 - [Kamigold/Flowise-RCE](https://github.com/Kamigold/Flowise-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kamigold/Flowise-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kamigold/Flowise-RCE">
 - [AzureADTrent/CVE-2025-58434-59528](https://github.com/AzureADTrent/CVE-2025-58434-59528)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2025-58434-59528">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2025-58434-59528">
+- [danhle5402/CVE-2025-59528](https://github.com/danhle5402/CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/danhle5402/CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/danhle5402/CVE-2025-59528">
+- [r3nsi15/Flowise-RCE-CVE-2025-59528](https://github.com/r3nsi15/Flowise-RCE-CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/Flowise-RCE-CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/Flowise-RCE-CVE-2025-59528">
+- [maradonam18/-CVE-2025-59528-PoC](https://github.com/maradonam18/-CVE-2025-59528-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/maradonam18/-CVE-2025-59528-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/maradonam18/-CVE-2025-59528-PoC">
+- [CVETeam/FlowiseAI-Critical-KillChain](https://github.com/CVETeam/FlowiseAI-Critical-KillChain)	<img alt="forks" src="https://img.shields.io/github/forks/CVETeam/FlowiseAI-Critical-KillChain">	<img alt="stars" src="https://img.shields.io/github/stars/CVETeam/FlowiseAI-Critical-KillChain">
 
 ---
 ## CVE-2025-59503 ()
