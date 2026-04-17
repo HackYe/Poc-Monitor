@@ -156,6 +156,7 @@
 ## CVE-2026-40175 ()
 > 
 - [0xBlackash/CVE-2026-40175](https://github.com/0xBlackash/CVE-2026-40175)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-40175">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-40175">
+- [pjt3591oo/CVE-2026-40175-poc](https://github.com/pjt3591oo/CVE-2026-40175-poc)	<img alt="forks" src="https://img.shields.io/github/forks/pjt3591oo/CVE-2026-40175-poc">	<img alt="stars" src="https://img.shields.io/github/stars/pjt3591oo/CVE-2026-40175-poc">
 
 ---
 ## CVE-2026-39987 ()
