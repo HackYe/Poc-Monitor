@@ -435,6 +435,7 @@
 - [xM0kht4r/CVE-2025-7771](https://github.com/xM0kht4r/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/xM0kht4r/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/xM0kht4r/CVE-2025-7771">
 - [v31l0x1/ThrottleStopPPL](https://github.com/v31l0x1/ThrottleStopPPL)	<img alt="forks" src="https://img.shields.io/github/forks/v31l0x1/ThrottleStopPPL">	<img alt="stars" src="https://img.shields.io/github/stars/v31l0x1/ThrottleStopPPL">
 - [lzty/CVE-2025-7771](https://github.com/lzty/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/lzty/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/lzty/CVE-2025-7771">
+- [D4rkks/CVE-2025-7771-Vulnerability-Exploration](https://github.com/D4rkks/CVE-2025-7771-Vulnerability-Exploration)	<img alt="forks" src="https://img.shields.io/github/forks/D4rkks/CVE-2025-7771-Vulnerability-Exploration">	<img alt="stars" src="https://img.shields.io/github/stars/D4rkks/CVE-2025-7771-Vulnerability-Exploration">
 
 ---
 ## CVE-2025-7769 ()
