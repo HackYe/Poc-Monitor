@@ -1558,6 +1558,7 @@
 ## CVE-2026-25049 ()
 > 
 - [0xBlackash/CVE-2026-25049](https://github.com/0xBlackash/CVE-2026-25049)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-25049">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-25049">
+- [otakuliu/Expression-Sandbox-Escape-Simulation-Lab](https://github.com/otakuliu/Expression-Sandbox-Escape-Simulation-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/otakuliu/Expression-Sandbox-Escape-Simulation-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/otakuliu/Expression-Sandbox-Escape-Simulation-Lab">
 
 ---
 ## CVE-2026-25047 ()
