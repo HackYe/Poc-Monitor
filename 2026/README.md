@@ -626,6 +626,11 @@
 - [keraattin/CVE-2026-34197](https://github.com/keraattin/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-34197">
 
 ---
+## CVE-2026-34160 ()
+> 
+- [romain-deperne/CVE-2026-34160](https://github.com/romain-deperne/CVE-2026-34160)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-34160">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-34160">
+
+---
 ## CVE-2026-34159 ()
 > 
 - [casp3r0x0/CVE-2026-34159](https://github.com/casp3r0x0/CVE-2026-34159)	<img alt="forks" src="https://img.shields.io/github/forks/casp3r0x0/CVE-2026-34159">	<img alt="stars" src="https://img.shields.io/github/stars/casp3r0x0/CVE-2026-34159">
@@ -704,6 +709,11 @@
 ## CVE-2026-33752 ()
 > 
 - [redyank/CVE-2026-33752](https://github.com/redyank/CVE-2026-33752)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-33752">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-33752">
+
+---
+## CVE-2026-33715 ()
+> 
+- [romain-deperne/CVE-2026-33715](https://github.com/romain-deperne/CVE-2026-33715)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-33715">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-33715">
 
 ---
 ## CVE-2026-33701 ()
@@ -1343,6 +1353,12 @@
 ## CVE-2026-27831 ()
 > 
 - [bluedragonsecurity/CVE-2026-27831-POC](https://github.com/bluedragonsecurity/CVE-2026-27831-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2026-27831-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2026-27831-POC">
+
+---
+## CVE-2026-27825 ()
+> 
+- [romain-deperne/CVE-2026-27825](https://github.com/romain-deperne/CVE-2026-27825)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-27825">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-27825">
+- [plutosecurity/MCPwnfluence](https://github.com/plutosecurity/MCPwnfluence)	<img alt="forks" src="https://img.shields.io/github/forks/plutosecurity/MCPwnfluence">	<img alt="stars" src="https://img.shields.io/github/stars/plutosecurity/MCPwnfluence">
 
 ---
 ## CVE-2026-27739 ()
