@@ -231,6 +231,7 @@
 - [0xabdoulaye/CPANEL-CVE-2026-41940](https://github.com/0xabdoulaye/CPANEL-CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/0xabdoulaye/CPANEL-CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/0xabdoulaye/CPANEL-CVE-2026-41940">
 - [AndreiG6/cpanel-cve-2026-41940-ioc](https://github.com/AndreiG6/cpanel-cve-2026-41940-ioc)	<img alt="forks" src="https://img.shields.io/github/forks/AndreiG6/cpanel-cve-2026-41940-ioc">	<img alt="stars" src="https://img.shields.io/github/stars/AndreiG6/cpanel-cve-2026-41940-ioc">
 - [shahidmallaofficial/cpanel-cve-2026-41940-fix](https://github.com/shahidmallaofficial/cpanel-cve-2026-41940-fix)	<img alt="forks" src="https://img.shields.io/github/forks/shahidmallaofficial/cpanel-cve-2026-41940-fix">	<img alt="stars" src="https://img.shields.io/github/stars/shahidmallaofficial/cpanel-cve-2026-41940-fix">
+- [rfxn/cpanel-sessionscribe](https://github.com/rfxn/cpanel-sessionscribe)	<img alt="forks" src="https://img.shields.io/github/forks/rfxn/cpanel-sessionscribe">	<img alt="stars" src="https://img.shields.io/github/stars/rfxn/cpanel-sessionscribe">
 
 ---
 ## CVE-2026-41679 ()
@@ -1134,6 +1135,12 @@
 - [devstuff/harden-docker-seccomp](https://github.com/devstuff/harden-docker-seccomp)	<img alt="forks" src="https://img.shields.io/github/forks/devstuff/harden-docker-seccomp">	<img alt="stars" src="https://img.shields.io/github/stars/devstuff/harden-docker-seccomp">
 - [diemoeve/copyfail-rs](https://github.com/diemoeve/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/diemoeve/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/diemoeve/copyfail-rs">
 - [selectel/mks-copy-fail-mitigation](https://github.com/selectel/mks-copy-fail-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/selectel/mks-copy-fail-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/selectel/mks-copy-fail-mitigation">
+- [DENNISDGR/CVE-2026-31431-poc](https://github.com/DENNISDGR/CVE-2026-31431-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DENNISDGR/CVE-2026-31431-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DENNISDGR/CVE-2026-31431-poc">
+- [B1gN0Se/copy-fail-CVE-2026-31431](https://github.com/B1gN0Se/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/B1gN0Se/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/B1gN0Se/copy-fail-CVE-2026-31431">
+- [liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script](https://github.com/liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script">
+- [mym0us3r/COPY-FAIL-Detection-with-Wazuh-4.14.4](https://github.com/mym0us3r/COPY-FAIL-Detection-with-Wazuh-4.14.4)	<img alt="forks" src="https://img.shields.io/github/forks/mym0us3r/COPY-FAIL-Detection-with-Wazuh-4.14.4">	<img alt="stars" src="https://img.shields.io/github/stars/mym0us3r/COPY-FAIL-Detection-with-Wazuh-4.14.4">
+- [mishl-dev/CVE_2026_31431](https://github.com/mishl-dev/CVE_2026_31431)	<img alt="forks" src="https://img.shields.io/github/forks/mishl-dev/CVE_2026_31431">	<img alt="stars" src="https://img.shields.io/github/stars/mishl-dev/CVE_2026_31431">
+- [Juguitos/copy-fail](https://github.com/Juguitos/copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/Juguitos/copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/Juguitos/copy-fail">
 
 ---
 ## CVE-2026-31413 ()
