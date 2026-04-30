@@ -223,6 +223,7 @@
 - [yaunsky/cPanelWHM-AuthBypass](https://github.com/yaunsky/cPanelWHM-AuthBypass)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/cPanelWHM-AuthBypass">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/cPanelWHM-AuthBypass">
 - [adriyansyah-mf/cve-2026-41940-poc](https://github.com/adriyansyah-mf/cve-2026-41940-poc)	<img alt="forks" src="https://img.shields.io/github/forks/adriyansyah-mf/cve-2026-41940-poc">	<img alt="stars" src="https://img.shields.io/github/stars/adriyansyah-mf/cve-2026-41940-poc">
 - [debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker](https://github.com/debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker">
+- [realawaisakbar/CVE-2026-41940-Exploit-PoC](https://github.com/realawaisakbar/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/realawaisakbar/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/realawaisakbar/CVE-2026-41940-Exploit-PoC">
 
 ---
 ## CVE-2026-41679 ()
@@ -482,6 +483,11 @@
 ## CVE-2026-36956 ()
 > 
 - [kirubel-cve/CVE-2026-36956](https://github.com/kirubel-cve/CVE-2026-36956)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36956">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36956">
+
+---
+## CVE-2026-36358 ()
+> 
+- [yuhuamiao/CVE-2026-36358](https://github.com/yuhuamiao/CVE-2026-36358)	<img alt="forks" src="https://img.shields.io/github/forks/yuhuamiao/CVE-2026-36358">	<img alt="stars" src="https://img.shields.io/github/stars/yuhuamiao/CVE-2026-36358">
 
 ---
 ## CVE-2026-3587 ()
@@ -1033,6 +1039,9 @@
 - [twowb/CVE-2026-31431-](https://github.com/twowb/CVE-2026-31431-)	<img alt="forks" src="https://img.shields.io/github/forks/twowb/CVE-2026-31431-">	<img alt="stars" src="https://img.shields.io/github/stars/twowb/CVE-2026-31431-">
 - [badsectorlabs/copyfail-go](https://github.com/badsectorlabs/copyfail-go)	<img alt="forks" src="https://img.shields.io/github/forks/badsectorlabs/copyfail-go">	<img alt="stars" src="https://img.shields.io/github/stars/badsectorlabs/copyfail-go">
 - [Sndav/CVE-2026-31431-Advanced-Exploit](https://github.com/Sndav/CVE-2026-31431-Advanced-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sndav/CVE-2026-31431-Advanced-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sndav/CVE-2026-31431-Advanced-Exploit">
+- [lonelyor/CVE-2026-31431-exp](https://github.com/lonelyor/CVE-2026-31431-exp)	<img alt="forks" src="https://img.shields.io/github/forks/lonelyor/CVE-2026-31431-exp">	<img alt="stars" src="https://img.shields.io/github/stars/lonelyor/CVE-2026-31431-exp">
+- [makitos666/CVE-2026-31431-Copy-Fail-Detection-Toolkit](https://github.com/makitos666/CVE-2026-31431-Copy-Fail-Detection-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/makitos666/CVE-2026-31431-Copy-Fail-Detection-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/makitos666/CVE-2026-31431-Copy-Fail-Detection-Toolkit">
+- [kadir/copy-fail-CVE-2026-31431-IOC](https://github.com/kadir/copy-fail-CVE-2026-31431-IOC)	<img alt="forks" src="https://img.shields.io/github/forks/kadir/copy-fail-CVE-2026-31431-IOC">	<img alt="stars" src="https://img.shields.io/github/stars/kadir/copy-fail-CVE-2026-31431-IOC">
 
 ---
 ## CVE-2026-31413 ()
