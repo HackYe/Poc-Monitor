@@ -229,6 +229,8 @@
 - [Wesuiliye/CVE-2026-41940](https://github.com/Wesuiliye/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Wesuiliye/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Wesuiliye/CVE-2026-41940">
 - [Kagantua/cPanelWHM-AuthBypass](https://github.com/Kagantua/cPanelWHM-AuthBypass)	<img alt="forks" src="https://img.shields.io/github/forks/Kagantua/cPanelWHM-AuthBypass">	<img alt="stars" src="https://img.shields.io/github/stars/Kagantua/cPanelWHM-AuthBypass">
 - [0xabdoulaye/CPANEL-CVE-2026-41940](https://github.com/0xabdoulaye/CPANEL-CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/0xabdoulaye/CPANEL-CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/0xabdoulaye/CPANEL-CVE-2026-41940">
+- [AndreiG6/cpanel-cve-2026-41940-ioc](https://github.com/AndreiG6/cpanel-cve-2026-41940-ioc)	<img alt="forks" src="https://img.shields.io/github/forks/AndreiG6/cpanel-cve-2026-41940-ioc">	<img alt="stars" src="https://img.shields.io/github/stars/AndreiG6/cpanel-cve-2026-41940-ioc">
+- [shahidmallaofficial/cpanel-cve-2026-41940-fix](https://github.com/shahidmallaofficial/cpanel-cve-2026-41940-fix)	<img alt="forks" src="https://img.shields.io/github/forks/shahidmallaofficial/cpanel-cve-2026-41940-fix">	<img alt="stars" src="https://img.shields.io/github/stars/shahidmallaofficial/cpanel-cve-2026-41940-fix">
 
 ---
 ## CVE-2026-41679 ()
@@ -1125,6 +1127,13 @@
 - [weirdindiankid/copy-fail](https://github.com/weirdindiankid/copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/weirdindiankid/copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/weirdindiankid/copy-fail">
 - [mhdgning131/CopyFail-Patcher](https://github.com/mhdgning131/CopyFail-Patcher)	<img alt="forks" src="https://img.shields.io/github/forks/mhdgning131/CopyFail-Patcher">	<img alt="stars" src="https://img.shields.io/github/stars/mhdgning131/CopyFail-Patcher">
 - [vynazevedo/fail-CVE-2026-31431](https://github.com/vynazevedo/fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/vynazevedo/fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/vynazevedo/fail-CVE-2026-31431">
+- [yuspring/cve-2026-31431-poc](https://github.com/yuspring/cve-2026-31431-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuspring/cve-2026-31431-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuspring/cve-2026-31431-poc">
+- [Dabbleam/CVE-2026-31431-mitigation](https://github.com/Dabbleam/CVE-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/Dabbleam/CVE-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/Dabbleam/CVE-2026-31431-mitigation">
+- [pcdoyle/copy-fail-cve-2026-31431](https://github.com/pcdoyle/copy-fail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/pcdoyle/copy-fail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/pcdoyle/copy-fail-cve-2026-31431">
+- [Koke-Seas/CVE-2026-31431-CopyFail](https://github.com/Koke-Seas/CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/Koke-Seas/CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/Koke-Seas/CVE-2026-31431-CopyFail">
+- [devstuff/harden-docker-seccomp](https://github.com/devstuff/harden-docker-seccomp)	<img alt="forks" src="https://img.shields.io/github/forks/devstuff/harden-docker-seccomp">	<img alt="stars" src="https://img.shields.io/github/stars/devstuff/harden-docker-seccomp">
+- [diemoeve/copyfail-rs](https://github.com/diemoeve/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/diemoeve/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/diemoeve/copyfail-rs">
+- [selectel/mks-copy-fail-mitigation](https://github.com/selectel/mks-copy-fail-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/selectel/mks-copy-fail-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/selectel/mks-copy-fail-mitigation">
 
 ---
 ## CVE-2026-31413 ()
