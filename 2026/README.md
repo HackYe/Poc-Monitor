@@ -252,6 +252,7 @@
 - [Jenderal92/CVE-2026-41940](https://github.com/Jenderal92/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-41940">
 - [kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit](https://github.com/kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit">
 - [0dev1337/cpanelscanner](https://github.com/0dev1337/cpanelscanner)	<img alt="forks" src="https://img.shields.io/github/forks/0dev1337/cpanelscanner">	<img alt="stars" src="https://img.shields.io/github/stars/0dev1337/cpanelscanner">
+- [XsanFlip/poc-cpanel-cve-2026-41940](https://github.com/XsanFlip/poc-cpanel-cve-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/XsanFlip/poc-cpanel-cve-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/XsanFlip/poc-cpanel-cve-2026-41940">
 
 ---
 ## CVE-2026-41679 ()
@@ -1209,6 +1210,7 @@
 - [ExploitEoom/CVE-2026-31431](https://github.com/ExploitEoom/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitEoom/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitEoom/CVE-2026-31431">
 - [sercuritycyber/COPY-FAIL-CVE-2026-31431](https://github.com/sercuritycyber/COPY-FAIL-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/sercuritycyber/COPY-FAIL-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/sercuritycyber/COPY-FAIL-CVE-2026-31431">
 - [mlazzarotto/copy-fail-CVE-2026-31431-mitigation-ansible-playbook](https://github.com/mlazzarotto/copy-fail-CVE-2026-31431-mitigation-ansible-playbook)	<img alt="forks" src="https://img.shields.io/github/forks/mlazzarotto/copy-fail-CVE-2026-31431-mitigation-ansible-playbook">	<img alt="stars" src="https://img.shields.io/github/stars/mlazzarotto/copy-fail-CVE-2026-31431-mitigation-ansible-playbook">
+- [1amBa7Man/Linux-copy-fail-cve-2026-31431](https://github.com/1amBa7Man/Linux-copy-fail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/1amBa7Man/Linux-copy-fail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/1amBa7Man/Linux-copy-fail-cve-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
