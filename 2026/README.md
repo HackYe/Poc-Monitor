@@ -247,6 +247,8 @@
 - [NULL200OK/cve-2026-41940-tool](https://github.com/NULL200OK/cve-2026-41940-tool)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/cve-2026-41940-tool">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/cve-2026-41940-tool">
 - [unteikyou/CVE-2026-41940-AuthBypass-Detector](https://github.com/unteikyou/CVE-2026-41940-AuthBypass-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/unteikyou/CVE-2026-41940-AuthBypass-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/unteikyou/CVE-2026-41940-AuthBypass-Detector">
 - [ynsmroztas/cPanelSniper](https://github.com/ynsmroztas/cPanelSniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/cPanelSniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/cPanelSniper">
+- [Christian93111/CVE-2026-41940](https://github.com/Christian93111/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Christian93111/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Christian93111/CVE-2026-41940">
+- [sebinxavi/cve-checker-2026](https://github.com/sebinxavi/cve-checker-2026)	<img alt="forks" src="https://img.shields.io/github/forks/sebinxavi/cve-checker-2026">	<img alt="stars" src="https://img.shields.io/github/stars/sebinxavi/cve-checker-2026">
 
 ---
 ## CVE-2026-41679 ()
@@ -1197,6 +1199,9 @@
 - [rvizx/CVE-2026-31431](https://github.com/rvizx/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2026-31431">
 - [Callum-Cameron26/CVE_2026_31431-Testing-the-Copy-Fail-exploit](https://github.com/Callum-Cameron26/CVE_2026_31431-Testing-the-Copy-Fail-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Callum-Cameron26/CVE_2026_31431-Testing-the-Copy-Fail-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Callum-Cameron26/CVE_2026_31431-Testing-the-Copy-Fail-exploit">
 - [atgreen/block-copyfail](https://github.com/atgreen/block-copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/atgreen/block-copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/atgreen/block-copyfail">
+- [povzayd/CVE-2026-31431](https://github.com/povzayd/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/povzayd/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/povzayd/CVE-2026-31431">
+- [sebinxavi/cve-checker-2026](https://github.com/sebinxavi/cve-checker-2026)	<img alt="forks" src="https://img.shields.io/github/forks/sebinxavi/cve-checker-2026">	<img alt="stars" src="https://img.shields.io/github/stars/sebinxavi/cve-checker-2026">
+- [SpenserCai/copy_fail](https://github.com/SpenserCai/copy_fail)	<img alt="forks" src="https://img.shields.io/github/forks/SpenserCai/copy_fail">	<img alt="stars" src="https://img.shields.io/github/stars/SpenserCai/copy_fail">
 
 ---
 ## CVE-2026-3143 ()
