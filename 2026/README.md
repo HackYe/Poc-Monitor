@@ -242,6 +242,7 @@
 - [merdw/cPanel-CVE-2026-41940-Scanner](https://github.com/merdw/cPanel-CVE-2026-41940-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/merdw/cPanel-CVE-2026-41940-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/merdw/cPanel-CVE-2026-41940-Scanner">
 - [senyx122/CVE-2026-41940](https://github.com/senyx122/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/senyx122/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/senyx122/CVE-2026-41940">
 - [george1-adel/CVE-2026-41940_exploit](https://github.com/george1-adel/CVE-2026-41940_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/george1-adel/CVE-2026-41940_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/george1-adel/CVE-2026-41940_exploit">
+- [Lutfifakee-Project/CVE-2026-41940](https://github.com/Lutfifakee-Project/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-41940">
 
 ---
 ## CVE-2026-41679 ()
@@ -800,6 +801,7 @@
 > 
 - [shreyas-malhotra/CVE-2026-33439-OpenAM](https://github.com/shreyas-malhotra/CVE-2026-33439-OpenAM)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/CVE-2026-33439-OpenAM">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/CVE-2026-33439-OpenAM">
 - [Ibonok/CVE-2026-33439-PoC](https://github.com/Ibonok/CVE-2026-33439-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ibonok/CVE-2026-33439-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ibonok/CVE-2026-33439-PoC">
+- [TheMalwareGuardian/CVE-2026-33439](https://github.com/TheMalwareGuardian/CVE-2026-33439)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2026-33439">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2026-33439">
 
 ---
 ## CVE-2026-33340 ()
@@ -1173,6 +1175,13 @@
 - [LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431](https://github.com/LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431">
 - [bryanvine/copy-fail-fix](https://github.com/bryanvine/copy-fail-fix)	<img alt="forks" src="https://img.shields.io/github/forks/bryanvine/copy-fail-fix">	<img alt="stars" src="https://img.shields.io/github/stars/bryanvine/copy-fail-fix">
 - [boliu83/cve-2026-31431-algif-aead-remediator](https://github.com/boliu83/cve-2026-31431-algif-aead-remediator)	<img alt="forks" src="https://img.shields.io/github/forks/boliu83/cve-2026-31431-algif-aead-remediator">	<img alt="stars" src="https://img.shields.io/github/stars/boliu83/cve-2026-31431-algif-aead-remediator">
+- [AliHzSec/CVE-2026-31431](https://github.com/AliHzSec/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/AliHzSec/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/AliHzSec/CVE-2026-31431">
+- [Fulucky0-yuri/CVE-2026-31431-PocC](https://github.com/Fulucky0-yuri/CVE-2026-31431-PocC)	<img alt="forks" src="https://img.shields.io/github/forks/Fulucky0-yuri/CVE-2026-31431-PocC">	<img alt="stars" src="https://img.shields.io/github/stars/Fulucky0-yuri/CVE-2026-31431-PocC">
+- [toxy4ny/copy-fail-exploit-on-c-redteam](https://github.com/toxy4ny/copy-fail-exploit-on-c-redteam)	<img alt="forks" src="https://img.shields.io/github/forks/toxy4ny/copy-fail-exploit-on-c-redteam">	<img alt="stars" src="https://img.shields.io/github/stars/toxy4ny/copy-fail-exploit-on-c-redteam">
+- [MarioHY/cve_2026_31431_audit](https://github.com/MarioHY/cve_2026_31431_audit)	<img alt="forks" src="https://img.shields.io/github/forks/MarioHY/cve_2026_31431_audit">	<img alt="stars" src="https://img.shields.io/github/stars/MarioHY/cve_2026_31431_audit">
+- [abhishekhargan/CVE-2026-31431](https://github.com/abhishekhargan/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/abhishekhargan/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/abhishekhargan/CVE-2026-31431">
+- [Koke-Seas/CVE-2026-31431-CopyFail](https://github.com/Koke-Seas/CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/Koke-Seas/CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/Koke-Seas/CVE-2026-31431-CopyFail">
+- [Nu1i/exploit_cve_2026_31431_py36](https://github.com/Nu1i/exploit_cve_2026_31431_py36)	<img alt="forks" src="https://img.shields.io/github/forks/Nu1i/exploit_cve_2026_31431_py36">	<img alt="stars" src="https://img.shields.io/github/stars/Nu1i/exploit_cve_2026_31431_py36">
 
 ---
 ## CVE-2026-3143 ()
