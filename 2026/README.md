@@ -281,6 +281,7 @@
 - [MrAriaNet/cPanel-Fix](https://github.com/MrAriaNet/cPanel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/MrAriaNet/cPanel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/MrAriaNet/cPanel-Fix">
 - [vineet7800/cpanel-malware-cleaner-cve-2026](https://github.com/vineet7800/cpanel-malware-cleaner-cve-2026)	<img alt="forks" src="https://img.shields.io/github/forks/vineet7800/cpanel-malware-cleaner-cve-2026">	<img alt="stars" src="https://img.shields.io/github/stars/vineet7800/cpanel-malware-cleaner-cve-2026">
 - [linko-iheb/cve-2026-41940-scanner](https://github.com/linko-iheb/cve-2026-41940-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/linko-iheb/cve-2026-41940-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/linko-iheb/cve-2026-41940-scanner">
+- [Ishanoshada/CVE-2026-41940-Exploit-PoC](https://github.com/Ishanoshada/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ishanoshada/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ishanoshada/CVE-2026-41940-Exploit-PoC">
 
 ---
 ## CVE-2026-41679 ()
