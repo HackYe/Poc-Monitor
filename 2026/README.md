@@ -669,6 +669,11 @@
 - [0xmrma/CVE-2026-34828](https://github.com/0xmrma/CVE-2026-34828)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-34828">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-34828">
 
 ---
+## CVE-2026-34753 ()
+> 
+- [Dhiaelhak-Rached/CVE-2026-34753](https://github.com/Dhiaelhak-Rached/CVE-2026-34753)	<img alt="forks" src="https://img.shields.io/github/forks/Dhiaelhak-Rached/CVE-2026-34753">	<img alt="stars" src="https://img.shields.io/github/stars/Dhiaelhak-Rached/CVE-2026-34753">
+
+---
 ## CVE-2026-34724 ()
 > 
 - [0xBlackash/CVE-2026-34724](https://github.com/0xBlackash/CVE-2026-34724)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-34724">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-34724">
@@ -1327,6 +1332,8 @@
 - [ChernStepanov/CopyFail-for-dummies](https://github.com/ChernStepanov/CopyFail-for-dummies)	<img alt="forks" src="https://img.shields.io/github/forks/ChernStepanov/CopyFail-for-dummies">	<img alt="stars" src="https://img.shields.io/github/stars/ChernStepanov/CopyFail-for-dummies">
 - [jamal-soc21/Weekly-Breach-Investigation--006](https://github.com/jamal-soc21/Weekly-Breach-Investigation--006)	<img alt="forks" src="https://img.shields.io/github/forks/jamal-soc21/Weekly-Breach-Investigation--006">	<img alt="stars" src="https://img.shields.io/github/stars/jamal-soc21/Weekly-Breach-Investigation--006">
 - [ncmprbll/copy-fail-rs](https://github.com/ncmprbll/copy-fail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/ncmprbll/copy-fail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/ncmprbll/copy-fail-rs">
+- [mCub3/CVE-2026-31431](https://github.com/mCub3/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/mCub3/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/mCub3/CVE-2026-31431">
+- [kaleth4/CVE-2026-31431](https://github.com/kaleth4/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
