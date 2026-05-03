@@ -1334,6 +1334,7 @@
 - [ncmprbll/copy-fail-rs](https://github.com/ncmprbll/copy-fail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/ncmprbll/copy-fail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/ncmprbll/copy-fail-rs">
 - [mCub3/CVE-2026-31431](https://github.com/mCub3/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/mCub3/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/mCub3/CVE-2026-31431">
 - [kaleth4/CVE-2026-31431](https://github.com/kaleth4/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-31431">
+- [jdarkcaos-kai/cve-2026-31431-medium-unpriv-t](https://github.com/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t)	<img alt="forks" src="https://img.shields.io/github/forks/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t">	<img alt="stars" src="https://img.shields.io/github/stars/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t">
 
 ---
 ## CVE-2026-3143 ()
