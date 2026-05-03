@@ -1316,6 +1316,7 @@
 - [vyahello/CVE-2026-31431](https://github.com/vyahello/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/vyahello/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/vyahello/CVE-2026-31431">
 - [jbnetwork-git/copy-fail-check](https://github.com/jbnetwork-git/copy-fail-check)	<img alt="forks" src="https://img.shields.io/github/forks/jbnetwork-git/copy-fail-check">	<img alt="stars" src="https://img.shields.io/github/stars/jbnetwork-git/copy-fail-check">
 - [astounds/copy-fail-CVE-2026-31431](https://github.com/astounds/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/astounds/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/astounds/copy-fail-CVE-2026-31431">
+- [nrnw/CVE-2026-31431-Linux-Kernel-Copy-Fail-Detector](https://github.com/nrnw/CVE-2026-31431-Linux-Kernel-Copy-Fail-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/nrnw/CVE-2026-31431-Linux-Kernel-Copy-Fail-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/nrnw/CVE-2026-31431-Linux-Kernel-Copy-Fail-Detector">
 
 ---
 ## CVE-2026-3143 ()
