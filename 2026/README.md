@@ -290,6 +290,7 @@
 - [Ishanoshada/CVE-2026-41940-Exploit-PoC](https://github.com/Ishanoshada/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ishanoshada/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ishanoshada/CVE-2026-41940-Exploit-PoC">
 - [YudaSamuel/cpanel-vuln-scanner](https://github.com/YudaSamuel/cpanel-vuln-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/YudaSamuel/cpanel-vuln-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/YudaSamuel/cpanel-vuln-scanner">
 - [MrOplus/CVE-2026-41940](https://github.com/MrOplus/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/MrOplus/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/MrOplus/CVE-2026-41940">
+- [imbas007/POC_CVE-2026-41940](https://github.com/imbas007/POC_CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC_CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC_CVE-2026-41940">
 
 ---
 ## CVE-2026-41679 ()
@@ -1319,6 +1320,7 @@
 - [jbnetwork-git/copy-fail-check](https://github.com/jbnetwork-git/copy-fail-check)	<img alt="forks" src="https://img.shields.io/github/forks/jbnetwork-git/copy-fail-check">	<img alt="stars" src="https://img.shields.io/github/stars/jbnetwork-git/copy-fail-check">
 - [astounds/copy-fail-CVE-2026-31431](https://github.com/astounds/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/astounds/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/astounds/copy-fail-CVE-2026-31431">
 - [nrnw/CVE-2026-31431-Linux-Kernel-Copy-Fail-Detector](https://github.com/nrnw/CVE-2026-31431-Linux-Kernel-Copy-Fail-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/nrnw/CVE-2026-31431-Linux-Kernel-Copy-Fail-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/nrnw/CVE-2026-31431-Linux-Kernel-Copy-Fail-Detector">
+- [sibersan/cve-2026-31431-checker](https://github.com/sibersan/cve-2026-31431-checker)	<img alt="forks" src="https://img.shields.io/github/forks/sibersan/cve-2026-31431-checker">	<img alt="stars" src="https://img.shields.io/github/stars/sibersan/cve-2026-31431-checker">
 
 ---
 ## CVE-2026-3143 ()
