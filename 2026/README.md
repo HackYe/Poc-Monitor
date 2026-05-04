@@ -311,6 +311,7 @@
 - [iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass](https://github.com/iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/cPanel-WHM-CVE-2026-41940-AuthBypass">
 - [nickpaulsec/2026-41940-poc](https://github.com/nickpaulsec/2026-41940-poc)	<img alt="forks" src="https://img.shields.io/github/forks/nickpaulsec/2026-41940-poc">	<img alt="stars" src="https://img.shields.io/github/stars/nickpaulsec/2026-41940-poc">
 - [habibkaratas/sorry-ransomware-analysis](https://github.com/habibkaratas/sorry-ransomware-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/habibkaratas/sorry-ransomware-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/habibkaratas/sorry-ransomware-analysis">
+- [itsismarcos/CVE-2026-41940](https://github.com/itsismarcos/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/itsismarcos/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/itsismarcos/CVE-2026-41940">
 
 ---
 ## CVE-2026-41679 ()
@@ -1401,6 +1402,7 @@
 - [xeloxa/copyfail-exploit](https://github.com/xeloxa/copyfail-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/xeloxa/copyfail-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/xeloxa/copyfail-exploit">
 - [alvaroguzmancode/CVE-2026-31431-mitigacion](https://github.com/alvaroguzmancode/CVE-2026-31431-mitigacion)	<img alt="forks" src="https://img.shields.io/github/forks/alvaroguzmancode/CVE-2026-31431-mitigacion">	<img alt="stars" src="https://img.shields.io/github/stars/alvaroguzmancode/CVE-2026-31431-mitigacion">
 - [AdityaBhatt3010/CVE-2026-31431](https://github.com/AdityaBhatt3010/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2026-31431">
+- [jshDevs/CVE_kernellinux_jsh](https://github.com/jshDevs/CVE_kernellinux_jsh)	<img alt="forks" src="https://img.shields.io/github/forks/jshDevs/CVE_kernellinux_jsh">	<img alt="stars" src="https://img.shields.io/github/stars/jshDevs/CVE_kernellinux_jsh">
 
 ---
 ## CVE-2026-3143 ()
@@ -1416,6 +1418,11 @@
 ## CVE-2026-31402 ()
 > 
 - [0xBlackash/CVE-2026-31402](https://github.com/0xBlackash/CVE-2026-31402)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-31402">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-31402">
+
+---
+## CVE-2026-31341 ()
+> 
+- [Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker](https://github.com/Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker)	<img alt="forks" src="https://img.shields.io/github/forks/Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker">	<img alt="stars" src="https://img.shields.io/github/stars/Sc2-Ciberdefensa/cve-2026-31341-copy-fail-checker">
 
 ---
 ## CVE-2026-31283 ()
