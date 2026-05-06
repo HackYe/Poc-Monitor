@@ -1493,6 +1493,7 @@
 - [luoqianlin/copyfail-c](https://github.com/luoqianlin/copyfail-c)	<img alt="forks" src="https://img.shields.io/github/forks/luoqianlin/copyfail-c">	<img alt="stars" src="https://img.shields.io/github/stars/luoqianlin/copyfail-c">
 - [iblamenear/CVE-2026-31431-Copy-Fail---Advanced-LPE-Proof-of-Concept---C-Rewrite](https://github.com/iblamenear/CVE-2026-31431-Copy-Fail---Advanced-LPE-Proof-of-Concept---C-Rewrite)	<img alt="forks" src="https://img.shields.io/github/forks/iblamenear/CVE-2026-31431-Copy-Fail---Advanced-LPE-Proof-of-Concept---C-Rewrite">	<img alt="stars" src="https://img.shields.io/github/stars/iblamenear/CVE-2026-31431-Copy-Fail---Advanced-LPE-Proof-of-Concept---C-Rewrite">
 - [Liverwortenuresis371/copyfail-rs](https://github.com/Liverwortenuresis371/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/Liverwortenuresis371/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/Liverwortenuresis371/copyfail-rs">
+- [grabesec/XCP_ng_CVE-2026-31431_tester](https://github.com/grabesec/XCP_ng_CVE-2026-31431_tester)	<img alt="forks" src="https://img.shields.io/github/forks/grabesec/XCP_ng_CVE-2026-31431_tester">	<img alt="stars" src="https://img.shields.io/github/stars/grabesec/XCP_ng_CVE-2026-31431_tester">
 
 ---
 ## CVE-2026-3143 ()
@@ -2688,6 +2689,7 @@
 - [rhasan-com/CVE-2026-23918](https://github.com/rhasan-com/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/rhasan-com/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/rhasan-com/CVE-2026-23918">
 - [aa022/CVE-2026-23918-Passive-Audit](https://github.com/aa022/CVE-2026-23918-Passive-Audit)	<img alt="forks" src="https://img.shields.io/github/forks/aa022/CVE-2026-23918-Passive-Audit">	<img alt="stars" src="https://img.shields.io/github/stars/aa022/CVE-2026-23918-Passive-Audit">
 - [seguridadentrerios/CVE-2026-23918](https://github.com/seguridadentrerios/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-23918">
+- [xeloxa/CVE-2026-23918-Apache-H2-PoC](https://github.com/xeloxa/CVE-2026-23918-Apache-H2-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xeloxa/CVE-2026-23918-Apache-H2-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xeloxa/CVE-2026-23918-Apache-H2-PoC">
 
 ---
 ## CVE-2026-23885 ()
@@ -3630,6 +3632,7 @@
 - [qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC](https://github.com/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC">
 - [0xBlackash/CVE-2026-0300](https://github.com/0xBlackash/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-0300">
 - [TailwindRG/cve-2026-0300-audit](https://github.com/TailwindRG/cve-2026-0300-audit)	<img alt="forks" src="https://img.shields.io/github/forks/TailwindRG/cve-2026-0300-audit">	<img alt="stars" src="https://img.shields.io/github/stars/TailwindRG/cve-2026-0300-audit">
+- [bannned-bit/CVE-2026-0300-PANOS](https://github.com/bannned-bit/CVE-2026-0300-PANOS)	<img alt="forks" src="https://img.shields.io/github/forks/bannned-bit/CVE-2026-0300-PANOS">	<img alt="stars" src="https://img.shields.io/github/stars/bannned-bit/CVE-2026-0300-PANOS">
 
 ---
 ## CVE-2026-0227 ()
@@ -3643,6 +3646,7 @@
 - [novaek/CVE-2026-0073-Research](https://github.com/novaek/CVE-2026-0073-Research)	<img alt="forks" src="https://img.shields.io/github/forks/novaek/CVE-2026-0073-Research">	<img alt="stars" src="https://img.shields.io/github/stars/novaek/CVE-2026-0073-Research">
 - [SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC](https://github.com/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC">
 - [ByteWraith1/CVE-2026-0073](https://github.com/ByteWraith1/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0073">
+- [CryptReaper12/CVE-2026-0073](https://github.com/CryptReaper12/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-0073">
 
 ---
 ## CVE-2026-0047 ()
