@@ -265,6 +265,16 @@
 - [Astaruf/CVE-2026-42281](https://github.com/Astaruf/CVE-2026-42281)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-42281">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-42281">
 
 ---
+## CVE-2026-42231 ()
+> 
+- [rudSarkar/CVE-2026-42231](https://github.com/rudSarkar/CVE-2026-42231)	<img alt="forks" src="https://img.shields.io/github/forks/rudSarkar/CVE-2026-42231">	<img alt="stars" src="https://img.shields.io/github/stars/rudSarkar/CVE-2026-42231">
+
+---
+## CVE-2026-42228 ()
+> 
+- [rudSarkar/CVE-2026-42228](https://github.com/rudSarkar/CVE-2026-42228)	<img alt="forks" src="https://img.shields.io/github/forks/rudSarkar/CVE-2026-42228">	<img alt="stars" src="https://img.shields.io/github/stars/rudSarkar/CVE-2026-42228">
+
+---
 ## CVE-2026-42208 ()
 > 
 - [imjdl/CVE-2026-42208_lab](https://github.com/imjdl/CVE-2026-42208_lab)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2026-42208_lab">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2026-42208_lab">
@@ -1509,6 +1519,7 @@
 - [hans362/CVE-2026-31431-Copy-Fail-Container-Escape](https://github.com/hans362/CVE-2026-31431-Copy-Fail-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/hans362/CVE-2026-31431-Copy-Fail-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/hans362/CVE-2026-31431-Copy-Fail-Container-Escape">
 - [philfry/cve-2026-31431-ftrace](https://github.com/philfry/cve-2026-31431-ftrace)	<img alt="forks" src="https://img.shields.io/github/forks/philfry/cve-2026-31431-ftrace">	<img alt="stars" src="https://img.shields.io/github/stars/philfry/cve-2026-31431-ftrace">
 - [pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail](https://github.com/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail">
+- [sgkdev/page_inject](https://github.com/sgkdev/page_inject)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/page_inject">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/page_inject">
 
 ---
 ## CVE-2026-3143 ()
@@ -3657,6 +3668,7 @@
 - [TailwindRG/cve-2026-0300-audit](https://github.com/TailwindRG/cve-2026-0300-audit)	<img alt="forks" src="https://img.shields.io/github/forks/TailwindRG/cve-2026-0300-audit">	<img alt="stars" src="https://img.shields.io/github/stars/TailwindRG/cve-2026-0300-audit">
 - [bannned-bit/CVE-2026-0300-PANOS](https://github.com/bannned-bit/CVE-2026-0300-PANOS)	<img alt="forks" src="https://img.shields.io/github/forks/bannned-bit/CVE-2026-0300-PANOS">	<img alt="stars" src="https://img.shields.io/github/stars/bannned-bit/CVE-2026-0300-PANOS">
 - [shizuku198411/CVE-2026-0300](https://github.com/shizuku198411/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/shizuku198411/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/shizuku198411/CVE-2026-0300">
+- [p3Nt3st3r-sTAr/CVE-2026-0300-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-0300-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-0300-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-0300-POC">
 
 ---
 ## CVE-2026-0227 ()
