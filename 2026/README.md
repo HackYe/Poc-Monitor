@@ -1160,6 +1160,11 @@
 - [SnailSploit/CVE-2026-32809](https://github.com/SnailSploit/CVE-2026-32809)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-32809">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-32809">
 
 ---
+## CVE-2026-32794 ()
+> 
+- [SnailSploit/CVE-2026-32794](https://github.com/SnailSploit/CVE-2026-32794)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-32794">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-32794">
+
+---
 ## CVE-2026-32746 ()
 > 
 - [jeffaf/cve-2026-32746](https://github.com/jeffaf/cve-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/jeffaf/cve-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/jeffaf/cve-2026-32746">
@@ -1612,6 +1617,7 @@
 - [infiniroot/ansible-mitigate-copyfail-dirtyfrag](https://github.com/infiniroot/ansible-mitigate-copyfail-dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/infiniroot/ansible-mitigate-copyfail-dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/infiniroot/ansible-mitigate-copyfail-dirtyfrag">
 - [dixyes/dirtypatch](https://github.com/dixyes/dirtypatch)	<img alt="forks" src="https://img.shields.io/github/forks/dixyes/dirtypatch">	<img alt="stars" src="https://img.shields.io/github/stars/dixyes/dirtypatch">
 - [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
+- [hori0729/CVE-2026-31431---Copy-Fail-Verificador-Exploit](https://github.com/hori0729/CVE-2026-31431---Copy-Fail-Verificador-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hori0729/CVE-2026-31431---Copy-Fail-Verificador-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hori0729/CVE-2026-31431---Copy-Fail-Verificador-Exploit">
 
 ---
 ## CVE-2026-3143 ()
