@@ -1588,6 +1588,10 @@
 - [julichaan/CVE-2026-31431-python-copyfail-POC](https://github.com/julichaan/CVE-2026-31431-python-copyfail-POC)	<img alt="forks" src="https://img.shields.io/github/forks/julichaan/CVE-2026-31431-python-copyfail-POC">	<img alt="stars" src="https://img.shields.io/github/stars/julichaan/CVE-2026-31431-python-copyfail-POC">
 - [ClimbMunchkin/fix-cve-2026-3143](https://github.com/ClimbMunchkin/fix-cve-2026-3143)	<img alt="forks" src="https://img.shields.io/github/forks/ClimbMunchkin/fix-cve-2026-3143">	<img alt="stars" src="https://img.shields.io/github/stars/ClimbMunchkin/fix-cve-2026-3143">
 - [Morton-Li/copy-fail-CVE-2026-31431](https://github.com/Morton-Li/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Morton-Li/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Morton-Li/copy-fail-CVE-2026-31431">
+- [hyeonjunjo24/CVE-2026-31431-_Copy-Fail](https://github.com/hyeonjunjo24/CVE-2026-31431-_Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/hyeonjunjo24/CVE-2026-31431-_Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/hyeonjunjo24/CVE-2026-31431-_Copy-Fail">
+- [OpenPixelSystems/c-copy-fail](https://github.com/OpenPixelSystems/c-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/OpenPixelSystems/c-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/OpenPixelSystems/c-copy-fail">
+- [p401a-ops/Copy-Fail](https://github.com/p401a-ops/Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/p401a-ops/Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/p401a-ops/Copy-Fail">
+- [guiimoraes/copyfail2-py](https://github.com/guiimoraes/copyfail2-py)	<img alt="forks" src="https://img.shields.io/github/forks/guiimoraes/copyfail2-py">	<img alt="stars" src="https://img.shields.io/github/stars/guiimoraes/copyfail2-py">
 
 ---
 ## CVE-2026-3143 ()
