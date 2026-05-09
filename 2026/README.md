@@ -283,6 +283,7 @@
 - [suominen/CVE-2026-43284](https://github.com/suominen/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-43284">
 - [lr1458644438/Dirty-Frag-Analysis](https://github.com/lr1458644438/Dirty-Frag-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/lr1458644438/Dirty-Frag-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/lr1458644438/Dirty-Frag-Analysis">
 - [mym0us3r/DIRTY-FRAG-Detection-with-Wazuh-4.14.4](https://github.com/mym0us3r/DIRTY-FRAG-Detection-with-Wazuh-4.14.4)	<img alt="forks" src="https://img.shields.io/github/forks/mym0us3r/DIRTY-FRAG-Detection-with-Wazuh-4.14.4">	<img alt="stars" src="https://img.shields.io/github/stars/mym0us3r/DIRTY-FRAG-Detection-with-Wazuh-4.14.4">
+- [krisiasty/vcheck](https://github.com/krisiasty/vcheck)	<img alt="forks" src="https://img.shields.io/github/forks/krisiasty/vcheck">	<img alt="stars" src="https://img.shields.io/github/stars/krisiasty/vcheck">
 
 ---
 ## CVE-2026-42940 ()
