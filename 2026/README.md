@@ -443,6 +443,8 @@
 - [branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2](https://github.com/branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2)	<img alt="forks" src="https://img.shields.io/github/forks/branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2">	<img alt="stars" src="https://img.shields.io/github/stars/branixsolutions/Security-CVE-2026-41940-cPanel-WHM-WP2">
 - [acuciureanu/cpanel2shell-honeypot](https://github.com/acuciureanu/cpanel2shell-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/acuciureanu/cpanel2shell-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/acuciureanu/cpanel2shell-honeypot">
 - [SreejaPuthan/cpanel-control-plane-exposure-check](https://github.com/SreejaPuthan/cpanel-control-plane-exposure-check)	<img alt="forks" src="https://img.shields.io/github/forks/SreejaPuthan/cpanel-control-plane-exposure-check">	<img alt="stars" src="https://img.shields.io/github/stars/SreejaPuthan/cpanel-control-plane-exposure-check">
+- [ngksiva/cpanel-forensics](https://github.com/ngksiva/cpanel-forensics)	<img alt="forks" src="https://img.shields.io/github/forks/ngksiva/cpanel-forensics">	<img alt="stars" src="https://img.shields.io/github/stars/ngksiva/cpanel-forensics">
+- [44pie/cpsniper](https://github.com/44pie/cpsniper)	<img alt="forks" src="https://img.shields.io/github/forks/44pie/cpsniper">	<img alt="stars" src="https://img.shields.io/github/stars/44pie/cpsniper">
 
 ---
 ## CVE-2026-41900 ()
@@ -1715,6 +1717,7 @@
 - [vorkampfer/copyfail2_electric_boogaloo_fix](https://github.com/vorkampfer/copyfail2_electric_boogaloo_fix)	<img alt="forks" src="https://img.shields.io/github/forks/vorkampfer/copyfail2_electric_boogaloo_fix">	<img alt="stars" src="https://img.shields.io/github/stars/vorkampfer/copyfail2_electric_boogaloo_fix">
 - [cleozi/Copy_Grail](https://github.com/cleozi/Copy_Grail)	<img alt="forks" src="https://img.shields.io/github/forks/cleozi/Copy_Grail">	<img alt="stars" src="https://img.shields.io/github/stars/cleozi/Copy_Grail">
 - [Karim33z/CVE-2026-31431](https://github.com/Karim33z/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Karim33z/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Karim33z/CVE-2026-31431">
+- [Lutfifakee-Project/CVE-2026-31431](https://github.com/Lutfifakee-Project/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
