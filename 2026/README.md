@@ -464,6 +464,7 @@
 - [ngksiva/cpanel-forensics](https://github.com/ngksiva/cpanel-forensics)	<img alt="forks" src="https://img.shields.io/github/forks/ngksiva/cpanel-forensics">	<img alt="stars" src="https://img.shields.io/github/stars/ngksiva/cpanel-forensics">
 - [44pie/cpsniper](https://github.com/44pie/cpsniper)	<img alt="forks" src="https://img.shields.io/github/forks/44pie/cpsniper">	<img alt="stars" src="https://img.shields.io/github/stars/44pie/cpsniper">
 - [anach-ai/CVE-2026-41940](https://github.com/anach-ai/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/anach-ai/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/anach-ai/CVE-2026-41940">
+- [zycoder0day/CVE-2026-41940](https://github.com/zycoder0day/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-41940">
 
 ---
 ## CVE-2026-41900 ()
@@ -3897,6 +3898,7 @@
 - [murrez/CVE-2026-0740](https://github.com/murrez/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-0740">
 - [0xgh057r3c0n/CVE-2026-0740](https://github.com/0xgh057r3c0n/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-0740">
 - [BastianXploited/CVE-2026-0740](https://github.com/BastianXploited/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2026-0740">
+- [zycoder0day/CVE-2026-0740](https://github.com/zycoder0day/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-0740">
 
 ---
 ## CVE-2026-0730 ()
