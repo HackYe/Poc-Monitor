@@ -152,6 +152,7 @@
 ## CVE-2026-5718 ()
 > 
 - [kyukazamiqq/cve-2026-5718](https://github.com/kyukazamiqq/cve-2026-5718)	<img alt="forks" src="https://img.shields.io/github/forks/kyukazamiqq/cve-2026-5718">	<img alt="stars" src="https://img.shields.io/github/stars/kyukazamiqq/cve-2026-5718">
+- [rootdirective-sec/cve-2026-5718-Lab](https://github.com/rootdirective-sec/cve-2026-5718-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/cve-2026-5718-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/cve-2026-5718-Lab">
 
 ---
 ## CVE-2026-5615 ()
@@ -323,6 +324,8 @@
 - [linnemanlabs/dirtyfrag-arm64](https://github.com/linnemanlabs/dirtyfrag-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/linnemanlabs/dirtyfrag-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/linnemanlabs/dirtyfrag-arm64">
 - [gagaltotal/CVE-2026-43284-CVE-2026-43500-scan](https://github.com/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan">
 - [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
+- [liamromanis101/DirtyFrag-Detector](https://github.com/liamromanis101/DirtyFrag-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/DirtyFrag-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/DirtyFrag-Detector">
+- [XRSecCD/202605_dirty_frag](https://github.com/XRSecCD/202605_dirty_frag)	<img alt="forks" src="https://img.shields.io/github/forks/XRSecCD/202605_dirty_frag">	<img alt="stars" src="https://img.shields.io/github/stars/XRSecCD/202605_dirty_frag">
 
 ---
 ## CVE-2026-42940 ()
@@ -1751,6 +1754,8 @@
 - [Lutfifakee-Project/CVE-2026-31431](https://github.com/Lutfifakee-Project/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-31431">
 - [adilkurtulmus/linux-copy-fail-CVE-2026-31431](https://github.com/adilkurtulmus/linux-copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/adilkurtulmus/linux-copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/adilkurtulmus/linux-copy-fail-CVE-2026-31431">
 - [mauricioportela/CVE-2026-31431-Analysis](https://github.com/mauricioportela/CVE-2026-31431-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/mauricioportela/CVE-2026-31431-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/mauricioportela/CVE-2026-31431-Analysis">
+- [gbonacini/CVE-2026-31431](https://github.com/gbonacini/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/gbonacini/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/gbonacini/CVE-2026-31431">
+- [studiogangster/CVE-2026-31431](https://github.com/studiogangster/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/studiogangster/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/studiogangster/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
