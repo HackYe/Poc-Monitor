@@ -711,6 +711,7 @@
 - [nomaisthere/CVE-2026-3888](https://github.com/nomaisthere/CVE-2026-3888)	<img alt="forks" src="https://img.shields.io/github/forks/nomaisthere/CVE-2026-3888">	<img alt="stars" src="https://img.shields.io/github/stars/nomaisthere/CVE-2026-3888">
 - [TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE](https://github.com/TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE">
 - [DanielTangnes/CVE-2026-3888](https://github.com/DanielTangnes/CVE-2026-3888)	<img alt="forks" src="https://img.shields.io/github/forks/DanielTangnes/CVE-2026-3888">	<img alt="stars" src="https://img.shields.io/github/stars/DanielTangnes/CVE-2026-3888">
+- [hewhomusntbenamed/CVE-2026-3888-fixed](https://github.com/hewhomusntbenamed/CVE-2026-3888-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/hewhomusntbenamed/CVE-2026-3888-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/hewhomusntbenamed/CVE-2026-3888-fixed">
 
 ---
 ## CVE-2026-3854 ()
