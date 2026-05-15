@@ -399,6 +399,11 @@
 - [ndhet/bot-CVE-2026-42940](https://github.com/ndhet/bot-CVE-2026-42940)	<img alt="forks" src="https://img.shields.io/github/forks/ndhet/bot-CVE-2026-42940">	<img alt="stars" src="https://img.shields.io/github/stars/ndhet/bot-CVE-2026-42940">
 
 ---
+## CVE-2026-42897 ()
+> 
+- [atiilla/CVE-2026-42897](https://github.com/atiilla/CVE-2026-42897)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-42897">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-42897">
+
+---
 ## CVE-2026-42879 ()
 > 
 - [guzrex/CVE-2026-42879](https://github.com/guzrex/CVE-2026-42879)	<img alt="forks" src="https://img.shields.io/github/forks/guzrex/CVE-2026-42879">	<img alt="stars" src="https://img.shields.io/github/stars/guzrex/CVE-2026-42879">
