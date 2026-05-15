@@ -11,6 +11,12 @@
 - [HORKimhab/CVE-2026-8196](https://github.com/HORKimhab/CVE-2026-8196)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-8196">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-8196">
 
 ---
+## CVE-2026-8181 ()
+> 
+- [murrez/CVE-2026-8181](https://github.com/murrez/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-8181">
+- [zycoder0day/CVE-2026-8181](https://github.com/zycoder0day/CVE-2026-8181)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-8181">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-8181">
+
+---
 ## CVE-2026-8161 ()
 > 
 - [Ser0n-ath/CVE-2026-8161](https://github.com/Ser0n-ath/CVE-2026-8161)	<img alt="forks" src="https://img.shields.io/github/forks/Ser0n-ath/CVE-2026-8161">	<img alt="stars" src="https://img.shields.io/github/stars/Ser0n-ath/CVE-2026-8161">
@@ -380,6 +386,12 @@
 - [ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945](https://github.com/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945">
 - [chenqin231/CVE-2026-42945](https://github.com/chenqin231/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/chenqin231/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/chenqin231/CVE-2026-42945">
 - [nanwinata/nginxrift-CVE-2026-42945](https://github.com/nanwinata/nginxrift-CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/nginxrift-CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/nginxrift-CVE-2026-42945">
+- [jelasin/CVE-2026-42945](https://github.com/jelasin/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/jelasin/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/jelasin/CVE-2026-42945">
+- [iammerrida-source/nginx-rift-detect](https://github.com/iammerrida-source/nginx-rift-detect)	<img alt="forks" src="https://img.shields.io/github/forks/iammerrida-source/nginx-rift-detect">	<img alt="stars" src="https://img.shields.io/github/stars/iammerrida-source/nginx-rift-detect">
+- [friparia/NGINX_RIFT_SCAN_CVE_2026_42945](https://github.com/friparia/NGINX_RIFT_SCAN_CVE_2026_42945)	<img alt="forks" src="https://img.shields.io/github/forks/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">	<img alt="stars" src="https://img.shields.io/github/stars/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">
+- [forxiucn/nginx-cve-2026-42945-poc](https://github.com/forxiucn/nginx-cve-2026-42945-poc)	<img alt="forks" src="https://img.shields.io/github/forks/forxiucn/nginx-cve-2026-42945-poc">	<img alt="stars" src="https://img.shields.io/github/stars/forxiucn/nginx-cve-2026-42945-poc">
+- [oseasfr/Scanner_CVE_2026-42945](https://github.com/oseasfr/Scanner_CVE_2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/oseasfr/Scanner_CVE_2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/oseasfr/Scanner_CVE_2026-42945">
+- [p3Nt3st3r-sTAr/CVE-2026-42945-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-42945-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-42945-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-42945-POC">
 
 ---
 ## CVE-2026-42940 ()
