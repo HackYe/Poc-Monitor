@@ -392,6 +392,7 @@
 - [forxiucn/nginx-cve-2026-42945-poc](https://github.com/forxiucn/nginx-cve-2026-42945-poc)	<img alt="forks" src="https://img.shields.io/github/forks/forxiucn/nginx-cve-2026-42945-poc">	<img alt="stars" src="https://img.shields.io/github/stars/forxiucn/nginx-cve-2026-42945-poc">
 - [oseasfr/Scanner_CVE_2026-42945](https://github.com/oseasfr/Scanner_CVE_2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/oseasfr/Scanner_CVE_2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/oseasfr/Scanner_CVE_2026-42945">
 - [p3Nt3st3r-sTAr/CVE-2026-42945-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-42945-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-42945-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-42945-POC">
+- [byezero/nginx-cve-2026-42945-check](https://github.com/byezero/nginx-cve-2026-42945-check)	<img alt="forks" src="https://img.shields.io/github/forks/byezero/nginx-cve-2026-42945-check">	<img alt="stars" src="https://img.shields.io/github/stars/byezero/nginx-cve-2026-42945-check">
 
 ---
 ## CVE-2026-42940 ()
@@ -3763,6 +3764,11 @@
 ## CVE-2026-20404 ()
 > 
 - [George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-](https://github.com/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">
+
+---
+## CVE-2026-20182 ()
+> 
+- [fangbarristerbar/CVE-2026-20182-POC](https://github.com/fangbarristerbar/CVE-2026-20182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fangbarristerbar/CVE-2026-20182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fangbarristerbar/CVE-2026-20182-POC">
 
 ---
 ## CVE-2026-20180 ()
