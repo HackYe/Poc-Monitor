@@ -377,6 +377,7 @@
 - [rheodev/CVE-2026-42945](https://github.com/rheodev/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/rheodev/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/rheodev/CVE-2026-42945">
 - [0xBlackash/CVE-2026-42945](https://github.com/0xBlackash/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-42945">
 - [ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945](https://github.com/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/ChamsBouzaiene/ai-vuln-rediscovery-nginx-cve-2026-42945">
+- [chenqin231/CVE-2026-42945](https://github.com/chenqin231/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/chenqin231/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/chenqin231/CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
@@ -450,6 +451,11 @@
 - [Sl4cK0TH/CVE-2026-42167-PoC](https://github.com/Sl4cK0TH/CVE-2026-42167-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sl4cK0TH/CVE-2026-42167-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sl4cK0TH/CVE-2026-42167-PoC">
 - [efeanilarslan/CVE-2026-42167-Exploit](https://github.com/efeanilarslan/CVE-2026-42167-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/efeanilarslan/CVE-2026-42167-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/efeanilarslan/CVE-2026-42167-Exploit">
 - [jimmexploit/CVE-2026-42167-PoC](https://github.com/jimmexploit/CVE-2026-42167-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jimmexploit/CVE-2026-42167-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jimmexploit/CVE-2026-42167-PoC">
+
+---
+## CVE-2026-42154 ()
+> 
+- [ShadowByte1/CVE-2026-42154](https://github.com/ShadowByte1/CVE-2026-42154)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowByte1/CVE-2026-42154">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowByte1/CVE-2026-42154">
 
 ---
 ## CVE-2026-42141 ()
