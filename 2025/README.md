@@ -2652,6 +2652,7 @@
 ## CVE-2025-59536 ()
 > 
 - [NetVanguard-cmd/CVE-2025-59536](https://github.com/NetVanguard-cmd/CVE-2025-59536)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2025-59536">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2025-59536">
+- [tacdm/cve-2025-59536-poc](https://github.com/tacdm/cve-2025-59536-poc)	<img alt="forks" src="https://img.shields.io/github/forks/tacdm/cve-2025-59536-poc">	<img alt="stars" src="https://img.shields.io/github/stars/tacdm/cve-2025-59536-poc">
 
 ---
 ## CVE-2025-59532 ()
@@ -4177,6 +4178,7 @@
 - [shibaaa204/React2Shell](https://github.com/shibaaa204/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/React2Shell">
 - [Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process](https://github.com/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process)	<img alt="forks" src="https://img.shields.io/github/forks/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process">	<img alt="stars" src="https://img.shields.io/github/stars/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process">
 - [Theori-lO/reactguard](https://github.com/Theori-lO/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/Theori-lO/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/Theori-lO/reactguard">
+- [MuharremK0/Info-Sys-Security-CVE-2025-55182](https://github.com/MuharremK0/Info-Sys-Security-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MuharremK0/Info-Sys-Security-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MuharremK0/Info-Sys-Security-CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
