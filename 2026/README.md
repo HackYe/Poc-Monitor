@@ -375,6 +375,8 @@
 - [AK777177/Dirty-Frag-Analysis](https://github.com/AK777177/Dirty-Frag-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/AK777177/Dirty-Frag-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/AK777177/Dirty-Frag-Analysis">
 - [liamromanis101/DirtyFrag-Detector](https://github.com/liamromanis101/DirtyFrag-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/DirtyFrag-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/DirtyFrag-Detector">
 - [XRSecCD/202605_dirty_frag](https://github.com/XRSecCD/202605_dirty_frag)	<img alt="forks" src="https://img.shields.io/github/forks/XRSecCD/202605_dirty_frag">	<img alt="stars" src="https://img.shields.io/github/stars/XRSecCD/202605_dirty_frag">
+- [First-John/CVE-2026-43500](https://github.com/First-John/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/CVE-2026-43500">
+- [DXC-0/linux-lpe-sigma](https://github.com/DXC-0/linux-lpe-sigma)	<img alt="forks" src="https://img.shields.io/github/forks/DXC-0/linux-lpe-sigma">	<img alt="stars" src="https://img.shields.io/github/stars/DXC-0/linux-lpe-sigma">
 
 ---
 ## CVE-2026-4350 ()
@@ -1978,6 +1980,7 @@
 - [Pithase/asm-copyfail](https://github.com/Pithase/asm-copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/Pithase/asm-copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/Pithase/asm-copyfail">
 - [4xura/CVE-2026-31431-Copy-Fail](https://github.com/4xura/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/4xura/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/4xura/CVE-2026-31431-Copy-Fail">
 - [royayub/CVE-2026-31431](https://github.com/royayub/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/royayub/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/royayub/CVE-2026-31431">
+- [Yakovyakov/cve-2026-31431-mitigation](https://github.com/Yakovyakov/cve-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/Yakovyakov/cve-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/Yakovyakov/cve-2026-31431-mitigation">
 
 ---
 ## CVE-2026-3143 ()
