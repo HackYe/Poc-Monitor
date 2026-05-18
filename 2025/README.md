@@ -4181,6 +4181,7 @@
 - [Theori-lO/reactguard](https://github.com/Theori-lO/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/Theori-lO/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/Theori-lO/reactguard">
 - [MuharremK0/Info-Sys-Security-CVE-2025-55182](https://github.com/MuharremK0/Info-Sys-Security-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MuharremK0/Info-Sys-Security-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MuharremK0/Info-Sys-Security-CVE-2025-55182">
 - [yannisduvignau/react2shell-exploit](https://github.com/yannisduvignau/react2shell-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/yannisduvignau/react2shell-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/yannisduvignau/react2shell-exploit">
+- [ycseo-git/CVE-2025-55182](https://github.com/ycseo-git/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ycseo-git/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ycseo-git/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()

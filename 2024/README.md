@@ -6156,6 +6156,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [julichaan/CVE-2024-32019-ndsudo-local-privilege-escalation-NetData](https://github.com/julichaan/CVE-2024-32019-ndsudo-local-privilege-escalation-NetData)	<img alt="forks" src="https://img.shields.io/github/forks/julichaan/CVE-2024-32019-ndsudo-local-privilege-escalation-NetData">	<img alt="stars" src="https://img.shields.io/github/stars/julichaan/CVE-2024-32019-ndsudo-local-privilege-escalation-NetData">
 - [justjoeyking/CVE-2024-32019-ndsudo](https://github.com/justjoeyking/CVE-2024-32019-ndsudo)	<img alt="forks" src="https://img.shields.io/github/forks/justjoeyking/CVE-2024-32019-ndsudo">	<img alt="stars" src="https://img.shields.io/github/stars/justjoeyking/CVE-2024-32019-ndsudo">
 - [kikechans/CVE-2024-32019-Netdata-ndsudo-PrivEsc](https://github.com/kikechans/CVE-2024-32019-Netdata-ndsudo-PrivEsc)	<img alt="forks" src="https://img.shields.io/github/forks/kikechans/CVE-2024-32019-Netdata-ndsudo-PrivEsc">	<img alt="stars" src="https://img.shields.io/github/stars/kikechans/CVE-2024-32019-Netdata-ndsudo-PrivEsc">
+- [Akira07210/Exploit-CVE-2024-32019](https://github.com/Akira07210/Exploit-CVE-2024-32019)	<img alt="forks" src="https://img.shields.io/github/forks/Akira07210/Exploit-CVE-2024-32019">	<img alt="stars" src="https://img.shields.io/github/stars/Akira07210/Exploit-CVE-2024-32019">
 
 ---
 ## CVE-2024-32004 (2024-05-14T19:15:00)
