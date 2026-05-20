@@ -5049,6 +5049,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [ben-slates/CVE-2024-37054](https://github.com/ben-slates/CVE-2024-37054)	<img alt="forks" src="https://img.shields.io/github/forks/ben-slates/CVE-2024-37054">	<img alt="stars" src="https://img.shields.io/github/stars/ben-slates/CVE-2024-37054">
 - [Spydomain/CVE-2024-37054-MLflow-reverse-shell](https://github.com/Spydomain/CVE-2024-37054-MLflow-reverse-shell)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2024-37054-MLflow-reverse-shell">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2024-37054-MLflow-reverse-shell">
 - [tristanqtn/CVE-2024-37054](https://github.com/tristanqtn/CVE-2024-37054)	<img alt="forks" src="https://img.shields.io/github/forks/tristanqtn/CVE-2024-37054">	<img alt="stars" src="https://img.shields.io/github/stars/tristanqtn/CVE-2024-37054">
+- [vanhari/CVE-2024-37054](https://github.com/vanhari/CVE-2024-37054)	<img alt="forks" src="https://img.shields.io/github/forks/vanhari/CVE-2024-37054">	<img alt="stars" src="https://img.shields.io/github/stars/vanhari/CVE-2024-37054">
 
 ---
 ## CVE-2024-37051 (2024-06-10T16:15:00)
