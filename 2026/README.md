@@ -2117,6 +2117,7 @@
 - [yangh-beep/CVE-2026-31431-C](https://github.com/yangh-beep/CVE-2026-31431-C)	<img alt="forks" src="https://img.shields.io/github/forks/yangh-beep/CVE-2026-31431-C">	<img alt="stars" src="https://img.shields.io/github/stars/yangh-beep/CVE-2026-31431-C">
 - [JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC](https://github.com/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC">
 - [4n4s4zi/copyfail-alpine](https://github.com/4n4s4zi/copyfail-alpine)	<img alt="forks" src="https://img.shields.io/github/forks/4n4s4zi/copyfail-alpine">	<img alt="stars" src="https://img.shields.io/github/stars/4n4s4zi/copyfail-alpine">
+- [erlangparasu/mitigate_cve_2026_31431-sh](https://github.com/erlangparasu/mitigate_cve_2026_31431-sh)	<img alt="forks" src="https://img.shields.io/github/forks/erlangparasu/mitigate_cve_2026_31431-sh">	<img alt="stars" src="https://img.shields.io/github/stars/erlangparasu/mitigate_cve_2026_31431-sh">
 
 ---
 ## CVE-2026-3143 ()
