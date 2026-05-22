@@ -441,6 +441,7 @@
 - [v31l0x1/ThrottleStopPPL](https://github.com/v31l0x1/ThrottleStopPPL)	<img alt="forks" src="https://img.shields.io/github/forks/v31l0x1/ThrottleStopPPL">	<img alt="stars" src="https://img.shields.io/github/stars/v31l0x1/ThrottleStopPPL">
 - [lzty/CVE-2025-7771](https://github.com/lzty/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/lzty/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/lzty/CVE-2025-7771">
 - [D4rkks/CVE-2025-7771-Vulnerability-Exploration](https://github.com/D4rkks/CVE-2025-7771-Vulnerability-Exploration)	<img alt="forks" src="https://img.shields.io/github/forks/D4rkks/CVE-2025-7771-Vulnerability-Exploration">	<img alt="stars" src="https://img.shields.io/github/stars/D4rkks/CVE-2025-7771-Vulnerability-Exploration">
+- [mein-0/cve-2025-7771-poc](https://github.com/mein-0/cve-2025-7771-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mein-0/cve-2025-7771-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mein-0/cve-2025-7771-poc">
 
 ---
 ## CVE-2025-7769 ()
@@ -3535,6 +3536,11 @@
 > 
 - [Marven11/CVE-2025-55449-AstrBot-RCE](https://github.com/Marven11/CVE-2025-55449-AstrBot-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2025-55449-AstrBot-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2025-55449-AstrBot-RCE">
 - [xhh1h/CVE-2025-55449](https://github.com/xhh1h/CVE-2025-55449)	<img alt="forks" src="https://img.shields.io/github/forks/xhh1h/CVE-2025-55449">	<img alt="stars" src="https://img.shields.io/github/stars/xhh1h/CVE-2025-55449">
+
+---
+## CVE-2025-55423 ()
+> 
+- [logis11/CVE-2025-55423-analysis-and-reproduction](https://github.com/logis11/CVE-2025-55423-analysis-and-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/logis11/CVE-2025-55423-analysis-and-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/logis11/CVE-2025-55423-analysis-and-reproduction">
 
 ---
 ## CVE-2025-55349 ()
