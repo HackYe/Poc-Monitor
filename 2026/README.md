@@ -162,6 +162,11 @@
 - [Penguinsecq/CVE-2026-6355](https://github.com/Penguinsecq/CVE-2026-6355)	<img alt="forks" src="https://img.shields.io/github/forks/Penguinsecq/CVE-2026-6355">	<img alt="stars" src="https://img.shields.io/github/stars/Penguinsecq/CVE-2026-6355">
 
 ---
+## CVE-2026-6279 ()
+> 
+- [xxconi/CVE-2026-6279](https://github.com/xxconi/CVE-2026-6279)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6279">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6279">
+
+---
 ## CVE-2026-6227 ()
 > 
 - [Pixel-DefaultBR/CVE-2026-6227](https://github.com/Pixel-DefaultBR/CVE-2026-6227)	<img alt="forks" src="https://img.shields.io/github/forks/Pixel-DefaultBR/CVE-2026-6227">	<img alt="stars" src="https://img.shields.io/github/stars/Pixel-DefaultBR/CVE-2026-6227">
