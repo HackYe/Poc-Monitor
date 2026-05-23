@@ -170,6 +170,7 @@
 ## CVE-2026-6279 ()
 > 
 - [xxconi/CVE-2026-6279](https://github.com/xxconi/CVE-2026-6279)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6279">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6279">
+- [zycoder0day/CVE-2026-6279](https://github.com/zycoder0day/CVE-2026-6279)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-6279">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-6279">
 
 ---
 ## CVE-2026-6227 ()
@@ -710,6 +711,7 @@
 - [anach-ai/CVE-2026-41940](https://github.com/anach-ai/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/anach-ai/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/anach-ai/CVE-2026-41940">
 - [zycoder0day/CVE-2026-41940](https://github.com/zycoder0day/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-41940">
 - [tc4dy/CVE-2026-41940-POC-Exploit](https://github.com/tc4dy/CVE-2026-41940-POC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-41940-POC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-41940-POC-Exploit">
+- [xxconi/CVE-2026-41940](https://github.com/xxconi/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-41940">
 
 ---
 ## CVE-2026-41901 ()
