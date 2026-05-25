@@ -1551,6 +1551,11 @@
 - [romain-deperne/CVE-2026-33715](https://github.com/romain-deperne/CVE-2026-33715)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-33715">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-33715">
 
 ---
+## CVE-2026-33712 ()
+> 
+- [portbuster1337/CVE-2026-33712](https://github.com/portbuster1337/CVE-2026-33712)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-33712">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-33712">
+
+---
 ## CVE-2026-33701 ()
 > 
 - [pl4tyz/CVE-2026-33701-Unsafe-Deserialization-in-OpenTelemetry-Java-Agent-RMI-Instrumentation](https://github.com/pl4tyz/CVE-2026-33701-Unsafe-Deserialization-in-OpenTelemetry-Java-Agent-RMI-Instrumentation)	<img alt="forks" src="https://img.shields.io/github/forks/pl4tyz/CVE-2026-33701-Unsafe-Deserialization-in-OpenTelemetry-Java-Agent-RMI-Instrumentation">	<img alt="stars" src="https://img.shields.io/github/stars/pl4tyz/CVE-2026-33701-Unsafe-Deserialization-in-OpenTelemetry-Java-Agent-RMI-Instrumentation">
@@ -1652,6 +1657,11 @@
 ## CVE-2026-33147 ()
 > 
 - [redyank/CVE-2026-33147](https://github.com/redyank/CVE-2026-33147)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-33147">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-33147">
+
+---
+## CVE-2026-33137 ()
+> 
+- [portbuster1337/CVE-2026-33137](https://github.com/portbuster1337/CVE-2026-33137)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-33137">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-33137">
 
 ---
 ## CVE-2026-33067 ()
