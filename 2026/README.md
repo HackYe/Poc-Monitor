@@ -4595,6 +4595,7 @@
 - [tc4dy/CVE-2026-0073-PoC-Exploit](https://github.com/tc4dy/CVE-2026-0073-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-0073-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-0073-PoC-Exploit">
 - [0xbinder/CVE-2026-0073](https://github.com/0xbinder/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/0xbinder/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/0xbinder/CVE-2026-0073">
 - [ridhinva/CVE-2026-0073-ADBD-Bypass](https://github.com/ridhinva/CVE-2026-0073-ADBD-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/CVE-2026-0073-ADBD-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/CVE-2026-0073-ADBD-Bypass">
+- [m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass](https://github.com/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass">
 
 ---
 ## CVE-2026-0047 ()
