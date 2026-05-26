@@ -560,6 +560,7 @@
 - [ericrlessa/java-exploitable-quiz](https://github.com/ericrlessa/java-exploitable-quiz)	<img alt="forks" src="https://img.shields.io/github/forks/ericrlessa/java-exploitable-quiz">	<img alt="stars" src="https://img.shields.io/github/stars/ericrlessa/java-exploitable-quiz">
 - [soufiane-benchahyd/vulhub-struts2](https://github.com/soufiane-benchahyd/vulhub-struts2)	<img alt="forks" src="https://img.shields.io/github/forks/soufiane-benchahyd/vulhub-struts2">	<img alt="stars" src="https://img.shields.io/github/stars/soufiane-benchahyd/vulhub-struts2">
 - [Majaktech/apache-struts-cve-2017-5638-project](https://github.com/Majaktech/apache-struts-cve-2017-5638-project)	<img alt="forks" src="https://img.shields.io/github/forks/Majaktech/apache-struts-cve-2017-5638-project">	<img alt="stars" src="https://img.shields.io/github/stars/Majaktech/apache-struts-cve-2017-5638-project">
+- [Dungsocool/CVE-2017-5638](https://github.com/Dungsocool/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-5638">
 
 ---
 ## CVE-2017-5618 ()
