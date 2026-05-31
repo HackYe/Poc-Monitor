@@ -464,6 +464,11 @@
 - [HORKimhab/CVE-2026-45659](https://github.com/HORKimhab/CVE-2026-45659)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45659">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45659">
 
 ---
+## CVE-2026-45585 ()
+> 
+- [0xBlackash/CVE-2026-45585](https://github.com/0xBlackash/CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-45585">
+
+---
 ## CVE-2026-45584 ()
 > 
 - [96613686/CVE-2026-45584](https://github.com/96613686/CVE-2026-45584)	<img alt="forks" src="https://img.shields.io/github/forks/96613686/CVE-2026-45584">	<img alt="stars" src="https://img.shields.io/github/stars/96613686/CVE-2026-45584">
