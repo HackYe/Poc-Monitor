@@ -1372,6 +1372,11 @@
 - [NullByte8080/CVE-2026-36226](https://github.com/NullByte8080/CVE-2026-36226)	<img alt="forks" src="https://img.shields.io/github/forks/NullByte8080/CVE-2026-36226">	<img alt="stars" src="https://img.shields.io/github/stars/NullByte8080/CVE-2026-36226">
 
 ---
+## CVE-2026-3600 ()
+> 
+- [K3ysTr0K3R/CVE-2026-3600](https://github.com/K3ysTr0K3R/CVE-2026-3600)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-3600">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-3600">
+
+---
 ## CVE-2026-3587 ()
 > 
 - [z3r0h3ro/cve-2026-3587-poc](https://github.com/z3r0h3ro/cve-2026-3587-poc)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/cve-2026-3587-poc">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/cve-2026-3587-poc">
@@ -3608,6 +3613,7 @@
 - [athack-ctf/chall2026-telneted](https://github.com/athack-ctf/chall2026-telneted)	<img alt="forks" src="https://img.shields.io/github/forks/athack-ctf/chall2026-telneted">	<img alt="stars" src="https://img.shields.io/github/stars/athack-ctf/chall2026-telneted">
 - [Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability](https://github.com/Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Risma2025/Forensic-Investigation-on-CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">
 - [RStephanH/vuln-deb](https://github.com/RStephanH/vuln-deb)	<img alt="forks" src="https://img.shields.io/github/forks/RStephanH/vuln-deb">	<img alt="stars" src="https://img.shields.io/github/stars/RStephanH/vuln-deb">
+- [ahmadsadeeq/TelnetdBypass-](https://github.com/ahmadsadeeq/TelnetdBypass-)	<img alt="forks" src="https://img.shields.io/github/forks/ahmadsadeeq/TelnetdBypass-">	<img alt="stars" src="https://img.shields.io/github/stars/ahmadsadeeq/TelnetdBypass-">
 
 ---
 ## CVE-2026-2406 ()
