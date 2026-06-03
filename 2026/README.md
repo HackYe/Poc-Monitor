@@ -4657,6 +4657,11 @@
 - [ch4r0nn/CVE-2026-1056-POC](https://github.com/ch4r0nn/CVE-2026-1056-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ch4r0nn/CVE-2026-1056-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ch4r0nn/CVE-2026-1056-POC">
 
 ---
+## CVE-2026-10187 ()
+> 
+- [passwa11/CVE-2026-10187](https://github.com/passwa11/CVE-2026-10187)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2026-10187">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2026-10187">
+
+---
 ## CVE-2026-1 ()
 > 
 - [Pluto2362/CVE-2026-1](https://github.com/Pluto2362/CVE-2026-1)	<img alt="forks" src="https://img.shields.io/github/forks/Pluto2362/CVE-2026-1">	<img alt="stars" src="https://img.shields.io/github/stars/Pluto2362/CVE-2026-1">
@@ -4810,6 +4815,7 @@
 - [jennydokumi30/CVE-2026-0257](https://github.com/jennydokumi30/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/jennydokumi30/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/jennydokumi30/CVE-2026-0257">
 - [HORKimhab/CVE-2026-0257](https://github.com/HORKimhab/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-0257">
 - [sfewer-r7/CVE-2026-0257](https://github.com/sfewer-r7/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2026-0257">
+- [tushargurav28/CVE-2026-0257](https://github.com/tushargurav28/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/tushargurav28/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/tushargurav28/CVE-2026-0257">
 
 ---
 ## CVE-2026-0227 ()
