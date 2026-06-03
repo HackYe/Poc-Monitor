@@ -997,6 +997,7 @@
 - [hnytgl/cve-2026-41089-detector](https://github.com/hnytgl/cve-2026-41089-detector)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/cve-2026-41089-detector">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/cve-2026-41089-detector">
 - [sananpa/CVE-2026-41089](https://github.com/sananpa/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/sananpa/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/sananpa/CVE-2026-41089">
 - [0xBlackash/CVE-2026-41089](https://github.com/0xBlackash/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41089">
+- [ADScanPro/CVE-2026-41089-LongLogon](https://github.com/ADScanPro/CVE-2026-41089-LongLogon)	<img alt="forks" src="https://img.shields.io/github/forks/ADScanPro/CVE-2026-41089-LongLogon">	<img alt="stars" src="https://img.shields.io/github/stars/ADScanPro/CVE-2026-41089-LongLogon">
 
 ---
 ## CVE-2026-41044 ()
@@ -2072,7 +2073,7 @@
 > 
 - [Jvr2022/CVE-2026-31802](https://github.com/Jvr2022/CVE-2026-31802)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-31802">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-31802">
 - [Recorded-texteditor120/CVE-2026-31802](https://github.com/Recorded-texteditor120/CVE-2026-31802)	<img alt="forks" src="https://img.shields.io/github/forks/Recorded-texteditor120/CVE-2026-31802">	<img alt="stars" src="https://img.shields.io/github/stars/Recorded-texteditor120/CVE-2026-31802">
-- [ridhinva/npm-tar-traversal-scanner](https://github.com/ridhinva/npm-tar-traversal-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/npm-tar-traversal-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/npm-tar-traversal-scanner">
+- [ridhinva/npm-tar-path-traversal-scanner](https://github.com/ridhinva/npm-tar-path-traversal-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/npm-tar-path-traversal-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/npm-tar-path-traversal-scanner">
 
 ---
 ## CVE-2026-31717 ()
@@ -2445,12 +2446,14 @@
 - [erlangparasu/mitigate_cve_2026_31431-sh](https://github.com/erlangparasu/mitigate_cve_2026_31431-sh)	<img alt="forks" src="https://img.shields.io/github/forks/erlangparasu/mitigate_cve_2026_31431-sh">	<img alt="stars" src="https://img.shields.io/github/stars/erlangparasu/mitigate_cve_2026_31431-sh">
 - [waltrone1/copyfail-safe-check](https://github.com/waltrone1/copyfail-safe-check)	<img alt="forks" src="https://img.shields.io/github/forks/waltrone1/copyfail-safe-check">	<img alt="stars" src="https://img.shields.io/github/stars/waltrone1/copyfail-safe-check">
 - [wh1sky02/copy-fail-python](https://github.com/wh1sky02/copy-fail-python)	<img alt="forks" src="https://img.shields.io/github/forks/wh1sky02/copy-fail-python">	<img alt="stars" src="https://img.shields.io/github/stars/wh1sky02/copy-fail-python">
-- [ridhinva/copyfail-checker](https://github.com/ridhinva/copyfail-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/copyfail-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/copyfail-checker">
+- [ridhinva/linux-kernel-algif-aead-checker](https://github.com/ridhinva/linux-kernel-algif-aead-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/linux-kernel-algif-aead-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/linux-kernel-algif-aead-checker">
 - [Iamliuxiaozhen/copy_fail](https://github.com/Iamliuxiaozhen/copy_fail)	<img alt="forks" src="https://img.shields.io/github/forks/Iamliuxiaozhen/copy_fail">	<img alt="stars" src="https://img.shields.io/github/stars/Iamliuxiaozhen/copy_fail">
 - [vishvacyber/Detection-Tool-Kit-for-CVE-2026-31431](https://github.com/vishvacyber/Detection-Tool-Kit-for-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/vishvacyber/Detection-Tool-Kit-for-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/vishvacyber/Detection-Tool-Kit-for-CVE-2026-31431">
 - [songzzzz/CVE-2026-31431](https://github.com/songzzzz/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/songzzzz/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/songzzzz/CVE-2026-31431">
 - [K3ysTr0K3R/CVE-2026-31431-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2026-31431-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-31431-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-31431-EXPLOIT">
 - [tematemaru/CVE-2026-31431-simple-test](https://github.com/tematemaru/CVE-2026-31431-simple-test)	<img alt="forks" src="https://img.shields.io/github/forks/tematemaru/CVE-2026-31431-simple-test">	<img alt="stars" src="https://img.shields.io/github/stars/tematemaru/CVE-2026-31431-simple-test">
+- [1neptune/CopyFail](https://github.com/1neptune/CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/1neptune/CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/1neptune/CopyFail">
+- [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
 
 ---
 ## CVE-2026-3143 ()
@@ -3057,6 +3060,16 @@
 ## CVE-2026-26903 ()
 > 
 - [John-Jung/CVE-2026-26903-PoC](https://github.com/John-Jung/CVE-2026-26903-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/John-Jung/CVE-2026-26903-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/John-Jung/CVE-2026-26903-PoC">
+
+---
+## CVE-2026-26899 ()
+> 
+- [iwallplace/CVE-2026-26899-OpenWrt-Exploit](https://github.com/iwallplace/CVE-2026-26899-OpenWrt-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iwallplace/CVE-2026-26899-OpenWrt-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iwallplace/CVE-2026-26899-OpenWrt-Exploit">
+
+---
+## CVE-2026-26897 ()
+> 
+- [iwallplace/CVE-2026-26897-EcoOnline-DeepLink](https://github.com/iwallplace/CVE-2026-26897-EcoOnline-DeepLink)	<img alt="forks" src="https://img.shields.io/github/forks/iwallplace/CVE-2026-26897-EcoOnline-DeepLink">	<img alt="stars" src="https://img.shields.io/github/stars/iwallplace/CVE-2026-26897-EcoOnline-DeepLink">
 
 ---
 ## CVE-2026-26833 ()
