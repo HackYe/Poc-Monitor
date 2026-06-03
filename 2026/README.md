@@ -706,6 +706,8 @@
 - [nu0l/NGINX-Rift](https://github.com/nu0l/NGINX-Rift)	<img alt="forks" src="https://img.shields.io/github/forks/nu0l/NGINX-Rift">	<img alt="stars" src="https://img.shields.io/github/stars/nu0l/NGINX-Rift">
 - [bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR](https://github.com/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR)	<img alt="forks" src="https://img.shields.io/github/forks/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR">	<img alt="stars" src="https://img.shields.io/github/stars/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR">
 - [karakapaku43/CVE-2026-42945](https://github.com/karakapaku43/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/karakapaku43/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/karakapaku43/CVE-2026-42945">
+- [strivepan/Nginx_cve-2026-42945-scanner-gui](https://github.com/strivepan/Nginx_cve-2026-42945-scanner-gui)	<img alt="forks" src="https://img.shields.io/github/forks/strivepan/Nginx_cve-2026-42945-scanner-gui">	<img alt="stars" src="https://img.shields.io/github/stars/strivepan/Nginx_cve-2026-42945-scanner-gui">
+- [josephfelix/CVE-2026-42945-nginx-rift](https://github.com/josephfelix/CVE-2026-42945-nginx-rift)	<img alt="forks" src="https://img.shields.io/github/forks/josephfelix/CVE-2026-42945-nginx-rift">	<img alt="stars" src="https://img.shields.io/github/stars/josephfelix/CVE-2026-42945-nginx-rift">
 
 ---
 ## CVE-2026-42940 ()
