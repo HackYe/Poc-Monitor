@@ -439,6 +439,11 @@
 - [SvenLie/next-rep-CVE-2026-4800](https://github.com/SvenLie/next-rep-CVE-2026-4800)	<img alt="forks" src="https://img.shields.io/github/forks/SvenLie/next-rep-CVE-2026-4800">	<img alt="stars" src="https://img.shields.io/github/stars/SvenLie/next-rep-CVE-2026-4800">
 
 ---
+## CVE-2026-47423 ()
+> 
+- [Galaxy-sc/CVE-2026-47423-dompurify-xss-detector](https://github.com/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">
+
+---
 ## CVE-2026-47102 ()
 > 
 - [learner202649/CVE-2026-47102-PoC](https://github.com/learner202649/CVE-2026-47102-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-47102-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-47102-PoC">
