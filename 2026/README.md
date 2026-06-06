@@ -1074,6 +1074,8 @@
 - [FlintWayRage/CVE-2026-41089-310](https://github.com/FlintWayRage/CVE-2026-41089-310)	<img alt="forks" src="https://img.shields.io/github/forks/FlintWayRage/CVE-2026-41089-310">	<img alt="stars" src="https://img.shields.io/github/stars/FlintWayRage/CVE-2026-41089-310">
 - [sectiondukestring25/CVE-2026-41089-971](https://github.com/sectiondukestring25/CVE-2026-41089-971)	<img alt="forks" src="https://img.shields.io/github/forks/sectiondukestring25/CVE-2026-41089-971">	<img alt="stars" src="https://img.shields.io/github/stars/sectiondukestring25/CVE-2026-41089-971">
 - [Mapclaregister/CVE-2026-41089-191](https://github.com/Mapclaregister/CVE-2026-41089-191)	<img alt="forks" src="https://img.shields.io/github/forks/Mapclaregister/CVE-2026-41089-191">	<img alt="stars" src="https://img.shields.io/github/stars/Mapclaregister/CVE-2026-41089-191">
+- [StampDreamFitting/CVE-2026-41089-986](https://github.com/StampDreamFitting/CVE-2026-41089-986)	<img alt="forks" src="https://img.shields.io/github/forks/StampDreamFitting/CVE-2026-41089-986">	<img alt="stars" src="https://img.shields.io/github/stars/StampDreamFitting/CVE-2026-41089-986">
+- [segmentjoninsecret/CVE-2026-41089-334](https://github.com/segmentjoninsecret/CVE-2026-41089-334)	<img alt="forks" src="https://img.shields.io/github/forks/segmentjoninsecret/CVE-2026-41089-334">	<img alt="stars" src="https://img.shields.io/github/stars/segmentjoninsecret/CVE-2026-41089-334">
 
 ---
 ## CVE-2026-41044 ()
@@ -2674,6 +2676,11 @@
 ## CVE-2026-30862 ()
 > 
 - [drkim-dev/CVE-2026-30862](https://github.com/drkim-dev/CVE-2026-30862)	<img alt="forks" src="https://img.shields.io/github/forks/drkim-dev/CVE-2026-30862">	<img alt="stars" src="https://img.shields.io/github/stars/drkim-dev/CVE-2026-30862">
+
+---
+## CVE-2026-30849 ()
+> 
+- [Gumbraise/CVE-2026-30849-PoC](https://github.com/Gumbraise/CVE-2026-30849-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Gumbraise/CVE-2026-30849-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Gumbraise/CVE-2026-30849-PoC">
 
 ---
 ## CVE-2026-30824 ()
