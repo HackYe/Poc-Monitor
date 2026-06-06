@@ -433,6 +433,11 @@
 - [xtremebeing/starlette-host-header-lab](https://github.com/xtremebeing/starlette-host-header-lab)	<img alt="forks" src="https://img.shields.io/github/forks/xtremebeing/starlette-host-header-lab">	<img alt="stars" src="https://img.shields.io/github/stars/xtremebeing/starlette-host-header-lab">
 
 ---
+## CVE-2026-48595 ()
+> 
+- [erickando33/CVE-2026-48595](https://github.com/erickando33/CVE-2026-48595)	<img alt="forks" src="https://img.shields.io/github/forks/erickando33/CVE-2026-48595">	<img alt="stars" src="https://img.shields.io/github/stars/erickando33/CVE-2026-48595">
+
+---
 ## CVE-2026-4821 ()
 > 
 - [openexecution-coder/demo-cve-2026-4821](https://github.com/openexecution-coder/demo-cve-2026-4821)	<img alt="forks" src="https://img.shields.io/github/forks/openexecution-coder/demo-cve-2026-4821">	<img alt="stars" src="https://img.shields.io/github/stars/openexecution-coder/demo-cve-2026-4821">
@@ -3578,6 +3583,11 @@
 - [mbanyamer/CVE-2026-24854-ChurchCRM-6.7.2-Authenticated-Numeric-SQL-Injection](https://github.com/mbanyamer/CVE-2026-24854-ChurchCRM-6.7.2-Authenticated-Numeric-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-24854-ChurchCRM-6.7.2-Authenticated-Numeric-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-24854-ChurchCRM-6.7.2-Authenticated-Numeric-SQL-Injection">
 
 ---
+## CVE-2026-24849 ()
+> 
+- [doany1/CVE-2026-24849](https://github.com/doany1/CVE-2026-24849)	<img alt="forks" src="https://img.shields.io/github/forks/doany1/CVE-2026-24849">	<img alt="stars" src="https://img.shields.io/github/stars/doany1/CVE-2026-24849">
+
+---
 ## CVE-2026-24841 ()
 > 
 - [otakuliu/CVE-2026-24841_Range](https://github.com/otakuliu/CVE-2026-24841_Range)	<img alt="forks" src="https://img.shields.io/github/forks/otakuliu/CVE-2026-24841_Range">	<img alt="stars" src="https://img.shields.io/github/stars/otakuliu/CVE-2026-24841_Range">
@@ -4523,6 +4533,11 @@
 ## CVE-2026-2058 ()
 > 
 - [carlosalbertotuma/CVE-2026-2058-PoC](https://github.com/carlosalbertotuma/CVE-2026-2058-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/carlosalbertotuma/CVE-2026-2058-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/carlosalbertotuma/CVE-2026-2058-PoC">
+
+---
+## CVE-2026-20452 ()
+> 
+- [Hunt-Benito/mediatek-wlan-heap-overflow-cve-2026-20452-filogic-router-rce](https://github.com/Hunt-Benito/mediatek-wlan-heap-overflow-cve-2026-20452-filogic-router-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/mediatek-wlan-heap-overflow-cve-2026-20452-filogic-router-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/mediatek-wlan-heap-overflow-cve-2026-20452-filogic-router-rce">
 
 ---
 ## CVE-2026-20404 ()
