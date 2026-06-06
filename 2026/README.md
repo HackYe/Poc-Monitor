@@ -755,6 +755,9 @@
 - [karakapaku43/CVE-2026-42945](https://github.com/karakapaku43/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/karakapaku43/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/karakapaku43/CVE-2026-42945">
 - [strivepan/Nginx_cve-2026-42945-scanner-gui](https://github.com/strivepan/Nginx_cve-2026-42945-scanner-gui)	<img alt="forks" src="https://img.shields.io/github/forks/strivepan/Nginx_cve-2026-42945-scanner-gui">	<img alt="stars" src="https://img.shields.io/github/stars/strivepan/Nginx_cve-2026-42945-scanner-gui">
 - [josephfelix/CVE-2026-42945-nginx-rift](https://github.com/josephfelix/CVE-2026-42945-nginx-rift)	<img alt="forks" src="https://img.shields.io/github/forks/josephfelix/CVE-2026-42945-nginx-rift">	<img alt="stars" src="https://img.shields.io/github/stars/josephfelix/CVE-2026-42945-nginx-rift">
+- [y198nt/Nginx-chain-Rift-Poolslip](https://github.com/y198nt/Nginx-chain-Rift-Poolslip)	<img alt="forks" src="https://img.shields.io/github/forks/y198nt/Nginx-chain-Rift-Poolslip">	<img alt="stars" src="https://img.shields.io/github/stars/y198nt/Nginx-chain-Rift-Poolslip">
+- [simota/nginx-rift-scanner](https://github.com/simota/nginx-rift-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/simota/nginx-rift-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/simota/nginx-rift-scanner">
+- [lowilol/CVE-2026-42945-NGINX-Rift-Check-Script](https://github.com/lowilol/CVE-2026-42945-NGINX-Rift-Check-Script)	<img alt="forks" src="https://img.shields.io/github/forks/lowilol/CVE-2026-42945-NGINX-Rift-Check-Script">	<img alt="stars" src="https://img.shields.io/github/stars/lowilol/CVE-2026-42945-NGINX-Rift-Check-Script">
 
 ---
 ## CVE-2026-42940 ()
@@ -3966,6 +3969,7 @@
 - [MrR0b0t19/CVE-2026-23744-PoC](https://github.com/MrR0b0t19/CVE-2026-23744-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/MrR0b0t19/CVE-2026-23744-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/MrR0b0t19/CVE-2026-23744-PoC">
 - [avivyap/CVE-2026-23744](https://github.com/avivyap/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/avivyap/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/avivyap/CVE-2026-23744">
 - [Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit](https://github.com/Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit">
+- [oryk0/CVE-2026-23744](https://github.com/oryk0/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/oryk0/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/oryk0/CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
@@ -4524,6 +4528,11 @@
 ## CVE-2026-20404 ()
 > 
 - [George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-](https://github.com/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">
+
+---
+## CVE-2026-20245 ()
+> 
+- [HORKimhab/CVE-2026-20245](https://github.com/HORKimhab/CVE-2026-20245)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20245">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20245">
 
 ---
 ## CVE-2026-20230 ()
