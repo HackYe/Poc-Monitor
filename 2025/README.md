@@ -3016,6 +3016,7 @@
 - [fortinetx/CVE-2025-57819](https://github.com/fortinetx/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/fortinetx/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/fortinetx/CVE-2025-57819">
 - [orange0Mint/CVE-2025-57819_FreePBX](https://github.com/orange0Mint/CVE-2025-57819_FreePBX)	<img alt="forks" src="https://img.shields.io/github/forks/orange0Mint/CVE-2025-57819_FreePBX">	<img alt="stars" src="https://img.shields.io/github/stars/orange0Mint/CVE-2025-57819_FreePBX">
 - [JakovBis/CVE-2025-57819_FreePBX-PoC](https://github.com/JakovBis/CVE-2025-57819_FreePBX-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JakovBis/CVE-2025-57819_FreePBX-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JakovBis/CVE-2025-57819_FreePBX-PoC">
+- [b4sh2/CVE-2025-57819-poc](https://github.com/b4sh2/CVE-2025-57819-poc)	<img alt="forks" src="https://img.shields.io/github/forks/b4sh2/CVE-2025-57819-poc">	<img alt="stars" src="https://img.shields.io/github/stars/b4sh2/CVE-2025-57819-poc">
 
 ---
 ## CVE-2025-57773 ()
