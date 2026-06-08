@@ -147,6 +147,7 @@
 ## CVE-2026-7465 ()
 > 
 - [endangcamon/CVE-2026-7465-POC](https://github.com/endangcamon/CVE-2026-7465-POC)	<img alt="forks" src="https://img.shields.io/github/forks/endangcamon/CVE-2026-7465-POC">	<img alt="stars" src="https://img.shields.io/github/stars/endangcamon/CVE-2026-7465-POC">
+- [rootdirective-sec/CVE-2026-7465-Lab](https://github.com/rootdirective-sec/CVE-2026-7465-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-7465-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-7465-Lab">
 
 ---
 ## CVE-2026-7458 ()
@@ -377,6 +378,12 @@
 - [zycoder0day/CVE-2026-5076](https://github.com/zycoder0day/CVE-2026-5076)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-5076">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-5076">
 
 ---
+## CVE-2026-50751 ()
+> 
+- [0xBlackash/CVE-2026-50751](https://github.com/0xBlackash/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-50751">
+- [WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts](https://github.com/WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts)	<img alt="forks" src="https://img.shields.io/github/forks/WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts">	<img alt="stars" src="https://img.shields.io/github/stars/WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts">
+
+---
 ## CVE-2026-5059 ()
 > 
 - [venom203020/CVE-2026-5059-poc](https://github.com/venom203020/CVE-2026-5059-poc)	<img alt="forks" src="https://img.shields.io/github/forks/venom203020/CVE-2026-5059-poc">	<img alt="stars" src="https://img.shields.io/github/stars/venom203020/CVE-2026-5059-poc">
@@ -399,6 +406,8 @@
 > 
 - [fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-](https://github.com/fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-">
 - [mrx-arafat/CVE-2026-49975-POC](https://github.com/mrx-arafat/CVE-2026-49975-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mrx-arafat/CVE-2026-49975-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mrx-arafat/CVE-2026-49975-POC">
+- [renzi25031469/CVE-2026-49975-HTTP-2-Bomb](https://github.com/renzi25031469/CVE-2026-49975-HTTP-2-Bomb)	<img alt="forks" src="https://img.shields.io/github/forks/renzi25031469/CVE-2026-49975-HTTP-2-Bomb">	<img alt="stars" src="https://img.shields.io/github/stars/renzi25031469/CVE-2026-49975-HTTP-2-Bomb">
+- [obrige/http2-bomb](https://github.com/obrige/http2-bomb)	<img alt="forks" src="https://img.shields.io/github/forks/obrige/http2-bomb">	<img alt="stars" src="https://img.shields.io/github/stars/obrige/http2-bomb">
 
 ---
 ## CVE-2026-49009 ()
@@ -537,6 +546,12 @@
 ## CVE-2026-45585 ()
 > 
 - [0xBlackash/CVE-2026-45585](https://github.com/0xBlackash/CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-45585">
+- [ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune](https://github.com/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune)	<img alt="forks" src="https://img.shields.io/github/forks/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune">	<img alt="stars" src="https://img.shields.io/github/stars/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune">
+- [alexadvanced95/yellowkey-bitlocker](https://github.com/alexadvanced95/yellowkey-bitlocker)	<img alt="forks" src="https://img.shields.io/github/forks/alexadvanced95/yellowkey-bitlocker">	<img alt="stars" src="https://img.shields.io/github/stars/alexadvanced95/yellowkey-bitlocker">
+- [ChanderManiPandey2022/Yellow-Key-Check](https://github.com/ChanderManiPandey2022/Yellow-Key-Check)	<img alt="forks" src="https://img.shields.io/github/forks/ChanderManiPandey2022/Yellow-Key-Check">	<img alt="stars" src="https://img.shields.io/github/stars/ChanderManiPandey2022/Yellow-Key-Check">
+- [andrei-majer/bitlocker-hardening](https://github.com/andrei-majer/bitlocker-hardening)	<img alt="forks" src="https://img.shields.io/github/forks/andrei-majer/bitlocker-hardening">	<img alt="stars" src="https://img.shields.io/github/stars/andrei-majer/bitlocker-hardening">
+- [everest90909/YellowKey-WinRE-Remediation](https://github.com/everest90909/YellowKey-WinRE-Remediation)	<img alt="forks" src="https://img.shields.io/github/forks/everest90909/YellowKey-WinRE-Remediation">	<img alt="stars" src="https://img.shields.io/github/stars/everest90909/YellowKey-WinRE-Remediation">
+- [bjbakker1984/Yellowkey-mitigation](https://github.com/bjbakker1984/Yellowkey-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/bjbakker1984/Yellowkey-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/bjbakker1984/Yellowkey-mitigation">
 
 ---
 ## CVE-2026-45584 ()
@@ -3044,6 +3059,7 @@
 > 
 - [BishopFox/CVE-2026-27886-check](https://github.com/BishopFox/CVE-2026-27886-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-27886-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-27886-check">
 - [EvtDanya/CVE-2026-27886](https://github.com/EvtDanya/CVE-2026-27886)	<img alt="forks" src="https://img.shields.io/github/forks/EvtDanya/CVE-2026-27886">	<img alt="stars" src="https://img.shields.io/github/stars/EvtDanya/CVE-2026-27886">
+- [thesw0rd/CVE-2026-27886-PoC-Account-Takeover](https://github.com/thesw0rd/CVE-2026-27886-PoC-Account-Takeover)	<img alt="forks" src="https://img.shields.io/github/forks/thesw0rd/CVE-2026-27886-PoC-Account-Takeover">	<img alt="stars" src="https://img.shields.io/github/stars/thesw0rd/CVE-2026-27886-PoC-Account-Takeover">
 
 ---
 ## CVE-2026-27884 ()
