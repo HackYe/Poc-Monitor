@@ -579,6 +579,8 @@
 ## CVE-2026-4480 ()
 > 
 - [robinxiang/CVE-2026-4480](https://github.com/robinxiang/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/robinxiang/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/robinxiang/CVE-2026-4480">
+- [0xBlackash/CVE-2026-4480](https://github.com/0xBlackash/CVE-2026-4480)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-4480">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-4480">
+- [TheCyberGeek/CVE-2026-4480-PoC](https://github.com/TheCyberGeek/CVE-2026-4480-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2026-4480-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2026-4480-PoC">
 
 ---
 ## CVE-2026-44706 ()
@@ -972,6 +974,7 @@
 - [yurahshell/CVE-2026-41940](https://github.com/yurahshell/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/yurahshell/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/yurahshell/CVE-2026-41940">
 - [olofsatte/CVE-2026-41940-PoC](https://github.com/olofsatte/CVE-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/olofsatte/CVE-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/olofsatte/CVE-2026-41940-PoC">
 - [asdasddqwdq29-a11y/CVE-2026-41940](https://github.com/asdasddqwdq29-a11y/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/asdasddqwdq29-a11y/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/asdasddqwdq29-a11y/CVE-2026-41940">
+- [limo57640-crypto/cpanel-cve-41940-detector](https://github.com/limo57640-crypto/cpanel-cve-41940-detector)	<img alt="forks" src="https://img.shields.io/github/forks/limo57640-crypto/cpanel-cve-41940-detector">	<img alt="stars" src="https://img.shields.io/github/stars/limo57640-crypto/cpanel-cve-41940-detector">
 
 ---
 ## CVE-2026-41901 ()
