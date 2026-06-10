@@ -45,6 +45,11 @@
 - [ambionics/cve-2026-9082-drupal-postgresql-rce](https://github.com/ambionics/cve-2026-9082-drupal-postgresql-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ambionics/cve-2026-9082-drupal-postgresql-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ambionics/cve-2026-9082-drupal-postgresql-rce">
 
 ---
+## CVE-2026-9067 ()
+> 
+- [Polosss/By-Poloss..-..CVE-2026-9067](https://github.com/Polosss/By-Poloss..-..CVE-2026-9067)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-9067">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-9067">
+
+---
 ## CVE-2026-9018 ()
 > 
 - [xxconi/CVE-2026-9018](https://github.com/xxconi/CVE-2026-9018)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-9018">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-9018">
@@ -405,6 +410,7 @@
 - [min8282/CVE-2026-5027](https://github.com/min8282/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/min8282/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/min8282/CVE-2026-5027">
 - [EQSTLab/CVE-2026-5027](https://github.com/EQSTLab/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-5027">
 - [0xBlackash/CVE-2026-5027](https://github.com/0xBlackash/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5027">
+- [Layer-6/CVE-2026-5027-Langflow](https://github.com/Layer-6/CVE-2026-5027-Langflow)	<img alt="forks" src="https://img.shields.io/github/forks/Layer-6/CVE-2026-5027-Langflow">	<img alt="stars" src="https://img.shields.io/github/stars/Layer-6/CVE-2026-5027-Langflow">
 
 ---
 ## CVE-2026-50142 ()
@@ -420,6 +426,12 @@
 - [obrige/http2-bomb](https://github.com/obrige/http2-bomb)	<img alt="forks" src="https://img.shields.io/github/forks/obrige/http2-bomb">	<img alt="stars" src="https://img.shields.io/github/stars/obrige/http2-bomb">
 - [EQSTLab/CVE-2026-49975](https://github.com/EQSTLab/CVE-2026-49975)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-49975">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-49975">
 - [LSG-PolarBear/CVE-2026-49975](https://github.com/LSG-PolarBear/CVE-2026-49975)	<img alt="forks" src="https://img.shields.io/github/forks/LSG-PolarBear/CVE-2026-49975">	<img alt="stars" src="https://img.shields.io/github/stars/LSG-PolarBear/CVE-2026-49975">
+- [LiaoZiqi-GZFLS/CVE-2026-49975](https://github.com/LiaoZiqi-GZFLS/CVE-2026-49975)	<img alt="forks" src="https://img.shields.io/github/forks/LiaoZiqi-GZFLS/CVE-2026-49975">	<img alt="stars" src="https://img.shields.io/github/stars/LiaoZiqi-GZFLS/CVE-2026-49975">
+
+---
+## CVE-2026-49413 ()
+> 
+- [ii4gsp/CVE-2026-49413](https://github.com/ii4gsp/CVE-2026-49413)	<img alt="forks" src="https://img.shields.io/github/forks/ii4gsp/CVE-2026-49413">	<img alt="stars" src="https://img.shields.io/github/stars/ii4gsp/CVE-2026-49413">
 
 ---
 ## CVE-2026-49009 ()
@@ -845,6 +857,7 @@
 - [lowilol/CVE-2026-42945-NGINX-Rift-Check-Script](https://github.com/lowilol/CVE-2026-42945-NGINX-Rift-Check-Script)	<img alt="forks" src="https://img.shields.io/github/forks/lowilol/CVE-2026-42945-NGINX-Rift-Check-Script">	<img alt="stars" src="https://img.shields.io/github/stars/lowilol/CVE-2026-42945-NGINX-Rift-Check-Script">
 - [jenniferreire26/CVE-2026-42945](https://github.com/jenniferreire26/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-42945">
 - [limo57640-crypto/nginx-rift-detector](https://github.com/limo57640-crypto/nginx-rift-detector)	<img alt="forks" src="https://img.shields.io/github/forks/limo57640-crypto/nginx-rift-detector">	<img alt="stars" src="https://img.shields.io/github/stars/limo57640-crypto/nginx-rift-detector">
+- [LiaoZiqi-GZFLS/CVE-2026-42945](https://github.com/LiaoZiqi-GZFLS/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/LiaoZiqi-GZFLS/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/LiaoZiqi-GZFLS/CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
@@ -5208,6 +5221,11 @@
 ## CVE-2026-0047 ()
 > 
 - [mobilehackinglab/CVE-2026-0047-poc](https://github.com/mobilehackinglab/CVE-2026-0047-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mobilehackinglab/CVE-2026-0047-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mobilehackinglab/CVE-2026-0047-poc">
+
+---
+## CVE-2026-0023 ()
+> 
+- [QM4RS/CVE-2026-0023-Update-Ownership-PoC](https://github.com/QM4RS/CVE-2026-0023-Update-Ownership-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/QM4RS/CVE-2026-0023-Update-Ownership-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/QM4RS/CVE-2026-0023-Update-Ownership-PoC">
 
 ---
 ## CVE-2026-0013 ()
