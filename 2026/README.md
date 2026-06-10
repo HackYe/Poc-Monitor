@@ -452,6 +452,11 @@
 - [XK3NF4/CVE-2026-48778](https://github.com/XK3NF4/CVE-2026-48778)	<img alt="forks" src="https://img.shields.io/github/forks/XK3NF4/CVE-2026-48778">	<img alt="stars" src="https://img.shields.io/github/stars/XK3NF4/CVE-2026-48778">
 
 ---
+## CVE-2026-48732 ()
+> 
+- [Saku0512/CVE-2026-48732-poc](https://github.com/Saku0512/CVE-2026-48732-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-48732-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-48732-poc">
+
+---
 ## CVE-2026-48710 ()
 > 
 - [Bhanunamikaze/BadHost-CVE-2026-48710-Exploit](https://github.com/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/BadHost-CVE-2026-48710-Exploit">
@@ -622,6 +627,11 @@
 ## CVE-2026-45067 ()
 > 
 - [HORKimhab/CVE-2026-45067](https://github.com/HORKimhab/CVE-2026-45067)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45067">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45067">
+
+---
+## CVE-2026-44963 ()
+> 
+- [HORKimhab/CVE-2026-44963](https://github.com/HORKimhab/CVE-2026-44963)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-44963">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-44963">
 
 ---
 ## CVE-2026-4484 ()
@@ -874,6 +884,7 @@
 > 
 - [strivepan/ActiveMQ-cve-2026-42588-scanner-gui](https://github.com/strivepan/ActiveMQ-cve-2026-42588-scanner-gui)	<img alt="forks" src="https://img.shields.io/github/forks/strivepan/ActiveMQ-cve-2026-42588-scanner-gui">	<img alt="stars" src="https://img.shields.io/github/stars/strivepan/ActiveMQ-cve-2026-42588-scanner-gui">
 - [hnytgl/CVE-2026-42588](https://github.com/hnytgl/CVE-2026-42588)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/CVE-2026-42588">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/CVE-2026-42588">
+- [Catherines77/ActiveMQ-EXPtools](https://github.com/Catherines77/ActiveMQ-EXPtools)	<img alt="forks" src="https://img.shields.io/github/forks/Catherines77/ActiveMQ-EXPtools">	<img alt="stars" src="https://img.shields.io/github/stars/Catherines77/ActiveMQ-EXPtools">
 
 ---
 ## CVE-2026-4257 ()
@@ -1520,6 +1531,11 @@
 ## CVE-2026-36956 ()
 > 
 - [kirubel-cve/CVE-2026-36956](https://github.com/kirubel-cve/CVE-2026-36956)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36956">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36956">
+
+---
+## CVE-2026-36670 ()
+> 
+- [Gabriel-Lacorte/CVE-2026-36670](https://github.com/Gabriel-Lacorte/CVE-2026-36670)	<img alt="forks" src="https://img.shields.io/github/forks/Gabriel-Lacorte/CVE-2026-36670">	<img alt="stars" src="https://img.shields.io/github/stars/Gabriel-Lacorte/CVE-2026-36670">
 
 ---
 ## CVE-2026-36436 ()
