@@ -7054,6 +7054,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [ramzihafiz/cve-2024-30088-binary](https://github.com/ramzihafiz/cve-2024-30088-binary)	<img alt="forks" src="https://img.shields.io/github/forks/ramzihafiz/cve-2024-30088-binary">	<img alt="stars" src="https://img.shields.io/github/stars/ramzihafiz/cve-2024-30088-binary">
 - [repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit](https://github.com/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit">
 - [oioio-space/maldev](https://github.com/oioio-space/maldev)	<img alt="forks" src="https://img.shields.io/github/forks/oioio-space/maldev">	<img alt="stars" src="https://img.shields.io/github/stars/oioio-space/maldev">
+- [FangFang-Yi/CVE-2024-30088](https://github.com/FangFang-Yi/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/FangFang-Yi/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/FangFang-Yi/CVE-2024-30088">
 
 ---
 ## CVE-2024-30085 ()
