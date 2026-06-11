@@ -723,6 +723,11 @@
 - [HORKimhab/CVE-2026-442_](https://github.com/HORKimhab/CVE-2026-442_)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-442_">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-442_">
 
 ---
+## CVE-2026-44166 ()
+> 
+- [Alardiians/pocketbase-CVE-2026-44166](https://github.com/Alardiians/pocketbase-CVE-2026-44166)	<img alt="forks" src="https://img.shields.io/github/forks/Alardiians/pocketbase-CVE-2026-44166">	<img alt="stars" src="https://img.shields.io/github/stars/Alardiians/pocketbase-CVE-2026-44166">
+
+---
 ## CVE-2026-4406 ()
 > 
 - [Hann1bl3L3ct3r/CVE-2026-4406](https://github.com/Hann1bl3L3ct3r/CVE-2026-4406)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-4406">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-4406">
@@ -3074,6 +3079,11 @@
 - [MichaelAdamGroberman/CVE-2026-28766](https://github.com/MichaelAdamGroberman/CVE-2026-28766)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-28766">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-28766">
 
 ---
+## CVE-2026-28699 ()
+> 
+- [Alardiians/gitea-CVE-2026-28699](https://github.com/Alardiians/gitea-CVE-2026-28699)	<img alt="forks" src="https://img.shields.io/github/forks/Alardiians/gitea-CVE-2026-28699">	<img alt="stars" src="https://img.shields.io/github/stars/Alardiians/gitea-CVE-2026-28699">
+
+---
 ## CVE-2026-2848 ()
 > 
 - [richardpaimu34/CVE-2026-2848](https://github.com/richardpaimu34/CVE-2026-2848)	<img alt="forks" src="https://img.shields.io/github/forks/richardpaimu34/CVE-2026-2848">	<img alt="stars" src="https://img.shields.io/github/stars/richardpaimu34/CVE-2026-2848">
@@ -5027,6 +5037,7 @@
 > 
 - [ogenich/CVE-2026-10520](https://github.com/ogenich/CVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/ogenich/CVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/ogenich/CVE-2026-10520">
 - [watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523](https://github.com/watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523">
+- [HORKimhab/CVE-2026-10520-10523](https://github.com/HORKimhab/CVE-2026-10520-10523)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-10520-10523">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-10520-10523">
 
 ---
 ## CVE-2026-10290 ()
