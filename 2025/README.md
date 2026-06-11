@@ -1810,6 +1810,7 @@
 - [0axz-tools/CVE-2025-6440](https://github.com/0axz-tools/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/0axz-tools/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/0axz-tools/CVE-2025-6440">
 - [BastianXploited/CVE-2025-6440](https://github.com/BastianXploited/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2025-6440">
 - [sahmsec/CVE-2025-6440](https://github.com/sahmsec/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2025-6440">
+- [Cyber-DarkNay/CVE-2025-6440](https://github.com/Cyber-DarkNay/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-DarkNay/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-DarkNay/CVE-2025-6440">
 
 ---
 ## CVE-2025-64328 ()
@@ -6379,6 +6380,7 @@
 - [zeroxjf/WebKit-UAF-ANGLE-OOB-Analysis](https://github.com/zeroxjf/WebKit-UAF-ANGLE-OOB-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/WebKit-UAF-ANGLE-OOB-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/WebKit-UAF-ANGLE-OOB-Analysis">
 - [SgtBattenHA/Analysis](https://github.com/SgtBattenHA/Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/SgtBattenHA/Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/SgtBattenHA/Analysis">
 - [junfuture1103/CVE-2025-43529-no-forked](https://github.com/junfuture1103/CVE-2025-43529-no-forked)	<img alt="forks" src="https://img.shields.io/github/forks/junfuture1103/CVE-2025-43529-no-forked">	<img alt="stars" src="https://img.shields.io/github/stars/junfuture1103/CVE-2025-43529-no-forked">
+- [GenericCoding/cve-2025-43529-arbitrary-ref](https://github.com/GenericCoding/cve-2025-43529-arbitrary-ref)	<img alt="forks" src="https://img.shields.io/github/forks/GenericCoding/cve-2025-43529-arbitrary-ref">	<img alt="stars" src="https://img.shields.io/github/stars/GenericCoding/cve-2025-43529-arbitrary-ref">
 
 ---
 ## CVE-2025-43504 ()

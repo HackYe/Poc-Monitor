@@ -163,6 +163,7 @@
 ## CVE-2026-7458 ()
 > 
 - [zycoder0day/CVE-2026-7458](https://github.com/zycoder0day/CVE-2026-7458)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-7458">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-7458">
+- [Cyber-DarkNay/CVE-2026-7458](https://github.com/Cyber-DarkNay/CVE-2026-7458)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-DarkNay/CVE-2026-7458">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-DarkNay/CVE-2026-7458">
 
 ---
 ## CVE-2026-7411 ()
@@ -411,6 +412,7 @@
 - [EQSTLab/CVE-2026-5027](https://github.com/EQSTLab/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-5027">
 - [0xBlackash/CVE-2026-5027](https://github.com/0xBlackash/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5027">
 - [Layer-6/CVE-2026-5027-Langflow](https://github.com/Layer-6/CVE-2026-5027-Langflow)	<img alt="forks" src="https://img.shields.io/github/forks/Layer-6/CVE-2026-5027-Langflow">	<img alt="stars" src="https://img.shields.io/github/stars/Layer-6/CVE-2026-5027-Langflow">
+- [HORKimhab/-CVE-2026-5027](https://github.com/HORKimhab/-CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/-CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/-CVE-2026-5027">
 
 ---
 ## CVE-2026-50142 ()
@@ -611,6 +613,11 @@
 - [96613686/CVE-2026-45584](https://github.com/96613686/CVE-2026-45584)	<img alt="forks" src="https://img.shields.io/github/forks/96613686/CVE-2026-45584">	<img alt="stars" src="https://img.shields.io/github/stars/96613686/CVE-2026-45584">
 
 ---
+## CVE-2026-45447 ()
+> 
+- [HORKimhab/CVE-2026-45447](https://github.com/HORKimhab/CVE-2026-45447)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45447">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45447">
+
+---
 ## CVE-2026-45401 ()
 > 
 - [nayakchinmohan/CVE-2026-45401](https://github.com/nayakchinmohan/CVE-2026-45401)	<img alt="forks" src="https://img.shields.io/github/forks/nayakchinmohan/CVE-2026-45401">	<img alt="stars" src="https://img.shields.io/github/stars/nayakchinmohan/CVE-2026-45401">
@@ -646,6 +653,11 @@
 ## CVE-2026-45067 ()
 > 
 - [HORKimhab/CVE-2026-45067](https://github.com/HORKimhab/CVE-2026-45067)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45067">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45067">
+
+---
+## CVE-2026-45034 ()
+> 
+- [Cyber-DarkNay/CVE-2026-45034](https://github.com/Cyber-DarkNay/CVE-2026-45034)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-DarkNay/CVE-2026-45034">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-DarkNay/CVE-2026-45034">
 
 ---
 ## CVE-2026-44963 ()
@@ -4174,6 +4186,7 @@
 - [DedsecTeam-BlackHat/CVE-2026-23550](https://github.com/DedsecTeam-BlackHat/CVE-2026-23550)	<img alt="forks" src="https://img.shields.io/github/forks/DedsecTeam-BlackHat/CVE-2026-23550">	<img alt="stars" src="https://img.shields.io/github/stars/DedsecTeam-BlackHat/CVE-2026-23550">
 - [epsilonpoint88-glitch/EpSiLoNPoInT-](https://github.com/epsilonpoint88-glitch/EpSiLoNPoInT-)	<img alt="forks" src="https://img.shields.io/github/forks/epsilonpoint88-glitch/EpSiLoNPoInT-">	<img alt="stars" src="https://img.shields.io/github/stars/epsilonpoint88-glitch/EpSiLoNPoInT-">
 - [dzmind2312/Mass-CVE-2026-23550-Exploit](https://github.com/dzmind2312/Mass-CVE-2026-23550-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dzmind2312/Mass-CVE-2026-23550-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dzmind2312/Mass-CVE-2026-23550-Exploit">
+- [Cyber-DarkNay/CVE-2026-23550](https://github.com/Cyber-DarkNay/CVE-2026-23550)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-DarkNay/CVE-2026-23550">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-DarkNay/CVE-2026-23550">
 
 ---
 ## CVE-2026-23524 ()

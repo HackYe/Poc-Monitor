@@ -234,6 +234,7 @@
 - [ImperialX1104/Simple-CTF-Writeup](https://github.com/ImperialX1104/Simple-CTF-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/ImperialX1104/Simple-CTF-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/ImperialX1104/Simple-CTF-Writeup">
 - [jyothsna-Git007/CMS-Made-Simple-2.2.10---SQL-Injection](https://github.com/jyothsna-Git007/CMS-Made-Simple-2.2.10---SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/jyothsna-Git007/CMS-Made-Simple-2.2.10---SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/jyothsna-Git007/CMS-Made-Simple-2.2.10---SQL-Injection">
 - [paulameg/SimpleCTF-THM-Walkthrough](https://github.com/paulameg/SimpleCTF-THM-Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/paulameg/SimpleCTF-THM-Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/paulameg/SimpleCTF-THM-Walkthrough">
+- [rideckszz/poc-CVE-2019-9053](https://github.com/rideckszz/poc-CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/rideckszz/poc-CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/rideckszz/poc-CVE-2019-9053">
 
 ---
 ## CVE-2019-8985 (2019-02-21T19:29:00)
