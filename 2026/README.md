@@ -345,6 +345,11 @@
 - [HORKimhab/CVE-2026-5426](https://github.com/HORKimhab/CVE-2026-5426)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-5426">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-5426">
 
 ---
+## CVE-2026-54088 ()
+> 
+- [Saku0512/CVE-2026-54088-poc](https://github.com/Saku0512/CVE-2026-54088-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54088-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54088-poc">
+
+---
 ## CVE-2026-5364 ()
 > 
 - [xxconi/CVE-2026-5364](https://github.com/xxconi/CVE-2026-5364)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-5364">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-5364">
@@ -520,6 +525,11 @@
 ## CVE-2026-47423 ()
 > 
 - [Galaxy-sc/CVE-2026-47423-dompurify-xss-detector](https://github.com/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2026-47423-dompurify-xss-detector">
+
+---
+## CVE-2026-47342 ()
+> 
+- [lwd3c/CVE-2026-47342](https://github.com/lwd3c/CVE-2026-47342)	<img alt="forks" src="https://img.shields.io/github/forks/lwd3c/CVE-2026-47342">	<img alt="stars" src="https://img.shields.io/github/stars/lwd3c/CVE-2026-47342">
 
 ---
 ## CVE-2026-47291 ()
