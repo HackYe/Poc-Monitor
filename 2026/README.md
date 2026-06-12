@@ -1563,6 +1563,11 @@
 - [vytlanikhil/CVE-2026-37272](https://github.com/vytlanikhil/CVE-2026-37272)	<img alt="forks" src="https://img.shields.io/github/forks/vytlanikhil/CVE-2026-37272">	<img alt="stars" src="https://img.shields.io/github/stars/vytlanikhil/CVE-2026-37272">
 
 ---
+## CVE-2026-37196 ()
+> 
+- [Pavanvootla-sec/CVE-2026-37196](https://github.com/Pavanvootla-sec/CVE-2026-37196)	<img alt="forks" src="https://img.shields.io/github/forks/Pavanvootla-sec/CVE-2026-37196">	<img alt="stars" src="https://img.shields.io/github/stars/Pavanvootla-sec/CVE-2026-37196">
+
+---
 ## CVE-2026-36981 ()
 > 
 - [canomer/CVE-2026-36981-Kernel-EoP-PoC](https://github.com/canomer/CVE-2026-36981-Kernel-EoP-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/canomer/CVE-2026-36981-Kernel-EoP-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/canomer/CVE-2026-36981-Kernel-EoP-PoC">
@@ -3759,6 +3764,11 @@
 ## CVE-2026-25099 ()
 > 
 - [yahiahamza/CVE-2026-25099](https://github.com/yahiahamza/CVE-2026-25099)	<img alt="forks" src="https://img.shields.io/github/forks/yahiahamza/CVE-2026-25099">	<img alt="stars" src="https://img.shields.io/github/stars/yahiahamza/CVE-2026-25099">
+
+---
+## CVE-2026-25089 ()
+> 
+- [0xBlackash/CVE-2026-25089](https://github.com/0xBlackash/CVE-2026-25089)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-25089">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-25089">
 
 ---
 ## CVE-2026-25075 ()
