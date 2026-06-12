@@ -1713,6 +1713,11 @@
 - [JohannesLks/CVE-2026-35330](https://github.com/JohannesLks/CVE-2026-35330)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-35330">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-35330">
 
 ---
+## CVE-2026-35273 ()
+> 
+- [HORKimhab/CVE-2026-35273](https://github.com/HORKimhab/CVE-2026-35273)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-35273">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-35273">
+
+---
 ## CVE-2026-35250 ()
 > 
 - [xooxo/CVE-2026-35250](https://github.com/xooxo/CVE-2026-35250)	<img alt="forks" src="https://img.shields.io/github/forks/xooxo/CVE-2026-35250">	<img alt="stars" src="https://img.shields.io/github/stars/xooxo/CVE-2026-35250">
@@ -2331,6 +2336,7 @@
 - [Recorded-texteditor120/CVE-2026-31802](https://github.com/Recorded-texteditor120/CVE-2026-31802)	<img alt="forks" src="https://img.shields.io/github/forks/Recorded-texteditor120/CVE-2026-31802">	<img alt="stars" src="https://img.shields.io/github/stars/Recorded-texteditor120/CVE-2026-31802">
 - [Jvr2022/CVE-2026-31802](https://github.com/Jvr2022/CVE-2026-31802)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-31802">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-31802">
 - [carlosalbertotuma/cve-2026-3180-poc](https://github.com/carlosalbertotuma/cve-2026-3180-poc)	<img alt="forks" src="https://img.shields.io/github/forks/carlosalbertotuma/cve-2026-3180-poc">	<img alt="stars" src="https://img.shields.io/github/stars/carlosalbertotuma/cve-2026-3180-poc">
+- [cardosource/cve-2026-3180](https://github.com/cardosource/cve-2026-3180)	<img alt="forks" src="https://img.shields.io/github/forks/cardosource/cve-2026-3180">	<img alt="stars" src="https://img.shields.io/github/stars/cardosource/cve-2026-3180">
 - [cardosource/cve-2026-3180](https://github.com/cardosource/cve-2026-3180)	<img alt="forks" src="https://img.shields.io/github/forks/cardosource/cve-2026-3180">	<img alt="stars" src="https://img.shields.io/github/stars/cardosource/cve-2026-3180">
 
 ---
