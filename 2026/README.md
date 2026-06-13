@@ -4429,6 +4429,11 @@
 - [dptsec/CVE-2026-22444](https://github.com/dptsec/CVE-2026-22444)	<img alt="forks" src="https://img.shields.io/github/forks/dptsec/CVE-2026-22444">	<img alt="stars" src="https://img.shields.io/github/stars/dptsec/CVE-2026-22444">
 
 ---
+## CVE-2026-22356 ()
+> 
+- [xxconi/CVE-2026-22356](https://github.com/xxconi/CVE-2026-22356)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-22356">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-22356">
+
+---
 ## CVE-2026-22241 ()
 > 
 - [CVEs-Labs/CVE-2026-22241](https://github.com/CVEs-Labs/CVE-2026-22241)	<img alt="forks" src="https://img.shields.io/github/forks/CVEs-Labs/CVE-2026-22241">	<img alt="stars" src="https://img.shields.io/github/stars/CVEs-Labs/CVE-2026-22241">
