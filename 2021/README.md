@@ -2607,6 +2607,7 @@
 - [Kouf320/attacker-lab-cve-2017-5638-cve-2021-41773-paper](https://github.com/Kouf320/attacker-lab-cve-2017-5638-cve-2021-41773-paper)	<img alt="forks" src="https://img.shields.io/github/forks/Kouf320/attacker-lab-cve-2017-5638-cve-2021-41773-paper">	<img alt="stars" src="https://img.shields.io/github/stars/Kouf320/attacker-lab-cve-2017-5638-cve-2021-41773-paper">
 - [im2nerd/CVE-2021-41773](https://github.com/im2nerd/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/im2nerd/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/im2nerd/CVE-2021-41773">
 - [wvverez/CVE-2021-41773-PoC](https://github.com/wvverez/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2021-41773-PoC">
+- [fxdyx-a/CVE-2021-41773-POC](https://github.com/fxdyx-a/CVE-2021-41773-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fxdyx-a/CVE-2021-41773-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fxdyx-a/CVE-2021-41773-POC">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
