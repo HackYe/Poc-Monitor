@@ -4853,6 +4853,7 @@
 ## CVE-2026-20245 ()
 > 
 - [HORKimhab/CVE-2026-20245](https://github.com/HORKimhab/CVE-2026-20245)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20245">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20245">
+- [0xBlackash/CVE-2026-20245](https://github.com/0xBlackash/CVE-2026-20245)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-20245">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-20245">
 
 ---
 ## CVE-2026-20230 ()
