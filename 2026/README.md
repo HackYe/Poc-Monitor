@@ -4906,6 +4906,7 @@
 - [gigachadusers/cve-2026-20127](https://github.com/gigachadusers/cve-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/gigachadusers/cve-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/gigachadusers/cve-2026-20127">
 - [sfewer-r7/CVE-2026-20127](https://github.com/sfewer-r7/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2026-20127">
 - [randeepajayasekara/CVE-2026-20127](https://github.com/randeepajayasekara/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/randeepajayasekara/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/randeepajayasekara/CVE-2026-20127">
+- [0xBlackash/CVE-2026-20127](https://github.com/0xBlackash/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-20127">
 
 ---
 ## CVE-2026-20079 ()
