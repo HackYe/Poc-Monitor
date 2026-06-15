@@ -4271,6 +4271,8 @@
 - [Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit](https://github.com/Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Dahalsamir/CVE-2026-23744-MCPJAM-RCE-exploit">
 - [oryk0/CVE-2026-23744](https://github.com/oryk0/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/oryk0/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/oryk0/CVE-2026-23744">
 - [kennedy-aikohi/mcpjam-cve-2026-23744-validator](https://github.com/kennedy-aikohi/mcpjam-cve-2026-23744-validator)	<img alt="forks" src="https://img.shields.io/github/forks/kennedy-aikohi/mcpjam-cve-2026-23744-validator">	<img alt="stars" src="https://img.shields.io/github/stars/kennedy-aikohi/mcpjam-cve-2026-23744-validator">
+- [rohit-sundar/cve-2026-23744](https://github.com/rohit-sundar/cve-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/rohit-sundar/cve-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/rohit-sundar/cve-2026-23744">
+- [keeieb79/CVE-2026-23744-poc](https://github.com/keeieb79/CVE-2026-23744-poc)	<img alt="forks" src="https://img.shields.io/github/forks/keeieb79/CVE-2026-23744-poc">	<img alt="stars" src="https://img.shields.io/github/stars/keeieb79/CVE-2026-23744-poc">
 
 ---
 ## CVE-2026-23723 ()
@@ -5164,6 +5166,7 @@
 > 
 - [webshellseo8/CVE-2026-10795-POC](https://github.com/webshellseo8/CVE-2026-10795-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-10795-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-10795-POC">
 - [izxci/CVE-2026-10795](https://github.com/izxci/CVE-2026-10795)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-10795">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-10795">
+- [rootdirective-sec/CVE-2026-10795-Lab](https://github.com/rootdirective-sec/CVE-2026-10795-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-10795-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-10795-Lab">
 
 ---
 ## CVE-2026-10580 ()
