@@ -388,6 +388,11 @@
 - [xxconi/CVE-2026-5364](https://github.com/xxconi/CVE-2026-5364)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-5364">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-5364">
 
 ---
+## CVE-2026-53582 ()
+> 
+- [eev4n/CVE-2026-53582](https://github.com/eev4n/CVE-2026-53582)	<img alt="forks" src="https://img.shields.io/github/forks/eev4n/CVE-2026-53582">	<img alt="stars" src="https://img.shields.io/github/stars/eev4n/CVE-2026-53582">
+
+---
 ## CVE-2026-53519 ()
 > 
 - [tar-xz/CVE-2026-53519-PoC](https://github.com/tar-xz/CVE-2026-53519-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tar-xz/CVE-2026-53519-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tar-xz/CVE-2026-53519-PoC">
@@ -447,6 +452,11 @@
 > 
 - [0xBlackash/CVE-2026-50751](https://github.com/0xBlackash/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-50751">
 - [WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts](https://github.com/WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts)	<img alt="forks" src="https://img.shields.io/github/forks/WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts">	<img alt="stars" src="https://img.shields.io/github/stars/WadesWeaponShed/CVE-2026-50751-Mitigation-Scripts">
+- [bolubey/CVE-2026-50751](https://github.com/bolubey/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/bolubey/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/bolubey/CVE-2026-50751">
+- [hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass](https://github.com/hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/hlkysipv/CVE-2026-50751-Check-Point-IKEv1-Authentication-Bypass">
+- [watchtowrlabs/watchTowr-vs-Check-Point-CVE-2026-50751](https://github.com/watchtowrlabs/watchTowr-vs-Check-Point-CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Check-Point-CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Check-Point-CVE-2026-50751">
+- [fernstedt/CVE-2026-50751](https://github.com/fernstedt/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/fernstedt/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/fernstedt/CVE-2026-50751">
+- [fevar54/CVE-2026-50751---Check-Point-IKEv1-Authentication-Bypass-Exploit](https://github.com/fevar54/CVE-2026-50751---Check-Point-IKEv1-Authentication-Bypass-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-50751---Check-Point-IKEv1-Authentication-Bypass-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-50751---Check-Point-IKEv1-Authentication-Bypass-Exploit">
 
 ---
 ## CVE-2026-5059 ()
