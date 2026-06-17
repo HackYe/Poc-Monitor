@@ -734,6 +734,8 @@
 - [AzDevops143/FRAGNESIA-Charan-cve-2026-46300](https://github.com/AzDevops143/FRAGNESIA-Charan-cve-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/AzDevops143/FRAGNESIA-Charan-cve-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/AzDevops143/FRAGNESIA-Charan-cve-2026-46300">
 - [BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Project](https://github.com/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Project)	<img alt="forks" src="https://img.shields.io/github/forks/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Project">	<img alt="stars" src="https://img.shields.io/github/stars/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Project">
 - [BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough](https://github.com/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/BenedictEjepu/CVE-2026-46300-Fragnesia---TryHackMe-Lab-Walkthrough">
+- [1neptune/Fragnesia](https://github.com/1neptune/Fragnesia)	<img alt="forks" src="https://img.shields.io/github/forks/1neptune/Fragnesia">	<img alt="stars" src="https://img.shields.io/github/stars/1neptune/Fragnesia">
+- [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
 
 ---
 ## CVE-2026-46243 ()
@@ -4230,6 +4232,7 @@
 - [tc4dy/CVE-2026-24061-PoC-Exploit](https://github.com/tc4dy/CVE-2026-24061-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-24061-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-24061-PoC-Exploit">
 - [achnouri/CVE-2026-24061-GNU-InetUtils-telnetd](https://github.com/achnouri/CVE-2026-24061-GNU-InetUtils-telnetd)	<img alt="forks" src="https://img.shields.io/github/forks/achnouri/CVE-2026-24061-GNU-InetUtils-telnetd">	<img alt="stars" src="https://img.shields.io/github/stars/achnouri/CVE-2026-24061-GNU-InetUtils-telnetd">
 - [K3ysTr0K3R/CVE-2026-24061](https://github.com/K3ysTr0K3R/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-24061">
+- [akpmarcelin/CVE-2026-24061-lab](https://github.com/akpmarcelin/CVE-2026-24061-lab)	<img alt="forks" src="https://img.shields.io/github/forks/akpmarcelin/CVE-2026-24061-lab">	<img alt="stars" src="https://img.shields.io/github/stars/akpmarcelin/CVE-2026-24061-lab">
 
 ---
 ## CVE-2026-2406 ()
