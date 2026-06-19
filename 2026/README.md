@@ -656,6 +656,7 @@
 ## CVE-2026-48611 ()
 > 
 - [Diznev/CVE-2026-48611-EXPLOIT](https://github.com/Diznev/CVE-2026-48611-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Diznev/CVE-2026-48611-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Diznev/CVE-2026-48611-EXPLOIT">
+- [citruscitruscitruscitruscitrusci/CVE-2026-48611-poc](https://github.com/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc)	<img alt="forks" src="https://img.shields.io/github/forks/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc">	<img alt="stars" src="https://img.shields.io/github/stars/citruscitruscitruscitruscitrusci/CVE-2026-48611-poc">
 
 ---
 ## CVE-2026-48595 ()
@@ -1198,6 +1199,7 @@
 > 
 - [HORKimhab/CVE-2026-42530](https://github.com/HORKimhab/CVE-2026-42530)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-42530">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-42530">
 - [v4ltonn/CVE-2026-42530](https://github.com/v4ltonn/CVE-2026-42530)	<img alt="forks" src="https://img.shields.io/github/forks/v4ltonn/CVE-2026-42530">	<img alt="stars" src="https://img.shields.io/github/stars/v4ltonn/CVE-2026-42530">
+- [0xBlackash/CVE-2026-42530](https://github.com/0xBlackash/CVE-2026-42530)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-42530">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-42530">
 
 ---
 ## CVE-2026-42281 ()
@@ -4039,6 +4041,11 @@
 - [H1sok444/CVE-2026-25232-PoC](https://github.com/H1sok444/CVE-2026-25232-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/H1sok444/CVE-2026-25232-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/H1sok444/CVE-2026-25232-PoC">
 
 ---
+## CVE-2026-25212 ()
+> 
+- [5170Temp/CVE-2026-25212](https://github.com/5170Temp/CVE-2026-25212)	<img alt="forks" src="https://img.shields.io/github/forks/5170Temp/CVE-2026-25212">	<img alt="stars" src="https://img.shields.io/github/stars/5170Temp/CVE-2026-25212">
+
+---
 ## CVE-2026-25211 ()
 > 
 - [mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211](https://github.com/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211">
@@ -5425,6 +5432,7 @@
 ## CVE-2026-11551 ()
 > 
 - [Polosss/By-Poloss..-..CVE-2026-11551-PoC](https://github.com/Polosss/By-Poloss..-..CVE-2026-11551-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-11551-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-11551-PoC">
+- [xxconi/2026-11551](https://github.com/xxconi/2026-11551)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/2026-11551">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/2026-11551">
 
 ---
 ## CVE-2026-11499 ()
