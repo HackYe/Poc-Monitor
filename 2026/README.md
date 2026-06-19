@@ -1197,6 +1197,7 @@
 ## CVE-2026-42530 ()
 > 
 - [HORKimhab/CVE-2026-42530](https://github.com/HORKimhab/CVE-2026-42530)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-42530">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-42530">
+- [v4ltonn/CVE-2026-42530](https://github.com/v4ltonn/CVE-2026-42530)	<img alt="forks" src="https://img.shields.io/github/forks/v4ltonn/CVE-2026-42530">	<img alt="stars" src="https://img.shields.io/github/stars/v4ltonn/CVE-2026-42530">
 
 ---
 ## CVE-2026-42281 ()
@@ -5419,6 +5420,11 @@
 - [adamshaikhma/CVE-2026-11645](https://github.com/adamshaikhma/CVE-2026-11645)	<img alt="forks" src="https://img.shields.io/github/forks/adamshaikhma/CVE-2026-11645">	<img alt="stars" src="https://img.shields.io/github/stars/adamshaikhma/CVE-2026-11645">
 - [fevar54/CVE-2026-11645-Out-of-bounds-Read-Write](https://github.com/fevar54/CVE-2026-11645-Out-of-bounds-Read-Write)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-11645-Out-of-bounds-Read-Write">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-11645-Out-of-bounds-Read-Write">
 - [0xBlackash/CVE-2026-11645](https://github.com/0xBlackash/CVE-2026-11645)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-11645">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-11645">
+
+---
+## CVE-2026-11551 ()
+> 
+- [Polosss/By-Poloss..-..CVE-2026-11551-PoC](https://github.com/Polosss/By-Poloss..-..CVE-2026-11551-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-11551-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-11551-PoC">
 
 ---
 ## CVE-2026-11499 ()
