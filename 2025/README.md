@@ -10361,6 +10361,11 @@
 - [whattheslime/CVE-2025-13486-exploit](https://github.com/whattheslime/CVE-2025-13486-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/whattheslime/CVE-2025-13486-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/whattheslime/CVE-2025-13486-exploit">
 
 ---
+## CVE-2025-13407 ()
+> 
+- [xxconi/CVE-2025-13407](https://github.com/xxconi/CVE-2025-13407)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2025-13407">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2025-13407">
+
+---
 ## CVE-2025-13401 ()
 > 
 - [ciscocamelo/CVE-2025-13401-XSS-Stored](https://github.com/ciscocamelo/CVE-2025-13401-XSS-Stored)	<img alt="forks" src="https://img.shields.io/github/forks/ciscocamelo/CVE-2025-13401-XSS-Stored">	<img alt="stars" src="https://img.shields.io/github/stars/ciscocamelo/CVE-2025-13401-XSS-Stored">
