@@ -570,6 +570,7 @@
 ## CVE-2026-49777 ()
 > 
 - [xxconi/CVE-2026-49777-CVE-2026-10735](https://github.com/xxconi/CVE-2026-49777-CVE-2026-10735)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-49777-CVE-2026-10735">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-49777-CVE-2026-10735">
+- [izxci/CVE-2026-49777](https://github.com/izxci/CVE-2026-49777)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-49777">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-49777">
 
 ---
 ## CVE-2026-49757 ()
@@ -998,6 +999,11 @@
 ## CVE-2026-43893 ()
 > 
 - [Dobby153/CVE-2026-43893](https://github.com/Dobby153/CVE-2026-43893)	<img alt="forks" src="https://img.shields.io/github/forks/Dobby153/CVE-2026-43893">	<img alt="stars" src="https://img.shields.io/github/stars/Dobby153/CVE-2026-43893">
+
+---
+## CVE-2026-43655 ()
+> 
+- [Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF](https://github.com/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF">
 
 ---
 ## CVE-2026-43515 ()
