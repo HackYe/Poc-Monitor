@@ -862,6 +862,11 @@
 - [0xBlackash/CVE-2026-46333](https://github.com/0xBlackash/CVE-2026-46333)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46333">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46333">
 
 ---
+## CVE-2026-46331 ()
+> 
+- [0xBlackash/CVE-2026-46331](https://github.com/0xBlackash/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46331">
+
+---
 ## CVE-2026-4631 ()
 > 
 - [cyberheartmi9/CVE-2026-4631-cockpit-RCE](https://github.com/cyberheartmi9/CVE-2026-4631-cockpit-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cyberheartmi9/CVE-2026-4631-cockpit-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cyberheartmi9/CVE-2026-4631-cockpit-RCE">
@@ -1120,6 +1125,7 @@
 - [0xBlackash/CVE-2026-43503](https://github.com/0xBlackash/CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43503">
 - [mooder1/dirtyclone-CVE-2026-43503](https://github.com/mooder1/dirtyclone-CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/mooder1/dirtyclone-CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/mooder1/dirtyclone-CVE-2026-43503">
 - [aexdyhaxor/CVE-2026-43503-DirtyClone](https://github.com/aexdyhaxor/CVE-2026-43503-DirtyClone)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2026-43503-DirtyClone">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2026-43503-DirtyClone">
+- [sec0x/CVE-2026-43503](https://github.com/sec0x/CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/sec0x/CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/sec0x/CVE-2026-43503">
 
 ---
 ## CVE-2026-43500 ()
@@ -5385,6 +5391,13 @@
 > 
 - [0xBlackash/CVE-2026-20253](https://github.com/0xBlackash/CVE-2026-20253)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-20253">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-20253">
 - [HORKimhab/CVE-2026-20253](https://github.com/HORKimhab/CVE-2026-20253)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20253">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20253">
+- [fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-](https://github.com/fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-">
+- [watchtowrlabs/watchTowr-vs-Splunk-CVE-2026-20253](https://github.com/watchtowrlabs/watchTowr-vs-Splunk-CVE-2026-20253)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Splunk-CVE-2026-20253">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Splunk-CVE-2026-20253">
+
+---
+## CVE-2026-20251 ()
+> 
+- [reactivezero/CVE-2026-20251](https://github.com/reactivezero/CVE-2026-20251)	<img alt="forks" src="https://img.shields.io/github/forks/reactivezero/CVE-2026-20251">	<img alt="stars" src="https://img.shields.io/github/stars/reactivezero/CVE-2026-20251">
 
 ---
 ## CVE-2026-20245 ()
@@ -5652,6 +5665,11 @@
 ## CVE-2026-12416 ()
 > 
 - [Nxploited/CVE-2026-12416-CVE-2026-12417](https://github.com/Nxploited/CVE-2026-12416-CVE-2026-12417)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-12416-CVE-2026-12417">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-12416-CVE-2026-12417">
+
+---
+## CVE-2026-12415 ()
+> 
+- [xxconi/CVE-2026-12415-or-CVE-2026-12416.py](https://github.com/xxconi/CVE-2026-12415-or-CVE-2026-12416.py)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-12415-or-CVE-2026-12416.py">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-12415-or-CVE-2026-12416.py">
 
 ---
 ## CVE-2026-1238 ()
