@@ -56,6 +56,7 @@
 - [ambionics/cve-2026-9082-drupal-postgresql-rce](https://github.com/ambionics/cve-2026-9082-drupal-postgresql-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ambionics/cve-2026-9082-drupal-postgresql-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ambionics/cve-2026-9082-drupal-postgresql-rce">
 - [sourcecode347/CVE-2026-9082-Mass_Scanner](https://github.com/sourcecode347/CVE-2026-9082-Mass_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sourcecode347/CVE-2026-9082-Mass_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sourcecode347/CVE-2026-9082-Mass_Scanner">
 - [eliHiHo/portfolio-drupal-cve-2026-9082](https://github.com/eliHiHo/portfolio-drupal-cve-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/eliHiHo/portfolio-drupal-cve-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/eliHiHo/portfolio-drupal-cve-2026-9082">
+- [evidencebasedvulnerability/cve-2026-9082-drupal](https://github.com/evidencebasedvulnerability/cve-2026-9082-drupal)	<img alt="forks" src="https://img.shields.io/github/forks/evidencebasedvulnerability/cve-2026-9082-drupal">	<img alt="stars" src="https://img.shields.io/github/stars/evidencebasedvulnerability/cve-2026-9082-drupal">
 
 ---
 ## CVE-2026-9067 ()
@@ -1169,6 +1170,8 @@
 - [sec0x/CVE-2026-43503](https://github.com/sec0x/CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/sec0x/CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/sec0x/CVE-2026-43503">
 - [gl1tch0x1/DirtyClone](https://github.com/gl1tch0x1/DirtyClone)	<img alt="forks" src="https://img.shields.io/github/forks/gl1tch0x1/DirtyClone">	<img alt="stars" src="https://img.shields.io/github/stars/gl1tch0x1/DirtyClone">
 - [douglasmun/pagecache-lpe-containment-kit](https://github.com/douglasmun/pagecache-lpe-containment-kit)	<img alt="forks" src="https://img.shields.io/github/forks/douglasmun/pagecache-lpe-containment-kit">	<img alt="stars" src="https://img.shields.io/github/stars/douglasmun/pagecache-lpe-containment-kit">
+- [SecureWithUmer/CVE-2026-43503](https://github.com/SecureWithUmer/CVE-2026-43503)	<img alt="forks" src="https://img.shields.io/github/forks/SecureWithUmer/CVE-2026-43503">	<img alt="stars" src="https://img.shields.io/github/stars/SecureWithUmer/CVE-2026-43503">
+- [entra1337/DirtyClone](https://github.com/entra1337/DirtyClone)	<img alt="forks" src="https://img.shields.io/github/forks/entra1337/DirtyClone">	<img alt="stars" src="https://img.shields.io/github/stars/entra1337/DirtyClone">
 
 ---
 ## CVE-2026-43500 ()
@@ -2156,6 +2159,11 @@
 ## CVE-2026-36956 ()
 > 
 - [kirubel-cve/CVE-2026-36956](https://github.com/kirubel-cve/CVE-2026-36956)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36956">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36956">
+
+---
+## CVE-2026-36848 ()
+> 
+- [calligraf0/CVE-2026-36848](https://github.com/calligraf0/CVE-2026-36848)	<img alt="forks" src="https://img.shields.io/github/forks/calligraf0/CVE-2026-36848">	<img alt="stars" src="https://img.shields.io/github/stars/calligraf0/CVE-2026-36848">
 
 ---
 ## CVE-2026-36834 ()
@@ -4522,6 +4530,7 @@
 - [lukasz-rybak/CVE-2026-24417](https://github.com/lukasz-rybak/CVE-2026-24417)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-24417">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-24417">
 - [lukasz-rybak/CVE-2026-24416](https://github.com/lukasz-rybak/CVE-2026-24416)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-24416">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-24416">
 - [MartinaStarone/CVE-2026-2441](https://github.com/MartinaStarone/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/MartinaStarone/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/MartinaStarone/CVE-2026-2441">
+- [BridgerAlderson/CVE-2026-24418](https://github.com/BridgerAlderson/CVE-2026-24418)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2026-24418">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2026-24418">
 
 ---
 ## CVE-2026-24306 ()
