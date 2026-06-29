@@ -732,6 +732,7 @@
 - [0xgh057r3c0n/CVE-2026-48907](https://github.com/0xgh057r3c0n/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-48907">
 - [gh1mau/masta-cve-2026-48907](https://github.com/gh1mau/masta-cve-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/gh1mau/masta-cve-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/gh1mau/masta-cve-2026-48907">
 - [grayxploit/CVE-2026-48907](https://github.com/grayxploit/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/grayxploit/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/grayxploit/CVE-2026-48907">
+- [xitexploiter96-dot/CVE-2026-48907-](https://github.com/xitexploiter96-dot/CVE-2026-48907-)	<img alt="forks" src="https://img.shields.io/github/forks/xitexploiter96-dot/CVE-2026-48907-">	<img alt="stars" src="https://img.shields.io/github/stars/xitexploiter96-dot/CVE-2026-48907-">
 
 ---
 ## CVE-2026-48866 ()
@@ -1576,6 +1577,11 @@
 - [Christbowel/CVE-2026-41900-POC](https://github.com/Christbowel/CVE-2026-41900-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2026-41900-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2026-41900-POC">
 
 ---
+## CVE-2026-41729 ()
+> 
+- [daehyuh/CVE-2026-41729](https://github.com/daehyuh/CVE-2026-41729)	<img alt="forks" src="https://img.shields.io/github/forks/daehyuh/CVE-2026-41729">	<img alt="stars" src="https://img.shields.io/github/stars/daehyuh/CVE-2026-41729">
+
+---
 ## CVE-2026-41679 ()
 > 
 - [bartfroklage/cve-2026-41679](https://github.com/bartfroklage/cve-2026-41679)	<img alt="forks" src="https://img.shields.io/github/forks/bartfroklage/cve-2026-41679">	<img alt="stars" src="https://img.shields.io/github/stars/bartfroklage/cve-2026-41679">
@@ -1704,6 +1710,11 @@
 > 
 - [mrillicit/CVE-2026-41044](https://github.com/mrillicit/CVE-2026-41044)	<img alt="forks" src="https://img.shields.io/github/forks/mrillicit/CVE-2026-41044">	<img alt="stars" src="https://img.shields.io/github/stars/mrillicit/CVE-2026-41044">
 - [mrillicit/CVE-2026-41044](https://github.com/mrillicit/CVE-2026-41044)	<img alt="forks" src="https://img.shields.io/github/forks/mrillicit/CVE-2026-41044">	<img alt="stars" src="https://img.shields.io/github/stars/mrillicit/CVE-2026-41044">
+
+---
+## CVE-2026-40987 ()
+> 
+- [daehyuh/CVE-2026-40987](https://github.com/daehyuh/CVE-2026-40987)	<img alt="forks" src="https://img.shields.io/github/forks/daehyuh/CVE-2026-40987">	<img alt="stars" src="https://img.shields.io/github/stars/daehyuh/CVE-2026-40987">
 
 ---
 ## CVE-2026-4092 ()
@@ -5467,6 +5478,7 @@
 - [HORKimhab/CVE-2026-20253](https://github.com/HORKimhab/CVE-2026-20253)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-20253">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-20253">
 - [fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-](https://github.com/fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-20253-Splunk-Enterprise-Pre-Auth-RCE-">
 - [watchtowrlabs/watchTowr-vs-Splunk-CVE-2026-20253](https://github.com/watchtowrlabs/watchTowr-vs-Splunk-CVE-2026-20253)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Splunk-CVE-2026-20253">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Splunk-CVE-2026-20253">
+- [pssec-io/CVE-2026-20253](https://github.com/pssec-io/CVE-2026-20253)	<img alt="forks" src="https://img.shields.io/github/forks/pssec-io/CVE-2026-20253">	<img alt="stars" src="https://img.shields.io/github/stars/pssec-io/CVE-2026-20253">
 
 ---
 ## CVE-2026-20251 ()
