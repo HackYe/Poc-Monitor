@@ -6515,6 +6515,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [chengfeng30121/CVE-2024-31317-PoC](https://github.com/chengfeng30121/CVE-2024-31317-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/chengfeng30121/CVE-2024-31317-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/chengfeng30121/CVE-2024-31317-PoC">
 - [vnescape/zygote-CVE-2024-31317](https://github.com/vnescape/zygote-CVE-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/vnescape/zygote-CVE-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/vnescape/zygote-CVE-2024-31317">
 - [GitAmanS/ZygoteExploitDemo](https://github.com/GitAmanS/ZygoteExploitDemo)	<img alt="forks" src="https://img.shields.io/github/forks/GitAmanS/ZygoteExploitDemo">	<img alt="stars" src="https://img.shields.io/github/stars/GitAmanS/ZygoteExploitDemo">
+- [Tinnci/cve-2024-31317](https://github.com/Tinnci/cve-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/Tinnci/cve-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/Tinnci/cve-2024-31317">
 
 ---
 ## CVE-2024-31286 (2024-04-07T18:15:00)
