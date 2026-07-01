@@ -423,6 +423,11 @@
 - [Christbowel/CVE-2026-56111](https://github.com/Christbowel/CVE-2026-56111)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2026-56111">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2026-56111">
 
 ---
+## CVE-2026-56011 ()
+> 
+- [rootdirective-sec/CVE-2026-56011-Lab](https://github.com/rootdirective-sec/CVE-2026-56011-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-56011-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-56011-Lab">
+
+---
 ## CVE-2026-5562 ()
 > 
 - [HutTwoThreeFour/CVE-2026-5562-Exploit](https://github.com/HutTwoThreeFour/CVE-2026-5562-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/HutTwoThreeFour/CVE-2026-5562-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/HutTwoThreeFour/CVE-2026-5562-Exploit">
@@ -518,6 +523,11 @@
 - [HORKimhab/CVE-2026-5426](https://github.com/HORKimhab/CVE-2026-5426)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-5426">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-5426">
 
 ---
+## CVE-2026-54161 ()
+> 
+- [ja-errorpro/CVE-2026-54161](https://github.com/ja-errorpro/CVE-2026-54161)	<img alt="forks" src="https://img.shields.io/github/forks/ja-errorpro/CVE-2026-54161">	<img alt="stars" src="https://img.shields.io/github/stars/ja-errorpro/CVE-2026-54161">
+
+---
 ## CVE-2026-5415 ()
 > 
 - [izxci/CVE-2026-5415](https://github.com/izxci/CVE-2026-5415)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-5415">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-5415">
@@ -541,6 +551,11 @@
 ## CVE-2026-53753 ()
 > 
 - [BiiTts/CVE-2026-53753-Crawl4AI-RCE](https://github.com/BiiTts/CVE-2026-53753-Crawl4AI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-53753-Crawl4AI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-53753-Crawl4AI-RCE">
+
+---
+## CVE-2026-53694 ()
+> 
+- [do4choo/CVE-2026-53694-NoMachine-LPE](https://github.com/do4choo/CVE-2026-53694-NoMachine-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/do4choo/CVE-2026-53694-NoMachine-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/do4choo/CVE-2026-53694-NoMachine-LPE">
 
 ---
 ## CVE-2026-5366 ()
@@ -793,6 +808,7 @@
 - [K3ysTr0K3R/CVE-2026-48907](https://github.com/K3ysTr0K3R/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2026-48907">
 - [Almavj/Joomla_CVE_2026_48907](https://github.com/Almavj/Joomla_CVE_2026_48907)	<img alt="forks" src="https://img.shields.io/github/forks/Almavj/Joomla_CVE_2026_48907">	<img alt="stars" src="https://img.shields.io/github/stars/Almavj/Joomla_CVE_2026_48907">
 - [pssec-io/CVE-2026-48907](https://github.com/pssec-io/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/pssec-io/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/pssec-io/CVE-2026-48907">
+- [NoXiVaR/CVE-2026-48907](https://github.com/NoXiVaR/CVE-2026-48907)	<img alt="forks" src="https://img.shields.io/github/forks/NoXiVaR/CVE-2026-48907">	<img alt="stars" src="https://img.shields.io/github/stars/NoXiVaR/CVE-2026-48907">
 
 ---
 ## CVE-2026-48866 ()
@@ -5993,6 +6009,7 @@
 - [HORKimhab/CVE-2026-10520-10523](https://github.com/HORKimhab/CVE-2026-10520-10523)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-10520-10523">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-10520-10523">
 - [0xBlackash/CVE-2026-10520](https://github.com/0xBlackash/CVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-10520">
 - [error-inside/CVE-2026-10520](https://github.com/error-inside/CVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/error-inside/CVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/error-inside/CVE-2026-10520">
+- [emilliewatson96/spryCVE-2026-10520](https://github.com/emilliewatson96/spryCVE-2026-10520)	<img alt="forks" src="https://img.shields.io/github/forks/emilliewatson96/spryCVE-2026-10520">	<img alt="stars" src="https://img.shields.io/github/stars/emilliewatson96/spryCVE-2026-10520">
 
 ---
 ## CVE-2026-10290 ()
