@@ -522,6 +522,11 @@
 - [MichaelAdamGroberman/CVE-2026-54477](https://github.com/MichaelAdamGroberman/CVE-2026-54477)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-54477">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-54477">
 
 ---
+## CVE-2026-54424 ()
+> 
+- [tomadimitrie/CVE-2026-54424](https://github.com/tomadimitrie/CVE-2026-54424)	<img alt="forks" src="https://img.shields.io/github/forks/tomadimitrie/CVE-2026-54424">	<img alt="stars" src="https://img.shields.io/github/stars/tomadimitrie/CVE-2026-54424">
+
+---
 ## CVE-2026-54420 ()
 > 
 - [HORKimhab/CVE-2026-54420](https://github.com/HORKimhab/CVE-2026-54420)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-54420">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-54420">
