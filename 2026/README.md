@@ -507,6 +507,11 @@
 - [87achrafg-stack/CVE-2026-5513](https://github.com/87achrafg-stack/CVE-2026-5513)	<img alt="forks" src="https://img.shields.io/github/forks/87achrafg-stack/CVE-2026-5513">	<img alt="stars" src="https://img.shields.io/github/stars/87achrafg-stack/CVE-2026-5513">
 
 ---
+## CVE-2026-54998 ()
+> 
+- [sentinel-aidefense/CVE-2026-54998-exp](https://github.com/sentinel-aidefense/CVE-2026-54998-exp)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2026-54998-exp">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2026-54998-exp">
+
+---
 ## CVE-2026-54807 ()
 > 
 - [izxci/CVE-2026-54807](https://github.com/izxci/CVE-2026-54807)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-54807">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-54807">
