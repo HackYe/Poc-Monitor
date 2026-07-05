@@ -2174,6 +2174,7 @@
 ## CVE-2026-39047 ()
 > 
 - [J4ck3LSyN-Gen2/CVE-2026-39047](https://github.com/J4ck3LSyN-Gen2/CVE-2026-39047)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2026-39047">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2026-39047">
+- [AzhariRamadhan/CVE-2026-39047](https://github.com/AzhariRamadhan/CVE-2026-39047)	<img alt="forks" src="https://img.shields.io/github/forks/AzhariRamadhan/CVE-2026-39047">	<img alt="stars" src="https://img.shields.io/github/stars/AzhariRamadhan/CVE-2026-39047">
 
 ---
 ## CVE-2026-39031 ()
@@ -3577,7 +3578,7 @@
 - [dgrobinson0/CopyFile_CVE-2026-31431](https://github.com/dgrobinson0/CopyFile_CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/dgrobinson0/CopyFile_CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/dgrobinson0/CopyFile_CVE-2026-31431">
 - [DroPZsec/SplicePrivillegeEscalationFIX](https://github.com/DroPZsec/SplicePrivillegeEscalationFIX)	<img alt="forks" src="https://img.shields.io/github/forks/DroPZsec/SplicePrivillegeEscalationFIX">	<img alt="stars" src="https://img.shields.io/github/stars/DroPZsec/SplicePrivillegeEscalationFIX">
 - [John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc](https://github.com/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc)	<img alt="forks" src="https://img.shields.io/github/forks/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc">	<img alt="stars" src="https://img.shields.io/github/stars/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc">
-- [SystemVll/CVE-2026-31431-copyfail-aarch64](https://github.com/SystemVll/CVE-2026-31431-copyfail-aarch64)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2026-31431-copyfail-aarch64">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2026-31431-copyfail-aarch64">
+- [sh4den/CVE-2026-31431-copyfail-aarch64](https://github.com/sh4den/CVE-2026-31431-copyfail-aarch64)	<img alt="forks" src="https://img.shields.io/github/forks/sh4den/CVE-2026-31431-copyfail-aarch64">	<img alt="stars" src="https://img.shields.io/github/stars/sh4den/CVE-2026-31431-copyfail-aarch64">
 - [kuniyal08/Copy-Fail-CVE-2026-31431-Lab](https://github.com/kuniyal08/Copy-Fail-CVE-2026-31431-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/kuniyal08/Copy-Fail-CVE-2026-31431-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/kuniyal08/Copy-Fail-CVE-2026-31431-Lab">
 - [Koshmare-Blossom/Copyfail-sh](https://github.com/Koshmare-Blossom/Copyfail-sh)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/Copyfail-sh">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/Copyfail-sh">
 - [SilverRuler/copy-fail-CVE-2026-31431](https://github.com/SilverRuler/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/SilverRuler/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/SilverRuler/copy-fail-CVE-2026-31431">
