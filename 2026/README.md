@@ -5010,6 +5010,7 @@
 - [akpmarcelin/CVE-2026-24061-lab](https://github.com/akpmarcelin/CVE-2026-24061-lab)	<img alt="forks" src="https://img.shields.io/github/forks/akpmarcelin/CVE-2026-24061-lab">	<img alt="stars" src="https://img.shields.io/github/stars/akpmarcelin/CVE-2026-24061-lab">
 - [Cosm3No1de/htb-orion-writeup](https://github.com/Cosm3No1de/htb-orion-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/htb-orion-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/htb-orion-writeup">
 - [kyukazamiqq/CVE-2026-24061](https://github.com/kyukazamiqq/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/kyukazamiqq/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/kyukazamiqq/CVE-2026-24061">
+- [harygovind/CVE-2026-24061](https://github.com/harygovind/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/harygovind/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/harygovind/CVE-2026-24061">
 
 ---
 ## CVE-2026-2406 ()
@@ -6352,6 +6353,11 @@
 ## CVE-2026-0827 ()
 > 
 - [ZeroMemoryEx/CVE-2026-0827](https://github.com/ZeroMemoryEx/CVE-2026-0827)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroMemoryEx/CVE-2026-0827">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroMemoryEx/CVE-2026-0827">
+
+---
+## CVE-2026-0776 ()
+> 
+- [xsuf/CVE-2026-0776](https://github.com/xsuf/CVE-2026-0776)	<img alt="forks" src="https://img.shields.io/github/forks/xsuf/CVE-2026-0776">	<img alt="stars" src="https://img.shields.io/github/stars/xsuf/CVE-2026-0776">
 
 ---
 ## CVE-2026-0770 ()
