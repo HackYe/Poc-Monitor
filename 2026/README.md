@@ -284,6 +284,11 @@
 - [microwaveabi/pharmacy-sqli-CVE-2026-7392](https://github.com/microwaveabi/pharmacy-sqli-CVE-2026-7392)	<img alt="forks" src="https://img.shields.io/github/forks/microwaveabi/pharmacy-sqli-CVE-2026-7392">	<img alt="stars" src="https://img.shields.io/github/stars/microwaveabi/pharmacy-sqli-CVE-2026-7392">
 
 ---
+## CVE-2026-7275 ()
+> 
+- [ExDev994/CVE-2026-7275-moodle](https://github.com/ExDev994/CVE-2026-7275-moodle)	<img alt="forks" src="https://img.shields.io/github/forks/ExDev994/CVE-2026-7275-moodle">	<img alt="stars" src="https://img.shields.io/github/stars/ExDev994/CVE-2026-7275-moodle">
+
+---
 ## CVE-2026-7270 ()
 > 
 - [babyshen/freebsd-CVE-2026-7270](https://github.com/babyshen/freebsd-CVE-2026-7270)	<img alt="forks" src="https://img.shields.io/github/forks/babyshen/freebsd-CVE-2026-7270">	<img alt="stars" src="https://img.shields.io/github/stars/babyshen/freebsd-CVE-2026-7270">
@@ -1763,6 +1768,11 @@
 - [v4ltonn/CVE-2026-42530](https://github.com/v4ltonn/CVE-2026-42530)	<img alt="forks" src="https://img.shields.io/github/forks/v4ltonn/CVE-2026-42530">	<img alt="stars" src="https://img.shields.io/github/stars/v4ltonn/CVE-2026-42530">
 - [0xBlackash/CVE-2026-42530](https://github.com/0xBlackash/CVE-2026-42530)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-42530">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-42530">
 - [HORKimhab/CVE-2026-42530](https://github.com/HORKimhab/CVE-2026-42530)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-42530">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-42530">
+
+---
+## CVE-2026-42527 ()
+> 
+- [oscerd/CVE-2026-42527](https://github.com/oscerd/CVE-2026-42527)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-42527">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-42527">
 
 ---
 ## CVE-2026-42281 ()
