@@ -9208,6 +9208,7 @@
 - [JTMH37/Apache-Tomcat-CVE-2025-24813-Lab](https://github.com/JTMH37/Apache-Tomcat-CVE-2025-24813-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/JTMH37/Apache-Tomcat-CVE-2025-24813-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/JTMH37/Apache-Tomcat-CVE-2025-24813-Lab">
 - [Enzo-Tssn/PCS3844-CVE_2025_24813](https://github.com/Enzo-Tssn/PCS3844-CVE_2025_24813)	<img alt="forks" src="https://img.shields.io/github/forks/Enzo-Tssn/PCS3844-CVE_2025_24813">	<img alt="stars" src="https://img.shields.io/github/stars/Enzo-Tssn/PCS3844-CVE_2025_24813">
 - [yuzuki-ayanami/CVE-2025-24813](https://github.com/yuzuki-ayanami/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yuzuki-ayanami/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yuzuki-ayanami/CVE-2025-24813">
+- [yuzuki-ayanami/CVE-2025-24813](https://github.com/yuzuki-ayanami/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yuzuki-ayanami/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yuzuki-ayanami/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
