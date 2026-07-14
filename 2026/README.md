@@ -819,6 +819,11 @@
 - [jenniferreire26/CVE-2026-5194](https://github.com/jenniferreire26/CVE-2026-5194)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-5194">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-5194">
 
 ---
+## CVE-2026-51833 ()
+> 
+- [dennywise/CVE-2026-51833-Public-Disclosure](https://github.com/dennywise/CVE-2026-51833-Public-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/dennywise/CVE-2026-51833-Public-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/dennywise/CVE-2026-51833-Public-Disclosure">
+
+---
 ## CVE-2026-51788 ()
 > 
 - [aykhan32/CVE-2026-51788](https://github.com/aykhan32/CVE-2026-51788)	<img alt="forks" src="https://img.shields.io/github/forks/aykhan32/CVE-2026-51788">	<img alt="stars" src="https://img.shields.io/github/stars/aykhan32/CVE-2026-51788">
