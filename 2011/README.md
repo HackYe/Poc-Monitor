@@ -114,6 +114,7 @@
 - [NitinSukthe-G/OpenVAS-Vulnerability-Assessment-Incident-Response](https://github.com/NitinSukthe-G/OpenVAS-Vulnerability-Assessment-Incident-Response)	<img alt="forks" src="https://img.shields.io/github/forks/NitinSukthe-G/OpenVAS-Vulnerability-Assessment-Incident-Response">	<img alt="stars" src="https://img.shields.io/github/stars/NitinSukthe-G/OpenVAS-Vulnerability-Assessment-Incident-Response">
 - [H4R335HR/vsftpd-234-backdoor](https://github.com/H4R335HR/vsftpd-234-backdoor)	<img alt="forks" src="https://img.shields.io/github/forks/H4R335HR/vsftpd-234-backdoor">	<img alt="stars" src="https://img.shields.io/github/stars/H4R335HR/vsftpd-234-backdoor">
 - [Amirmuhammadmarvi/network-security-lab](https://github.com/Amirmuhammadmarvi/network-security-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Amirmuhammadmarvi/network-security-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Amirmuhammadmarvi/network-security-lab">
+- [IndiQuarks/vsftpd-cve-2011-2523-lab](https://github.com/IndiQuarks/vsftpd-cve-2011-2523-lab)	<img alt="forks" src="https://img.shields.io/github/forks/IndiQuarks/vsftpd-cve-2011-2523-lab">	<img alt="stars" src="https://img.shields.io/github/stars/IndiQuarks/vsftpd-cve-2011-2523-lab">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
