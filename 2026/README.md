@@ -1672,6 +1672,9 @@
 - [Bartixxx32/CVE-2026-43499-OnePlus15](https://github.com/Bartixxx32/CVE-2026-43499-OnePlus15)	<img alt="forks" src="https://img.shields.io/github/forks/Bartixxx32/CVE-2026-43499-OnePlus15">	<img alt="stars" src="https://img.shields.io/github/stars/Bartixxx32/CVE-2026-43499-OnePlus15">
 - [Linuxoid-cn/CVE-2026-43499-Poc-Analysis](https://github.com/Linuxoid-cn/CVE-2026-43499-Poc-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Linuxoid-cn/CVE-2026-43499-Poc-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Linuxoid-cn/CVE-2026-43499-Poc-Analysis">
 - [qsvggff-spec/oppo-A5-PRO-5G-CVE-2026-43499](https://github.com/qsvggff-spec/oppo-A5-PRO-5G-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/qsvggff-spec/oppo-A5-PRO-5G-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/qsvggff-spec/oppo-A5-PRO-5G-CVE-2026-43499">
+- [HYCQAQ/Logitech-G-Cloud-GhostLock-CVE-2026-43499](https://github.com/HYCQAQ/Logitech-G-Cloud-GhostLock-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/HYCQAQ/Logitech-G-Cloud-GhostLock-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/HYCQAQ/Logitech-G-Cloud-GhostLock-CVE-2026-43499">
+- [Colorful-glassblock/duchamp-root](https://github.com/Colorful-glassblock/duchamp-root)	<img alt="forks" src="https://img.shields.io/github/forks/Colorful-glassblock/duchamp-root">	<img alt="stars" src="https://img.shields.io/github/stars/Colorful-glassblock/duchamp-root">
+- [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus)	<img alt="forks" src="https://img.shields.io/github/forks/JoinChang/ghostlock-oneplus">	<img alt="stars" src="https://img.shields.io/github/stars/JoinChang/ghostlock-oneplus">
 
 ---
 ## CVE-2026-43494 ()
@@ -2731,6 +2734,11 @@
 ## CVE-2026-36670 ()
 > 
 - [Gabriel-Lacorte/CVE-2026-36670](https://github.com/Gabriel-Lacorte/CVE-2026-36670)	<img alt="forks" src="https://img.shields.io/github/forks/Gabriel-Lacorte/CVE-2026-36670">	<img alt="stars" src="https://img.shields.io/github/stars/Gabriel-Lacorte/CVE-2026-36670">
+
+---
+## CVE-2026-36669 ()
+> 
+- [firstlax6t/CVE-2026-36669-FengOffice](https://github.com/firstlax6t/CVE-2026-36669-FengOffice)	<img alt="forks" src="https://img.shields.io/github/forks/firstlax6t/CVE-2026-36669-FengOffice">	<img alt="stars" src="https://img.shields.io/github/stars/firstlax6t/CVE-2026-36669-FengOffice">
 
 ---
 ## CVE-2026-36436 ()
@@ -6405,6 +6413,16 @@
 ## CVE-2026-1550 ()
 > 
 - [rsecroot/CVE-2026-1550](https://github.com/rsecroot/CVE-2026-1550)	<img alt="forks" src="https://img.shields.io/github/forks/rsecroot/CVE-2026-1550">	<img alt="stars" src="https://img.shields.io/github/stars/rsecroot/CVE-2026-1550">
+
+---
+## CVE-2026-15410 ()
+> 
+- [HORKimhab/CVE-2026-15410](https://github.com/HORKimhab/CVE-2026-15410)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-15410">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-15410">
+
+---
+## CVE-2026-15409 ()
+> 
+- [HORKimhab/CVE-2026-15409](https://github.com/HORKimhab/CVE-2026-15409)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-15409">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-15409">
 
 ---
 ## CVE-2026-1529 ()
