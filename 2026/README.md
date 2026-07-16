@@ -1285,6 +1285,11 @@
 - [HORKimhab/CVE-2026-46817](https://github.com/HORKimhab/CVE-2026-46817)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-46817">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-46817">
 
 ---
+## CVE-2026-46726 ()
+> 
+- [oscerd/CVE-2026-46726](https://github.com/oscerd/CVE-2026-46726)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46726">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46726">
+
+---
 ## CVE-2026-4660 ()
 > 
 - [gouldnicholas/CVE-2026-4660-PoC](https://github.com/gouldnicholas/CVE-2026-4660-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gouldnicholas/CVE-2026-4660-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gouldnicholas/CVE-2026-4660-PoC">
@@ -4980,6 +4985,11 @@
 ## CVE-2026-25994 ()
 > 
 - [VABISMO/cve-2026-25994_PJSIP](https://github.com/VABISMO/cve-2026-25994_PJSIP)	<img alt="forks" src="https://img.shields.io/github/forks/VABISMO/cve-2026-25994_PJSIP">	<img alt="stars" src="https://img.shields.io/github/stars/VABISMO/cve-2026-25994_PJSIP">
+
+---
+## CVE-2026-25993 ()
+> 
+- [MoxitPanchal/EverShop-Lab-CVE-2026-25993](https://github.com/MoxitPanchal/EverShop-Lab-CVE-2026-25993)	<img alt="forks" src="https://img.shields.io/github/forks/MoxitPanchal/EverShop-Lab-CVE-2026-25993">	<img alt="stars" src="https://img.shields.io/github/stars/MoxitPanchal/EverShop-Lab-CVE-2026-25993">
 
 ---
 ## CVE-2026-25964 ()
