@@ -406,6 +406,7 @@
 - [NULL200OK/WP2Shell](https://github.com/NULL200OK/WP2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/WP2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/WP2Shell">
 - [Lutfifakee-Project/wp2shell](https://github.com/Lutfifakee-Project/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/wp2shell">
 - [ekomsSavior/wp2shell](https://github.com/ekomsSavior/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/wp2shell">
+- [4minx/CVE-2026-63030](https://github.com/4minx/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
@@ -1877,6 +1878,7 @@
 - [justsoman/CyberMeowfia-ace3](https://github.com/justsoman/CyberMeowfia-ace3)	<img alt="forks" src="https://img.shields.io/github/forks/justsoman/CyberMeowfia-ace3">	<img alt="stars" src="https://img.shields.io/github/stars/justsoman/CyberMeowfia-ace3">
 - [fuukliam/vivo-x-fold6-ghostlock](https://github.com/fuukliam/vivo-x-fold6-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/fuukliam/vivo-x-fold6-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/fuukliam/vivo-x-fold6-ghostlock">
 - [p2p3p/GhostLock-for-OnePlus](https://github.com/p2p3p/GhostLock-for-OnePlus)	<img alt="forks" src="https://img.shields.io/github/forks/p2p3p/GhostLock-for-OnePlus">	<img alt="stars" src="https://img.shields.io/github/stars/p2p3p/GhostLock-for-OnePlus">
+- [d224407/CVE-2026-43499](https://github.com/d224407/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/d224407/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/d224407/CVE-2026-43499">
 
 ---
 ## CVE-2026-43494 ()
