@@ -397,6 +397,10 @@
 - [tcyph3r/wp2shell-cve-2026-63030-root-cause](https://github.com/tcyph3r/wp2shell-cve-2026-63030-root-cause)	<img alt="forks" src="https://img.shields.io/github/forks/tcyph3r/wp2shell-cve-2026-63030-root-cause">	<img alt="stars" src="https://img.shields.io/github/stars/tcyph3r/wp2shell-cve-2026-63030-root-cause">
 - [zeroc00I/CVE-2026-63030](https://github.com/zeroc00I/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2026-63030">
 - [Senanfurkan/wordpress-cve-2026-63030](https://github.com/Senanfurkan/wordpress-cve-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Senanfurkan/wordpress-cve-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Senanfurkan/wordpress-cve-2026-63030">
+- [47Cid/wp2shell-lab](https://github.com/47Cid/wp2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/47Cid/wp2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/47Cid/wp2shell-lab">
+- [dinosn/wp2shell-lab](https://github.com/dinosn/wp2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/wp2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/wp2shell-lab">
+- [ZephrFish/wp2shell-scanner](https://github.com/ZephrFish/wp2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/wp2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/wp2shell-scanner">
+- [attackercan/wp2shell-poc2](https://github.com/attackercan/wp2shell-poc2)	<img alt="forks" src="https://img.shields.io/github/forks/attackercan/wp2shell-poc2">	<img alt="stars" src="https://img.shields.io/github/stars/attackercan/wp2shell-poc2">
 
 ---
 ## CVE-2026-6279 ()
@@ -2249,6 +2253,7 @@
 - [limo57640-crypto/cpanel-cve-41940-detector](https://github.com/limo57640-crypto/cpanel-cve-41940-detector)	<img alt="forks" src="https://img.shields.io/github/forks/limo57640-crypto/cpanel-cve-41940-detector">	<img alt="stars" src="https://img.shields.io/github/stars/limo57640-crypto/cpanel-cve-41940-detector">
 - [clsmight/CVE-2026-41940-PoC](https://github.com/clsmight/CVE-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/clsmight/CVE-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/clsmight/CVE-2026-41940-PoC">
 - [aquace/CVE-2026-41940-PoC](https://github.com/aquace/CVE-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/aquace/CVE-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/aquace/CVE-2026-41940-PoC">
+- [oguz-kagan-akar/CVE-2026-41940-analysis](https://github.com/oguz-kagan-akar/CVE-2026-41940-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/oguz-kagan-akar/CVE-2026-41940-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/oguz-kagan-akar/CVE-2026-41940-analysis">
 
 ---
 ## CVE-2026-41901 ()
