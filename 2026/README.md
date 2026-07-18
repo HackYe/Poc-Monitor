@@ -1871,6 +1871,7 @@
 - [Wtrwx/cve_2026_43499_sm-t878u](https://github.com/Wtrwx/cve_2026_43499_sm-t878u)	<img alt="forks" src="https://img.shields.io/github/forks/Wtrwx/cve_2026_43499_sm-t878u">	<img alt="stars" src="https://img.shields.io/github/stars/Wtrwx/cve_2026_43499_sm-t878u">
 - [justsoman/CyberMeowfia-ace3](https://github.com/justsoman/CyberMeowfia-ace3)	<img alt="forks" src="https://img.shields.io/github/forks/justsoman/CyberMeowfia-ace3">	<img alt="stars" src="https://img.shields.io/github/stars/justsoman/CyberMeowfia-ace3">
 - [fuukliam/vivo-x-fold6-ghostlock](https://github.com/fuukliam/vivo-x-fold6-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/fuukliam/vivo-x-fold6-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/fuukliam/vivo-x-fold6-ghostlock">
+- [p2p3p/GhostLock-for-OnePlus](https://github.com/p2p3p/GhostLock-for-OnePlus)	<img alt="forks" src="https://img.shields.io/github/forks/p2p3p/GhostLock-for-OnePlus">	<img alt="stars" src="https://img.shields.io/github/stars/p2p3p/GhostLock-for-OnePlus">
 
 ---
 ## CVE-2026-43494 ()
