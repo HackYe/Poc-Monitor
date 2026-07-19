@@ -1946,6 +1946,7 @@
 - [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)	<img alt="forks" src="https://img.shields.io/github/forks/BuSung-dev/Root-My-Galaxy">	<img alt="stars" src="https://img.shields.io/github/stars/BuSung-dev/Root-My-Galaxy">
 - [PeronGH/ghostlock-selinux-disabler](https://github.com/PeronGH/ghostlock-selinux-disabler)	<img alt="forks" src="https://img.shields.io/github/forks/PeronGH/ghostlock-selinux-disabler">	<img alt="stars" src="https://img.shields.io/github/stars/PeronGH/ghostlock-selinux-disabler">
 - [Wtrwx/smt878u-ionstack-poc](https://github.com/Wtrwx/smt878u-ionstack-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Wtrwx/smt878u-ionstack-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Wtrwx/smt878u-ionstack-poc">
+- [mumaosong/CVE-2026-43499-cloudflare-gate](https://github.com/mumaosong/CVE-2026-43499-cloudflare-gate)	<img alt="forks" src="https://img.shields.io/github/forks/mumaosong/CVE-2026-43499-cloudflare-gate">	<img alt="stars" src="https://img.shields.io/github/stars/mumaosong/CVE-2026-43499-cloudflare-gate">
 
 ---
 ## CVE-2026-43494 ()
