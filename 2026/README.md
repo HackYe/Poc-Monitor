@@ -429,6 +429,8 @@
 - [HackingLZ/wp2shell_stock_chain](https://github.com/HackingLZ/wp2shell_stock_chain)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/wp2shell_stock_chain">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/wp2shell_stock_chain">
 - [0xh7ml/CVE-2026-63030](https://github.com/0xh7ml/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/0xh7ml/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/0xh7ml/CVE-2026-63030">
 - [4B3R4M4-607D/CVE-2026-63030-POC](https://github.com/4B3R4M4-607D/CVE-2026-63030-POC)	<img alt="forks" src="https://img.shields.io/github/forks/4B3R4M4-607D/CVE-2026-63030-POC">	<img alt="stars" src="https://img.shields.io/github/stars/4B3R4M4-607D/CVE-2026-63030-POC">
+- [skelersecurity/wordpress-skelersecurity-core-security-CVE-2026-63030](https://github.com/skelersecurity/wordpress-skelersecurity-core-security-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/skelersecurity/wordpress-skelersecurity-core-security-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/skelersecurity/wordpress-skelersecurity-core-security-CVE-2026-63030">
+- [Lukols-Dev/wp-cve-2026-63030-check](https://github.com/Lukols-Dev/wp-cve-2026-63030-check)	<img alt="forks" src="https://img.shields.io/github/forks/Lukols-Dev/wp-cve-2026-63030-check">	<img alt="stars" src="https://img.shields.io/github/stars/Lukols-Dev/wp-cve-2026-63030-check">
 
 ---
 ## CVE-2026-6279 ()
