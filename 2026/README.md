@@ -428,6 +428,7 @@
 - [securelayer7/WordPresShell](https://github.com/securelayer7/WordPresShell)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/WordPresShell">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/WordPresShell">
 - [HackingLZ/wp2shell_stock_chain](https://github.com/HackingLZ/wp2shell_stock_chain)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/wp2shell_stock_chain">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/wp2shell_stock_chain">
 - [0xh7ml/CVE-2026-63030](https://github.com/0xh7ml/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/0xh7ml/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/0xh7ml/CVE-2026-63030">
+- [4B3R4M4-607D/CVE-2026-63030-POC](https://github.com/4B3R4M4-607D/CVE-2026-63030-POC)	<img alt="forks" src="https://img.shields.io/github/forks/4B3R4M4-607D/CVE-2026-63030-POC">	<img alt="stars" src="https://img.shields.io/github/stars/4B3R4M4-607D/CVE-2026-63030-POC">
 
 ---
 ## CVE-2026-6279 ()
