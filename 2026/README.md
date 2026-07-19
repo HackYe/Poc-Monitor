@@ -427,6 +427,7 @@
 - [codeb0ssx/Ultimate-wp2shell](https://github.com/codeb0ssx/Ultimate-wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/Ultimate-wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/Ultimate-wp2shell">
 - [securelayer7/WordPresShell](https://github.com/securelayer7/WordPresShell)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/WordPresShell">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/WordPresShell">
 - [HackingLZ/wp2shell_stock_chain](https://github.com/HackingLZ/wp2shell_stock_chain)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/wp2shell_stock_chain">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/wp2shell_stock_chain">
+- [0xh7ml/CVE-2026-63030](https://github.com/0xh7ml/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/0xh7ml/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/0xh7ml/CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
@@ -2791,6 +2792,7 @@
 - [shinthink/CVE-2026-3891](https://github.com/shinthink/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-3891">
 - [m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit](https://github.com/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m4sh-wacker/CVE-2026-3891-Pix-for-WooCommerce-Plugin-Exploit">
 - [willygailo/CVE-2026-3891-Linux](https://github.com/willygailo/CVE-2026-3891-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/willygailo/CVE-2026-3891-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/willygailo/CVE-2026-3891-Linux">
+- [VeronnX666/CVE-2026-3891](https://github.com/VeronnX666/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/VeronnX666/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/VeronnX666/CVE-2026-3891">
 
 ---
 ## CVE-2026-3888 ()
