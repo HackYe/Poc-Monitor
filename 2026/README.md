@@ -7253,7 +7253,7 @@
 ---
 ## CVE-2026-0776 ()
 > 
-- [whoanx/CVE-2026-0776](https://github.com/whoanx/CVE-2026-0776)	<img alt="forks" src="https://img.shields.io/github/forks/whoanx/CVE-2026-0776">	<img alt="stars" src="https://img.shields.io/github/stars/whoanx/CVE-2026-0776">
+- [wheji/CVE-2026-0776](https://github.com/wheji/CVE-2026-0776)	<img alt="forks" src="https://img.shields.io/github/forks/wheji/CVE-2026-0776">	<img alt="stars" src="https://img.shields.io/github/stars/wheji/CVE-2026-0776">
 - [OverlayCS/Helix](https://github.com/OverlayCS/Helix)	<img alt="forks" src="https://img.shields.io/github/forks/OverlayCS/Helix">	<img alt="stars" src="https://img.shields.io/github/stars/OverlayCS/Helix">
 
 ---
