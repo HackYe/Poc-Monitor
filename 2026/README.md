@@ -450,6 +450,7 @@
 - [ASYquan/wp2shell-cf-WAF-bypass](https://github.com/ASYquan/wp2shell-cf-WAF-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ASYquan/wp2shell-cf-WAF-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ASYquan/wp2shell-cf-WAF-bypass">
 - [SentinelXofficial/sxwp2shell](https://github.com/SentinelXofficial/sxwp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/SentinelXofficial/sxwp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/SentinelXofficial/sxwp2shell">
 - [Ch4120N/CVE-2026-63030](https://github.com/Ch4120N/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Ch4120N/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Ch4120N/CVE-2026-63030">
+- [lucifer0xf/wp2shell-Wordpress-TOWN](https://github.com/lucifer0xf/wp2shell-Wordpress-TOWN)	<img alt="forks" src="https://img.shields.io/github/forks/lucifer0xf/wp2shell-Wordpress-TOWN">	<img alt="stars" src="https://img.shields.io/github/stars/lucifer0xf/wp2shell-Wordpress-TOWN">
 
 ---
 ## CVE-2026-6279 ()
@@ -7030,6 +7031,11 @@
 ## CVE-2026-12277 ()
 > 
 - [moritakaaz/CVE-2026-12277](https://github.com/moritakaaz/CVE-2026-12277)	<img alt="forks" src="https://img.shields.io/github/forks/moritakaaz/CVE-2026-12277">	<img alt="stars" src="https://img.shields.io/github/stars/moritakaaz/CVE-2026-12277">
+
+---
+## CVE-2026-12191 ()
+> 
+- [hakaioffsec/CVE-2026-12191](https://github.com/hakaioffsec/CVE-2026-12191)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2026-12191">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2026-12191">
 
 ---
 ## CVE-2026-12166 ()
