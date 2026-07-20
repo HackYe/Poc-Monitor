@@ -444,6 +444,8 @@
 - [joaovicdev/EXPLOIT-CVE-2026-63030](https://github.com/joaovicdev/EXPLOIT-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-63030">
 - [0xjessie21/wp2shell-checker](https://github.com/0xjessie21/wp2shell-checker)	<img alt="forks" src="https://img.shields.io/github/forks/0xjessie21/wp2shell-checker">	<img alt="stars" src="https://img.shields.io/github/stars/0xjessie21/wp2shell-checker">
 - [TomorrowX6/CVE-2026-63030-poc](https://github.com/TomorrowX6/CVE-2026-63030-poc)	<img alt="forks" src="https://img.shields.io/github/forks/TomorrowX6/CVE-2026-63030-poc">	<img alt="stars" src="https://img.shields.io/github/stars/TomorrowX6/CVE-2026-63030-poc">
+- [AkbarWiraN/holy-wp2shell](https://github.com/AkbarWiraN/holy-wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarWiraN/holy-wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarWiraN/holy-wp2shell">
+- [Crypto-Cat/wp2shell](https://github.com/Crypto-Cat/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Crypto-Cat/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Crypto-Cat/wp2shell">
 
 ---
 ## CVE-2026-6279 ()
@@ -499,6 +501,11 @@
 - [codeb0ssx/Ultimate-wp2shell](https://github.com/codeb0ssx/Ultimate-wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/Ultimate-wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/Ultimate-wp2shell">
 - [securelayer7/WordPresShell](https://github.com/securelayer7/WordPresShell)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/WordPresShell">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/WordPresShell">
 - [HackingLZ/wp2shell_stock_chain](https://github.com/HackingLZ/wp2shell_stock_chain)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/wp2shell_stock_chain">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/wp2shell_stock_chain">
+
+---
+## CVE-2026-60121 ()
+> 
+- [HORKimhab/CVE-2026-60121-CVE-2026-61498](https://github.com/HORKimhab/CVE-2026-60121-CVE-2026-61498)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-60121-CVE-2026-61498">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-60121-CVE-2026-61498">
 
 ---
 ## CVE-2026-6009 ()
@@ -1206,6 +1213,11 @@
 ## CVE-2026-49048 ()
 > 
 - [KARA-git/CVE-2026-49048-JoomCCK-SQLi](https://github.com/KARA-git/CVE-2026-49048-JoomCCK-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/KARA-git/CVE-2026-49048-JoomCCK-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/KARA-git/CVE-2026-49048-JoomCCK-SQLi">
+
+---
+## CVE-2026-49042 ()
+> 
+- [oscerd/CVE-2026-49042](https://github.com/oscerd/CVE-2026-49042)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-49042">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-49042">
 
 ---
 ## CVE-2026-49009 ()
