@@ -2300,6 +2300,8 @@
 ## CVE-2021-42008 ()
 > 
 - [WhatsWrongAndWhy/CVE-2021-42008](https://github.com/WhatsWrongAndWhy/CVE-2021-42008)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-42008">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-42008">
+- [0xdevil/CVE-2021-42008](https://github.com/0xdevil/CVE-2021-42008)	<img alt="forks" src="https://img.shields.io/github/forks/0xdevil/CVE-2021-42008">	<img alt="stars" src="https://img.shields.io/github/stars/0xdevil/CVE-2021-42008">
+- [numanturle/CVE-2021-42008](https://github.com/numanturle/CVE-2021-42008)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2021-42008">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2021-42008">
 
 ---
 ## CVE-2021-42001 (2022-04-30T22:15:00)
@@ -5431,6 +5433,8 @@
 - [Psychopath-Traveler/CVE-2021-3493](https://github.com/Psychopath-Traveler/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/Psychopath-Traveler/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/Psychopath-Traveler/CVE-2021-3493">
 - [George-Yanni/DeepRoot](https://github.com/George-Yanni/DeepRoot)	<img alt="forks" src="https://img.shields.io/github/forks/George-Yanni/DeepRoot">	<img alt="stars" src="https://img.shields.io/github/stars/George-Yanni/DeepRoot">
 - [WhatsWrongAndWhy/CVE-2021-3493](https://github.com/WhatsWrongAndWhy/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-3493">
+- [Ayham-Megdadi/Zero-Day-Legacy](https://github.com/Ayham-Megdadi/Zero-Day-Legacy)	<img alt="forks" src="https://img.shields.io/github/forks/Ayham-Megdadi/Zero-Day-Legacy">	<img alt="stars" src="https://img.shields.io/github/stars/Ayham-Megdadi/Zero-Day-Legacy">
+- [iqbalhussainas/OverlayFS-LPE-Exploit](https://github.com/iqbalhussainas/OverlayFS-LPE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iqbalhussainas/OverlayFS-LPE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iqbalhussainas/OverlayFS-LPE-Exploit">
 
 ---
 ## CVE-2021-3490 (2021-06-04T02:15:00)
