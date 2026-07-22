@@ -9256,6 +9256,7 @@
 - [Enzo-Tssn/PCS3844-CVE_2025_24813](https://github.com/Enzo-Tssn/PCS3844-CVE_2025_24813)	<img alt="forks" src="https://img.shields.io/github/forks/Enzo-Tssn/PCS3844-CVE_2025_24813">	<img alt="stars" src="https://img.shields.io/github/stars/Enzo-Tssn/PCS3844-CVE_2025_24813">
 - [yuzuki-ayanami/CVE-2025-24813](https://github.com/yuzuki-ayanami/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yuzuki-ayanami/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yuzuki-ayanami/CVE-2025-24813">
 - [yuzuki-ayanami/CVE-2025-24813](https://github.com/yuzuki-ayanami/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yuzuki-ayanami/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yuzuki-ayanami/CVE-2025-24813">
+- [Loufa0/CVE-2025-24813](https://github.com/Loufa0/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Loufa0/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Loufa0/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()

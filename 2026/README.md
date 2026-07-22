@@ -1162,6 +1162,11 @@
 - [MuhammedHussein17/libheif-cve-2026-50142](https://github.com/MuhammedHussein17/libheif-cve-2026-50142)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammedHussein17/libheif-cve-2026-50142">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammedHussein17/libheif-cve-2026-50142">
 
 ---
+## CVE-2026-50055 ()
+> 
+- [HORKimhab/CVE-2026-50055](https://github.com/HORKimhab/CVE-2026-50055)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-50055">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-50055">
+
+---
 ## CVE-2026-50011 ()
 > 
 - [bibotai/secveri-cve-2026-50011-negative](https://github.com/bibotai/secveri-cve-2026-50011-negative)	<img alt="forks" src="https://img.shields.io/github/forks/bibotai/secveri-cve-2026-50011-negative">	<img alt="stars" src="https://img.shields.io/github/stars/bibotai/secveri-cve-2026-50011-negative">
