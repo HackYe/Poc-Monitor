@@ -393,6 +393,11 @@
 - [shinthink/CVE-2026-65761](https://github.com/shinthink/CVE-2026-65761)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-65761">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-65761">
 
 ---
+## CVE-2026-65650 ()
+> 
+- [swornim619/CVE-2026-65650](https://github.com/swornim619/CVE-2026-65650)	<img alt="forks" src="https://img.shields.io/github/forks/swornim619/CVE-2026-65650">	<img alt="stars" src="https://img.shields.io/github/stars/swornim619/CVE-2026-65650">
+
+---
 ## CVE-2026-64600 ()
 > 
 - [0xBlackash/CVE-2026-64600](https://github.com/0xBlackash/CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-64600">
@@ -1769,6 +1774,7 @@
 - [aexdyhaxor/CVE-2026-46331](https://github.com/aexdyhaxor/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2026-46331">
 - [yanxinwu946/CVE-2026-46331](https://github.com/yanxinwu946/CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/yanxinwu946/CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/yanxinwu946/CVE-2026-46331">
 - [MarwahHadi/CVE-2026-46331-pedit-cow](https://github.com/MarwahHadi/CVE-2026-46331-pedit-cow)	<img alt="forks" src="https://img.shields.io/github/forks/MarwahHadi/CVE-2026-46331-pedit-cow">	<img alt="stars" src="https://img.shields.io/github/stars/MarwahHadi/CVE-2026-46331-pedit-cow">
+- [cherrycherrymay/PoC-CVE-2026-46331](https://github.com/cherrycherrymay/PoC-CVE-2026-46331)	<img alt="forks" src="https://img.shields.io/github/forks/cherrycherrymay/PoC-CVE-2026-46331">	<img alt="stars" src="https://img.shields.io/github/stars/cherrycherrymay/PoC-CVE-2026-46331">
 
 ---
 ## CVE-2026-4631 ()
@@ -2577,6 +2583,7 @@
 - [oguz-kagan-akar/CVE-2026-41940-analysis](https://github.com/oguz-kagan-akar/CVE-2026-41940-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/oguz-kagan-akar/CVE-2026-41940-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/oguz-kagan-akar/CVE-2026-41940-analysis">
 - [soverineg/cve-2026-41940-PoC](https://github.com/soverineg/cve-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/soverineg/cve-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/soverineg/cve-2026-41940-PoC">
 - [razureink/cve-2026-41940-cpanel_authbypass_reproduction](https://github.com/razureink/cve-2026-41940-cpanel_authbypass_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2026-41940-cpanel_authbypass_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2026-41940-cpanel_authbypass_reproduction">
+- [AnotherSec/CVE-2026-41940](https://github.com/AnotherSec/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/AnotherSec/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/AnotherSec/CVE-2026-41940">
 
 ---
 ## CVE-2026-41901 ()
