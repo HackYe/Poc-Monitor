@@ -1203,6 +1203,7 @@
 ## CVE-2026-50522 ()
 > 
 - [HORKimhab/CVE-2026-50522](https://github.com/HORKimhab/CVE-2026-50522)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-50522">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-50522">
+- [4minx/CVE-2026-50522](https://github.com/4minx/CVE-2026-50522)	<img alt="forks" src="https://img.shields.io/github/forks/4minx/CVE-2026-50522">	<img alt="stars" src="https://img.shields.io/github/stars/4minx/CVE-2026-50522">
 
 ---
 ## CVE-2026-50454 ()
@@ -1879,6 +1880,8 @@
 - [Desireeontrial76/yellowkey-bitlocker](https://github.com/Desireeontrial76/yellowkey-bitlocker)	<img alt="forks" src="https://img.shields.io/github/forks/Desireeontrial76/yellowkey-bitlocker">	<img alt="stars" src="https://img.shields.io/github/stars/Desireeontrial76/yellowkey-bitlocker">
 - [boobalover7/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/boobalover7/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/boobalover7/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/boobalover7/YellowKey-Bitlocker-CVE-2026-45585">
 - [yellowkey-exploit/YellowKey-Bitlocker](https://github.com/yellowkey-exploit/YellowKey-Bitlocker)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkey-exploit/YellowKey-Bitlocker">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkey-exploit/YellowKey-Bitlocker">
+- [tchuin2609/YellowKey-Bitlocker](https://github.com/tchuin2609/YellowKey-Bitlocker)	<img alt="forks" src="https://img.shields.io/github/forks/tchuin2609/YellowKey-Bitlocker">	<img alt="stars" src="https://img.shields.io/github/stars/tchuin2609/YellowKey-Bitlocker">
+- [tchuin2609/tchuin2609.github.io](https://github.com/tchuin2609/tchuin2609.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/tchuin2609/tchuin2609.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/tchuin2609/tchuin2609.github.io">
 
 ---
 ## CVE-2026-45584 ()
@@ -2642,6 +2645,10 @@
 - [mawussid/CVE-2026-41651-Python](https://github.com/mawussid/CVE-2026-41651-Python)	<img alt="forks" src="https://img.shields.io/github/forks/mawussid/CVE-2026-41651-Python">	<img alt="stars" src="https://img.shields.io/github/stars/mawussid/CVE-2026-41651-Python">
 - [Kowntaewook/CVE-2026-41651-analysis](https://github.com/Kowntaewook/CVE-2026-41651-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Kowntaewook/CVE-2026-41651-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Kowntaewook/CVE-2026-41651-analysis">
 - [Lutfifakee-Project/CVE-2026-41651](https://github.com/Lutfifakee-Project/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-41651">
+- [0xDVRK/CVE-2026-41651](https://github.com/0xDVRK/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/0xDVRK/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/0xDVRK/CVE-2026-41651">
+- [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
+- [mazofeifaalfaro/check_pack2theroot](https://github.com/mazofeifaalfaro/check_pack2theroot)	<img alt="forks" src="https://img.shields.io/github/forks/mazofeifaalfaro/check_pack2theroot">	<img alt="stars" src="https://img.shields.io/github/stars/mazofeifaalfaro/check_pack2theroot">
+- [shibaaa204/Pack2TheRoot](https://github.com/shibaaa204/Pack2TheRoot)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/Pack2TheRoot">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/Pack2TheRoot">
 
 ---
 ## CVE-2026-41575 ()
@@ -7240,6 +7247,11 @@
 - [shinthink/CVE-2026-13001](https://github.com/shinthink/CVE-2026-13001)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-13001">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-13001">
 - [sadb98523-eng/CVE-2026-13001](https://github.com/sadb98523-eng/CVE-2026-13001)	<img alt="forks" src="https://img.shields.io/github/forks/sadb98523-eng/CVE-2026-13001">	<img alt="stars" src="https://img.shields.io/github/stars/sadb98523-eng/CVE-2026-13001">
 - [ghostpels/CVE-2026-13001](https://github.com/ghostpels/CVE-2026-13001)	<img alt="forks" src="https://img.shields.io/github/forks/ghostpels/CVE-2026-13001">	<img alt="stars" src="https://img.shields.io/github/stars/ghostpels/CVE-2026-13001">
+
+---
+## CVE-2026-12960 ()
+> 
+- [l0lsec/CVE-2026-12960](https://github.com/l0lsec/CVE-2026-12960)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsec/CVE-2026-12960">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsec/CVE-2026-12960">
 
 ---
 ## CVE-2026-1281 ()
