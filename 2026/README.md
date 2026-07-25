@@ -399,6 +399,11 @@
 - [shinthink/CVE-2026-65761](https://github.com/shinthink/CVE-2026-65761)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-65761">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-65761">
 
 ---
+## CVE-2026-65694 ()
+> 
+- [abdugafforov-bobur/CVE-2026-65694-PoC](https://github.com/abdugafforov-bobur/CVE-2026-65694-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abdugafforov-bobur/CVE-2026-65694-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abdugafforov-bobur/CVE-2026-65694-PoC">
+
+---
 ## CVE-2026-65650 ()
 > 
 - [swornim619/CVE-2026-65650](https://github.com/swornim619/CVE-2026-65650)	<img alt="forks" src="https://img.shields.io/github/forks/swornim619/CVE-2026-65650">	<img alt="stars" src="https://img.shields.io/github/stars/swornim619/CVE-2026-65650">
@@ -2214,6 +2219,8 @@
 - [soralis0912/CVE-2026-43499-aristotle](https://github.com/soralis0912/CVE-2026-43499-aristotle)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2026-43499-aristotle">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2026-43499-aristotle">
 - [Bailan766/rmx3888-cve-2026-43499-config](https://github.com/Bailan766/rmx3888-cve-2026-43499-config)	<img alt="forks" src="https://img.shields.io/github/forks/Bailan766/rmx3888-cve-2026-43499-config">	<img alt="stars" src="https://img.shields.io/github/stars/Bailan766/rmx3888-cve-2026-43499-config">
 - [mumaosong/cve-2026-43499-CyberMeowfia](https://github.com/mumaosong/cve-2026-43499-CyberMeowfia)	<img alt="forks" src="https://img.shields.io/github/forks/mumaosong/cve-2026-43499-CyberMeowfia">	<img alt="stars" src="https://img.shields.io/github/stars/mumaosong/cve-2026-43499-CyberMeowfia">
+- [cuteaplane/GhostLock-for-OnePlus15T](https://github.com/cuteaplane/GhostLock-for-OnePlus15T)	<img alt="forks" src="https://img.shields.io/github/forks/cuteaplane/GhostLock-for-OnePlus15T">	<img alt="stars" src="https://img.shields.io/github/stars/cuteaplane/GhostLock-for-OnePlus15T">
+- [No-22-Github/UnPlus](https://github.com/No-22-Github/UnPlus)	<img alt="forks" src="https://img.shields.io/github/forks/No-22-Github/UnPlus">	<img alt="stars" src="https://img.shields.io/github/stars/No-22-Github/UnPlus">
 
 ---
 ## CVE-2026-43494 ()
