@@ -418,6 +418,8 @@
 > 
 - [0xBlackash/CVE-2026-64600](https://github.com/0xBlackash/CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-64600">
 - [HORKimhab/CVE-2026-64600](https://github.com/HORKimhab/CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-64600">
+- [Debajyoti0-0/CVE-2026-64600](https://github.com/Debajyoti0-0/CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/Debajyoti0-0/CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/Debajyoti0-0/CVE-2026-64600">
+- [vulnquest58/VQ-RefluxCore](https://github.com/vulnquest58/VQ-RefluxCore)	<img alt="forks" src="https://img.shields.io/github/forks/vulnquest58/VQ-RefluxCore">	<img alt="stars" src="https://img.shields.io/github/stars/vulnquest58/VQ-RefluxCore">
 
 ---
 ## CVE-2026-6433 ()
@@ -612,6 +614,7 @@
 - [Lukols-Dev/wp-cve-2026-63030-check](https://github.com/Lukols-Dev/wp-cve-2026-63030-check)	<img alt="forks" src="https://img.shields.io/github/forks/Lukols-Dev/wp-cve-2026-63030-check">	<img alt="stars" src="https://img.shields.io/github/stars/Lukols-Dev/wp-cve-2026-63030-check">
 - [bahartanir/wp2shell-scanner](https://github.com/bahartanir/wp2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bahartanir/wp2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bahartanir/wp2shell-scanner">
 - [ikow/wp2shell](https://github.com/ikow/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/ikow/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/ikow/wp2shell">
+- [northsia/CVE-2026-60137-With-Skip-SSL](https://github.com/northsia/CVE-2026-60137-With-Skip-SSL)	<img alt="forks" src="https://img.shields.io/github/forks/northsia/CVE-2026-60137-With-Skip-SSL">	<img alt="stars" src="https://img.shields.io/github/stars/northsia/CVE-2026-60137-With-Skip-SSL">
 
 ---
 ## CVE-2026-60121 ()
@@ -2247,6 +2250,7 @@
 - [mumaosong/cve-2026-43499-CyberMeowfia](https://github.com/mumaosong/cve-2026-43499-CyberMeowfia)	<img alt="forks" src="https://img.shields.io/github/forks/mumaosong/cve-2026-43499-CyberMeowfia">	<img alt="stars" src="https://img.shields.io/github/stars/mumaosong/cve-2026-43499-CyberMeowfia">
 - [cuteaplane/GhostLock-for-OnePlus15T](https://github.com/cuteaplane/GhostLock-for-OnePlus15T)	<img alt="forks" src="https://img.shields.io/github/forks/cuteaplane/GhostLock-for-OnePlus15T">	<img alt="stars" src="https://img.shields.io/github/stars/cuteaplane/GhostLock-for-OnePlus15T">
 - [No-22-Github/UnPlus](https://github.com/No-22-Github/UnPlus)	<img alt="forks" src="https://img.shields.io/github/forks/No-22-Github/UnPlus">	<img alt="stars" src="https://img.shields.io/github/stars/No-22-Github/UnPlus">
+- [woshimaniubi8/CVE-2026-43499-root-KernelSU](https://github.com/woshimaniubi8/CVE-2026-43499-root-KernelSU)	<img alt="forks" src="https://img.shields.io/github/forks/woshimaniubi8/CVE-2026-43499-root-KernelSU">	<img alt="stars" src="https://img.shields.io/github/stars/woshimaniubi8/CVE-2026-43499-root-KernelSU">
 
 ---
 ## CVE-2026-43494 ()
