@@ -441,12 +441,19 @@
 - [zer0dayf/CVE-2026-65008](https://github.com/zer0dayf/CVE-2026-65008)	<img alt="forks" src="https://img.shields.io/github/forks/zer0dayf/CVE-2026-65008">	<img alt="stars" src="https://img.shields.io/github/stars/zer0dayf/CVE-2026-65008">
 
 ---
+## CVE-2026-64725 ()
+> 
+- [altvist/cve-2026-64725-poc](https://github.com/altvist/cve-2026-64725-poc)	<img alt="forks" src="https://img.shields.io/github/forks/altvist/cve-2026-64725-poc">	<img alt="stars" src="https://img.shields.io/github/stars/altvist/cve-2026-64725-poc">
+
+---
 ## CVE-2026-64600 ()
 > 
 - [0xBlackash/CVE-2026-64600](https://github.com/0xBlackash/CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-64600">
 - [HORKimhab/CVE-2026-64600](https://github.com/HORKimhab/CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-64600">
 - [Debajyoti0-0/CVE-2026-64600](https://github.com/Debajyoti0-0/CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/Debajyoti0-0/CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/Debajyoti0-0/CVE-2026-64600">
 - [vulnquest58/VQ-RefluxCore](https://github.com/vulnquest58/VQ-RefluxCore)	<img alt="forks" src="https://img.shields.io/github/forks/vulnquest58/VQ-RefluxCore">	<img alt="stars" src="https://img.shields.io/github/stars/vulnquest58/VQ-RefluxCore">
+- [letsr00t/RefluxFS_CVE-2026-64600](https://github.com/letsr00t/RefluxFS_CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/RefluxFS_CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/RefluxFS_CVE-2026-64600">
+- [bha-vin/CVE-2026-64600-Exploit](https://github.com/bha-vin/CVE-2026-64600-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bha-vin/CVE-2026-64600-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bha-vin/CVE-2026-64600-Exploit">
 
 ---
 ## CVE-2026-6433 ()
@@ -1117,6 +1124,11 @@
 - [Aoripus-LTD/Januscape-Hotfix](https://github.com/Aoripus-LTD/Januscape-Hotfix)	<img alt="forks" src="https://img.shields.io/github/forks/Aoripus-LTD/Januscape-Hotfix">	<img alt="stars" src="https://img.shields.io/github/stars/Aoripus-LTD/Januscape-Hotfix">
 - [HORKimhab/CVE-2026-53359](https://github.com/HORKimhab/CVE-2026-53359)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53359">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53359">
 - [x024n/almalinux-januscape-mitigation](https://github.com/x024n/almalinux-januscape-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/x024n/almalinux-januscape-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/x024n/almalinux-januscape-mitigation">
+
+---
+## CVE-2026-53264 ()
+> 
+- [HORKimhab/CVE-2026-53264](https://github.com/HORKimhab/CVE-2026-53264)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53264">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53264">
 
 ---
 ## CVE-2026-53075 ()
@@ -2321,6 +2333,7 @@
 - [soralis0912/CVE-2026-43499-pmg110-root](https://github.com/soralis0912/CVE-2026-43499-pmg110-root)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2026-43499-pmg110-root">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2026-43499-pmg110-root">
 - [soralis0912/CVE-2026-43499-warhol-root](https://github.com/soralis0912/CVE-2026-43499-warhol-root)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2026-43499-warhol-root">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2026-43499-warhol-root">
 - [KawaiiHachimi/CVE-2026-43499-pkb110](https://github.com/KawaiiHachimi/CVE-2026-43499-pkb110)	<img alt="forks" src="https://img.shields.io/github/forks/KawaiiHachimi/CVE-2026-43499-pkb110">	<img alt="stars" src="https://img.shields.io/github/stars/KawaiiHachimi/CVE-2026-43499-pkb110">
+- [Witaqua-tools/Root-My-Device](https://github.com/Witaqua-tools/Root-My-Device)	<img alt="forks" src="https://img.shields.io/github/forks/Witaqua-tools/Root-My-Device">	<img alt="stars" src="https://img.shields.io/github/stars/Witaqua-tools/Root-My-Device">
 
 ---
 ## CVE-2026-43494 ()
