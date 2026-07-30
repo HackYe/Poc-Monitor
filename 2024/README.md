@@ -5935,6 +5935,8 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340](https://github.com/SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340">
 - [GhassanSabir/CVE-2024-3400-poc](https://github.com/GhassanSabir/CVE-2024-3400-poc)	<img alt="forks" src="https://img.shields.io/github/forks/GhassanSabir/CVE-2024-3400-poc">	<img alt="stars" src="https://img.shields.io/github/stars/GhassanSabir/CVE-2024-3400-poc">
 - [razureink/cve-2024-3400-panos_rce_reproduction](https://github.com/razureink/cve-2024-3400-panos_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-3400-panos_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-3400-panos_rce_reproduction">
+- [P4rC3L/Global-Protect_VPN_Vuln](https://github.com/P4rC3L/Global-Protect_VPN_Vuln)	<img alt="forks" src="https://img.shields.io/github/forks/P4rC3L/Global-Protect_VPN_Vuln">	<img alt="stars" src="https://img.shields.io/github/stars/P4rC3L/Global-Protect_VPN_Vuln">
+- [wa6n3r/CVE-2024-3400](https://github.com/wa6n3r/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/wa6n3r/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/wa6n3r/CVE-2024-3400">
 
 ---
 ## CVE-2024-340 ()
