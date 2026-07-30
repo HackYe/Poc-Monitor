@@ -2500,6 +2500,7 @@
 - [WitAqua-tools/Root-My-Device](https://github.com/WitAqua-tools/Root-My-Device)	<img alt="forks" src="https://img.shields.io/github/forks/WitAqua-tools/Root-My-Device">	<img alt="stars" src="https://img.shields.io/github/stars/WitAqua-tools/Root-My-Device">
 - [233laoliu/mt6985-CVE-2026-43499](https://github.com/233laoliu/mt6985-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/233laoliu/mt6985-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/233laoliu/mt6985-CVE-2026-43499">
 - [2932796375github/CVE-2026-43499_OPPO-MT6835](https://github.com/2932796375github/CVE-2026-43499_OPPO-MT6835)	<img alt="forks" src="https://img.shields.io/github/forks/2932796375github/CVE-2026-43499_OPPO-MT6835">	<img alt="stars" src="https://img.shields.io/github/stars/2932796375github/CVE-2026-43499_OPPO-MT6835">
+- [FuCnox/CVE-2026-43499-A34](https://github.com/FuCnox/CVE-2026-43499-A34)	<img alt="forks" src="https://img.shields.io/github/forks/FuCnox/CVE-2026-43499-A34">	<img alt="stars" src="https://img.shields.io/github/stars/FuCnox/CVE-2026-43499-A34">
 
 ---
 ## CVE-2026-43494 ()
@@ -4867,6 +4868,7 @@
 - [SugiB3o/CVE-2026-31431](https://github.com/SugiB3o/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/SugiB3o/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/SugiB3o/CVE-2026-31431">
 - [jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-](https://github.com/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-)	<img alt="forks" src="https://img.shields.io/github/forks/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-">	<img alt="stars" src="https://img.shields.io/github/stars/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-">
 - [aettern/copyfrag-fuse](https://github.com/aettern/copyfrag-fuse)	<img alt="forks" src="https://img.shields.io/github/forks/aettern/copyfrag-fuse">	<img alt="stars" src="https://img.shields.io/github/stars/aettern/copyfrag-fuse">
+- [sandraschi/copy-fail-mcp](https://github.com/sandraschi/copy-fail-mcp)	<img alt="forks" src="https://img.shields.io/github/forks/sandraschi/copy-fail-mcp">	<img alt="stars" src="https://img.shields.io/github/stars/sandraschi/copy-fail-mcp">
 
 ---
 ## CVE-2026-3143 ()
@@ -7343,6 +7345,9 @@
 - [HORKimhab/CVE-2026-16723](https://github.com/HORKimhab/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-16723">
 - [EQSTLab/CVE-2026-16723](https://github.com/EQSTLab/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-16723">
 - [Nowafen/CVE-2026-16723](https://github.com/Nowafen/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/CVE-2026-16723">
+- [Nowafen/CVE-2026-16723](https://github.com/Nowafen/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/CVE-2026-16723">
+- [why-success/fastjson-rce-lab](https://github.com/why-success/fastjson-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/why-success/fastjson-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/why-success/fastjson-rce-lab">
+- [dinosn/fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/fastjson-jsontype-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/fastjson-jsontype-rce-lab">
 
 ---
 ## CVE-2026-1668 ()
