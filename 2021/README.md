@@ -7334,6 +7334,7 @@
 ## CVE-2021-28480 ()
 > 
 - [ZephrFish/CVE-2021-28480_HoneyPoC3](https://github.com/ZephrFish/CVE-2021-28480_HoneyPoC3)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2021-28480_HoneyPoC3">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2021-28480_HoneyPoC3">
+- [Threonic/CVE-2021-28480](https://github.com/Threonic/CVE-2021-28480)	<img alt="forks" src="https://img.shields.io/github/forks/Threonic/CVE-2021-28480">	<img alt="stars" src="https://img.shields.io/github/stars/Threonic/CVE-2021-28480">
 
 ---
 ## CVE-2021-28398 (2022-09-05T17:15:00)
