@@ -481,6 +481,7 @@
 - [0xBlackash/CVE-2026-66066](https://github.com/0xBlackash/CVE-2026-66066)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-66066">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-66066">
 - [Zer0SumGam3/CVE-2026-66066-POC](https://github.com/Zer0SumGam3/CVE-2026-66066-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Zer0SumGam3/CVE-2026-66066-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Zer0SumGam3/CVE-2026-66066-POC">
 - [paveg/rails-activestorage-vips-audit](https://github.com/paveg/rails-activestorage-vips-audit)	<img alt="forks" src="https://img.shields.io/github/forks/paveg/rails-activestorage-vips-audit">	<img alt="stars" src="https://img.shields.io/github/stars/paveg/rails-activestorage-vips-audit">
+- [rails/rails-forensics-CVE-2026-66066](https://github.com/rails/rails-forensics-CVE-2026-66066)	<img alt="forks" src="https://img.shields.io/github/forks/rails/rails-forensics-CVE-2026-66066">	<img alt="stars" src="https://img.shields.io/github/stars/rails/rails-forensics-CVE-2026-66066">
 
 ---
 ## CVE-2026-66012 ()
@@ -650,6 +651,9 @@
 - [shinthink/CVE-2026-63030](https://github.com/shinthink/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-63030">
 - [imXur/WordPress-CVE-2026-63030-Analysis](https://github.com/imXur/WordPress-CVE-2026-63030-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/imXur/WordPress-CVE-2026-63030-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/imXur/WordPress-CVE-2026-63030-Analysis">
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2026-63030-WP2Shell](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-63030-WP2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-63030-WP2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-63030-WP2Shell">
+- [BytesPulse-OE/wp2shell-Hestia-Scanner](https://github.com/BytesPulse-OE/wp2shell-Hestia-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/BytesPulse-OE/wp2shell-Hestia-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/BytesPulse-OE/wp2shell-Hestia-Scanner">
+- [yuag/wp2shell](https://github.com/yuag/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/yuag/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/yuag/wp2shell">
+- [Dungsocool/CVE-2026-60137_CVE-2026-63030](https://github.com/Dungsocool/CVE-2026-60137_CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-60137_CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-60137_CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
