@@ -7376,6 +7376,11 @@
 - [pbrass/CVE-2026-1814](https://github.com/pbrass/CVE-2026-1814)	<img alt="forks" src="https://img.shields.io/github/forks/pbrass/CVE-2026-1814">	<img alt="stars" src="https://img.shields.io/github/stars/pbrass/CVE-2026-1814">
 
 ---
+## CVE-2026-17351 ()
+> 
+- [Hunt-Benito/pgadmin-ai-assistant-sql-injection-cve-2026-17351-lexer-differential-bypass](https://github.com/Hunt-Benito/pgadmin-ai-assistant-sql-injection-cve-2026-17351-lexer-differential-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/pgadmin-ai-assistant-sql-injection-cve-2026-17351-lexer-differential-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/pgadmin-ai-assistant-sql-injection-cve-2026-17351-lexer-differential-bypass">
+
+---
 ## CVE-2026-1731 ()
 > 
 - [z3r0h3ro/CVE-2026-1731-exp](https://github.com/z3r0h3ro/CVE-2026-1731-exp)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-1731-exp">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-1731-exp">
@@ -7400,7 +7405,7 @@
 - [HORKimhab/CVE-2026-16723](https://github.com/HORKimhab/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-16723">
 - [EQSTLab/CVE-2026-16723](https://github.com/EQSTLab/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-16723">
 - [Nowafen/CVE-2026-16723](https://github.com/Nowafen/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/CVE-2026-16723">
-- [Nowafen/CVE-2026-16723](https://github.com/Nowafen/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/CVE-2026-16723">
+- [1xPwn/CVE-2026-16723](https://github.com/1xPwn/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/1xPwn/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/1xPwn/CVE-2026-16723">
 - [why-success/fastjson-rce-lab](https://github.com/why-success/fastjson-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/why-success/fastjson-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/why-success/fastjson-rce-lab">
 - [dinosn/fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/fastjson-jsontype-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/fastjson-jsontype-rce-lab">
 - [fazilbaig1/CVE-2026-16723](https://github.com/fazilbaig1/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/fazilbaig1/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/fazilbaig1/CVE-2026-16723">
