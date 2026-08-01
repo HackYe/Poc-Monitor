@@ -584,6 +584,7 @@
 > 
 - [mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool](https://github.com/mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/mahfuzreham/OVSwrap-CVE-2026-64531-Mitigation-Tool">
 - [0xBlackash/CVE-2026-64531](https://github.com/0xBlackash/CVE-2026-64531)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-64531">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-64531">
+- [suominen/ovswrap](https://github.com/suominen/ovswrap)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/ovswrap">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/ovswrap">
 
 ---
 ## CVE-2026-6433 ()
@@ -2256,6 +2257,7 @@
 - [tchuin2609/YellowKey-Bitlocker](https://github.com/tchuin2609/YellowKey-Bitlocker)	<img alt="forks" src="https://img.shields.io/github/forks/tchuin2609/YellowKey-Bitlocker">	<img alt="stars" src="https://img.shields.io/github/stars/tchuin2609/YellowKey-Bitlocker">
 - [tchuin2609/tchuin2609.github.io](https://github.com/tchuin2609/tchuin2609.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/tchuin2609/tchuin2609.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/tchuin2609/tchuin2609.github.io">
 - [yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/yellowkeybitlocker/YellowKey-Bitlocker-CVE-2026-45585">
+- [Aqua1214/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/Aqua1214/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/Aqua1214/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/Aqua1214/YellowKey-Bitlocker-CVE-2026-45585">
 
 ---
 ## CVE-2026-45584 ()
@@ -2610,6 +2612,8 @@
 - [datfooldive/ghostlock-emerald](https://github.com/datfooldive/ghostlock-emerald)	<img alt="forks" src="https://img.shields.io/github/forks/datfooldive/ghostlock-emerald">	<img alt="stars" src="https://img.shields.io/github/stars/datfooldive/ghostlock-emerald">
 - [CatXiaoShi/cve-2026-43499](https://github.com/CatXiaoShi/cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/CatXiaoShi/cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/CatXiaoShi/cve-2026-43499">
 - [fusiondrive/CVE-2026-43499-A36](https://github.com/fusiondrive/CVE-2026-43499-A36)	<img alt="forks" src="https://img.shields.io/github/forks/fusiondrive/CVE-2026-43499-A36">	<img alt="stars" src="https://img.shields.io/github/stars/fusiondrive/CVE-2026-43499-A36">
+- [1ndevelopment/CVE-2026-43499-S26](https://github.com/1ndevelopment/CVE-2026-43499-S26)	<img alt="forks" src="https://img.shields.io/github/forks/1ndevelopment/CVE-2026-43499-S26">	<img alt="stars" src="https://img.shields.io/github/stars/1ndevelopment/CVE-2026-43499-S26">
+- [suominen/ghostlock](https://github.com/suominen/ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/ghostlock">
 
 ---
 ## CVE-2026-43494 ()
@@ -4986,6 +4990,7 @@
 - [jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-](https://github.com/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-)	<img alt="forks" src="https://img.shields.io/github/forks/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-">	<img alt="stars" src="https://img.shields.io/github/stars/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-">
 - [aettern/copyfrag-fuse](https://github.com/aettern/copyfrag-fuse)	<img alt="forks" src="https://img.shields.io/github/forks/aettern/copyfrag-fuse">	<img alt="stars" src="https://img.shields.io/github/stars/aettern/copyfrag-fuse">
 - [sandraschi/copy-fail-mcp](https://github.com/sandraschi/copy-fail-mcp)	<img alt="forks" src="https://img.shields.io/github/forks/sandraschi/copy-fail-mcp">	<img alt="stars" src="https://img.shields.io/github/stars/sandraschi/copy-fail-mcp">
+- [TeamN4C/SG-2026-0013](https://github.com/TeamN4C/SG-2026-0013)	<img alt="forks" src="https://img.shields.io/github/forks/TeamN4C/SG-2026-0013">	<img alt="stars" src="https://img.shields.io/github/stars/TeamN4C/SG-2026-0013">
 
 ---
 ## CVE-2026-3143 ()
@@ -7509,6 +7514,11 @@
 ## CVE-2026-15981 ()
 > 
 - [Nxploited/CVE-2026-15981](https://github.com/Nxploited/CVE-2026-15981)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-15981">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-15981">
+
+---
+## CVE-2026-15964 ()
+> 
+- [Instructor-Admin/CVE-2026-15964-PoC](https://github.com/Instructor-Admin/CVE-2026-15964-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Instructor-Admin/CVE-2026-15964-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Instructor-Admin/CVE-2026-15964-PoC">
 
 ---
 ## CVE-2026-1581 ()
