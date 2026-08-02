@@ -2644,6 +2644,7 @@
 - [suominen/ghostlock](https://github.com/suominen/ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/ghostlock">
 - [veygax/HORiZonstack](https://github.com/veygax/HORiZonstack)	<img alt="forks" src="https://img.shields.io/github/forks/veygax/HORiZonstack">	<img alt="stars" src="https://img.shields.io/github/stars/veygax/HORiZonstack">
 - [boxiaolanya2008/CVE-2026-43499-Neo11Plus](https://github.com/boxiaolanya2008/CVE-2026-43499-Neo11Plus)	<img alt="forks" src="https://img.shields.io/github/forks/boxiaolanya2008/CVE-2026-43499-Neo11Plus">	<img alt="stars" src="https://img.shields.io/github/stars/boxiaolanya2008/CVE-2026-43499-Neo11Plus">
+- [alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel)	<img alt="forks" src="https://img.shields.io/github/forks/alex193a/Root-My-Pixel">	<img alt="stars" src="https://img.shields.io/github/stars/alex193a/Root-My-Pixel">
 
 ---
 ## CVE-2026-43494 ()
@@ -3372,6 +3373,7 @@
 - [0xdeadroot/CVE-2026-39987-marimo-rce](https://github.com/0xdeadroot/CVE-2026-39987-marimo-rce)	<img alt="forks" src="https://img.shields.io/github/forks/0xdeadroot/CVE-2026-39987-marimo-rce">	<img alt="stars" src="https://img.shields.io/github/stars/0xdeadroot/CVE-2026-39987-marimo-rce">
 - [gbuyssens/CVE-2026-39987](https://github.com/gbuyssens/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/gbuyssens/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/gbuyssens/CVE-2026-39987">
 - [jasonbernier/CVE-2026-39987](https://github.com/jasonbernier/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/jasonbernier/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/jasonbernier/CVE-2026-39987">
+- [vanhari/CVE-2026-39987](https://github.com/vanhari/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/vanhari/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/vanhari/CVE-2026-39987">
 
 ---
 ## CVE-2026-39983 ()
