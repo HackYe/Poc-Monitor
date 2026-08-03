@@ -2361,6 +2361,10 @@
 ## CVE-2026-46243 ()
 > 
 - [MrForkBomb/CIFSwitch-Checker-CVE-2026-46243](https://github.com/MrForkBomb/CIFSwitch-Checker-CVE-2026-46243)	<img alt="forks" src="https://img.shields.io/github/forks/MrForkBomb/CIFSwitch-Checker-CVE-2026-46243">	<img alt="stars" src="https://img.shields.io/github/stars/MrForkBomb/CIFSwitch-Checker-CVE-2026-46243">
+- [0xBlackash/CVE-2026-46243](https://github.com/0xBlackash/CVE-2026-46243)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46243">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46243">
+- [suominen/cifswitch](https://github.com/suominen/cifswitch)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/cifswitch">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/cifswitch">
+- [liamromanis101/cifswitch-check](https://github.com/liamromanis101/cifswitch-check)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/cifswitch-check">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/cifswitch-check">
+- [cumakurt/linuxpi](https://github.com/cumakurt/linuxpi)	<img alt="forks" src="https://img.shields.io/github/forks/cumakurt/linuxpi">	<img alt="stars" src="https://img.shields.io/github/stars/cumakurt/linuxpi">
 
 ---
 ## CVE-2026-46242 ()
