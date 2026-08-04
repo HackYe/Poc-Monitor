@@ -1537,6 +1537,7 @@
 ## CVE-2026-52824 ()
 > 
 - [AzureADTrent/CVE-2026-52824](https://github.com/AzureADTrent/CVE-2026-52824)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2026-52824">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2026-52824">
+- [cyeezy08/Kimai-CVE-2026-49865-POC](https://github.com/cyeezy08/Kimai-CVE-2026-49865-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cyeezy08/Kimai-CVE-2026-49865-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cyeezy08/Kimai-CVE-2026-49865-POC">
 
 ---
 ## CVE-2026-52813 ()
@@ -2514,6 +2515,11 @@
 ## CVE-2026-45034 ()
 > 
 - [Cyber-DarkNay/CVE-2026-45034](https://github.com/Cyber-DarkNay/CVE-2026-45034)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-DarkNay/CVE-2026-45034">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-DarkNay/CVE-2026-45034">
+
+---
+## CVE-2026-45033 ()
+> 
+- [grassplatypus/cve-2026-45033-class](https://github.com/grassplatypus/cve-2026-45033-class)	<img alt="forks" src="https://img.shields.io/github/forks/grassplatypus/cve-2026-45033-class">	<img alt="stars" src="https://img.shields.io/github/stars/grassplatypus/cve-2026-45033-class">
 
 ---
 ## CVE-2026-44963 ()
@@ -7783,6 +7789,11 @@
 ## CVE-2026-1862 ()
 > 
 - [b1gchoi/CVE-2026-1862-exp](https://github.com/b1gchoi/CVE-2026-1862-exp)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-1862-exp">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-1862-exp">
+
+---
+## CVE-2026-18577 ()
+> 
+- [HORKimhab/CVE-2026-18577](https://github.com/HORKimhab/CVE-2026-18577)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-18577">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-18577">
 
 ---
 ## CVE-2026-1844 ()
