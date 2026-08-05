@@ -414,6 +414,11 @@
 - [Xmyronn/CVE-2026-7222-XSS](https://github.com/Xmyronn/CVE-2026-7222-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7222-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7222-XSS">
 
 ---
+## CVE-2026-71211 ()
+> 
+- [Abdivasiyev2008/CVE-2026-71211-exploit](https://github.com/Abdivasiyev2008/CVE-2026-71211-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Abdivasiyev2008/CVE-2026-71211-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Abdivasiyev2008/CVE-2026-71211-exploit">
+
+---
 ## CVE-2026-7070 ()
 > 
 - [George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection](https://github.com/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection">
@@ -862,6 +867,7 @@
 - [minwunn/wp2shell-CVE-2026-63030](https://github.com/minwunn/wp2shell-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/minwunn/wp2shell-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/minwunn/wp2shell-CVE-2026-63030">
 - [Dungsocool/CVE-2026-60137-CVE-2026-63030](https://github.com/Dungsocool/CVE-2026-60137-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-60137-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-60137-CVE-2026-63030">
 - [rechandra/wp2exp-2026](https://github.com/rechandra/wp2exp-2026)	<img alt="forks" src="https://img.shields.io/github/forks/rechandra/wp2exp-2026">	<img alt="stars" src="https://img.shields.io/github/stars/rechandra/wp2exp-2026">
+- [AnggaTechI/CVE-2026-63030](https://github.com/AnggaTechI/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/AnggaTechI/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/AnggaTechI/CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
@@ -7072,6 +7078,21 @@
 - [Baba01hacker666/CVE-2026-23111](https://github.com/Baba01hacker666/CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/Baba01hacker666/CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/Baba01hacker666/CVE-2026-23111">
 - [bakano98/cve-2026-23111-poc](https://github.com/bakano98/cve-2026-23111-poc)	<img alt="forks" src="https://img.shields.io/github/forks/bakano98/cve-2026-23111-poc">	<img alt="stars" src="https://img.shields.io/github/stars/bakano98/cve-2026-23111-poc">
 - [vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111](https://github.com/vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111)	<img alt="forks" src="https://img.shields.io/github/forks/vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111">	<img alt="stars" src="https://img.shields.io/github/stars/vrtlbob/Linux-Kernel-Vulnerabilities-CVE-2026-23111">
+
+---
+## CVE-2026-23003 ()
+> 
+- [George0Papasotiriou/CVE-2026-23003-Cross-Chain-Bridge-Message-Forging-via-Missing-Origin-Chain-ID](https://github.com/George0Papasotiriou/CVE-2026-23003-Cross-Chain-Bridge-Message-Forging-via-Missing-Origin-Chain-ID)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-23003-Cross-Chain-Bridge-Message-Forging-via-Missing-Origin-Chain-ID">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-23003-Cross-Chain-Bridge-Message-Forging-via-Missing-Origin-Chain-ID">
+
+---
+## CVE-2026-23002 ()
+> 
+- [George0Papasotiriou/CVE-2026-23002-5G-NAS-Message-Buffer-Overflow-in-gNodeB](https://github.com/George0Papasotiriou/CVE-2026-23002-5G-NAS-Message-Buffer-Overflow-in-gNodeB)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-23002-5G-NAS-Message-Buffer-Overflow-in-gNodeB">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-23002-5G-NAS-Message-Buffer-Overflow-in-gNodeB">
+
+---
+## CVE-2026-23001 ()
+> 
+- [George0Papasotiriou/CVE-2026-23001-Hugging-Face-Transformers-Model-Deserialization-Arbitrary-Code-via-Pickle-](https://github.com/George0Papasotiriou/CVE-2026-23001-Hugging-Face-Transformers-Model-Deserialization-Arbitrary-Code-via-Pickle-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-23001-Hugging-Face-Transformers-Model-Deserialization-Arbitrary-Code-via-Pickle-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-23001-Hugging-Face-Transformers-Model-Deserialization-Arbitrary-Code-via-Pickle-">
 
 ---
 ## CVE-2026-22874 ()
