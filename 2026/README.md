@@ -853,6 +853,7 @@
 - [michael-kanda/Wp2shell-ioc-scanner](https://github.com/michael-kanda/Wp2shell-ioc-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/michael-kanda/Wp2shell-ioc-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/michael-kanda/Wp2shell-ioc-scanner">
 - [x-znn/CVE-2026-63030](https://github.com/x-znn/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/x-znn/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/x-znn/CVE-2026-63030">
 - [johnlodan/wp2shell-rce](https://github.com/johnlodan/wp2shell-rce)	<img alt="forks" src="https://img.shields.io/github/forks/johnlodan/wp2shell-rce">	<img alt="stars" src="https://img.shields.io/github/stars/johnlodan/wp2shell-rce">
+- [minwunn/wp2shell-CVE-2026-63030](https://github.com/minwunn/wp2shell-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/minwunn/wp2shell-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/minwunn/wp2shell-CVE-2026-63030">
 
 ---
 ## CVE-2026-6279 ()
@@ -7980,6 +7981,11 @@
 ## CVE-2026-17543 ()
 > 
 - [pratham220/CVE-2026-17543-PHP-Exposure-Validator](https://github.com/pratham220/CVE-2026-17543-PHP-Exposure-Validator)	<img alt="forks" src="https://img.shields.io/github/forks/pratham220/CVE-2026-17543-PHP-Exposure-Validator">	<img alt="stars" src="https://img.shields.io/github/stars/pratham220/CVE-2026-17543-PHP-Exposure-Validator">
+
+---
+## CVE-2026-17532 ()
+> 
+- [kalhoralireza/CVE-2026-17532](https://github.com/kalhoralireza/CVE-2026-17532)	<img alt="forks" src="https://img.shields.io/github/forks/kalhoralireza/CVE-2026-17532">	<img alt="stars" src="https://img.shields.io/github/stars/kalhoralireza/CVE-2026-17532">
 
 ---
 ## CVE-2026-17351 ()
