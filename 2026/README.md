@@ -979,6 +979,7 @@
 - [yuag/wp2shell](https://github.com/yuag/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/yuag/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/yuag/wp2shell">
 - [AbdullahMaqbool22/CVE-2026-60137-WordPress-Core-SQL-Injection-PoC](https://github.com/AbdullahMaqbool22/CVE-2026-60137-WordPress-Core-SQL-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/AbdullahMaqbool22/CVE-2026-60137-WordPress-Core-SQL-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/AbdullahMaqbool22/CVE-2026-60137-WordPress-Core-SQL-Injection-PoC">
 - [johnlodan/wp2shell-rce](https://github.com/johnlodan/wp2shell-rce)	<img alt="forks" src="https://img.shields.io/github/forks/johnlodan/wp2shell-rce">	<img alt="stars" src="https://img.shields.io/github/stars/johnlodan/wp2shell-rce">
+- [Dungsocool/CVE-2026-60137-CVE-2026-63030](https://github.com/Dungsocool/CVE-2026-60137-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2026-60137-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2026-60137-CVE-2026-63030">
 
 ---
 ## CVE-2026-60121 ()
@@ -2697,6 +2698,11 @@
 ## CVE-2026-4406 ()
 > 
 - [Hann1bl3L3ct3r/CVE-2026-4406](https://github.com/Hann1bl3L3ct3r/CVE-2026-4406)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-4406">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-4406">
+
+---
+## CVE-2026-44024 ()
+> 
+- [0xdak/CVE-2026-44024_exploit](https://github.com/0xdak/CVE-2026-44024_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-44024_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-44024_exploit">
 
 ---
 ## CVE-2026-43893 ()
@@ -8026,6 +8032,8 @@
 - [why-success/fastjson-rce-lab](https://github.com/why-success/fastjson-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/why-success/fastjson-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/why-success/fastjson-rce-lab">
 - [dinosn/fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/fastjson-jsontype-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/fastjson-jsontype-rce-lab">
 - [fazilbaig1/CVE-2026-16723](https://github.com/fazilbaig1/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/fazilbaig1/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/fazilbaig1/CVE-2026-16723">
+- [learner330/fastjson-cve-2026-16723](https://github.com/learner330/fastjson-cve-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/learner330/fastjson-cve-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/learner330/fastjson-cve-2026-16723">
+- [xiaoqiMikko/fastjson-check](https://github.com/xiaoqiMikko/fastjson-check)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiMikko/fastjson-check">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiMikko/fastjson-check">
 
 ---
 ## CVE-2026-1668 ()
@@ -8810,6 +8818,11 @@
 ## CVE-2026-0101 ()
 > 
 - [George0Papasotiriou/CVE-2026-0101-BLE-Address-Spoofing-via-Weak-Resolvable-Private-Address](https://github.com/George0Papasotiriou/CVE-2026-0101-BLE-Address-Spoofing-via-Weak-Resolvable-Private-Address)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-0101-BLE-Address-Spoofing-via-Weak-Resolvable-Private-Address">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-0101-BLE-Address-Spoofing-via-Weak-Resolvable-Private-Address">
+
+---
+## CVE-2026-0092 ()
+> 
+- [Majorjayyy1/CVE-2026-0092](https://github.com/Majorjayyy1/CVE-2026-0092)	<img alt="forks" src="https://img.shields.io/github/forks/Majorjayyy1/CVE-2026-0092">	<img alt="stars" src="https://img.shields.io/github/stars/Majorjayyy1/CVE-2026-0092">
 
 ---
 ## CVE-2026-0073 ()
