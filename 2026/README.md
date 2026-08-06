@@ -718,6 +718,7 @@
 ## CVE-2026-64633 ()
 > 
 - [tfawnies/CVE-2026-64633](https://github.com/tfawnies/CVE-2026-64633)	<img alt="forks" src="https://img.shields.io/github/forks/tfawnies/CVE-2026-64633">	<img alt="stars" src="https://img.shields.io/github/stars/tfawnies/CVE-2026-64633">
+- [tfawnies/CVE-2026-64633](https://github.com/tfawnies/CVE-2026-64633)	<img alt="forks" src="https://img.shields.io/github/forks/tfawnies/CVE-2026-64633">	<img alt="stars" src="https://img.shields.io/github/stars/tfawnies/CVE-2026-64633">
 
 ---
 ## CVE-2026-64600 ()
@@ -1118,6 +1119,7 @@
 ## CVE-2026-58048 ()
 > 
 - [imbas007/POC-CVE-2026-58048](https://github.com/imbas007/POC-CVE-2026-58048)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2026-58048">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2026-58048">
+- [tc4dy/CVE-2026-58048-PoC-Exploit](https://github.com/tc4dy/CVE-2026-58048-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-58048-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-58048-PoC-Exploit">
 
 ---
 ## CVE-2026-58025 ()
@@ -5351,6 +5353,7 @@
 - [TeamN4C/SG-2026-0013](https://github.com/TeamN4C/SG-2026-0013)	<img alt="forks" src="https://img.shields.io/github/forks/TeamN4C/SG-2026-0013">	<img alt="stars" src="https://img.shields.io/github/stars/TeamN4C/SG-2026-0013">
 - [TrevoCastles/CVE-2026-31431-copy-fail](https://github.com/TrevoCastles/CVE-2026-31431-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/TrevoCastles/CVE-2026-31431-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/TrevoCastles/CVE-2026-31431-copy-fail">
 - [dev1681/CVE-2026-31431](https://github.com/dev1681/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/dev1681/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/dev1681/CVE-2026-31431">
+- [joaocalciolari07/copyfail-guard](https://github.com/joaocalciolari07/copyfail-guard)	<img alt="forks" src="https://img.shields.io/github/forks/joaocalciolari07/copyfail-guard">	<img alt="stars" src="https://img.shields.io/github/stars/joaocalciolari07/copyfail-guard">
 
 ---
 ## CVE-2026-3143 ()
@@ -6464,7 +6467,7 @@
 ---
 ## CVE-2026-25243 ()
 > 
-- [sohail-saha-optiv/CVE-2026-25243](https://github.com/sohail-saha-optiv/CVE-2026-25243)	<img alt="forks" src="https://img.shields.io/github/forks/sohail-saha-optiv/CVE-2026-25243">	<img alt="stars" src="https://img.shields.io/github/stars/sohail-saha-optiv/CVE-2026-25243">
+- [captain-woof/CVE-2026-25243](https://github.com/captain-woof/CVE-2026-25243)	<img alt="forks" src="https://img.shields.io/github/forks/captain-woof/CVE-2026-25243">	<img alt="stars" src="https://img.shields.io/github/stars/captain-woof/CVE-2026-25243">
 
 ---
 ## CVE-2026-25242 ()
@@ -8059,6 +8062,11 @@
 ## CVE-2026-1880 ()
 > 
 - [seokjohn/CVE-2026-1880](https://github.com/seokjohn/CVE-2026-1880)	<img alt="forks" src="https://img.shields.io/github/forks/seokjohn/CVE-2026-1880">	<img alt="stars" src="https://img.shields.io/github/stars/seokjohn/CVE-2026-1880">
+
+---
+## CVE-2026-18718 ()
+> 
+- [sn0x-sharma/CVE-2026-18718](https://github.com/sn0x-sharma/CVE-2026-18718)	<img alt="forks" src="https://img.shields.io/github/forks/sn0x-sharma/CVE-2026-18718">	<img alt="stars" src="https://img.shields.io/github/stars/sn0x-sharma/CVE-2026-18718">
 
 ---
 ## CVE-2026-1862 ()
