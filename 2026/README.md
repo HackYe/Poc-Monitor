@@ -424,6 +424,11 @@
 - [George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection](https://github.com/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-7070-RDP-Clipboard-Hijacking-via-Virtual-Channel-Injection">
 
 ---
+## CVE-2026-70553 ()
+> 
+- [woshidashabi1126/CVE-2026-70553-PoC](https://github.com/woshidashabi1126/CVE-2026-70553-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/woshidashabi1126/CVE-2026-70553-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/woshidashabi1126/CVE-2026-70553-PoC">
+
+---
 ## CVE-2026-70481 ()
 > 
 - [Foxer131/CVE-2026-70481](https://github.com/Foxer131/CVE-2026-70481)	<img alt="forks" src="https://img.shields.io/github/forks/Foxer131/CVE-2026-70481">	<img alt="stars" src="https://img.shields.io/github/stars/Foxer131/CVE-2026-70481">
@@ -1242,6 +1247,7 @@
 ## CVE-2026-56164 ()
 > 
 - [sentinel-aidefense/CVE-2026-56164-EXP](https://github.com/sentinel-aidefense/CVE-2026-56164-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2026-56164-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2026-56164-EXP">
+- [sam00/POC-CVE-2026-56164-exploit](https://github.com/sam00/POC-CVE-2026-56164-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/POC-CVE-2026-56164-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/POC-CVE-2026-56164-exploit">
 
 ---
 ## CVE-2026-56158 ()
@@ -3289,7 +3295,7 @@
 - [NULL200OK/cve-2026-41940-tool](https://github.com/NULL200OK/cve-2026-41940-tool)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/cve-2026-41940-tool">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/cve-2026-41940-tool">
 - [unteikyou/CVE-2026-41940-AuthBypass-Detector](https://github.com/unteikyou/CVE-2026-41940-AuthBypass-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/unteikyou/CVE-2026-41940-AuthBypass-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/unteikyou/CVE-2026-41940-AuthBypass-Detector">
 - [ynsmroztas/cPanelSniper](https://github.com/ynsmroztas/cPanelSniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/cPanelSniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/cPanelSniper">
-- [Christian93111/CVE-2026-41940](https://github.com/Christian93111/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Christian93111/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Christian93111/CVE-2026-41940">
+- [Kill1234545/CVE-2026-41940](https://github.com/Kill1234545/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Kill1234545/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Kill1234545/CVE-2026-41940">
 - [sebinxavi/cve-checker-2026](https://github.com/sebinxavi/cve-checker-2026)	<img alt="forks" src="https://img.shields.io/github/forks/sebinxavi/cve-checker-2026">	<img alt="stars" src="https://img.shields.io/github/stars/sebinxavi/cve-checker-2026">
 - [Jenderal92/CVE-2026-41940](https://github.com/Jenderal92/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-41940">
 - [kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit](https://github.com/kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit">
@@ -8912,6 +8918,7 @@
 - [ByteWraith1/CVE-2026-0300](https://github.com/ByteWraith1/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0300">
 - [lu4m575/CVE-2026-0300](https://github.com/lu4m575/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/lu4m575/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/lu4m575/CVE-2026-0300">
 - [ridhinva/CVE-2026-0300-PANOS-RCE](https://github.com/ridhinva/CVE-2026-0300-PANOS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/CVE-2026-0300-PANOS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/CVE-2026-0300-PANOS-RCE">
+- [sam00/POC-CVE-2026-0300-exploit](https://github.com/sam00/POC-CVE-2026-0300-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/POC-CVE-2026-0300-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/POC-CVE-2026-0300-exploit">
 
 ---
 ## CVE-2026-0265 ()
