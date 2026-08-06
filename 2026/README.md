@@ -454,6 +454,11 @@
 - [c0gnit00/CVE-2026-69212](https://github.com/c0gnit00/CVE-2026-69212)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-69212">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-69212">
 
 ---
+## CVE-2026-69098 ()
+> 
+- [0xdak/CVE-2026-69098_exploit](https://github.com/0xdak/CVE-2026-69098_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-69098_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-69098_exploit">
+
+---
 ## CVE-2026-69083 ()
 > 
 - [0xdak/CVE-2026-69083_exploit](https://github.com/0xdak/CVE-2026-69083_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-69083_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-69083_exploit">
@@ -523,6 +528,11 @@
 ## CVE-2026-67599 ()
 > 
 - [LazyTitan33/CVE-2026-67599_ClearOS_RCE](https://github.com/LazyTitan33/CVE-2026-67599_ClearOS_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/LazyTitan33/CVE-2026-67599_ClearOS_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/LazyTitan33/CVE-2026-67599_ClearOS_RCE">
+
+---
+## CVE-2026-67598 ()
+> 
+- [IlhomjonR/CVE-2026-67598](https://github.com/IlhomjonR/CVE-2026-67598)	<img alt="forks" src="https://img.shields.io/github/forks/IlhomjonR/CVE-2026-67598">	<img alt="stars" src="https://img.shields.io/github/stars/IlhomjonR/CVE-2026-67598">
 
 ---
 ## CVE-2026-67595 ()
@@ -8929,6 +8939,11 @@
 > 
 - [TeeyaR/CVE-2026-0227-Palo-Alto](https://github.com/TeeyaR/CVE-2026-0227-Palo-Alto)	<img alt="forks" src="https://img.shields.io/github/forks/TeeyaR/CVE-2026-0227-Palo-Alto">	<img alt="stars" src="https://img.shields.io/github/stars/TeeyaR/CVE-2026-0227-Palo-Alto">
 - [CkAbhijit/CVE-2026-0227-Advanced-Scanner](https://github.com/CkAbhijit/CVE-2026-0227-Advanced-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CkAbhijit/CVE-2026-0227-Advanced-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CkAbhijit/CVE-2026-0227-Advanced-Scanner">
+
+---
+## CVE-2026-0163 ()
+> 
+- [sentinel-aidefense/CVE-2026-0163-EXP](https://github.com/sentinel-aidefense/CVE-2026-0163-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2026-0163-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2026-0163-EXP">
 
 ---
 ## CVE-2026-0101 ()
