@@ -8164,6 +8164,11 @@
 - [Nxploited/CVE-2026-1937](https://github.com/Nxploited/CVE-2026-1937)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1937">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1937">
 
 ---
+## CVE-2026-18953 ()
+> 
+- [ronamosa/CVE-2026-18953](https://github.com/ronamosa/CVE-2026-18953)	<img alt="forks" src="https://img.shields.io/github/forks/ronamosa/CVE-2026-18953">	<img alt="stars" src="https://img.shields.io/github/stars/ronamosa/CVE-2026-18953">
+
+---
 ## CVE-2026-1880 ()
 > 
 - [seokjohn/CVE-2026-1880](https://github.com/seokjohn/CVE-2026-1880)	<img alt="forks" src="https://img.shields.io/github/forks/seokjohn/CVE-2026-1880">	<img alt="stars" src="https://img.shields.io/github/stars/seokjohn/CVE-2026-1880">
