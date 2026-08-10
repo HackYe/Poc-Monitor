@@ -462,6 +462,7 @@
 - [mein-0/cve-2025-7771](https://github.com/mein-0/cve-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/mein-0/cve-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/mein-0/cve-2025-7771">
 - [I3r1h0n/Sigurd](https://github.com/I3r1h0n/Sigurd)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/Sigurd">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/Sigurd">
 - [DeathShotXD/0xKern3lCrush](https://github.com/DeathShotXD/0xKern3lCrush)	<img alt="forks" src="https://img.shields.io/github/forks/DeathShotXD/0xKern3lCrush">	<img alt="stars" src="https://img.shields.io/github/stars/DeathShotXD/0xKern3lCrush">
+- [enessakircolak/CVE-2025-7771](https://github.com/enessakircolak/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/enessakircolak/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/enessakircolak/CVE-2025-7771">
 
 ---
 ## CVE-2025-7769 ()
