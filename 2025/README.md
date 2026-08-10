@@ -2831,6 +2831,7 @@
 - [0xDaeras/Flowise-CVE-2025-58434-Chain-59528](https://github.com/0xDaeras/Flowise-CVE-2025-58434-Chain-59528)	<img alt="forks" src="https://img.shields.io/github/forks/0xDaeras/Flowise-CVE-2025-58434-Chain-59528">	<img alt="stars" src="https://img.shields.io/github/stars/0xDaeras/Flowise-CVE-2025-58434-Chain-59528">
 - [Loaxert/CVE-2025-59528-PoC](https://github.com/Loaxert/CVE-2025-59528-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Loaxert/CVE-2025-59528-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Loaxert/CVE-2025-59528-PoC">
 - [Twappz/HTB-Silentium-Writeup](https://github.com/Twappz/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Twappz/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Twappz/HTB-Silentium-Writeup">
+- [sonnelon/CVE-2025-59528-PoC](https://github.com/sonnelon/CVE-2025-59528-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sonnelon/CVE-2025-59528-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sonnelon/CVE-2025-59528-PoC">
 
 ---
 ## CVE-2025-59503 ()
