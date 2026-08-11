@@ -2295,6 +2295,7 @@
 - [eris-ths/supply-chain-guard](https://github.com/eris-ths/supply-chain-guard)	<img alt="forks" src="https://img.shields.io/github/forks/eris-ths/supply-chain-guard">	<img alt="stars" src="https://img.shields.io/github/stars/eris-ths/supply-chain-guard">
 - [xtremebeing/starlette-host-header-lab](https://github.com/xtremebeing/starlette-host-header-lab)	<img alt="forks" src="https://img.shields.io/github/forks/xtremebeing/starlette-host-header-lab">	<img alt="stars" src="https://img.shields.io/github/stars/xtremebeing/starlette-host-header-lab">
 - [CuteeCat/CVE-2026-48710](https://github.com/CuteeCat/CVE-2026-48710)	<img alt="forks" src="https://img.shields.io/github/forks/CuteeCat/CVE-2026-48710">	<img alt="stars" src="https://img.shields.io/github/stars/CuteeCat/CVE-2026-48710">
+- [sb-ox/repro-OXDEV-77637-uv-workspace](https://github.com/sb-ox/repro-OXDEV-77637-uv-workspace)	<img alt="forks" src="https://img.shields.io/github/forks/sb-ox/repro-OXDEV-77637-uv-workspace">	<img alt="stars" src="https://img.shields.io/github/stars/sb-ox/repro-OXDEV-77637-uv-workspace">
 
 ---
 ## CVE-2026-48611 ()
@@ -8317,6 +8318,11 @@
 ## CVE-2026-18953 ()
 > 
 - [ronamosa/CVE-2026-18953](https://github.com/ronamosa/CVE-2026-18953)	<img alt="forks" src="https://img.shields.io/github/forks/ronamosa/CVE-2026-18953">	<img alt="stars" src="https://img.shields.io/github/stars/ronamosa/CVE-2026-18953">
+
+---
+## CVE-2026-18907 ()
+> 
+- [Hunt-Benito/two-dots-and-a-slash-cve-2026-18907-tecno-hi-browser-download-path-traversal](https://github.com/Hunt-Benito/two-dots-and-a-slash-cve-2026-18907-tecno-hi-browser-download-path-traversal)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/two-dots-and-a-slash-cve-2026-18907-tecno-hi-browser-download-path-traversal">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/two-dots-and-a-slash-cve-2026-18907-tecno-hi-browser-download-path-traversal">
 
 ---
 ## CVE-2026-1880 ()
