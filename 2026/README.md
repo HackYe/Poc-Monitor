@@ -3537,6 +3537,7 @@
 - [razureink/cve-2026-41940-cpanel_authbypass_reproduction](https://github.com/razureink/cve-2026-41940-cpanel_authbypass_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2026-41940-cpanel_authbypass_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2026-41940-cpanel_authbypass_reproduction">
 - [AnotherSec/CVE-2026-41940](https://github.com/AnotherSec/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/AnotherSec/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/AnotherSec/CVE-2026-41940">
 - [CerberusMrXi/cPanel-WHM-CVE-2026-41940-auth-bypass-exploit](https://github.com/CerberusMrXi/cPanel-WHM-CVE-2026-41940-auth-bypass-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/cPanel-WHM-CVE-2026-41940-auth-bypass-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/cPanel-WHM-CVE-2026-41940-auth-bypass-exploit">
+- [keithbennedict/CVE-2026-41940-Linux](https://github.com/keithbennedict/CVE-2026-41940-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/keithbennedict/CVE-2026-41940-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/keithbennedict/CVE-2026-41940-Linux">
 
 ---
 ## CVE-2026-41901 ()
@@ -8409,6 +8410,7 @@
 ## CVE-2026-17106 ()
 > 
 - [HackSpeak/CVE-2026-17106](https://github.com/HackSpeak/CVE-2026-17106)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-17106">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-17106">
+- [masasron/CopyEscape-CVE-2026-17106](https://github.com/masasron/CopyEscape-CVE-2026-17106)	<img alt="forks" src="https://img.shields.io/github/forks/masasron/CopyEscape-CVE-2026-17106">	<img alt="stars" src="https://img.shields.io/github/stars/masasron/CopyEscape-CVE-2026-17106">
 
 ---
 ## CVE-2026-17001 ()
