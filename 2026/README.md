@@ -541,6 +541,11 @@
 - [tc4dy/CVE-2026-6875-PoC-Exploit](https://github.com/tc4dy/CVE-2026-6875-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-6875-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-6875-PoC-Exploit">
 
 ---
+## CVE-2026-68749 ()
+> 
+- [Hunt-Benito/the-sanitizer-is-the-weapon-cve-2026-68749-cve-2026-68750-quadratic-dos-in-elixir-html-sanitize-ex](https://github.com/Hunt-Benito/the-sanitizer-is-the-weapon-cve-2026-68749-cve-2026-68750-quadratic-dos-in-elixir-html-sanitize-ex)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/the-sanitizer-is-the-weapon-cve-2026-68749-cve-2026-68750-quadratic-dos-in-elixir-html-sanitize-ex">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/the-sanitizer-is-the-weapon-cve-2026-68749-cve-2026-68750-quadratic-dos-in-elixir-html-sanitize-ex">
+
+---
 ## CVE-2026-6857 ()
 > 
 - [HORKimhab/CVE-2026-6857](https://github.com/HORKimhab/CVE-2026-6857)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-6857">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-6857">
@@ -1366,7 +1371,7 @@
 - [Candisexterior171/CVE-2026-57827](https://github.com/Candisexterior171/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/Candisexterior171/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/Candisexterior171/CVE-2026-57827">
 - [Mohammad-008/rsfiles-CVE-2026-57827](https://github.com/Mohammad-008/rsfiles-CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/Mohammad-008/rsfiles-CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/Mohammad-008/rsfiles-CVE-2026-57827">
 - [jjkk123123/CVE-2026-57827](https://github.com/jjkk123123/CVE-2026-57827)	<img alt="forks" src="https://img.shields.io/github/forks/jjkk123123/CVE-2026-57827">	<img alt="stars" src="https://img.shields.io/github/stars/jjkk123123/CVE-2026-57827">
-- [Ahmall-sec/CVE_2026_57827](https://github.com/Ahmall-sec/CVE_2026_57827)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmall-sec/CVE_2026_57827">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmall-sec/CVE_2026_57827">
+- [g0d150ne/CVE_2026_57827](https://github.com/g0d150ne/CVE_2026_57827)	<img alt="forks" src="https://img.shields.io/github/forks/g0d150ne/CVE_2026_57827">	<img alt="stars" src="https://img.shields.io/github/stars/g0d150ne/CVE_2026_57827">
 
 ---
 ## CVE-2026-57821 ()
