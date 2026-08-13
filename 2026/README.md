@@ -2510,6 +2510,11 @@
 - [oscerd/CVE-2026-47323](https://github.com/oscerd/CVE-2026-47323)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-47323">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-47323">
 
 ---
+## CVE-2026-47301 ()
+> 
+- [OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit](https://github.com/OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit">
+
+---
 ## CVE-2026-47291 ()
 > 
 - [ManagerEmpty/CVE-2026-47291-httpsys](https://github.com/ManagerEmpty/CVE-2026-47291-httpsys)	<img alt="forks" src="https://img.shields.io/github/forks/ManagerEmpty/CVE-2026-47291-httpsys">	<img alt="stars" src="https://img.shields.io/github/stars/ManagerEmpty/CVE-2026-47291-httpsys">
