@@ -3249,6 +3249,7 @@
 - [pimpamebanihah/cve-2026-43499-app.so](https://github.com/pimpamebanihah/cve-2026-43499-app.so)	<img alt="forks" src="https://img.shields.io/github/forks/pimpamebanihah/cve-2026-43499-app.so">	<img alt="stars" src="https://img.shields.io/github/stars/pimpamebanihah/cve-2026-43499-app.so">
 - [wzhdgithub/GhostLock](https://github.com/wzhdgithub/GhostLock)	<img alt="forks" src="https://img.shields.io/github/forks/wzhdgithub/GhostLock">	<img alt="stars" src="https://img.shields.io/github/stars/wzhdgithub/GhostLock">
 - [Bugel/cve-2026-43499-m3q-azf1](https://github.com/Bugel/cve-2026-43499-m3q-azf1)	<img alt="forks" src="https://img.shields.io/github/forks/Bugel/cve-2026-43499-m3q-azf1">	<img alt="stars" src="https://img.shields.io/github/stars/Bugel/cve-2026-43499-m3q-azf1">
+- [hmascs/KSuRoot](https://github.com/hmascs/KSuRoot)	<img alt="forks" src="https://img.shields.io/github/forks/hmascs/KSuRoot">	<img alt="stars" src="https://img.shields.io/github/stars/hmascs/KSuRoot">
 
 ---
 ## CVE-2026-43494 ()
@@ -9003,6 +9004,11 @@
 ## CVE-2026-1238 ()
 > 
 - [mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-](https://github.com/mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Breaking-AWS-IAM-Privilege-Escalation-via-Mis-Evaluated-Policy-Conditions-CVE-2026-1238-">
+
+---
+## CVE-2026-12345 ()
+> 
+- [zahidec0de/CVE-2026-12345-poc](https://github.com/zahidec0de/CVE-2026-12345-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zahidec0de/CVE-2026-12345-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zahidec0de/CVE-2026-12345-poc">
 
 ---
 ## CVE-2026-1232 ()
