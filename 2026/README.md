@@ -3385,6 +3385,7 @@
 - [azilRababe/CVE-2026-42945](https://github.com/azilRababe/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/azilRababe/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/azilRababe/CVE-2026-42945">
 - [aratane/CVE-2026-42945](https://github.com/aratane/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/aratane/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/aratane/CVE-2026-42945">
 - [Kentox493/CVE-2026-42945_NginxRift](https://github.com/Kentox493/CVE-2026-42945_NginxRift)	<img alt="forks" src="https://img.shields.io/github/forks/Kentox493/CVE-2026-42945_NginxRift">	<img alt="stars" src="https://img.shields.io/github/stars/Kentox493/CVE-2026-42945_NginxRift">
+- [CynepMyx/nginx-rift-check](https://github.com/CynepMyx/nginx-rift-check)	<img alt="forks" src="https://img.shields.io/github/forks/CynepMyx/nginx-rift-check">	<img alt="stars" src="https://img.shields.io/github/stars/CynepMyx/nginx-rift-check">
 
 ---
 ## CVE-2026-42940 ()
