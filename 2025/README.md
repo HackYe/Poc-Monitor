@@ -9355,6 +9355,7 @@
 - [vasilysaint/CVE-2025-24893](https://github.com/vasilysaint/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/vasilysaint/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/vasilysaint/CVE-2025-24893">
 - [Fomovet/cve-2025-24893](https://github.com/Fomovet/cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-24893">
 - [endusdksla/xwiki-cve-2025-24893](https://github.com/endusdksla/xwiki-cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/endusdksla/xwiki-cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/endusdksla/xwiki-cve-2025-24893">
+- [MattiaCervelli/CVE-2025-24893_Analysis](https://github.com/MattiaCervelli/CVE-2025-24893_Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/MattiaCervelli/CVE-2025-24893_Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/MattiaCervelli/CVE-2025-24893_Analysis">
 
 ---
 ## CVE-2025-24813 ()
