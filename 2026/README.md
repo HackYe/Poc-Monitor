@@ -3465,6 +3465,7 @@
 - [XiaoBaiLovesStirring/ghostlock-custom](https://github.com/XiaoBaiLovesStirring/ghostlock-custom)	<img alt="forks" src="https://img.shields.io/github/forks/XiaoBaiLovesStirring/ghostlock-custom">	<img alt="stars" src="https://img.shields.io/github/stars/XiaoBaiLovesStirring/ghostlock-custom">
 - [xrzcc/s26-m1q-ghostlock-selinux](https://github.com/xrzcc/s26-m1q-ghostlock-selinux)	<img alt="forks" src="https://img.shields.io/github/forks/xrzcc/s26-m1q-ghostlock-selinux">	<img alt="stars" src="https://img.shields.io/github/stars/xrzcc/s26-m1q-ghostlock-selinux">
 - [mobilehackinglab/ghostlock-a17](https://github.com/mobilehackinglab/ghostlock-a17)	<img alt="forks" src="https://img.shields.io/github/forks/mobilehackinglab/ghostlock-a17">	<img alt="stars" src="https://img.shields.io/github/stars/mobilehackinglab/ghostlock-a17">
+- [oopnv70-lab/ghostlock-honor-aak-probe](https://github.com/oopnv70-lab/ghostlock-honor-aak-probe)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-honor-aak-probe">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-honor-aak-probe">
 
 ---
 ## CVE-2026-43494 ()
@@ -7757,6 +7758,11 @@
 > 
 - [JohannesLks/CVE-2026-23398](https://github.com/JohannesLks/CVE-2026-23398)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-23398">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-23398">
 - [zpol/cve-2026-23398-poc](https://github.com/zpol/cve-2026-23398-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zpol/cve-2026-23398-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zpol/cve-2026-23398-poc">
+
+---
+## CVE-2026-2329 ()
+> 
+- [VivianUba/grandstream-cve-2026-2329-analysis](https://github.com/VivianUba/grandstream-cve-2026-2329-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/VivianUba/grandstream-cve-2026-2329-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/VivianUba/grandstream-cve-2026-2329-analysis">
 
 ---
 ## CVE-2026-23245 ()
