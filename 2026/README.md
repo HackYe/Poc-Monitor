@@ -2973,6 +2973,7 @@
 > 
 - [0xBlackash/CVE-2026-46242](https://github.com/0xBlackash/CVE-2026-46242)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-46242">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-46242">
 - [Baba01hacker666/CVE-2026-46242](https://github.com/Baba01hacker666/CVE-2026-46242)	<img alt="forks" src="https://img.shields.io/github/forks/Baba01hacker666/CVE-2026-46242">	<img alt="stars" src="https://img.shields.io/github/stars/Baba01hacker666/CVE-2026-46242">
+- [BinaryMasc/CVE-2026-46242](https://github.com/BinaryMasc/CVE-2026-46242)	<img alt="forks" src="https://img.shields.io/github/forks/BinaryMasc/CVE-2026-46242">	<img alt="stars" src="https://img.shields.io/github/stars/BinaryMasc/CVE-2026-46242">
 
 ---
 ## CVE-2026-46215 ()
