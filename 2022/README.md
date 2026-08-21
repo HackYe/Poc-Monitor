@@ -18420,6 +18420,7 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [asepsaepdin/CVE-2022-36804](https://github.com/asepsaepdin/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2022-36804">
 - [ui-bootstrap/CVE-2022-36804](https://github.com/ui-bootstrap/CVE-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/ui-bootstrap/CVE-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/ui-bootstrap/CVE-2022-36804">
 - [DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis](https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis">
+- [Junohea/cve-2022-36804](https://github.com/Junohea/cve-2022-36804)	<img alt="forks" src="https://img.shields.io/github/forks/Junohea/cve-2022-36804">	<img alt="stars" src="https://img.shields.io/github/stars/Junohea/cve-2022-36804">
 
 ---
 ## CVE-2022-36798 (2022-09-23T14:15:00)
