@@ -449,6 +449,11 @@
 - [Cyber-DarkNay/CVE-2026-7458](https://github.com/Cyber-DarkNay/CVE-2026-7458)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-DarkNay/CVE-2026-7458">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-DarkNay/CVE-2026-7458">
 
 ---
+## CVE-2026-74252 ()
+> 
+- [toanln-cov/CVE-2026-74252](https://github.com/toanln-cov/CVE-2026-74252)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-74252">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-74252">
+
+---
 ## CVE-2026-74251 ()
 > 
 - [toanln-cov/CVE-2026-74251](https://github.com/toanln-cov/CVE-2026-74251)	<img alt="forks" src="https://img.shields.io/github/forks/toanln-cov/CVE-2026-74251">	<img alt="stars" src="https://img.shields.io/github/stars/toanln-cov/CVE-2026-74251">
@@ -3895,7 +3900,7 @@
 - [NULL200OK/cve-2026-41940-tool](https://github.com/NULL200OK/cve-2026-41940-tool)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/cve-2026-41940-tool">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/cve-2026-41940-tool">
 - [unteikyou/CVE-2026-41940-AuthBypass-Detector](https://github.com/unteikyou/CVE-2026-41940-AuthBypass-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/unteikyou/CVE-2026-41940-AuthBypass-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/unteikyou/CVE-2026-41940-AuthBypass-Detector">
 - [ynsmroztas/cPanelSniper](https://github.com/ynsmroztas/cPanelSniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/cPanelSniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/cPanelSniper">
-- [Kill1234545/CVE-2026-41940](https://github.com/Kill1234545/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Kill1234545/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Kill1234545/CVE-2026-41940">
+- [0xYuR1/CVE-2026-41940](https://github.com/0xYuR1/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/0xYuR1/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/0xYuR1/CVE-2026-41940">
 - [sebinxavi/cve-checker-2026](https://github.com/sebinxavi/cve-checker-2026)	<img alt="forks" src="https://img.shields.io/github/forks/sebinxavi/cve-checker-2026">	<img alt="stars" src="https://img.shields.io/github/stars/sebinxavi/cve-checker-2026">
 - [Jenderal92/CVE-2026-41940](https://github.com/Jenderal92/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-41940">
 - [kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit](https://github.com/kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kmaruthisrikar/CVE-2026-41940-cPanel-Auth-Bypass-Exploit">
