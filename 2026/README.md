@@ -3649,6 +3649,9 @@
 - [yakidango-official/GhostLock-H80GT](https://github.com/yakidango-official/GhostLock-H80GT)	<img alt="forks" src="https://img.shields.io/github/forks/yakidango-official/GhostLock-H80GT">	<img alt="stars" src="https://img.shields.io/github/stars/yakidango-official/GhostLock-H80GT">
 - [sarabpal-dev/IonStack-S22U](https://github.com/sarabpal-dev/IonStack-S22U)	<img alt="forks" src="https://img.shields.io/github/forks/sarabpal-dev/IonStack-S22U">	<img alt="stars" src="https://img.shields.io/github/stars/sarabpal-dev/IonStack-S22U">
 - [Redminote11tech/CVE-2026-43499-NAM-AL00](https://github.com/Redminote11tech/CVE-2026-43499-NAM-AL00)	<img alt="forks" src="https://img.shields.io/github/forks/Redminote11tech/CVE-2026-43499-NAM-AL00">	<img alt="stars" src="https://img.shields.io/github/stars/Redminote11tech/CVE-2026-43499-NAM-AL00">
+- [XiaoBaiLovesStirring/ghostlock-k419-adapter](https://github.com/XiaoBaiLovesStirring/ghostlock-k419-adapter)	<img alt="forks" src="https://img.shields.io/github/forks/XiaoBaiLovesStirring/ghostlock-k419-adapter">	<img alt="stars" src="https://img.shields.io/github/stars/XiaoBaiLovesStirring/ghostlock-k419-adapter">
+- [XingChenRS/CyberMeowfiaNS](https://github.com/XingChenRS/CyberMeowfiaNS)	<img alt="forks" src="https://img.shields.io/github/forks/XingChenRS/CyberMeowfiaNS">	<img alt="stars" src="https://img.shields.io/github/stars/XingChenRS/CyberMeowfiaNS">
+- [ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock](https://github.com/ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock)	<img alt="forks" src="https://img.shields.io/github/forks/ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock">	<img alt="stars" src="https://img.shields.io/github/stars/ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock">
 
 ---
 ## CVE-2026-43494 ()
