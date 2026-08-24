@@ -525,7 +525,7 @@
 ## CVE-2026-73570 ()
 > 
 - [HORKimhab/CVE-2026-73570](https://github.com/HORKimhab/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-73570">
-- [0xbug/CVE-2026-73570](https://github.com/0xbug/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/0xbug/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/0xbug/CVE-2026-73570">
+- [BiuTrap/CVE-2026-73570](https://github.com/BiuTrap/CVE-2026-73570)	<img alt="forks" src="https://img.shields.io/github/forks/BiuTrap/CVE-2026-73570">	<img alt="stars" src="https://img.shields.io/github/stars/BiuTrap/CVE-2026-73570">
 
 ---
 ## CVE-2026-73519 ()
@@ -8906,6 +8906,11 @@
 - [HORKimhab/CVE-2026-19650-CVE-2026-19478](https://github.com/HORKimhab/CVE-2026-19650-CVE-2026-19478)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-19650-CVE-2026-19478">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-19650-CVE-2026-19478">
 
 ---
+## CVE-2026-19626 ()
+> 
+- [h00die/POC-CVE-2026-19626](https://github.com/h00die/POC-CVE-2026-19626)	<img alt="forks" src="https://img.shields.io/github/forks/h00die/POC-CVE-2026-19626">	<img alt="stars" src="https://img.shields.io/github/stars/h00die/POC-CVE-2026-19626">
+
+---
 ## CVE-2026-19598 ()
 > 
 - [ksotaria1337/CVE-2026-19598](https://github.com/ksotaria1337/CVE-2026-19598)	<img alt="forks" src="https://img.shields.io/github/forks/ksotaria1337/CVE-2026-19598">	<img alt="stars" src="https://img.shields.io/github/stars/ksotaria1337/CVE-2026-19598">
@@ -8963,6 +8968,7 @@
 - [kyos-public/keycloak-cve-2026-18963-hunt](https://github.com/kyos-public/keycloak-cve-2026-18963-hunt)	<img alt="forks" src="https://img.shields.io/github/forks/kyos-public/keycloak-cve-2026-18963-hunt">	<img alt="stars" src="https://img.shields.io/github/stars/kyos-public/keycloak-cve-2026-18963-hunt">
 - [Snizi/CVE-2026-18963-Exploit](https://github.com/Snizi/CVE-2026-18963-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Snizi/CVE-2026-18963-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Snizi/CVE-2026-18963-Exploit">
 - [minh3102011/CVE-2026-18963_analyst](https://github.com/minh3102011/CVE-2026-18963_analyst)	<img alt="forks" src="https://img.shields.io/github/forks/minh3102011/CVE-2026-18963_analyst">	<img alt="stars" src="https://img.shields.io/github/stars/minh3102011/CVE-2026-18963_analyst">
+- [T0w0T/POC-CVE-2026-18963](https://github.com/T0w0T/POC-CVE-2026-18963)	<img alt="forks" src="https://img.shields.io/github/forks/T0w0T/POC-CVE-2026-18963">	<img alt="stars" src="https://img.shields.io/github/stars/T0w0T/POC-CVE-2026-18963">
 
 ---
 ## CVE-2026-18953 ()
