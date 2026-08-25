@@ -604,6 +604,11 @@
 - [abdugafforov-bobur/CVE-2026-72550-poc](https://github.com/abdugafforov-bobur/CVE-2026-72550-poc)	<img alt="forks" src="https://img.shields.io/github/forks/abdugafforov-bobur/CVE-2026-72550-poc">	<img alt="stars" src="https://img.shields.io/github/stars/abdugafforov-bobur/CVE-2026-72550-poc">
 
 ---
+## CVE-2026-72530 ()
+> 
+- [fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-](https://github.com/fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-72530-TrueConf-Sandbox-Escape-">
+
+---
 ## CVE-2026-7222 ()
 > 
 - [Xmyronn/CVE-2026-7222-XSS](https://github.com/Xmyronn/CVE-2026-7222-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7222-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7222-XSS">
