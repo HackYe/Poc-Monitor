@@ -3705,6 +3705,7 @@
 - [ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock](https://github.com/ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock)	<img alt="forks" src="https://img.shields.io/github/forks/ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock">	<img alt="stars" src="https://img.shields.io/github/stars/ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock">
 - [zenyxx-xd/RootMyVivo](https://github.com/zenyxx-xd/RootMyVivo)	<img alt="forks" src="https://img.shields.io/github/forks/zenyxx-xd/RootMyVivo">	<img alt="stars" src="https://img.shields.io/github/stars/zenyxx-xd/RootMyVivo">
 - [JingMatrix/pixel-ksu-root](https://github.com/JingMatrix/pixel-ksu-root)	<img alt="forks" src="https://img.shields.io/github/forks/JingMatrix/pixel-ksu-root">	<img alt="stars" src="https://img.shields.io/github/stars/JingMatrix/pixel-ksu-root">
+- [sgswzglwlx/vivo-root-build](https://github.com/sgswzglwlx/vivo-root-build)	<img alt="forks" src="https://img.shields.io/github/forks/sgswzglwlx/vivo-root-build">	<img alt="stars" src="https://img.shields.io/github/stars/sgswzglwlx/vivo-root-build">
 
 ---
 ## CVE-2026-43494 ()
