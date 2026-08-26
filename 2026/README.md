@@ -1963,6 +1963,8 @@
 ## CVE-2026-55040 ()
 > 
 - [zenzue/CVE-2026-55040](https://github.com/zenzue/CVE-2026-55040)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE-2026-55040">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE-2026-55040">
+- [sfewer-r7/CVE-2026-55040](https://github.com/sfewer-r7/CVE-2026-55040)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2026-55040">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2026-55040">
+- [l0ggg/CVE-2026-55040](https://github.com/l0ggg/CVE-2026-55040)	<img alt="forks" src="https://img.shields.io/github/forks/l0ggg/CVE-2026-55040">	<img alt="stars" src="https://img.shields.io/github/stars/l0ggg/CVE-2026-55040">
 
 ---
 ## CVE-2026-54998 ()
@@ -2172,6 +2174,11 @@
 ## CVE-2026-53625 ()
 > 
 - [7h30th3r0n3/CVE-2026-53625-GLPI-PoC](https://github.com/7h30th3r0n3/CVE-2026-53625-GLPI-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/7h30th3r0n3/CVE-2026-53625-GLPI-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/7h30th3r0n3/CVE-2026-53625-GLPI-PoC">
+
+---
+## CVE-2026-53613 ()
+> 
+- [mohamedjawady/CVE-2026-53613-poc](https://github.com/mohamedjawady/CVE-2026-53613-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mohamedjawady/CVE-2026-53613-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mohamedjawady/CVE-2026-53613-poc">
 
 ---
 ## CVE-2026-53595 ()
@@ -9046,6 +9053,11 @@
 ## CVE-2026-19650 ()
 > 
 - [HORKimhab/CVE-2026-19650-CVE-2026-19478](https://github.com/HORKimhab/CVE-2026-19650-CVE-2026-19478)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-19650-CVE-2026-19478">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-19650-CVE-2026-19478">
+
+---
+## CVE-2026-19632 ()
+> 
+- [YonLiud/CVE-2026-19632](https://github.com/YonLiud/CVE-2026-19632)	<img alt="forks" src="https://img.shields.io/github/forks/YonLiud/CVE-2026-19632">	<img alt="stars" src="https://img.shields.io/github/stars/YonLiud/CVE-2026-19632">
 
 ---
 ## CVE-2026-19626 ()
