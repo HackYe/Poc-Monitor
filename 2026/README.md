@@ -2381,6 +2381,11 @@
 - [vn-lazyming/CVE-2026-52943](https://github.com/vn-lazyming/CVE-2026-52943)	<img alt="forks" src="https://img.shields.io/github/forks/vn-lazyming/CVE-2026-52943">	<img alt="stars" src="https://img.shields.io/github/stars/vn-lazyming/CVE-2026-52943">
 
 ---
+## CVE-2026-52923 ()
+> 
+- [Hari-v542/CVE-2026-52923](https://github.com/Hari-v542/CVE-2026-52923)	<img alt="forks" src="https://img.shields.io/github/forks/Hari-v542/CVE-2026-52923">	<img alt="stars" src="https://img.shields.io/github/stars/Hari-v542/CVE-2026-52923">
+
+---
 ## CVE-2026-52887 ()
 > 
 - [BiiTts/CVE-2026-52887-NocoBase-SQLi-RCE](https://github.com/BiiTts/CVE-2026-52887-NocoBase-SQLi-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-52887-NocoBase-SQLi-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-52887-NocoBase-SQLi-RCE">
@@ -4963,6 +4968,11 @@
 ## CVE-2026-38360 ()
 > 
 - [a1ohadance/CVE-2026-38360](https://github.com/a1ohadance/CVE-2026-38360)	<img alt="forks" src="https://img.shields.io/github/forks/a1ohadance/CVE-2026-38360">	<img alt="stars" src="https://img.shields.io/github/stars/a1ohadance/CVE-2026-38360">
+
+---
+## CVE-2026-38192 ()
+> 
+- [ming1700/CVE-2026-38192](https://github.com/ming1700/CVE-2026-38192)	<img alt="forks" src="https://img.shields.io/github/forks/ming1700/CVE-2026-38192">	<img alt="stars" src="https://img.shields.io/github/stars/ming1700/CVE-2026-38192">
 
 ---
 ## CVE-2026-38165 ()
