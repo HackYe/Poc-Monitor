@@ -3168,7 +3168,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ---
 ## CVE-2024-46627 (2024-09-26T17:15:00)
 > Incorrect access control in BECN DATAGERRY v2.2 allows attackers to execute arbitrary commands via crafted web requests.
-- [d4lyw/CVE-2024-46627](https://github.com/d4lyw/CVE-2024-46627)	<img alt="forks" src="https://img.shields.io/github/forks/d4lyw/CVE-2024-46627">	<img alt="stars" src="https://img.shields.io/github/stars/d4lyw/CVE-2024-46627">
+- [Solusec-uk/CVE-2024-46627](https://github.com/Solusec-uk/CVE-2024-46627)	<img alt="forks" src="https://img.shields.io/github/forks/Solusec-uk/CVE-2024-46627">	<img alt="stars" src="https://img.shields.io/github/stars/Solusec-uk/CVE-2024-46627">
 
 ---
 ## CVE-2024-46542 ()
