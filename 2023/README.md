@@ -999,6 +999,11 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-49948-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-49948-PoC">
 
 ---
+## CVE-2023-49792 ()
+> 
+- [CStockdale1/nextcloud-cve-2023-49792-research](https://github.com/CStockdale1/nextcloud-cve-2023-49792-research)	<img alt="forks" src="https://img.shields.io/github/forks/CStockdale1/nextcloud-cve-2023-49792-research">	<img alt="stars" src="https://img.shields.io/github/stars/CStockdale1/nextcloud-cve-2023-49792-research">
+
+---
 ## CVE-2023-49785 (2024-03-12T00:15:00)
 > NextChat, also known as ChatGPT-Next-Web, is a cross-platform chat user interface for use with ChatGPT. Versions 2.11.2 and prior are vulnerable to server-side request forgery and cross-site scripting. This vulnerability enables read access to internal HTTP endpoints but also write access using HTTP POST, PUT, and other methods. Attackers can also use this vulnerability to mask their source IP by forwarding malicious traffic intended for other Internet targets through these open proxies. As of time of publication, no patch is available, but other mitigation strategies are available. Users may avoid exposing the application to the public internet or, if exposing the application to the internet, ensure it is an isolated network with no access to any other internal resources.
 

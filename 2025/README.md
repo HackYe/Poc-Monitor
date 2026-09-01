@@ -810,7 +810,7 @@
 ---
 ## CVE-2025-69080 ()
 > 
-- [AndrielSec/CVE-2025-69080-](https://github.com/AndrielSec/CVE-2025-69080-)	<img alt="forks" src="https://img.shields.io/github/forks/AndrielSec/CVE-2025-69080-">	<img alt="stars" src="https://img.shields.io/github/stars/AndrielSec/CVE-2025-69080-">
+- [AndrielSec/CVE-2025-69080](https://github.com/AndrielSec/CVE-2025-69080)	<img alt="forks" src="https://img.shields.io/github/forks/AndrielSec/CVE-2025-69080">	<img alt="stars" src="https://img.shields.io/github/stars/AndrielSec/CVE-2025-69080">
 
 ---
 ## CVE-2025-6907 ()
