@@ -8504,6 +8504,7 @@
 - [SwapnilDeshpande/cve-2025-29927-lab](https://github.com/SwapnilDeshpande/cve-2025-29927-lab)	<img alt="forks" src="https://img.shields.io/github/forks/SwapnilDeshpande/cve-2025-29927-lab">	<img alt="stars" src="https://img.shields.io/github/stars/SwapnilDeshpande/cve-2025-29927-lab">
 - [kuyrathdaro/cve-2025-29927](https://github.com/kuyrathdaro/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/cve-2025-29927">
 - [berraesen/nextjs-middleware-auth-bypass-lab](https://github.com/berraesen/nextjs-middleware-auth-bypass-lab)	<img alt="forks" src="https://img.shields.io/github/forks/berraesen/nextjs-middleware-auth-bypass-lab">	<img alt="stars" src="https://img.shields.io/github/stars/berraesen/nextjs-middleware-auth-bypass-lab">
+- [Ritinify/CVE-2025-29927-PoC](https://github.com/Ritinify/CVE-2025-29927-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ritinify/CVE-2025-29927-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ritinify/CVE-2025-29927-PoC">
 
 ---
 ## CVE-2025-29891 ()
