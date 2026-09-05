@@ -6777,6 +6777,11 @@
 - [cyruscostini/CVE-2025-42599](https://github.com/cyruscostini/CVE-2025-42599)	<img alt="forks" src="https://img.shields.io/github/forks/cyruscostini/CVE-2025-42599">	<img alt="stars" src="https://img.shields.io/github/stars/cyruscostini/CVE-2025-42599">
 
 ---
+## CVE-2025-4255 ()
+> 
+- [Tenor-Z/CVE-2025-4255---Buffer-Overflow](https://github.com/Tenor-Z/CVE-2025-4255---Buffer-Overflow)	<img alt="forks" src="https://img.shields.io/github/forks/Tenor-Z/CVE-2025-4255---Buffer-Overflow">	<img alt="stars" src="https://img.shields.io/github/stars/Tenor-Z/CVE-2025-4255---Buffer-Overflow">
+
+---
 ## CVE-2025-422031 ()
 > 
 - [NotItsSixtyN3in/CVE-2025-422031](https://github.com/NotItsSixtyN3in/CVE-2025-422031)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-422031">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-422031">
@@ -7568,7 +7573,7 @@
 - [verylazytech/CVE-2025-3248](https://github.com/verylazytech/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2025-3248">
 - [Channeeee/CVE-2025-3248-Langflow-validate-code-API-](https://github.com/Channeeee/CVE-2025-3248-Langflow-validate-code-API-)	<img alt="forks" src="https://img.shields.io/github/forks/Channeeee/CVE-2025-3248-Langflow-validate-code-API-">	<img alt="stars" src="https://img.shields.io/github/stars/Channeeee/CVE-2025-3248-Langflow-validate-code-API-">
 - [minxxcozy/CVE-2025-3248-langflow-RCE](https://github.com/minxxcozy/CVE-2025-3248-langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/minxxcozy/CVE-2025-3248-langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/minxxcozy/CVE-2025-3248-langflow-RCE">
-- [Praison001/CVE-2025-3248](https://github.com/Praison001/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2025-3248">
+- [GraySignal/CVE-2025-3248](https://github.com/GraySignal/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/GraySignal/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/GraySignal/CVE-2025-3248">
 - [vigilante-1337/CVE-2025-3248](https://github.com/vigilante-1337/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/vigilante-1337/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/vigilante-1337/CVE-2025-3248">
 - [Vip3rLi0n/CVE-2025-3248](https://github.com/Vip3rLi0n/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/Vip3rLi0n/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/Vip3rLi0n/CVE-2025-3248">
 - [tiemio/RCE-CVE-2025-3248](https://github.com/tiemio/RCE-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/tiemio/RCE-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/tiemio/RCE-CVE-2025-3248">
@@ -7592,6 +7597,12 @@
 - [drackyjr/cve-2025-3248-exploit](https://github.com/drackyjr/cve-2025-3248-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/cve-2025-3248-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/cve-2025-3248-exploit">
 - [b0ySie7e/CVE-2025-3248-POC](https://github.com/b0ySie7e/CVE-2025-3248-POC)	<img alt="forks" src="https://img.shields.io/github/forks/b0ySie7e/CVE-2025-3248-POC">	<img alt="stars" src="https://img.shields.io/github/stars/b0ySie7e/CVE-2025-3248-POC">
 - [nebari-playground/langflow-cve-2025-3248](https://github.com/nebari-playground/langflow-cve-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/nebari-playground/langflow-cve-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/nebari-playground/langflow-cve-2025-3248">
+- [LeotheGGman/Langflow-RCE-CVE-2025-3248](https://github.com/LeotheGGman/Langflow-RCE-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/LeotheGGman/Langflow-RCE-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/LeotheGGman/Langflow-RCE-CVE-2025-3248">
+- [hideki233/CVE-2025-3248-Langflow-RCE](https://github.com/hideki233/CVE-2025-3248-Langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hideki233/CVE-2025-3248-Langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hideki233/CVE-2025-3248-Langflow-RCE">
+- [preemware/langflow-exploit](https://github.com/preemware/langflow-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/preemware/langflow-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/preemware/langflow-exploit">
+- [Atomics-hub/exposecheck](https://github.com/Atomics-hub/exposecheck)	<img alt="forks" src="https://img.shields.io/github/forks/Atomics-hub/exposecheck">	<img alt="stars" src="https://img.shields.io/github/stars/Atomics-hub/exposecheck">
+- [get-xor/coreweave-demo-2026-05](https://github.com/get-xor/coreweave-demo-2026-05)	<img alt="forks" src="https://img.shields.io/github/forks/get-xor/coreweave-demo-2026-05">	<img alt="stars" src="https://img.shields.io/github/stars/get-xor/coreweave-demo-2026-05">
+- [12-test-12/CVE-2025-3248](https://github.com/12-test-12/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/12-test-12/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/12-test-12/CVE-2025-3248">
 
 ---
 ## CVE-2025-32463 ()
