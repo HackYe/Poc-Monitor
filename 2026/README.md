@@ -3867,6 +3867,7 @@
 ## CVE-2026-44402 ()
 > 
 - [Virgula0/CVE-2026-44402](https://github.com/Virgula0/CVE-2026-44402)	<img alt="forks" src="https://img.shields.io/github/forks/Virgula0/CVE-2026-44402">	<img alt="stars" src="https://img.shields.io/github/stars/Virgula0/CVE-2026-44402">
+- [0xCyp1337/CVE-2026-44402](https://github.com/0xCyp1337/CVE-2026-44402)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-44402">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-44402">
 
 ---
 ## CVE-2026-44401 ()
@@ -4148,6 +4149,8 @@
 - [diyiqiuye/ghostlock-pfem10](https://github.com/diyiqiuye/ghostlock-pfem10)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/ghostlock-pfem10">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/ghostlock-pfem10">
 - [rsyzee/ghostlock-infinix-hot70](https://github.com/rsyzee/ghostlock-infinix-hot70)	<img alt="forks" src="https://img.shields.io/github/forks/rsyzee/ghostlock-infinix-hot70">	<img alt="stars" src="https://img.shields.io/github/stars/rsyzee/ghostlock-infinix-hot70">
 - [dorlow/hazel-cve-2026-43499](https://github.com/dorlow/hazel-cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/dorlow/hazel-cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/dorlow/hazel-cve-2026-43499">
+- [oopnv70-lab/ghostlock-aak-apk](https://github.com/oopnv70-lab/ghostlock-aak-apk)	<img alt="forks" src="https://img.shields.io/github/forks/oopnv70-lab/ghostlock-aak-apk">	<img alt="stars" src="https://img.shields.io/github/stars/oopnv70-lab/ghostlock-aak-apk">
+- [abdgalaxy36-code/rmgp-complete-handoff](https://github.com/abdgalaxy36-code/rmgp-complete-handoff)	<img alt="forks" src="https://img.shields.io/github/forks/abdgalaxy36-code/rmgp-complete-handoff">	<img alt="stars" src="https://img.shields.io/github/stars/abdgalaxy36-code/rmgp-complete-handoff">
 
 ---
 ## CVE-2026-43494 ()
@@ -9607,6 +9610,7 @@
 ## CVE-2026-19949 ()
 > 
 - [HORKimhab/CVE-2026-19949](https://github.com/HORKimhab/CVE-2026-19949)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-19949">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-19949">
+- [katranSefa/CVE-2026-19949](https://github.com/katranSefa/CVE-2026-19949)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-19949">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-19949">
 
 ---
 ## CVE-2026-19912 ()
