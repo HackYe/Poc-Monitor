@@ -254,6 +254,11 @@
 - [shinthink/CVE-2026-8713](https://github.com/shinthink/CVE-2026-8713)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-8713">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-8713">
 
 ---
+## CVE-2026-86218 ()
+> 
+- [HORKimhab/CVE-2026-86218](https://github.com/HORKimhab/CVE-2026-86218)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-86218">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-86218">
+
+---
 ## CVE-2026-85769 ()
 > 
 - [isukasanuj/CVE-2026-85769](https://github.com/isukasanuj/CVE-2026-85769)	<img alt="forks" src="https://img.shields.io/github/forks/isukasanuj/CVE-2026-85769">	<img alt="stars" src="https://img.shields.io/github/stars/isukasanuj/CVE-2026-85769">
@@ -1152,6 +1157,11 @@
 ## CVE-2026-67340 ()
 > 
 - [0xdak/CVE-2026-67340_exploit](https://github.com/0xdak/CVE-2026-67340_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-67340_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-67340_exploit">
+
+---
+## CVE-2026-67276 ()
+> 
+- [HORKimhab/CVE-2026-67276](https://github.com/HORKimhab/CVE-2026-67276)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-67276">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-67276">
 
 ---
 ## CVE-2026-67206 ()
@@ -6026,6 +6036,11 @@
 - [katranSefa/CVE-2026-3326](https://github.com/katranSefa/CVE-2026-3326)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-3326">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-3326">
 
 ---
+## CVE-2026-33234 ()
+> 
+- [pavanchow/CVE-2026-33234](https://github.com/pavanchow/CVE-2026-33234)	<img alt="forks" src="https://img.shields.io/github/forks/pavanchow/CVE-2026-33234">	<img alt="stars" src="https://img.shields.io/github/stars/pavanchow/CVE-2026-33234">
+
+---
 ## CVE-2026-33229 ()
 > 
 - [azefzafyoussef/CVE-2026-33229](https://github.com/azefzafyoussef/CVE-2026-33229)	<img alt="forks" src="https://img.shields.io/github/forks/azefzafyoussef/CVE-2026-33229">	<img alt="stars" src="https://img.shields.io/github/stars/azefzafyoussef/CVE-2026-33229">
@@ -7227,6 +7242,11 @@
 ## CVE-2026-28672 ()
 > 
 - [oscerd/CVE-2026-28672](https://github.com/oscerd/CVE-2026-28672)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-28672">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-28672">
+
+---
+## CVE-2026-28576 ()
+> 
+- [mobilehackinglab/CVE-2026-28576-poc](https://github.com/mobilehackinglab/CVE-2026-28576-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mobilehackinglab/CVE-2026-28576-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mobilehackinglab/CVE-2026-28576-poc">
 
 ---
 ## CVE-2026-2848 ()
@@ -10280,6 +10300,11 @@
 ## CVE-2026-13233 ()
 > 
 - [KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233](https://github.com/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233)	<img alt="forks" src="https://img.shields.io/github/forks/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233">	<img alt="stars" src="https://img.shields.io/github/stars/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233">
+
+---
+## CVE-2026-13181 ()
+> 
+- [HORKimhab/CVE-2026-13181-CVE-2026-13182-CVE-2026-13183-CVE-2026-13184](https://github.com/HORKimhab/CVE-2026-13181-CVE-2026-13182-CVE-2026-13183-CVE-2026-13184)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-13181-CVE-2026-13182-CVE-2026-13183-CVE-2026-13184">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-13181-CVE-2026-13182-CVE-2026-13183-CVE-2026-13184">
 
 ---
 ## CVE-2026-13158 ()
