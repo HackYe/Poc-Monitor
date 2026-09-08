@@ -247,6 +247,7 @@
 - [CryptReaper12/CVE-2026-8732](https://github.com/CryptReaper12/CVE-2026-8732)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-8732">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-8732">
 - [Diznev/CVE-2026-8732-EXPLOIT](https://github.com/Diznev/CVE-2026-8732-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Diznev/CVE-2026-8732-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Diznev/CVE-2026-8732-EXPLOIT">
 - [zycoder0day/CVE-2026-8732](https://github.com/zycoder0day/CVE-2026-8732)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-8732">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-8732">
+- [fientix/CVE-2026-8732-PoC](https://github.com/fientix/CVE-2026-8732-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/fientix/CVE-2026-8732-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/fientix/CVE-2026-8732-PoC">
 
 ---
 ## CVE-2026-8713 ()
@@ -336,6 +337,7 @@
 > 
 - [xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis](https://github.com/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis">
 - [xcoy0te/CVE-2026-83548-checker](https://github.com/xcoy0te/CVE-2026-83548-checker)	<img alt="forks" src="https://img.shields.io/github/forks/xcoy0te/CVE-2026-83548-checker">	<img alt="stars" src="https://img.shields.io/github/stars/xcoy0te/CVE-2026-83548-checker">
+- [HORKimhab/CVE-2026-83548-CVE-2026-83549](https://github.com/HORKimhab/CVE-2026-83548-CVE-2026-83549)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-83548-CVE-2026-83549">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-83548-CVE-2026-83549">
 
 ---
 ## CVE-2026-8347 ()
@@ -4910,6 +4912,7 @@
 - [Joe1sn/CVE_2026_40369](https://github.com/Joe1sn/CVE_2026_40369)	<img alt="forks" src="https://img.shields.io/github/forks/Joe1sn/CVE_2026_40369">	<img alt="stars" src="https://img.shields.io/github/stars/Joe1sn/CVE_2026_40369">
 - [piffd0s/ntoskrnl-metadata](https://github.com/piffd0s/ntoskrnl-metadata)	<img alt="forks" src="https://img.shields.io/github/forks/piffd0s/ntoskrnl-metadata">	<img alt="stars" src="https://img.shields.io/github/stars/piffd0s/ntoskrnl-metadata">
 - [CCELEND/CVE-2026-40369](https://github.com/CCELEND/CVE-2026-40369)	<img alt="forks" src="https://img.shields.io/github/forks/CCELEND/CVE-2026-40369">	<img alt="stars" src="https://img.shields.io/github/stars/CCELEND/CVE-2026-40369">
+- [dbgbgtf1/cve-2026-40369-exploit](https://github.com/dbgbgtf1/cve-2026-40369-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dbgbgtf1/cve-2026-40369-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dbgbgtf1/cve-2026-40369-exploit">
 
 ---
 ## CVE-2026-40345 ()
@@ -9676,6 +9679,7 @@
 > 
 - [HORKimhab/CVE-2026-19949](https://github.com/HORKimhab/CVE-2026-19949)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-19949">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-19949">
 - [katranSefa/CVE-2026-19949](https://github.com/katranSefa/CVE-2026-19949)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2026-19949">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2026-19949">
+- [686f6c61/POC-AIOWPM-CVE-2026-19949](https://github.com/686f6c61/POC-AIOWPM-CVE-2026-19949)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-AIOWPM-CVE-2026-19949">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-AIOWPM-CVE-2026-19949">
 
 ---
 ## CVE-2026-19912 ()
