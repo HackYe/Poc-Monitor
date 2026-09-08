@@ -686,6 +686,11 @@
 - [amirhosseinjamshidi64/CVE-2026-7567-POC](https://github.com/amirhosseinjamshidi64/CVE-2026-7567-POC)	<img alt="forks" src="https://img.shields.io/github/forks/amirhosseinjamshidi64/CVE-2026-7567-POC">	<img alt="stars" src="https://img.shields.io/github/stars/amirhosseinjamshidi64/CVE-2026-7567-POC">
 
 ---
+## CVE-2026-75650 ()
+> 
+- [dinosn/cve-2026-75650-magento-validation-lab](https://github.com/dinosn/cve-2026-75650-magento-validation-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-75650-magento-validation-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-75650-magento-validation-lab">
+
+---
 ## CVE-2026-75616 ()
 > 
 - [totekuh/CVE-2026-75616](https://github.com/totekuh/CVE-2026-75616)	<img alt="forks" src="https://img.shields.io/github/forks/totekuh/CVE-2026-75616">	<img alt="stars" src="https://img.shields.io/github/stars/totekuh/CVE-2026-75616">
@@ -2744,6 +2749,11 @@
 ## CVE-2026-52370 ()
 > 
 - [RichardKabuto/CVE-2026-52370](https://github.com/RichardKabuto/CVE-2026-52370)	<img alt="forks" src="https://img.shields.io/github/forks/RichardKabuto/CVE-2026-52370">	<img alt="stars" src="https://img.shields.io/github/stars/RichardKabuto/CVE-2026-52370">
+
+---
+## CVE-2026-52307 ()
+> 
+- [linan-OO/CVE-2026-52307](https://github.com/linan-OO/CVE-2026-52307)	<img alt="forks" src="https://img.shields.io/github/forks/linan-OO/CVE-2026-52307">	<img alt="stars" src="https://img.shields.io/github/stars/linan-OO/CVE-2026-52307">
 
 ---
 ## CVE-2026-52217 ()
@@ -10613,6 +10623,7 @@
 - [webshellseo8/CVE-2026-10795-POC](https://github.com/webshellseo8/CVE-2026-10795-POC)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2026-10795-POC">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2026-10795-POC">
 - [izxci/CVE-2026-10795](https://github.com/izxci/CVE-2026-10795)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-10795">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-10795">
 - [rootdirective-sec/CVE-2026-10795-Lab](https://github.com/rootdirective-sec/CVE-2026-10795-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-10795-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-10795-Lab">
+- [HORKimhab/CVE-2026-10795](https://github.com/HORKimhab/CVE-2026-10795)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-10795">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-10795">
 
 ---
 ## CVE-2026-10702 ()
