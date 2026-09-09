@@ -504,6 +504,11 @@
 - [ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection](https://github.com/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">
 
 ---
+## CVE-2026-79387 ()
+> 
+- [jhli07/CVE-2026-79387-PbootCMS-SQL-Injection](https://github.com/jhli07/CVE-2026-79387-PbootCMS-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/jhli07/CVE-2026-79387-PbootCMS-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/jhli07/CVE-2026-79387-PbootCMS-SQL-Injection">
+
+---
 ## CVE-2026-79303 ()
 > 
 - [4ybrick/CVE-2026-79303](https://github.com/4ybrick/CVE-2026-79303)	<img alt="forks" src="https://img.shields.io/github/forks/4ybrick/CVE-2026-79303">	<img alt="stars" src="https://img.shields.io/github/stars/4ybrick/CVE-2026-79303">
@@ -766,6 +771,11 @@
 ## CVE-2026-7459 ()
 > 
 - [izxci/CVE-2026-7459](https://github.com/izxci/CVE-2026-7459)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-7459">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-7459">
+
+---
+## CVE-2026-74586 ()
+> 
+- [TarPeg007/CVE-2026-74586](https://github.com/TarPeg007/CVE-2026-74586)	<img alt="forks" src="https://img.shields.io/github/forks/TarPeg007/CVE-2026-74586">	<img alt="stars" src="https://img.shields.io/github/stars/TarPeg007/CVE-2026-74586">
 
 ---
 ## CVE-2026-7458 ()
@@ -1872,6 +1882,8 @@
 - [Madelleimproved411/wp-to-code](https://github.com/Madelleimproved411/wp-to-code)	<img alt="forks" src="https://img.shields.io/github/forks/Madelleimproved411/wp-to-code">	<img alt="stars" src="https://img.shields.io/github/stars/Madelleimproved411/wp-to-code">
 - [g0d150ne/WP2Shell](https://github.com/g0d150ne/WP2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/g0d150ne/WP2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/g0d150ne/WP2Shell">
 - [mhassani97/cve-2026-63030-lab](https://github.com/mhassani97/cve-2026-63030-lab)	<img alt="forks" src="https://img.shields.io/github/forks/mhassani97/cve-2026-63030-lab">	<img alt="stars" src="https://img.shields.io/github/stars/mhassani97/cve-2026-63030-lab">
+- [Sec-Dan/WP2Shell-Scanner](https://github.com/Sec-Dan/WP2Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Sec-Dan/WP2Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Sec-Dan/WP2Shell-Scanner">
+- [DeadExpl0it/wp2shell-poc](https://github.com/DeadExpl0it/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/wp2shell-poc">
 
 ---
 ## CVE-2026-62911 ()
@@ -2608,6 +2620,7 @@
 - [AtlasVector/Certighost-CVE-2026-54121](https://github.com/AtlasVector/Certighost-CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/AtlasVector/Certighost-CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/AtlasVector/Certighost-CVE-2026-54121">
 - [sam00/POC-CVE-2026-54121-Certighost](https://github.com/sam00/POC-CVE-2026-54121-Certighost)	<img alt="forks" src="https://img.shields.io/github/forks/sam00/POC-CVE-2026-54121-Certighost">	<img alt="stars" src="https://img.shields.io/github/stars/sam00/POC-CVE-2026-54121-Certighost">
 - [TryA9ain/Certighost_CVE-2026-54121](https://github.com/TryA9ain/Certighost_CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/TryA9ain/Certighost_CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/TryA9ain/Certighost_CVE-2026-54121">
+- [L0u7r3/certighost](https://github.com/L0u7r3/certighost)	<img alt="forks" src="https://img.shields.io/github/forks/L0u7r3/certighost">	<img alt="stars" src="https://img.shields.io/github/stars/L0u7r3/certighost">
 
 ---
 ## CVE-2026-5411 ()
