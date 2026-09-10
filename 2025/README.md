@@ -8837,6 +8837,7 @@
 - [AC8999/CVE-2025-27636-RCE](https://github.com/AC8999/CVE-2025-27636-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-27636-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-27636-RCE">
 - [oscerd/CVE-2026-40453](https://github.com/oscerd/CVE-2026-40453)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40453">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40453">
 - [Crystallen1/CVE-2025-27636-demo](https://github.com/Crystallen1/CVE-2025-27636-demo)	<img alt="forks" src="https://img.shields.io/github/forks/Crystallen1/CVE-2025-27636-demo">	<img alt="stars" src="https://img.shields.io/github/stars/Crystallen1/CVE-2025-27636-demo">
+- [AC8999/CVE-2025-27636-RCE-in-Apache-Camel](https://github.com/AC8999/CVE-2025-27636-RCE-in-Apache-Camel)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-27636-RCE-in-Apache-Camel">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-27636-RCE-in-Apache-Camel">
 
 ---
 ## CVE-2025-2760 ()
