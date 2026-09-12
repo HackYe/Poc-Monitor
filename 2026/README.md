@@ -248,6 +248,11 @@
 - [H4zaz/CVE-2026-8793](https://github.com/H4zaz/CVE-2026-8793)	<img alt="forks" src="https://img.shields.io/github/forks/H4zaz/CVE-2026-8793">	<img alt="stars" src="https://img.shields.io/github/stars/H4zaz/CVE-2026-8793">
 
 ---
+## CVE-2026-87575 ()
+> 
+- [SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.](https://github.com/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.">
+
+---
 ## CVE-2026-87491 ()
 > 
 - [SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter](https://github.com/SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter">
@@ -3147,6 +3152,7 @@
 - [fevar54/CVE-2026-50751---Check-Point-IKEv1-Authentication-Bypass-Exploit](https://github.com/fevar54/CVE-2026-50751---Check-Point-IKEv1-Authentication-Bypass-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-50751---Check-Point-IKEv1-Authentication-Bypass-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-50751---Check-Point-IKEv1-Authentication-Bypass-Exploit">
 - [e4zyy/Project-CVE-2026-50751](https://github.com/e4zyy/Project-CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/e4zyy/Project-CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/e4zyy/Project-CVE-2026-50751">
 - [WadesWeaponShed/CheckPoint-CVE-Webscanner](https://github.com/WadesWeaponShed/CheckPoint-CVE-Webscanner)	<img alt="forks" src="https://img.shields.io/github/forks/WadesWeaponShed/CheckPoint-CVE-Webscanner">	<img alt="stars" src="https://img.shields.io/github/stars/WadesWeaponShed/CheckPoint-CVE-Webscanner">
+- [uLl0a/CVE-2026-50751](https://github.com/uLl0a/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/uLl0a/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/uLl0a/CVE-2026-50751">
 
 ---
 ## CVE-2026-50657 ()
@@ -4453,8 +4459,9 @@
 - [cyberbalsa/GhostLock-NVIDIA-Shield-9.2.4](https://github.com/cyberbalsa/GhostLock-NVIDIA-Shield-9.2.4)	<img alt="forks" src="https://img.shields.io/github/forks/cyberbalsa/GhostLock-NVIDIA-Shield-9.2.4">	<img alt="stars" src="https://img.shields.io/github/stars/cyberbalsa/GhostLock-NVIDIA-Shield-9.2.4">
 - [abdgalaxy36-code/galaxy-a37-root](https://github.com/abdgalaxy36-code/galaxy-a37-root)	<img alt="forks" src="https://img.shields.io/github/forks/abdgalaxy36-code/galaxy-a37-root">	<img alt="stars" src="https://img.shields.io/github/stars/abdgalaxy36-code/galaxy-a37-root">
 - [MuhamadRifkii/CVE-2026-43499-POCO-X3-GT](https://github.com/MuhamadRifkii/CVE-2026-43499-POCO-X3-GT)	<img alt="forks" src="https://img.shields.io/github/forks/MuhamadRifkii/CVE-2026-43499-POCO-X3-GT">	<img alt="stars" src="https://img.shields.io/github/stars/MuhamadRifkii/CVE-2026-43499-POCO-X3-GT">
-- [1ndevelopment/indev.ghostlock.s26](https://github.com/1ndevelopment/indev.ghostlock.s26)	<img alt="forks" src="https://img.shields.io/github/forks/1ndevelopment/indev.ghostlock.s26">	<img alt="stars" src="https://img.shields.io/github/stars/1ndevelopment/indev.ghostlock.s26">
+- [1ndevelopment/ghostlock-s26](https://github.com/1ndevelopment/ghostlock-s26)	<img alt="forks" src="https://img.shields.io/github/forks/1ndevelopment/ghostlock-s26">	<img alt="stars" src="https://img.shields.io/github/stars/1ndevelopment/ghostlock-s26">
 - [huaguiqi/asus_i005-CVE-2026-43499](https://github.com/huaguiqi/asus_i005-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/huaguiqi/asus_i005-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/huaguiqi/asus_i005-CVE-2026-43499">
+- [DeveshTone/vivo-y75-v2117-ghostlock](https://github.com/DeveshTone/vivo-y75-v2117-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/DeveshTone/vivo-y75-v2117-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/DeveshTone/vivo-y75-v2117-ghostlock">
 
 ---
 ## CVE-2026-43494 ()
