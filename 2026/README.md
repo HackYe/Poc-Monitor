@@ -221,6 +221,11 @@
 - [Faceless0x7/CVE-2026-89012](https://github.com/Faceless0x7/CVE-2026-89012)	<img alt="forks" src="https://img.shields.io/github/forks/Faceless0x7/CVE-2026-89012">	<img alt="stars" src="https://img.shields.io/github/stars/Faceless0x7/CVE-2026-89012">
 
 ---
+## CVE-2026-88899 ()
+> 
+- [uziii2208/CVE-2026-88899](https://github.com/uziii2208/CVE-2026-88899)	<img alt="forks" src="https://img.shields.io/github/forks/uziii2208/CVE-2026-88899">	<img alt="stars" src="https://img.shields.io/github/stars/uziii2208/CVE-2026-88899">
+
+---
 ## CVE-2026-8888 ()
 > 
 - [George0Papasotiriou/CVE-2026-8888-Printer-Firmware-Unsigned-Update-via-HTTP](https://github.com/George0Papasotiriou/CVE-2026-8888-Printer-Firmware-Unsigned-Update-via-HTTP)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-8888-Printer-Firmware-Unsigned-Update-via-HTTP">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-8888-Printer-Firmware-Unsigned-Update-via-HTTP">
@@ -288,6 +293,11 @@
 ## CVE-2026-86547 ()
 > 
 - [HarshRajSinghania/cve-2026-86547-mrubyc-op-enter](https://github.com/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter)	<img alt="forks" src="https://img.shields.io/github/forks/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter">	<img alt="stars" src="https://img.shields.io/github/stars/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter">
+
+---
+## CVE-2026-86259 ()
+> 
+- [uziii2208/CVE-2026-86259](https://github.com/uziii2208/CVE-2026-86259)	<img alt="forks" src="https://img.shields.io/github/forks/uziii2208/CVE-2026-86259">	<img alt="stars" src="https://img.shields.io/github/stars/uziii2208/CVE-2026-86259">
 
 ---
 ## CVE-2026-86218 ()
@@ -2224,6 +2234,7 @@
 - [fevar54/cve-2026-60004](https://github.com/fevar54/cve-2026-60004)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/cve-2026-60004">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/cve-2026-60004">
 - [InfoSec-DB/CVE-2026-60004-Gitea-RCE-PoC](https://github.com/InfoSec-DB/CVE-2026-60004-Gitea-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec-DB/CVE-2026-60004-Gitea-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec-DB/CVE-2026-60004-Gitea-RCE-PoC">
 - [InfoSec-DB/CVE-2026-60004-Gitea-Validator](https://github.com/InfoSec-DB/CVE-2026-60004-Gitea-Validator)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec-DB/CVE-2026-60004-Gitea-Validator">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec-DB/CVE-2026-60004-Gitea-Validator">
+- [erberkan/CVE-2026-60004-PoC](https://github.com/erberkan/CVE-2026-60004-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/erberkan/CVE-2026-60004-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/erberkan/CVE-2026-60004-PoC">
 
 ---
 ## CVE-2026-59941 ()
@@ -5586,11 +5597,12 @@
 - [pawpic/CVE-2026-38526-POC](https://github.com/pawpic/CVE-2026-38526-POC)	<img alt="forks" src="https://img.shields.io/github/forks/pawpic/CVE-2026-38526-POC">	<img alt="stars" src="https://img.shields.io/github/stars/pawpic/CVE-2026-38526-POC">
 - [diamorphine666/CVE-2026-38526-Exploit](https://github.com/diamorphine666/CVE-2026-38526-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/CVE-2026-38526-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/CVE-2026-38526-Exploit">
 - [mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report](https://github.com/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report)	<img alt="forks" src="https://img.shields.io/github/forks/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report">	<img alt="stars" src="https://img.shields.io/github/stars/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report">
-- [b0nyo/CVE-2026-38526](https://github.com/b0nyo/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/b0nyo/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/b0nyo/CVE-2026-38526">
+- [b0nyo/PoC-CVE-2026-38526](https://github.com/b0nyo/PoC-CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/b0nyo/PoC-CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/b0nyo/PoC-CVE-2026-38526">
 - [Resolvdd/CVE-2026-38526-PoC-htb-nexus](https://github.com/Resolvdd/CVE-2026-38526-PoC-htb-nexus)	<img alt="forks" src="https://img.shields.io/github/forks/Resolvdd/CVE-2026-38526-PoC-htb-nexus">	<img alt="stars" src="https://img.shields.io/github/stars/Resolvdd/CVE-2026-38526-PoC-htb-nexus">
 - [Qurclinc/CVE-2026-38526](https://github.com/Qurclinc/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/Qurclinc/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/Qurclinc/CVE-2026-38526">
 - [CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526](https://github.com/CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/KrayinCRM-RCE-Exploit-CVE-2026-38526">
 - [Shirouuu/Gitea-template-sync-Path-Traversal-Privilege-Escalation-CVE-2026-38526-](https://github.com/Shirouuu/Gitea-template-sync-Path-Traversal-Privilege-Escalation-CVE-2026-38526-)	<img alt="forks" src="https://img.shields.io/github/forks/Shirouuu/Gitea-template-sync-Path-Traversal-Privilege-Escalation-CVE-2026-38526-">	<img alt="stars" src="https://img.shields.io/github/stars/Shirouuu/Gitea-template-sync-Path-Traversal-Privilege-Escalation-CVE-2026-38526-">
+- [Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE">
 
 ---
 ## CVE-2026-3847 ()
@@ -6748,6 +6760,7 @@
 ## CVE-2026-31694 ()
 > 
 - [0xCyberstan/CVE-2026-31694-POC](https://github.com/0xCyberstan/CVE-2026-31694-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyberstan/CVE-2026-31694-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyberstan/CVE-2026-31694-POC">
+- [zenzue/CVE_2026_31694](https://github.com/zenzue/CVE_2026_31694)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE_2026_31694">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE_2026_31694">
 
 ---
 ## CVE-2026-31635 ()
