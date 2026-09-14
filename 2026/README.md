@@ -181,6 +181,11 @@
 - [MW-HF/Drupal-CVE-2026-9082](https://github.com/MW-HF/Drupal-CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/MW-HF/Drupal-CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/MW-HF/Drupal-CVE-2026-9082">
 
 ---
+## CVE-2026-90782 ()
+> 
+- [HarshRajSinghania/CVE-2026-90782-s2opc-status-clobber](https://github.com/HarshRajSinghania/CVE-2026-90782-s2opc-status-clobber)	<img alt="forks" src="https://img.shields.io/github/forks/HarshRajSinghania/CVE-2026-90782-s2opc-status-clobber">	<img alt="stars" src="https://img.shields.io/github/stars/HarshRajSinghania/CVE-2026-90782-s2opc-status-clobber">
+
+---
 ## CVE-2026-90781 ()
 > 
 - [HarshRajSinghania/CVE-2026-90781-alsa-lib-oob](https://github.com/HarshRajSinghania/CVE-2026-90781-alsa-lib-oob)	<img alt="forks" src="https://img.shields.io/github/forks/HarshRajSinghania/CVE-2026-90781-alsa-lib-oob">	<img alt="stars" src="https://img.shields.io/github/stars/HarshRajSinghania/CVE-2026-90781-alsa-lib-oob">
@@ -313,6 +318,7 @@
 - [gagaltotal/CVE-2026-85706-gitlab-poc](https://github.com/gagaltotal/CVE-2026-85706-gitlab-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-85706-gitlab-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-85706-gitlab-poc">
 - [brigadeops32/CVE-2026-85706](https://github.com/brigadeops32/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/brigadeops32/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/brigadeops32/CVE-2026-85706">
 - [plur1bu5/gitread](https://github.com/plur1bu5/gitread)	<img alt="forks" src="https://img.shields.io/github/forks/plur1bu5/gitread">	<img alt="stars" src="https://img.shields.io/github/stars/plur1bu5/gitread">
+- [gabrielunknown/CVE-2026-85706](https://github.com/gabrielunknown/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielunknown/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielunknown/CVE-2026-85706">
 
 ---
 ## CVE-2026-85649 ()
@@ -4488,6 +4494,7 @@
 - [DeveshTone/vivo-y75-v2117-ghostlock](https://github.com/DeveshTone/vivo-y75-v2117-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/DeveshTone/vivo-y75-v2117-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/DeveshTone/vivo-y75-v2117-ghostlock">
 - [zhubaohe123/ghostlock-kit](https://github.com/zhubaohe123/ghostlock-kit)	<img alt="forks" src="https://img.shields.io/github/forks/zhubaohe123/ghostlock-kit">	<img alt="stars" src="https://img.shields.io/github/stars/zhubaohe123/ghostlock-kit">
 - [ccp-p/ghostlock-cve-2026-43499-4.19-k40](https://github.com/ccp-p/ghostlock-cve-2026-43499-4.19-k40)	<img alt="forks" src="https://img.shields.io/github/forks/ccp-p/ghostlock-cve-2026-43499-4.19-k40">	<img alt="stars" src="https://img.shields.io/github/stars/ccp-p/ghostlock-cve-2026-43499-4.19-k40">
+- [accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup](https://github.com/accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup">
 
 ---
 ## CVE-2026-43494 ()
@@ -10179,6 +10186,7 @@
 - [M4xSec/My-Exploits](https://github.com/M4xSec/My-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/My-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/My-Exploits">
 - [0xlyvio/CVE-2026-18963-keycloak](https://github.com/0xlyvio/CVE-2026-18963-keycloak)	<img alt="forks" src="https://img.shields.io/github/forks/0xlyvio/CVE-2026-18963-keycloak">	<img alt="stars" src="https://img.shields.io/github/stars/0xlyvio/CVE-2026-18963-keycloak">
 - [ivanesk315/CVE-2026-18963](https://github.com/ivanesk315/CVE-2026-18963)	<img alt="forks" src="https://img.shields.io/github/forks/ivanesk315/CVE-2026-18963">	<img alt="stars" src="https://img.shields.io/github/stars/ivanesk315/CVE-2026-18963">
+- [ynsmroztas/KeySniper](https://github.com/ynsmroztas/KeySniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/KeySniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/KeySniper">
 
 ---
 ## CVE-2026-18953 ()

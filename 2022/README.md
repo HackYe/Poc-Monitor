@@ -29469,6 +29469,7 @@ the client's API server credentials to third parties.
 - [Hghost0x00/CVE-2022-26134-GO](https://github.com/Hghost0x00/CVE-2022-26134-GO)	<img alt="forks" src="https://img.shields.io/github/forks/Hghost0x00/CVE-2022-26134-GO">	<img alt="stars" src="https://img.shields.io/github/stars/Hghost0x00/CVE-2022-26134-GO">
 - [Anon2Fear/CVE-2022-26134](https://github.com/Anon2Fear/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/Anon2Fear/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/Anon2Fear/CVE-2022-26134">
 - [RootEvil333/CVE-2022-26134](https://github.com/RootEvil333/CVE-2022-26134)	<img alt="forks" src="https://img.shields.io/github/forks/RootEvil333/CVE-2022-26134">	<img alt="stars" src="https://img.shields.io/github/stars/RootEvil333/CVE-2022-26134">
+- [roodhelios/CVE-2022-26134-OGNL-Injection](https://github.com/roodhelios/CVE-2022-26134-OGNL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/roodhelios/CVE-2022-26134-OGNL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/roodhelios/CVE-2022-26134-OGNL-Injection">
 
 ---
 ## CVE-2022-26112 (2022-09-23T08:15:00)
