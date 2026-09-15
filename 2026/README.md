@@ -4528,6 +4528,7 @@
 - [genksome/ghost-hoock](https://github.com/genksome/ghost-hoock)	<img alt="forks" src="https://img.shields.io/github/forks/genksome/ghost-hoock">	<img alt="stars" src="https://img.shields.io/github/stars/genksome/ghost-hoock">
 - [newazbenalam/Root-My-Galaxy-Payloads](https://github.com/newazbenalam/Root-My-Galaxy-Payloads)	<img alt="forks" src="https://img.shields.io/github/forks/newazbenalam/Root-My-Galaxy-Payloads">	<img alt="stars" src="https://img.shields.io/github/stars/newazbenalam/Root-My-Galaxy-Payloads">
 - [ymh001/meizu21-ghostlock-root](https://github.com/ymh001/meizu21-ghostlock-root)	<img alt="forks" src="https://img.shields.io/github/forks/ymh001/meizu21-ghostlock-root">	<img alt="stars" src="https://img.shields.io/github/stars/ymh001/meizu21-ghostlock-root">
+- [mouseos/aquos-r6-ghostlock](https://github.com/mouseos/aquos-r6-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/mouseos/aquos-r6-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/mouseos/aquos-r6-ghostlock">
 
 ---
 ## CVE-2026-43494 ()
