@@ -391,6 +391,11 @@
 - [0xBlackash/CVE-2026-8461](https://github.com/0xBlackash/CVE-2026-8461)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-8461">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-8461">
 
 ---
+## CVE-2026-84600 ()
+> 
+- [OwenPawl/CVE-2026-84600](https://github.com/OwenPawl/CVE-2026-84600)	<img alt="forks" src="https://img.shields.io/github/forks/OwenPawl/CVE-2026-84600">	<img alt="stars" src="https://img.shields.io/github/stars/OwenPawl/CVE-2026-84600">
+
+---
 ## CVE-2026-8452 ()
 > 
 - [watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-PreAuth-RCE-CVE-2026-8452">
@@ -5062,6 +5067,7 @@
 - [0xgh057r3c0n/CVE-2026-41940](https://github.com/0xgh057r3c0n/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-41940">
 - [Xrzmodz444/cve-2026-41940-PoC-Linux](https://github.com/Xrzmodz444/cve-2026-41940-PoC-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/Xrzmodz444/cve-2026-41940-PoC-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/Xrzmodz444/cve-2026-41940-PoC-Linux">
 - [ctdal/cve-2026-41940-PoC](https://github.com/ctdal/cve-2026-41940-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ctdal/cve-2026-41940-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ctdal/cve-2026-41940-PoC">
+- [dann3xplo1t/Cpanel](https://github.com/dann3xplo1t/Cpanel)	<img alt="forks" src="https://img.shields.io/github/forks/dann3xplo1t/Cpanel">	<img alt="stars" src="https://img.shields.io/github/stars/dann3xplo1t/Cpanel">
 
 ---
 ## CVE-2026-41901 ()
@@ -10919,6 +10925,7 @@
 ## CVE-2026-12944 ()
 > 
 - [cflowsec/CVE-2026-12944](https://github.com/cflowsec/CVE-2026-12944)	<img alt="forks" src="https://img.shields.io/github/forks/cflowsec/CVE-2026-12944">	<img alt="stars" src="https://img.shields.io/github/stars/cflowsec/CVE-2026-12944">
+- [ShadowForge-Cyber/CVE-2026-12944](https://github.com/ShadowForge-Cyber/CVE-2026-12944)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowForge-Cyber/CVE-2026-12944">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowForge-Cyber/CVE-2026-12944">
 
 ---
 ## CVE-2026-12940 ()
