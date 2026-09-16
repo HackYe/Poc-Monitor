@@ -2682,6 +2682,7 @@ length to be included in the checksum calculation is fully consumed.
 - [Zedocun/soc-investigation-powershell-edrfreeze](https://github.com/Zedocun/soc-investigation-powershell-edrfreeze)	<img alt="forks" src="https://img.shields.io/github/forks/Zedocun/soc-investigation-powershell-edrfreeze">	<img alt="stars" src="https://img.shields.io/github/stars/Zedocun/soc-investigation-powershell-edrfreeze">
 - [NadineElliottCyber/SOC335-CVE-2024-49138-Investigation](https://github.com/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation">
 - [Adisasoc/CVE-2024-49138-SOC-Investigation](https://github.com/Adisasoc/CVE-2024-49138-SOC-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/Adisasoc/CVE-2024-49138-SOC-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/Adisasoc/CVE-2024-49138-SOC-Investigation">
+- [FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected](https://github.com/FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected)	<img alt="forks" src="https://img.shields.io/github/forks/FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected">	<img alt="stars" src="https://img.shields.io/github/stars/FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected">
 
 ---
 ## CVE-2024-49113 ()
@@ -7896,6 +7897,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-27815 (2024-06-10T21:15:00)
 > An out-of-bounds write issue was addressed with improved input validation. This issue is fixed in tvOS 17.5, visionOS 1.2, iOS 17.5 and iPadOS 17.5, watchOS 10.5, macOS Sonoma 14.5. An app may be able to execute arbitrary code with kernel privileges.
 - [jprx/CVE-2024-27815](https://github.com/jprx/CVE-2024-27815)	<img alt="forks" src="https://img.shields.io/github/forks/jprx/CVE-2024-27815">	<img alt="stars" src="https://img.shields.io/github/stars/jprx/CVE-2024-27815">
+- [nomnomheapnom/CVE-2024-27815](https://github.com/nomnomheapnom/CVE-2024-27815)	<img alt="forks" src="https://img.shields.io/github/forks/nomnomheapnom/CVE-2024-27815">	<img alt="stars" src="https://img.shields.io/github/stars/nomnomheapnom/CVE-2024-27815">
 
 ---
 ## CVE-2024-27808 ()
