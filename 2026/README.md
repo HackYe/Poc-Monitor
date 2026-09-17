@@ -4607,6 +4607,7 @@
 - [DeAurity/ghost-hoock](https://github.com/DeAurity/ghost-hoock)	<img alt="forks" src="https://img.shields.io/github/forks/DeAurity/ghost-hoock">	<img alt="stars" src="https://img.shields.io/github/stars/DeAurity/ghost-hoock">
 - [kurtulusakyuz/IonStack_S21](https://github.com/kurtulusakyuz/IonStack_S21)	<img alt="forks" src="https://img.shields.io/github/forks/kurtulusakyuz/IonStack_S21">	<img alt="stars" src="https://img.shields.io/github/stars/kurtulusakyuz/IonStack_S21">
 - [huaguiqi/asus-i005-cve-2026-43499](https://github.com/huaguiqi/asus-i005-cve-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/huaguiqi/asus-i005-cve-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/huaguiqi/asus-i005-cve-2026-43499">
+- [slapah/ghostlock-h8q](https://github.com/slapah/ghostlock-h8q)	<img alt="forks" src="https://img.shields.io/github/forks/slapah/ghostlock-h8q">	<img alt="stars" src="https://img.shields.io/github/stars/slapah/ghostlock-h8q">
 
 ---
 ## CVE-2026-43494 ()
