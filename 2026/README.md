@@ -11049,6 +11049,7 @@
 - [1beelze/CVE-2026-14894](https://github.com/1beelze/CVE-2026-14894)	<img alt="forks" src="https://img.shields.io/github/forks/1beelze/CVE-2026-14894">	<img alt="stars" src="https://img.shields.io/github/stars/1beelze/CVE-2026-14894">
 - [shinthink/CVE-2026-14894](https://github.com/shinthink/CVE-2026-14894)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-14894">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-14894">
 - [Nxploited/CVE-2026-14894](https://github.com/Nxploited/CVE-2026-14894)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-14894">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-14894">
+- [katranSefa/cve_2026_14894](https://github.com/katranSefa/cve_2026_14894)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/cve_2026_14894">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/cve_2026_14894">
 
 ---
 ## CVE-2026-14871 ()
