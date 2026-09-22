@@ -393,11 +393,18 @@
 - [H4zaz/CVE-2026-8793](https://github.com/H4zaz/CVE-2026-8793)	<img alt="forks" src="https://img.shields.io/github/forks/H4zaz/CVE-2026-8793">	<img alt="stars" src="https://img.shields.io/github/stars/H4zaz/CVE-2026-8793">
 
 ---
+## CVE-2026-87915 ()
+> 
+- [pwnVader/CVE-2026-87915-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-87915-PoC-pwnVader)	<img alt="forks" src="https://img.shields.io/github/forks/pwnVader/CVE-2026-87915-PoC-pwnVader">	<img alt="stars" src="https://img.shields.io/github/stars/pwnVader/CVE-2026-87915-PoC-pwnVader">
+
+---
 ## CVE-2026-87902 ()
 > 
 - [griisemine/cve-2026-87902-detection](https://github.com/griisemine/cve-2026-87902-detection)	<img alt="forks" src="https://img.shields.io/github/forks/griisemine/cve-2026-87902-detection">	<img alt="stars" src="https://img.shields.io/github/stars/griisemine/cve-2026-87902-detection">
 - [ressl/cve-2026-87902-poc](https://github.com/ressl/cve-2026-87902-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ressl/cve-2026-87902-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ressl/cve-2026-87902-poc">
 - [abraxas/CVE-2026-87902](https://github.com/abraxas/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2026-87902">
+- [pwnVader/CVE-2026-87902-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-87902-PoC-pwnVader)	<img alt="forks" src="https://img.shields.io/github/forks/pwnVader/CVE-2026-87902-PoC-pwnVader">	<img alt="stars" src="https://img.shields.io/github/stars/pwnVader/CVE-2026-87902-PoC-pwnVader">
+- [vulpecuna/CVE-2026-87902](https://github.com/vulpecuna/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/vulpecuna/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/vulpecuna/CVE-2026-87902">
 
 ---
 ## CVE-2026-87796 ()
@@ -2396,6 +2403,7 @@
 ---
 ## CVE-2026-62878 ()
 > 
+- [nmlz/CVE-2026-62878](https://github.com/nmlz/CVE-2026-62878)	<img alt="forks" src="https://img.shields.io/github/forks/nmlz/CVE-2026-62878">	<img alt="stars" src="https://img.shields.io/github/stars/nmlz/CVE-2026-62878">
 - [nmlz/CVE-2026-62878](https://github.com/nmlz/CVE-2026-62878)	<img alt="forks" src="https://img.shields.io/github/forks/nmlz/CVE-2026-62878">	<img alt="stars" src="https://img.shields.io/github/stars/nmlz/CVE-2026-62878">
 
 ---
@@ -9340,6 +9348,7 @@
 ## CVE-2026-23921 ()
 > 
 - [qucklecrabik/CVE-2026-23921](https://github.com/qucklecrabik/CVE-2026-23921)	<img alt="forks" src="https://img.shields.io/github/forks/qucklecrabik/CVE-2026-23921">	<img alt="stars" src="https://img.shields.io/github/stars/qucklecrabik/CVE-2026-23921">
+- [RichJJ98/analise-vulnerabilidades-zabbix-notebooklm](https://github.com/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm)	<img alt="forks" src="https://img.shields.io/github/forks/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm">	<img alt="stars" src="https://img.shields.io/github/stars/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm">
 
 ---
 ## CVE-2026-23918 ()
@@ -10913,6 +10922,11 @@
 - [HackSpeak/CVE-2026-17106](https://github.com/HackSpeak/CVE-2026-17106)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-17106">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-17106">
 - [masasron/CopyEscape-CVE-2026-17106](https://github.com/masasron/CopyEscape-CVE-2026-17106)	<img alt="forks" src="https://img.shields.io/github/forks/masasron/CopyEscape-CVE-2026-17106">	<img alt="stars" src="https://img.shields.io/github/stars/masasron/CopyEscape-CVE-2026-17106">
 - [686f6c61/POC-CopyEscape-CVE-2026-17106](https://github.com/686f6c61/POC-CopyEscape-CVE-2026-17106)	<img alt="forks" src="https://img.shields.io/github/forks/686f6c61/POC-CopyEscape-CVE-2026-17106">	<img alt="stars" src="https://img.shields.io/github/stars/686f6c61/POC-CopyEscape-CVE-2026-17106">
+
+---
+## CVE-2026-17089 ()
+> 
+- [pwnVader/CVE-2026-17089-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-17089-PoC-pwnVader)	<img alt="forks" src="https://img.shields.io/github/forks/pwnVader/CVE-2026-17089-PoC-pwnVader">	<img alt="stars" src="https://img.shields.io/github/stars/pwnVader/CVE-2026-17089-PoC-pwnVader">
 
 ---
 ## CVE-2026-17001 ()
