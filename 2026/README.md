@@ -135,6 +135,11 @@
 - [prince325/CVE-2026-93659-writeup](https://github.com/prince325/CVE-2026-93659-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/prince325/CVE-2026-93659-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/prince325/CVE-2026-93659-writeup">
 
 ---
+## CVE-2026-93616 ()
+> 
+- [WadesWeaponShed/CVE-2026-93616_Checks](https://github.com/WadesWeaponShed/CVE-2026-93616_Checks)	<img alt="forks" src="https://img.shields.io/github/forks/WadesWeaponShed/CVE-2026-93616_Checks">	<img alt="stars" src="https://img.shields.io/github/stars/WadesWeaponShed/CVE-2026-93616_Checks">
+
+---
 ## CVE-2026-93528 ()
 > 
 - [muradislamzada/CVE-2026-93528](https://github.com/muradislamzada/CVE-2026-93528)	<img alt="forks" src="https://img.shields.io/github/forks/muradislamzada/CVE-2026-93528">	<img alt="stars" src="https://img.shields.io/github/stars/muradislamzada/CVE-2026-93528">
@@ -143,6 +148,7 @@
 ## CVE-2026-93485 ()
 > 
 - [HORKimhab/CVE-2026-93485](https://github.com/HORKimhab/CVE-2026-93485)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-93485">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-93485">
+- [0xBlackash/CVE-2026-93485](https://github.com/0xBlackash/CVE-2026-93485)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-93485">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-93485">
 
 ---
 ## CVE-2026-93453 ()
@@ -562,6 +568,11 @@
 ## CVE-2026-84434 ()
 > 
 - [murrez/CVE-2026-84434](https://github.com/murrez/CVE-2026-84434)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-84434">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-84434">
+
+---
+## CVE-2026-84388 ()
+> 
+- [ShadowForge-Cyber/CVE-2026-84388-POC](https://github.com/ShadowForge-Cyber/CVE-2026-84388-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowForge-Cyber/CVE-2026-84388-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowForge-Cyber/CVE-2026-84388-POC">
 
 ---
 ## CVE-2026-84361 ()
@@ -3503,7 +3514,8 @@
 ---
 ## CVE-2026-51772 ()
 > 
-- [sadandbset/CVE-2026-51772](https://github.com/sadandbset/CVE-2026-51772)	<img alt="forks" src="https://img.shields.io/github/forks/sadandbset/CVE-2026-51772">	<img alt="stars" src="https://img.shields.io/github/stars/sadandbset/CVE-2026-51772">
+- [sadandbset/CVE-2026-51772-CVE-2026-51773](https://github.com/sadandbset/CVE-2026-51772-CVE-2026-51773)	<img alt="forks" src="https://img.shields.io/github/forks/sadandbset/CVE-2026-51772-CVE-2026-51773">	<img alt="stars" src="https://img.shields.io/github/stars/sadandbset/CVE-2026-51772-CVE-2026-51773">
+- [sadandbset/CVE-2026-51772-CVE-2026-51772](https://github.com/sadandbset/CVE-2026-51772-CVE-2026-51772)	<img alt="forks" src="https://img.shields.io/github/forks/sadandbset/CVE-2026-51772-CVE-2026-51772">	<img alt="stars" src="https://img.shields.io/github/stars/sadandbset/CVE-2026-51772-CVE-2026-51772">
 
 ---
 ## CVE-2026-5173 ()
@@ -3979,6 +3991,11 @@
 ## CVE-2026-48558 ()
 > 
 - [J4ck3LSyN-Gen2/CVE-2026-48558](https://github.com/J4ck3LSyN-Gen2/CVE-2026-48558)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2026-48558">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2026-48558">
+
+---
+## CVE-2026-48519 ()
+> 
+- [lukehebe/IBM-Langflow-CVE-2026-48519-poc](https://github.com/lukehebe/IBM-Langflow-CVE-2026-48519-poc)	<img alt="forks" src="https://img.shields.io/github/forks/lukehebe/IBM-Langflow-CVE-2026-48519-poc">	<img alt="stars" src="https://img.shields.io/github/stars/lukehebe/IBM-Langflow-CVE-2026-48519-poc">
 
 ---
 ## CVE-2026-48282 ()
@@ -4933,6 +4950,11 @@
 - [diyiqiuye/ghostlock-pfem10](https://github.com/diyiqiuye/ghostlock-pfem10)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/ghostlock-pfem10">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/ghostlock-pfem10">
 - [cxlfhx/ghostlock-pfem10](https://github.com/cxlfhx/ghostlock-pfem10)	<img alt="forks" src="https://img.shields.io/github/forks/cxlfhx/ghostlock-pfem10">	<img alt="stars" src="https://img.shields.io/github/stars/cxlfhx/ghostlock-pfem10">
 - [anksgls-sj/-Help-vivo-Y200i-5.10.218-GKI-CVE-2026-43499-stack-reclaim-reaches-0x300-need-0x318](https://github.com/anksgls-sj/-Help-vivo-Y200i-5.10.218-GKI-CVE-2026-43499-stack-reclaim-reaches-0x300-need-0x318)	<img alt="forks" src="https://img.shields.io/github/forks/anksgls-sj/-Help-vivo-Y200i-5.10.218-GKI-CVE-2026-43499-stack-reclaim-reaches-0x300-need-0x318">	<img alt="stars" src="https://img.shields.io/github/stars/anksgls-sj/-Help-vivo-Y200i-5.10.218-GKI-CVE-2026-43499-stack-reclaim-reaches-0x300-need-0x318">
+- [MKE84/neo8-ghostlock-adaptation](https://github.com/MKE84/neo8-ghostlock-adaptation)	<img alt="forks" src="https://img.shields.io/github/forks/MKE84/neo8-ghostlock-adaptation">	<img alt="stars" src="https://img.shields.io/github/stars/MKE84/neo8-ghostlock-adaptation">
+- [TheAndersMadsen/humane-aipin-ghostlock](https://github.com/TheAndersMadsen/humane-aipin-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/TheAndersMadsen/humane-aipin-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/TheAndersMadsen/humane-aipin-ghostlock">
+- [deancyl/s9180-rootmygalaxy](https://github.com/deancyl/s9180-rootmygalaxy)	<img alt="forks" src="https://img.shields.io/github/forks/deancyl/s9180-rootmygalaxy">	<img alt="stars" src="https://img.shields.io/github/stars/deancyl/s9180-rootmygalaxy">
+- [coey0814/Fold8-Ultra-Root-F976N](https://github.com/coey0814/Fold8-Ultra-Root-F976N)	<img alt="forks" src="https://img.shields.io/github/forks/coey0814/Fold8-Ultra-Root-F976N">	<img alt="stars" src="https://img.shields.io/github/stars/coey0814/Fold8-Ultra-Root-F976N">
+- [imeiplus/ghostlock-pfem10](https://github.com/imeiplus/ghostlock-pfem10)	<img alt="forks" src="https://img.shields.io/github/forks/imeiplus/ghostlock-pfem10">	<img alt="stars" src="https://img.shields.io/github/stars/imeiplus/ghostlock-pfem10">
 
 ---
 ## CVE-2026-43494 ()
