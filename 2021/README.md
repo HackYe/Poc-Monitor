@@ -2676,6 +2676,7 @@
 - [SANR01/CVE-2021-41773-Exploit-Lab](https://github.com/SANR01/CVE-2021-41773-Exploit-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/SANR01/CVE-2021-41773-Exploit-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/SANR01/CVE-2021-41773-Exploit-Lab">
 - [SANR01/CVE-2021-41773-Exploit-Lab](https://github.com/SANR01/CVE-2021-41773-Exploit-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/SANR01/CVE-2021-41773-Exploit-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/SANR01/CVE-2021-41773-Exploit-Lab">
 - [abdulrafay25-svg/CVE-2021-41773-Exploit](https://github.com/abdulrafay25-svg/CVE-2021-41773-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/abdulrafay25-svg/CVE-2021-41773-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/abdulrafay25-svg/CVE-2021-41773-Exploit">
+- [1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab](https://github.com/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -3233,6 +3234,7 @@
 - [basim-ahmad/Follina-CVE-and-CVE-2021-40444](https://github.com/basim-ahmad/Follina-CVE-and-CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/basim-ahmad/Follina-CVE-and-CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/basim-ahmad/Follina-CVE-and-CVE-2021-40444">
 - [vxCrypt0r/ANVILOGIC_APT28_Emulation_CVE-2021-40444](https://github.com/vxCrypt0r/ANVILOGIC_APT28_Emulation_CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/vxCrypt0r/ANVILOGIC_APT28_Emulation_CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/vxCrypt0r/ANVILOGIC_APT28_Emulation_CVE-2021-40444">
 - [rankthree/SOC-Detection-T1003.001-CVE-2021-40444](https://github.com/rankthree/SOC-Detection-T1003.001-CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/rankthree/SOC-Detection-T1003.001-CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/rankthree/SOC-Detection-T1003.001-CVE-2021-40444">
+- [johnson2849/kern](https://github.com/johnson2849/kern)	<img alt="forks" src="https://img.shields.io/github/forks/johnson2849/kern">	<img alt="stars" src="https://img.shields.io/github/stars/johnson2849/kern">
 
 ---
 ## CVE-2021-4044 (2021-12-14T19:15:00)
