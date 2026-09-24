@@ -10218,6 +10218,7 @@
 - [Qingizi7/cve-2025-21479_iqooneo8](https://github.com/Qingizi7/cve-2025-21479_iqooneo8)	<img alt="forks" src="https://img.shields.io/github/forks/Qingizi7/cve-2025-21479_iqooneo8">	<img alt="stars" src="https://img.shields.io/github/stars/Qingizi7/cve-2025-21479_iqooneo8">
 - [xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479](https://github.com/xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479">
 - [7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479](https://github.com/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479">
+- [diyiqiuye/CVE-2025-21479-FX5P](https://github.com/diyiqiuye/CVE-2025-21479-FX5P)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX5P">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX5P">
 
 ---
 ## CVE-2025-21420 ()
