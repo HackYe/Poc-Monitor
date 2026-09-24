@@ -101,6 +101,11 @@
 - [Hassham1/CVE-2026-94545-nextjs-og-poc](https://github.com/Hassham1/CVE-2026-94545-nextjs-og-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Hassham1/CVE-2026-94545-nextjs-og-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Hassham1/CVE-2026-94545-nextjs-og-poc">
 
 ---
+## CVE-2026-94504 ()
+> 
+- [cflowsec/cve-2026-94504](https://github.com/cflowsec/cve-2026-94504)	<img alt="forks" src="https://img.shields.io/github/forks/cflowsec/cve-2026-94504">	<img alt="stars" src="https://img.shields.io/github/stars/cflowsec/cve-2026-94504">
+
+---
 ## CVE-2026-94129 ()
 > 
 - [lzty/CVE-2026-94129](https://github.com/lzty/CVE-2026-94129)	<img alt="forks" src="https://img.shields.io/github/forks/lzty/CVE-2026-94129">	<img alt="stars" src="https://img.shields.io/github/stars/lzty/CVE-2026-94129">
@@ -2440,6 +2445,9 @@
 - [mhassani97/cve-2026-63030-lab](https://github.com/mhassani97/cve-2026-63030-lab)	<img alt="forks" src="https://img.shields.io/github/forks/mhassani97/cve-2026-63030-lab">	<img alt="stars" src="https://img.shields.io/github/stars/mhassani97/cve-2026-63030-lab">
 - [Sec-Dan/WP2Shell-Scanner](https://github.com/Sec-Dan/WP2Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Sec-Dan/WP2Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Sec-Dan/WP2Shell-Scanner">
 - [DeadExpl0it/wp2shell-poc](https://github.com/DeadExpl0it/wp2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/wp2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/wp2shell-poc">
+- [fl0ydsec/CVE-2026-63030](https://github.com/fl0ydsec/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/fl0ydsec/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/fl0ydsec/CVE-2026-63030">
+- [arvindear/wp2shell-PoC](https://github.com/arvindear/wp2shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/arvindear/wp2shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/arvindear/wp2shell-PoC">
+- [ivanesk315/CVE-2026-60137-and-CVE-2026-63030](https://github.com/ivanesk315/CVE-2026-60137-and-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/ivanesk315/CVE-2026-60137-and-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/ivanesk315/CVE-2026-60137-and-CVE-2026-63030">
 
 ---
 ## CVE-2026-62911 ()
