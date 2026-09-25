@@ -14,6 +14,7 @@
 ## CVE-2025-9974 ()
 > 
 - [Rajdave69/CVE-2025-9974](https://github.com/Rajdave69/CVE-2025-9974)	<img alt="forks" src="https://img.shields.io/github/forks/Rajdave69/CVE-2025-9974">	<img alt="stars" src="https://img.shields.io/github/stars/Rajdave69/CVE-2025-9974">
+- [HORKimhab/CVE-2025-9974](https://github.com/HORKimhab/CVE-2025-9974)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2025-9974">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2025-9974">
 
 ---
 ## CVE-2025-9967 ()
@@ -10219,6 +10220,8 @@
 - [xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479](https://github.com/xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479">
 - [7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479](https://github.com/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479">
 - [diyiqiuye/CVE-2025-21479-FX5P](https://github.com/diyiqiuye/CVE-2025-21479-FX5P)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX5P">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX5P">
+- [RamenFast/zenfone9-root](https://github.com/RamenFast/zenfone9-root)	<img alt="forks" src="https://img.shields.io/github/forks/RamenFast/zenfone9-root">	<img alt="stars" src="https://img.shields.io/github/stars/RamenFast/zenfone9-root">
+- [xianwan1314/cve-2025-21479-iqoo11pro](https://github.com/xianwan1314/cve-2025-21479-iqoo11pro)	<img alt="forks" src="https://img.shields.io/github/forks/xianwan1314/cve-2025-21479-iqoo11pro">	<img alt="stars" src="https://img.shields.io/github/stars/xianwan1314/cve-2025-21479-iqoo11pro">
 
 ---
 ## CVE-2025-21420 ()

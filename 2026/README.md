@@ -2086,6 +2086,11 @@
 - [abdugafforov-bobur/CVE-2026-65694-PoC](https://github.com/abdugafforov-bobur/CVE-2026-65694-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abdugafforov-bobur/CVE-2026-65694-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abdugafforov-bobur/CVE-2026-65694-PoC">
 
 ---
+## CVE-2026-65660 ()
+> 
+- [HORKimhab/CVE-2026-65660](https://github.com/HORKimhab/CVE-2026-65660)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-65660">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-65660">
+
+---
 ## CVE-2026-65650 ()
 > 
 - [swornim619/CVE-2026-65650](https://github.com/swornim619/CVE-2026-65650)	<img alt="forks" src="https://img.shields.io/github/forks/swornim619/CVE-2026-65650">	<img alt="stars" src="https://img.shields.io/github/stars/swornim619/CVE-2026-65650">
@@ -2545,6 +2550,11 @@
 ## CVE-2026-61797 ()
 > 
 - [itres-labs/CVE-2026-61797](https://github.com/itres-labs/CVE-2026-61797)	<img alt="forks" src="https://img.shields.io/github/forks/itres-labs/CVE-2026-61797">	<img alt="stars" src="https://img.shields.io/github/stars/itres-labs/CVE-2026-61797">
+
+---
+## CVE-2026-61732 ()
+> 
+- [InertFluid/cve-2026-61732-lab](https://github.com/InertFluid/cve-2026-61732-lab)	<img alt="forks" src="https://img.shields.io/github/forks/InertFluid/cve-2026-61732-lab">	<img alt="stars" src="https://img.shields.io/github/stars/InertFluid/cve-2026-61732-lab">
 
 ---
 ## CVE-2026-61628 ()
@@ -4051,6 +4061,11 @@
 - [Jenderal92/CVE-2026-4885](https://github.com/Jenderal92/CVE-2026-4885)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-4885">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-4885">
 
 ---
+## CVE-2026-48842 ()
+> 
+- [murrez/CVE-2026-48842](https://github.com/murrez/CVE-2026-48842)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-48842">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-48842">
+
+---
 ## CVE-2026-48800 ()
 > 
 - [kavin-jindal/CVE-2026-48800-PoC](https://github.com/kavin-jindal/CVE-2026-48800-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kavin-jindal/CVE-2026-48800-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kavin-jindal/CVE-2026-48800-PoC">
@@ -4834,6 +4849,11 @@
 - [dem0ns/CVE-2026-43700](https://github.com/dem0ns/CVE-2026-43700)	<img alt="forks" src="https://img.shields.io/github/forks/dem0ns/CVE-2026-43700">	<img alt="stars" src="https://img.shields.io/github/stars/dem0ns/CVE-2026-43700">
 
 ---
+## CVE-2026-43687 ()
+> 
+- [jvidhan/cve-2026-43687](https://github.com/jvidhan/cve-2026-43687)	<img alt="forks" src="https://img.shields.io/github/forks/jvidhan/cve-2026-43687">	<img alt="stars" src="https://img.shields.io/github/stars/jvidhan/cve-2026-43687">
+
+---
 ## CVE-2026-43655 ()
 > 
 - [Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF](https://github.com/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/Somisomair/CVE-2026-43655-AppleM2ScalerCSCDriver-UAF">
@@ -5072,6 +5092,7 @@
 - [pyyyc/honor-6.12.38-43499-research](https://github.com/pyyyc/honor-6.12.38-43499-research)	<img alt="forks" src="https://img.shields.io/github/forks/pyyyc/honor-6.12.38-43499-research">	<img alt="stars" src="https://img.shields.io/github/stars/pyyyc/honor-6.12.38-43499-research">
 - [AriyanPegu/ghostlock-app](https://github.com/AriyanPegu/ghostlock-app)	<img alt="forks" src="https://img.shields.io/github/forks/AriyanPegu/ghostlock-app">	<img alt="stars" src="https://img.shields.io/github/stars/AriyanPegu/ghostlock-app">
 - [jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root](https://github.com/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root)	<img alt="forks" src="https://img.shields.io/github/forks/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root">	<img alt="stars" src="https://img.shields.io/github/stars/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root">
+- [AthBe1337/CVE-2026-43499-poc](https://github.com/AthBe1337/CVE-2026-43499-poc)	<img alt="forks" src="https://img.shields.io/github/forks/AthBe1337/CVE-2026-43499-poc">	<img alt="stars" src="https://img.shields.io/github/stars/AthBe1337/CVE-2026-43499-poc">
 
 ---
 ## CVE-2026-43494 ()
