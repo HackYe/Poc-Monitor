@@ -473,6 +473,8 @@
 - [Lutfifakee-Project/CVE-2026-87902](https://github.com/Lutfifakee-Project/CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-87902">
 - [nextco/wordpress-cve-2026-87902](https://github.com/nextco/wordpress-cve-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/nextco/wordpress-cve-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/nextco/wordpress-cve-2026-87902">
 - [zyphorixofficialmain-lab/cve-2026-87902](https://github.com/zyphorixofficialmain-lab/cve-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/zyphorixofficialmain-lab/cve-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/zyphorixofficialmain-lab/cve-2026-87902">
+- [joaovicdev/EXPLOIT-CVE-2026-87902](https://github.com/joaovicdev/EXPLOIT-CVE-2026-87902)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-87902">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-87902">
+- [khellwan/CVE-2026-87902_PoC](https://github.com/khellwan/CVE-2026-87902_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/khellwan/CVE-2026-87902_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/khellwan/CVE-2026-87902_PoC">
 
 ---
 ## CVE-2026-87796 ()
@@ -906,6 +908,11 @@
 ## CVE-2026-79483 ()
 > 
 - [ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection](https://github.com/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection">
+
+---
+## CVE-2026-79417 ()
+> 
+- [connorjaydunn/CVE-2026-79417](https://github.com/connorjaydunn/CVE-2026-79417)	<img alt="forks" src="https://img.shields.io/github/forks/connorjaydunn/CVE-2026-79417">	<img alt="stars" src="https://img.shields.io/github/stars/connorjaydunn/CVE-2026-79417">
 
 ---
 ## CVE-2026-79387 ()
@@ -5062,6 +5069,9 @@
 - [coey0814/Fold8-Ultra-Root-F976N](https://github.com/coey0814/Fold8-Ultra-Root-F976N)	<img alt="forks" src="https://img.shields.io/github/forks/coey0814/Fold8-Ultra-Root-F976N">	<img alt="stars" src="https://img.shields.io/github/stars/coey0814/Fold8-Ultra-Root-F976N">
 - [imeiplus/ghostlock-pfem10](https://github.com/imeiplus/ghostlock-pfem10)	<img alt="forks" src="https://img.shields.io/github/forks/imeiplus/ghostlock-pfem10">	<img alt="stars" src="https://img.shields.io/github/stars/imeiplus/ghostlock-pfem10">
 - [wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499](https://github.com/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499">
+- [pyyyc/honor-6.12.38-43499-research](https://github.com/pyyyc/honor-6.12.38-43499-research)	<img alt="forks" src="https://img.shields.io/github/forks/pyyyc/honor-6.12.38-43499-research">	<img alt="stars" src="https://img.shields.io/github/stars/pyyyc/honor-6.12.38-43499-research">
+- [AriyanPegu/ghostlock-app](https://github.com/AriyanPegu/ghostlock-app)	<img alt="forks" src="https://img.shields.io/github/forks/AriyanPegu/ghostlock-app">	<img alt="stars" src="https://img.shields.io/github/stars/AriyanPegu/ghostlock-app">
+- [jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root](https://github.com/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root)	<img alt="forks" src="https://img.shields.io/github/forks/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root">	<img alt="stars" src="https://img.shields.io/github/stars/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root">
 
 ---
 ## CVE-2026-43494 ()
@@ -12109,6 +12119,11 @@
 ## CVE-2026-0023 ()
 > 
 - [QM4RS/CVE-2026-0023-Update-Ownership-PoC](https://github.com/QM4RS/CVE-2026-0023-Update-Ownership-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/QM4RS/CVE-2026-0023-Update-Ownership-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/QM4RS/CVE-2026-0023-Update-Ownership-PoC">
+
+---
+## CVE-2026-0014 ()
+> 
+- [cduram/NotCVE-2026-0014](https://github.com/cduram/NotCVE-2026-0014)	<img alt="forks" src="https://img.shields.io/github/forks/cduram/NotCVE-2026-0014">	<img alt="stars" src="https://img.shields.io/github/stars/cduram/NotCVE-2026-0014">
 
 ---
 ## CVE-2026-0013 ()
