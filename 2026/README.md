@@ -2568,6 +2568,7 @@
 - [arvindear/wp2shell-PoC](https://github.com/arvindear/wp2shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/arvindear/wp2shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/arvindear/wp2shell-PoC">
 - [ivanesk315/CVE-2026-60137-and-CVE-2026-63030](https://github.com/ivanesk315/CVE-2026-60137-and-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/ivanesk315/CVE-2026-60137-and-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/ivanesk315/CVE-2026-60137-and-CVE-2026-63030">
 - [langz337/CVE-2026-63030](https://github.com/langz337/CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/langz337/CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/langz337/CVE-2026-63030">
+- [z3rodayhacks/CVE-2026-63030-CVE-2026-60137](https://github.com/z3rodayhacks/CVE-2026-63030-CVE-2026-60137)	<img alt="forks" src="https://img.shields.io/github/forks/z3rodayhacks/CVE-2026-63030-CVE-2026-60137">	<img alt="stars" src="https://img.shields.io/github/stars/z3rodayhacks/CVE-2026-63030-CVE-2026-60137">
 
 ---
 ## CVE-2026-62911 ()
