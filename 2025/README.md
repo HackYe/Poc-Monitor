@@ -6951,7 +6951,7 @@
 ---
 ## CVE-2025-4123 ()
 > 
-- [NightBloodz/CVE-2025-4123](https://github.com/NightBloodz/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/NightBloodz/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/NightBloodz/CVE-2025-4123">
+- [NightBloodZ/CVE-2025-4123](https://github.com/NightBloodZ/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/NightBloodZ/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/NightBloodZ/CVE-2025-4123">
 - [kk12-30/CVE-2025-4123](https://github.com/kk12-30/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/kk12-30/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/kk12-30/CVE-2025-4123">
 - [imbas007/CVE-2025-4123-template](https://github.com/imbas007/CVE-2025-4123-template)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-4123-template">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-4123-template">
 - [ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-](https://github.com/ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-">
@@ -6961,6 +6961,7 @@
 - [punitdarji/Grafana-cve-2025-4123](https://github.com/punitdarji/Grafana-cve-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/Grafana-cve-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/Grafana-cve-2025-4123">
 - [ItsNee/Grafana-CVE-2025-4123-POC](https://github.com/ItsNee/Grafana-CVE-2025-4123-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ItsNee/Grafana-CVE-2025-4123-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ItsNee/Grafana-CVE-2025-4123-POC">
 - [MorphyKutay/CVE-2025-4123-Exploit](https://github.com/MorphyKutay/CVE-2025-4123-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MorphyKutay/CVE-2025-4123-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MorphyKutay/CVE-2025-4123-Exploit">
+- [primesec-dev/grafana_mythos_cve-2025-4123](https://github.com/primesec-dev/grafana_mythos_cve-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/primesec-dev/grafana_mythos_cve-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/primesec-dev/grafana_mythos_cve-2025-4123">
 
 ---
 ## CVE-2025-412027 ()
