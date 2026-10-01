@@ -6108,6 +6108,11 @@
 - [Pwdnx1337/CVE-2025-4796](https://github.com/Pwdnx1337/CVE-2025-4796)	<img alt="forks" src="https://img.shields.io/github/forks/Pwdnx1337/CVE-2025-4796">	<img alt="stars" src="https://img.shields.io/github/stars/Pwdnx1337/CVE-2025-4796">
 
 ---
+## CVE-2025-47947 ()
+> 
+- [yel1337/CVE-2025-47947](https://github.com/yel1337/CVE-2025-47947)	<img alt="forks" src="https://img.shields.io/github/forks/yel1337/CVE-2025-47947">	<img alt="stars" src="https://img.shields.io/github/stars/yel1337/CVE-2025-47947">
+
+---
 ## CVE-2025-47928 ()
 > 
 - [pvharmo2/cve-repro-cve-2025-47928](https://github.com/pvharmo2/cve-repro-cve-2025-47928)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/cve-repro-cve-2025-47928">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/cve-repro-cve-2025-47928">
