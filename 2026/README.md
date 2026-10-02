@@ -535,6 +535,12 @@
 - [oscerd/CVE-2026-88789](https://github.com/oscerd/CVE-2026-88789)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-88789">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-88789">
 
 ---
+## CVE-2026-88773 ()
+> 
+- [Scyrix-LLC/CVE-2026-88773](https://github.com/Scyrix-LLC/CVE-2026-88773)	<img alt="forks" src="https://img.shields.io/github/forks/Scyrix-LLC/CVE-2026-88773">	<img alt="stars" src="https://img.shields.io/github/stars/Scyrix-LLC/CVE-2026-88773">
+- [ThomasPoppelgaard/netscaler-ctx697096-checker](https://github.com/ThomasPoppelgaard/netscaler-ctx697096-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ThomasPoppelgaard/netscaler-ctx697096-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ThomasPoppelgaard/netscaler-ctx697096-checker">
+
+---
 ## CVE-2026-88772 ()
 > 
 - [murrez/CVE-2026-88772](https://github.com/murrez/CVE-2026-88772)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-88772">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-88772">
@@ -684,6 +690,7 @@
 > 
 - [DeAurity/CVE-2026-86950-POC](https://github.com/DeAurity/CVE-2026-86950-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DeAurity/CVE-2026-86950-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DeAurity/CVE-2026-86950-POC">
 - [DeAurity/CVE-2026-86950-POC](https://github.com/DeAurity/CVE-2026-86950-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DeAurity/CVE-2026-86950-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DeAurity/CVE-2026-86950-POC">
+- [decalage2/detect_CVE-2026-86950](https://github.com/decalage2/detect_CVE-2026-86950)	<img alt="forks" src="https://img.shields.io/github/forks/decalage2/detect_CVE-2026-86950">	<img alt="stars" src="https://img.shields.io/github/stars/decalage2/detect_CVE-2026-86950">
 
 ---
 ## CVE-2026-86595 ()
@@ -5768,6 +5775,11 @@
 ## CVE-2026-42527 ()
 > 
 - [oscerd/CVE-2026-42527](https://github.com/oscerd/CVE-2026-42527)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-42527">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-42527">
+
+---
+## CVE-2026-42322 ()
+> 
+- [LipeOzyy/CVE-2026-42322](https://github.com/LipeOzyy/CVE-2026-42322)	<img alt="forks" src="https://img.shields.io/github/forks/LipeOzyy/CVE-2026-42322">	<img alt="stars" src="https://img.shields.io/github/stars/LipeOzyy/CVE-2026-42322">
 
 ---
 ## CVE-2026-42281 ()
@@ -12385,6 +12397,11 @@
 ## CVE-2026-103977 ()
 > 
 - [pervinzahidli/CVE-2026-103977](https://github.com/pervinzahidli/CVE-2026-103977)	<img alt="forks" src="https://img.shields.io/github/forks/pervinzahidli/CVE-2026-103977">	<img alt="stars" src="https://img.shields.io/github/stars/pervinzahidli/CVE-2026-103977">
+
+---
+## CVE-2026-103931 ()
+> 
+- [overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931](https://github.com/overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931">
 
 ---
 ## CVE-2026-103922 ()
