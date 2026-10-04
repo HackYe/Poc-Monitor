@@ -5508,6 +5508,7 @@
 - [HaSiyo/Root-My-Galaxy-Payloads-KernelSU-Next](https://github.com/HaSiyo/Root-My-Galaxy-Payloads-KernelSU-Next)	<img alt="forks" src="https://img.shields.io/github/forks/HaSiyo/Root-My-Galaxy-Payloads-KernelSU-Next">	<img alt="stars" src="https://img.shields.io/github/stars/HaSiyo/Root-My-Galaxy-Payloads-KernelSU-Next">
 - [aniketlab/POCO-M7-Plus-Jailbreak](https://github.com/aniketlab/POCO-M7-Plus-Jailbreak)	<img alt="forks" src="https://img.shields.io/github/forks/aniketlab/POCO-M7-Plus-Jailbreak">	<img alt="stars" src="https://img.shields.io/github/stars/aniketlab/POCO-M7-Plus-Jailbreak">
 - [shubhampathak65/CVE-2026-43499](https://github.com/shubhampathak65/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/shubhampathak65/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/shubhampathak65/CVE-2026-43499">
+- [AdminHcat/CVE-2026-43499-5.15](https://github.com/AdminHcat/CVE-2026-43499-5.15)	<img alt="forks" src="https://img.shields.io/github/forks/AdminHcat/CVE-2026-43499-5.15">	<img alt="stars" src="https://img.shields.io/github/stars/AdminHcat/CVE-2026-43499-5.15">
 
 ---
 ## CVE-2026-43494 ()
@@ -11671,6 +11672,11 @@
 ## CVE-2026-15964 ()
 > 
 - [Instructor-Admin/CVE-2026-15964-PoC](https://github.com/Instructor-Admin/CVE-2026-15964-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Instructor-Admin/CVE-2026-15964-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Instructor-Admin/CVE-2026-15964-PoC">
+
+---
+## CVE-2026-15911 ()
+> 
+- [rahulreddykarne/CVE-2026-15911-Confluent_Kafka](https://github.com/rahulreddykarne/CVE-2026-15911-Confluent_Kafka)	<img alt="forks" src="https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-15911-Confluent_Kafka">	<img alt="stars" src="https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-15911-Confluent_Kafka">
 
 ---
 ## CVE-2026-15826 ()
