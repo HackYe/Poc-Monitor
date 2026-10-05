@@ -130,6 +130,7 @@
 - [JUN41DS2709/vsFTPd-2.3.4-Exploit](https://github.com/JUN41DS2709/vsFTPd-2.3.4-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JUN41DS2709/vsFTPd-2.3.4-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JUN41DS2709/vsFTPd-2.3.4-Exploit">
 - [aboubacar70/LAB1-metasploitable](https://github.com/aboubacar70/LAB1-metasploitable)	<img alt="forks" src="https://img.shields.io/github/forks/aboubacar70/LAB1-metasploitable">	<img alt="stars" src="https://img.shields.io/github/stars/aboubacar70/LAB1-metasploitable">
 - [ronankongala/metasploit-pentest-report](https://github.com/ronankongala/metasploit-pentest-report)	<img alt="forks" src="https://img.shields.io/github/forks/ronankongala/metasploit-pentest-report">	<img alt="stars" src="https://img.shields.io/github/stars/ronankongala/metasploit-pentest-report">
+- [Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523](https://github.com/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
