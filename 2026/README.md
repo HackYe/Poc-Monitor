@@ -3234,6 +3234,11 @@
 - [riddhimaan-sth404/CVE-2026-57973](https://github.com/riddhimaan-sth404/CVE-2026-57973)	<img alt="forks" src="https://img.shields.io/github/forks/riddhimaan-sth404/CVE-2026-57973">	<img alt="stars" src="https://img.shields.io/github/stars/riddhimaan-sth404/CVE-2026-57973">
 
 ---
+## CVE-2026-57967 ()
+> 
+- [c0dem4sters/CVE-2026-57967](https://github.com/c0dem4sters/CVE-2026-57967)	<img alt="forks" src="https://img.shields.io/github/forks/c0dem4sters/CVE-2026-57967">	<img alt="stars" src="https://img.shields.io/github/stars/c0dem4sters/CVE-2026-57967">
+
+---
 ## CVE-2026-57858 ()
 > 
 - [zylideum/CVE-2026-57858](https://github.com/zylideum/CVE-2026-57858)	<img alt="forks" src="https://img.shields.io/github/forks/zylideum/CVE-2026-57858">	<img alt="stars" src="https://img.shields.io/github/stars/zylideum/CVE-2026-57858">
