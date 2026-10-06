@@ -718,6 +718,7 @@
 - [DeAurity/CVE-2026-86950-POC](https://github.com/DeAurity/CVE-2026-86950-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DeAurity/CVE-2026-86950-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DeAurity/CVE-2026-86950-POC">
 - [decalage2/detect_CVE-2026-86950](https://github.com/decalage2/detect_CVE-2026-86950)	<img alt="forks" src="https://img.shields.io/github/forks/decalage2/detect_CVE-2026-86950">	<img alt="stars" src="https://img.shields.io/github/stars/decalage2/detect_CVE-2026-86950">
 - [0xBlackash/CVE-2026-86950](https://github.com/0xBlackash/CVE-2026-86950)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-86950">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-86950">
+- [msuiche/hotcell](https://github.com/msuiche/hotcell)	<img alt="forks" src="https://img.shields.io/github/forks/msuiche/hotcell">	<img alt="stars" src="https://img.shields.io/github/stars/msuiche/hotcell">
 
 ---
 ## CVE-2026-86881 ()
@@ -10849,6 +10850,11 @@
 - [MaxMnMl/tpadmin-CVE-2026-2113-poc](https://github.com/MaxMnMl/tpadmin-CVE-2026-2113-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/tpadmin-CVE-2026-2113-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/tpadmin-CVE-2026-2113-poc">
 
 ---
+## CVE-2026-21096 ()
+> 
+- [Xen0nize/CVE-2026-21096](https://github.com/Xen0nize/CVE-2026-21096)	<img alt="forks" src="https://img.shields.io/github/forks/Xen0nize/CVE-2026-21096">	<img alt="stars" src="https://img.shields.io/github/stars/Xen0nize/CVE-2026-21096">
+
+---
 ## CVE-2026-21055 ()
 > 
 - [Hunt-Benito/samsung-bixby-command-execution-cve-2026-21055-improper-component-export](https://github.com/Hunt-Benito/samsung-bixby-command-execution-cve-2026-21055-improper-component-export)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/samsung-bixby-command-execution-cve-2026-21055-improper-component-export">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/samsung-bixby-command-execution-cve-2026-21055-improper-component-export">
@@ -11678,6 +11684,11 @@
 ## CVE-2026-16475 ()
 > 
 - [afertar/CVE-2026-16475-PoC](https://github.com/afertar/CVE-2026-16475-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/afertar/CVE-2026-16475-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/afertar/CVE-2026-16475-PoC">
+
+---
+## CVE-2026-16444 ()
+> 
+- [jamir0quai/CVE-2026-16444](https://github.com/jamir0quai/CVE-2026-16444)	<img alt="forks" src="https://img.shields.io/github/forks/jamir0quai/CVE-2026-16444">	<img alt="stars" src="https://img.shields.io/github/stars/jamir0quai/CVE-2026-16444">
 
 ---
 ## CVE-2026-16348 ()
