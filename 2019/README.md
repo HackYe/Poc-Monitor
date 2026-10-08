@@ -2393,6 +2393,7 @@ use after free.
 - [SDNDTeam/CVE-2019-17558_Solr_Vul_Tool](https://github.com/SDNDTeam/CVE-2019-17558_Solr_Vul_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/SDNDTeam/CVE-2019-17558_Solr_Vul_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/SDNDTeam/CVE-2019-17558_Solr_Vul_Tool">
 - [rogerzeferino/cve-2019-17558-apache-solr-rce](https://github.com/rogerzeferino/cve-2019-17558-apache-solr-rce)	<img alt="forks" src="https://img.shields.io/github/forks/rogerzeferino/cve-2019-17558-apache-solr-rce">	<img alt="stars" src="https://img.shields.io/github/stars/rogerzeferino/cve-2019-17558-apache-solr-rce">
 - [thelostworldFree/CVE-2019-17558_Solr_Vul_Tool](https://github.com/thelostworldFree/CVE-2019-17558_Solr_Vul_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/thelostworldFree/CVE-2019-17558_Solr_Vul_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/thelostworldFree/CVE-2019-17558_Solr_Vul_Tool">
+- [CyberCTF/vulhub-solr-cve-2019-17558](https://github.com/CyberCTF/vulhub-solr-cve-2019-17558)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-solr-cve-2019-17558">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-solr-cve-2019-17558">
 
 ---
 ## CVE-2019-17531 (2019-10-12T21:15:00)
@@ -3485,9 +3486,10 @@ use after free.
 - [bayazid-bit/CVE-2019-11043](https://github.com/bayazid-bit/CVE-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/bayazid-bit/CVE-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/bayazid-bit/CVE-2019-11043">
 - [B1gd0g/CVE-2019-11043](https://github.com/B1gd0g/CVE-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/B1gd0g/CVE-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/B1gd0g/CVE-2019-11043">
 - [a1ex-var1amov/ctf-cve-2019-11043](https://github.com/a1ex-var1amov/ctf-cve-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/a1ex-var1amov/ctf-cve-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/a1ex-var1amov/ctf-cve-2019-11043">
-- [AndrewMas99/CVE-2019-11043-Vulnerability](https://github.com/AndrewMas99/CVE-2019-11043-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/AndrewMas99/CVE-2019-11043-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/AndrewMas99/CVE-2019-11043-Vulnerability">
+- [MagentaBear/CVE-2019-11043-Vulnerability](https://github.com/MagentaBear/CVE-2019-11043-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/MagentaBear/CVE-2019-11043-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/MagentaBear/CVE-2019-11043-Vulnerability">
 - [CodeHex083/phuip-fpizdam](https://github.com/CodeHex083/phuip-fpizdam)	<img alt="forks" src="https://img.shields.io/github/forks/CodeHex083/phuip-fpizdam">	<img alt="stars" src="https://img.shields.io/github/stars/CodeHex083/phuip-fpizdam">
 - [gon905332-jpg/cve-2019-11043.py](https://github.com/gon905332-jpg/cve-2019-11043.py)	<img alt="forks" src="https://img.shields.io/github/forks/gon905332-jpg/cve-2019-11043.py">	<img alt="stars" src="https://img.shields.io/github/stars/gon905332-jpg/cve-2019-11043.py">
+- [CyberCTF/vulhub-php-cve-2019-11043](https://github.com/CyberCTF/vulhub-php-cve-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-php-cve-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-php-cve-2019-11043">
 
 ---
 ## CVE-2019-10945 (2019-04-10T19:29:00)
