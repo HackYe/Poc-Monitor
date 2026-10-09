@@ -8834,6 +8834,11 @@
 - [kaleth4/CVE-2026-28858](https://github.com/kaleth4/CVE-2026-28858)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-28858">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-28858">
 
 ---
+## CVE-2026-28775 ()
+> 
+- [Udyz/CVE-2026-28775](https://github.com/Udyz/CVE-2026-28775)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2026-28775">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2026-28775">
+
+---
 ## CVE-2026-28767 ()
 > 
 - [MichaelAdamGroberman/CVE-2026-28767](https://github.com/MichaelAdamGroberman/CVE-2026-28767)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-28767">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-28767">
@@ -10051,6 +10056,11 @@
 ## CVE-2026-24055 ()
 > 
 - [imzanggg/CVE-2026-24055-OAuth-Langfuse](https://github.com/imzanggg/CVE-2026-24055-OAuth-Langfuse)	<img alt="forks" src="https://img.shields.io/github/forks/imzanggg/CVE-2026-24055-OAuth-Langfuse">	<img alt="stars" src="https://img.shields.io/github/stars/imzanggg/CVE-2026-24055-OAuth-Langfuse">
+
+---
+## CVE-2026-24046 ()
+> 
+- [Rem1L/cve-2026-24046-poc](https://github.com/Rem1L/cve-2026-24046-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Rem1L/cve-2026-24046-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Rem1L/cve-2026-24046-poc">
 
 ---
 ## CVE-2026-24031 ()
@@ -12541,6 +12551,11 @@
 - [izxci/CVE-2026-10795](https://github.com/izxci/CVE-2026-10795)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-10795">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-10795">
 - [rootdirective-sec/CVE-2026-10795-Lab](https://github.com/rootdirective-sec/CVE-2026-10795-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-10795-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-10795-Lab">
 - [HORKimhab/CVE-2026-10795](https://github.com/HORKimhab/CVE-2026-10795)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-10795">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-10795">
+
+---
+## CVE-2026-107406 ()
+> 
+- [ApexBreach/CVE-2026-107406-Poc](https://github.com/ApexBreach/CVE-2026-107406-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/ApexBreach/CVE-2026-107406-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/ApexBreach/CVE-2026-107406-Poc">
 
 ---
 ## CVE-2026-107268 ()
