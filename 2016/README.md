@@ -563,6 +563,11 @@
 - [pouriam23/final-CVE-2016-5180](https://github.com/pouriam23/final-CVE-2016-5180)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/final-CVE-2016-5180">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/final-CVE-2016-5180">
 
 ---
+## CVE-2016-4977 ()
+> 
+- [CyberCTF/vulhub-spring-cve-2016-4977](https://github.com/CyberCTF/vulhub-spring-cve-2016-4977)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-spring-cve-2016-4977">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-spring-cve-2016-4977">
+
+---
 ## CVE-2016-4655 (2016-08-25T21:59:00)
 > The kernel in Apple iOS before 9.3.5 allows attackers to obtain sensitive information from memory via a crafted app.
 - [0xyf77/CVE-2016-4655](https://github.com/0xyf77/CVE-2016-4655)	<img alt="forks" src="https://img.shields.io/github/forks/0xyf77/CVE-2016-4655">	<img alt="stars" src="https://img.shields.io/github/stars/0xyf77/CVE-2016-4655">
@@ -1096,6 +1101,11 @@
 > Adobe Flash Player 21.0.0.197 and earlier allows remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via unspecified vectors, as exploited in the wild in April 2016.
 - [Live-Hack-CVE/CVE-2016-1019](https://github.com/Live-Hack-CVE/CVE-2016-1019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1019">
 - [KaviDk/Heap-Over-Flow-with-CVE-2016-10191](https://github.com/KaviDk/Heap-Over-Flow-with-CVE-2016-10191)	<img alt="forks" src="https://img.shields.io/github/forks/KaviDk/Heap-Over-Flow-with-CVE-2016-10191">	<img alt="stars" src="https://img.shields.io/github/stars/KaviDk/Heap-Over-Flow-with-CVE-2016-10191">
+
+---
+## CVE-2016-10134 ()
+> 
+- [CyberCTF/vulhub-zabbix-cve-2016-10134](https://github.com/CyberCTF/vulhub-zabbix-cve-2016-10134)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-zabbix-cve-2016-10134">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-zabbix-cve-2016-10134">
 
 ---
 ## CVE-2016-1010 (2016-03-12T15:59:00)
