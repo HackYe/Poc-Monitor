@@ -7474,6 +7474,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Marwan651/Joomla-CMS-Full-Lifecycle-Pentest](https://github.com/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest)	<img alt="forks" src="https://img.shields.io/github/forks/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest">	<img alt="stars" src="https://img.shields.io/github/stars/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest">
 - [s4m98/CVE-2023-23752](https://github.com/s4m98/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/s4m98/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/s4m98/CVE-2023-23752">
 - [rvzsec/joombrute](https://github.com/rvzsec/joombrute)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/joombrute">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/joombrute">
+- [CyberCTF/vulhub-joomla-cve-2023-23752](https://github.com/CyberCTF/vulhub-joomla-cve-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-joomla-cve-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-joomla-cve-2023-23752">
 
 ---
 ## CVE-2023-2375 (2023-04-28T15:15:00)
