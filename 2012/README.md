@@ -147,6 +147,8 @@
 - [nulltrace1336/PHP-CGI-Argument-Injection-Exploit](https://github.com/nulltrace1336/PHP-CGI-Argument-Injection-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nulltrace1336/PHP-CGI-Argument-Injection-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nulltrace1336/PHP-CGI-Argument-Injection-Exploit">
 - [Dmitri131313/CVE-2012-1823-exploit-for-https-user-password-web](https://github.com/Dmitri131313/CVE-2012-1823-exploit-for-https-user-password-web)	<img alt="forks" src="https://img.shields.io/github/forks/Dmitri131313/CVE-2012-1823-exploit-for-https-user-password-web">	<img alt="stars" src="https://img.shields.io/github/stars/Dmitri131313/CVE-2012-1823-exploit-for-https-user-password-web">
 - [CyberCTF/vulhub-php-cve-2012-1823](https://github.com/CyberCTF/vulhub-php-cve-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-php-cve-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-php-cve-2012-1823">
+- [yilmaz8596/metasploitable-vulnerability-assessment](https://github.com/yilmaz8596/metasploitable-vulnerability-assessment)	<img alt="forks" src="https://img.shields.io/github/forks/yilmaz8596/metasploitable-vulnerability-assessment">	<img alt="stars" src="https://img.shields.io/github/stars/yilmaz8596/metasploitable-vulnerability-assessment">
+- [mujtaba815/metasploitable2-php-cgi-exploit](https://github.com/mujtaba815/metasploitable2-php-cgi-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mujtaba815/metasploitable2-php-cgi-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mujtaba815/metasploitable2-php-cgi-exploit">
 
 ---
 ## CVE-2012-1803 ()
