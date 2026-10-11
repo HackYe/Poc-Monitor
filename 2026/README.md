@@ -6455,6 +6455,11 @@
 - [terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC](https://github.com/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">
 
 ---
+## CVE-2026-40224 ()
+> 
+- [0xparad0x/Exploit-CVE-2026-40224](https://github.com/0xparad0x/Exploit-CVE-2026-40224)	<img alt="forks" src="https://img.shields.io/github/forks/0xparad0x/Exploit-CVE-2026-40224">	<img alt="stars" src="https://img.shields.io/github/stars/0xparad0x/Exploit-CVE-2026-40224">
+
+---
 ## CVE-2026-40217 ()
 > 
 - [learner202649/CVE-2026-40217-PoC](https://github.com/learner202649/CVE-2026-40217-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-40217-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-40217-PoC">
@@ -8833,6 +8838,7 @@
 - [ledksv/Principal-HackTheBox](https://github.com/ledksv/Principal-HackTheBox)	<img alt="forks" src="https://img.shields.io/github/forks/ledksv/Principal-HackTheBox">	<img alt="stars" src="https://img.shields.io/github/stars/ledksv/Principal-HackTheBox">
 - [dua2z3rr/CVE-2026-29000-PoC](https://github.com/dua2z3rr/CVE-2026-29000-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/dua2z3rr/CVE-2026-29000-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/dua2z3rr/CVE-2026-29000-PoC">
 - [xiaoqiMikko/pac4j-check](https://github.com/xiaoqiMikko/pac4j-check)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiMikko/pac4j-check">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiMikko/pac4j-check">
+- [Erikgavs/CVE-2026-29000](https://github.com/Erikgavs/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/Erikgavs/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/Erikgavs/CVE-2026-29000">
 
 ---
 ## CVE-2026-28995 ()
@@ -9104,6 +9110,8 @@
 > 
 - [0xh7ml/CVE-2026-27626-PoC](https://github.com/0xh7ml/CVE-2026-27626-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xh7ml/CVE-2026-27626-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xh7ml/CVE-2026-27626-PoC">
 - [Cobrastrike62/CVE-2026-27626-POC](https://github.com/Cobrastrike62/CVE-2026-27626-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Cobrastrike62/CVE-2026-27626-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Cobrastrike62/CVE-2026-27626-POC">
+- [Shisones/CVE-2026-27626](https://github.com/Shisones/CVE-2026-27626)	<img alt="forks" src="https://img.shields.io/github/forks/Shisones/CVE-2026-27626">	<img alt="stars" src="https://img.shields.io/github/stars/Shisones/CVE-2026-27626">
+- [abdelhakimgaferNetworkSec/Enigm-Writeup](https://github.com/abdelhakimgaferNetworkSec/Enigm-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/abdelhakimgaferNetworkSec/Enigm-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/abdelhakimgaferNetworkSec/Enigm-Writeup">
 
 ---
 ## CVE-2026-27621 ()
@@ -12603,6 +12611,9 @@
 ## CVE-2026-107406 ()
 > 
 - [ApexBreach/CVE-2026-107406-Poc](https://github.com/ApexBreach/CVE-2026-107406-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/ApexBreach/CVE-2026-107406-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/ApexBreach/CVE-2026-107406-Poc">
+- [ctroy999/CVE-2026-107406](https://github.com/ctroy999/CVE-2026-107406)	<img alt="forks" src="https://img.shields.io/github/forks/ctroy999/CVE-2026-107406">	<img alt="stars" src="https://img.shields.io/github/stars/ctroy999/CVE-2026-107406">
+- [techupdate24/citrix-netscaler-rce-cve-2026-107406](https://github.com/techupdate24/citrix-netscaler-rce-cve-2026-107406)	<img alt="forks" src="https://img.shields.io/github/forks/techupdate24/citrix-netscaler-rce-cve-2026-107406">	<img alt="stars" src="https://img.shields.io/github/stars/techupdate24/citrix-netscaler-rce-cve-2026-107406">
+- [ThomasPoppelgaard/netscaler-ctx697096-checker](https://github.com/ThomasPoppelgaard/netscaler-ctx697096-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ThomasPoppelgaard/netscaler-ctx697096-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ThomasPoppelgaard/netscaler-ctx697096-checker">
 
 ---
 ## CVE-2026-107268 ()
