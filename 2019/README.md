@@ -1856,6 +1856,8 @@ use after free.
 > 
 - [Dungsocool/CVE-2019-20933](https://github.com/Dungsocool/CVE-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2019-20933">
 - [CyberCTF/vulhub-influxdb-cve-2019-20933](https://github.com/CyberCTF/vulhub-influxdb-cve-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-influxdb-cve-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-influxdb-cve-2019-20933">
+- [LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933](https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933">
+- [Hydragyrum/CVE-2019-20933](https://github.com/Hydragyrum/CVE-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/Hydragyrum/CVE-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/Hydragyrum/CVE-2019-20933">
 
 ---
 ## CVE-2019-20892 (2020-06-25T10:15:00)
