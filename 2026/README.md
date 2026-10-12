@@ -181,6 +181,7 @@
 ## CVE-2026-9586 ()
 > 
 - [HORKimhab/CVE-2026-9586](https://github.com/HORKimhab/CVE-2026-9586)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-9586">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-9586">
+- [fromABUV/CVE-2026-9586_POC_EXPLOIT](https://github.com/fromABUV/CVE-2026-9586_POC_EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/fromABUV/CVE-2026-9586_POC_EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/fromABUV/CVE-2026-9586_POC_EXPLOIT">
 
 ---
 ## CVE-2026-95675 ()
@@ -1868,6 +1869,7 @@
 - [EQSTLab/CVE-2026-72898](https://github.com/EQSTLab/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-72898">
 - [34zY/CVE-2026-72898](https://github.com/34zY/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/CVE-2026-72898">
 - [Riftweld/metabase-cve-2026-72898](https://github.com/Riftweld/metabase-cve-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/Riftweld/metabase-cve-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/Riftweld/metabase-cve-2026-72898">
+- [amier-ge/CVE-2026-72898](https://github.com/amier-ge/CVE-2026-72898)	<img alt="forks" src="https://img.shields.io/github/forks/amier-ge/CVE-2026-72898">	<img alt="stars" src="https://img.shields.io/github/stars/amier-ge/CVE-2026-72898">
 
 ---
 ## CVE-2026-72815 ()
@@ -2445,6 +2447,7 @@
 - [shinthink/CVE-2026-66066](https://github.com/shinthink/CVE-2026-66066)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-66066">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-66066">
 - [HackSpeak/CVE-2026-66066](https://github.com/HackSpeak/CVE-2026-66066)	<img alt="forks" src="https://img.shields.io/github/forks/HackSpeak/CVE-2026-66066">	<img alt="stars" src="https://img.shields.io/github/stars/HackSpeak/CVE-2026-66066">
 - [ivanesk315/CVE-2026-66066](https://github.com/ivanesk315/CVE-2026-66066)	<img alt="forks" src="https://img.shields.io/github/forks/ivanesk315/CVE-2026-66066">	<img alt="stars" src="https://img.shields.io/github/stars/ivanesk315/CVE-2026-66066">
+- [honghyewon29/CVE-2026-66066](https://github.com/honghyewon29/CVE-2026-66066)	<img alt="forks" src="https://img.shields.io/github/forks/honghyewon29/CVE-2026-66066">	<img alt="stars" src="https://img.shields.io/github/stars/honghyewon29/CVE-2026-66066">
 
 ---
 ## CVE-2026-66012 ()
@@ -12793,6 +12796,11 @@
 ## CVE-2026-103922 ()
 > 
 - [techupdate24/capacitor-flaw-cve-2026-103922](https://github.com/techupdate24/capacitor-flaw-cve-2026-103922)	<img alt="forks" src="https://img.shields.io/github/forks/techupdate24/capacitor-flaw-cve-2026-103922">	<img alt="stars" src="https://img.shields.io/github/stars/techupdate24/capacitor-flaw-cve-2026-103922">
+
+---
+## CVE-2026-103889 ()
+> 
+- [kayes817/CVE-2026-103889](https://github.com/kayes817/CVE-2026-103889)	<img alt="forks" src="https://img.shields.io/github/forks/kayes817/CVE-2026-103889">	<img alt="stars" src="https://img.shields.io/github/stars/kayes817/CVE-2026-103889">
 
 ---
 ## CVE-2026-103752 ()
