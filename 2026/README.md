@@ -1597,6 +1597,11 @@
 - [izxci/CVE-2026-7654](https://github.com/izxci/CVE-2026-7654)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-7654">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-7654">
 
 ---
+## CVE-2026-76519 ()
+> 
+- [Mickysalivan/CVE-2026-76519-POC](https://github.com/Mickysalivan/CVE-2026-76519-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Mickysalivan/CVE-2026-76519-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Mickysalivan/CVE-2026-76519-POC">
+
+---
 ## CVE-2026-76461 ()
 > 
 - [0xBlackash/CVE-2026-76461](https://github.com/0xBlackash/CVE-2026-76461)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-76461">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-76461">
@@ -12750,6 +12755,11 @@
 - [0xgh0stri13y/CVE-2026-109519](https://github.com/0xgh0stri13y/CVE-2026-109519)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh0stri13y/CVE-2026-109519">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh0stri13y/CVE-2026-109519">
 
 ---
+## CVE-2026-109506 ()
+> 
+- [lukaspalm/CVE-2026-109506](https://github.com/lukaspalm/CVE-2026-109506)	<img alt="forks" src="https://img.shields.io/github/forks/lukaspalm/CVE-2026-109506">	<img alt="stars" src="https://img.shields.io/github/stars/lukaspalm/CVE-2026-109506">
+
+---
 ## CVE-2026-108924 ()
 > 
 - [capivara-research/CVE-2026-108924](https://github.com/capivara-research/CVE-2026-108924)	<img alt="forks" src="https://img.shields.io/github/forks/capivara-research/CVE-2026-108924">	<img alt="stars" src="https://img.shields.io/github/stars/capivara-research/CVE-2026-108924">
@@ -12805,6 +12815,11 @@
 ## CVE-2026-107159 ()
 > 
 - [azuk4r/CVE-2026-107159](https://github.com/azuk4r/CVE-2026-107159)	<img alt="forks" src="https://img.shields.io/github/forks/azuk4r/CVE-2026-107159">	<img alt="stars" src="https://img.shields.io/github/stars/azuk4r/CVE-2026-107159">
+
+---
+## CVE-2026-107081 ()
+> 
+- [Primandito/CVE-2026-107081](https://github.com/Primandito/CVE-2026-107081)	<img alt="forks" src="https://img.shields.io/github/forks/Primandito/CVE-2026-107081">	<img alt="stars" src="https://img.shields.io/github/stars/Primandito/CVE-2026-107081">
 
 ---
 ## CVE-2026-10702 ()
