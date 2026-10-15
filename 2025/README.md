@@ -963,7 +963,7 @@
 - [JohannesLks/CVE-2025-68613-Python-Exploit](https://github.com/JohannesLks/CVE-2025-68613-Python-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2025-68613-Python-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2025-68613-Python-Exploit">
 - [hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate](https://github.com/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate)	<img alt="forks" src="https://img.shields.io/github/forks/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate">	<img alt="stars" src="https://img.shields.io/github/stars/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate">
 - [mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613](https://github.com/mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613">
-- [releaseown/analysis-and-poc-n8n-CVE-2025-68613](https://github.com/releaseown/analysis-and-poc-n8n-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/releaseown/analysis-and-poc-n8n-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/releaseown/analysis-and-poc-n8n-CVE-2025-68613">
+- [RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613](https://github.com/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613">
 - [Dlanang/homelab-CVE-2025-68613](https://github.com/Dlanang/homelab-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Dlanang/homelab-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Dlanang/homelab-CVE-2025-68613">
 - [Khin-96/n8n-cve-2025-68613-thm](https://github.com/Khin-96/n8n-cve-2025-68613-thm)	<img alt="forks" src="https://img.shields.io/github/forks/Khin-96/n8n-cve-2025-68613-thm">	<img alt="stars" src="https://img.shields.io/github/stars/Khin-96/n8n-cve-2025-68613-thm">
 - [J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe](https://github.com/J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe">
@@ -984,6 +984,8 @@
 - [rmhowe425/POC-CVE-2025-68613](https://github.com/rmhowe425/POC-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2025-68613">
 - [Giangdurian/CVE-2026-21858-and-CVE-2025-68613](https://github.com/Giangdurian/CVE-2026-21858-and-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2026-21858-and-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2026-21858-and-CVE-2025-68613">
 - [qianlijaingshan/n8n-cve-2026-21858](https://github.com/qianlijaingshan/n8n-cve-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/qianlijaingshan/n8n-cve-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/qianlijaingshan/n8n-cve-2026-21858">
+- [bijoumj/cve-2025-68613-ctf](https://github.com/bijoumj/cve-2025-68613-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/bijoumj/cve-2025-68613-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/bijoumj/cve-2025-68613-ctf">
+- [ZeroDayEvil/CVE-2026-21858-n8n-FullChain](https://github.com/ZeroDayEvil/CVE-2026-21858-n8n-FullChain)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-21858-n8n-FullChain">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-21858-n8n-FullChain">
 
 ---
 ## CVE-2025-6860 ()
@@ -1290,6 +1292,11 @@
 ## CVE-2025-666666 ()
 > 
 - [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666)	<img alt="forks" src="https://img.shields.io/github/forks/anderruiz/CVE-2025-666666">	<img alt="stars" src="https://img.shields.io/github/stars/anderruiz/CVE-2025-666666">
+
+---
+## CVE-2025-66645 ()
+> 
+- [prokeon5991-wq/cve-2025-66645](https://github.com/prokeon5991-wq/cve-2025-66645)	<img alt="forks" src="https://img.shields.io/github/forks/prokeon5991-wq/cve-2025-66645">	<img alt="stars" src="https://img.shields.io/github/stars/prokeon5991-wq/cve-2025-66645">
 
 ---
 ## CVE-2025-66644 ()

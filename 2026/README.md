@@ -96,6 +96,11 @@
 - [jburgess-r7/CVE-2026-97229-PoC](https://github.com/jburgess-r7/CVE-2026-97229-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jburgess-r7/CVE-2026-97229-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jburgess-r7/CVE-2026-97229-PoC">
 
 ---
+## CVE-2026-97205 ()
+> 
+- [suominen/CVE-2026-97205](https://github.com/suominen/CVE-2026-97205)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-97205">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-97205">
+
+---
 ## CVE-2026-97163 ()
 > 
 - [qeize/cve-2026-97163-payload](https://github.com/qeize/cve-2026-97163-payload)	<img alt="forks" src="https://img.shields.io/github/forks/qeize/cve-2026-97163-payload">	<img alt="stars" src="https://img.shields.io/github/stars/qeize/cve-2026-97163-payload">
@@ -1599,7 +1604,7 @@
 ---
 ## CVE-2026-76519 ()
 > 
-- [Mickysalivan/CVE-2026-76519-POC](https://github.com/Mickysalivan/CVE-2026-76519-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Mickysalivan/CVE-2026-76519-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Mickysalivan/CVE-2026-76519-POC">
+- [Mickysalivan/CVE-2026-76519-Proof-of-concept](https://github.com/Mickysalivan/CVE-2026-76519-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/Mickysalivan/CVE-2026-76519-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/Mickysalivan/CVE-2026-76519-Proof-of-concept">
 
 ---
 ## CVE-2026-76461 ()
@@ -11296,6 +11301,7 @@
 - [Lite-os15/Lab-001-Gitea-CVE-2026-20896-](https://github.com/Lite-os15/Lab-001-Gitea-CVE-2026-20896-)	<img alt="forks" src="https://img.shields.io/github/forks/Lite-os15/Lab-001-Gitea-CVE-2026-20896-">	<img alt="stars" src="https://img.shields.io/github/stars/Lite-os15/Lab-001-Gitea-CVE-2026-20896-">
 - [EQSTLab/CVE-2026-20896](https://github.com/EQSTLab/CVE-2026-20896)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-20896">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-20896">
 - [judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass](https://github.com/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass">
+- [Raincombat/CVE-2026-20896-Gitea-CTF](https://github.com/Raincombat/CVE-2026-20896-Gitea-CTF)	<img alt="forks" src="https://img.shields.io/github/forks/Raincombat/CVE-2026-20896-Gitea-CTF">	<img alt="stars" src="https://img.shields.io/github/stars/Raincombat/CVE-2026-20896-Gitea-CTF">
 
 ---
 ## CVE-2026-20856 ()
@@ -11413,6 +11419,11 @@
 ## CVE-2026-2035703 ()
 > 
 - [danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300)	<img alt="forks" src="https://img.shields.io/github/forks/danish1162/CVE-2026-2035703-x300">	<img alt="stars" src="https://img.shields.io/github/stars/danish1162/CVE-2026-2035703-x300">
+
+---
+## CVE-2026-20329 ()
+> 
+- [ekacs/predicted-CVE-2026-20329](https://github.com/ekacs/predicted-CVE-2026-20329)	<img alt="forks" src="https://img.shields.io/github/forks/ekacs/predicted-CVE-2026-20329">	<img alt="stars" src="https://img.shields.io/github/stars/ekacs/predicted-CVE-2026-20329">
 
 ---
 ## CVE-2026-20303 ()
@@ -12595,6 +12606,11 @@
 - [FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168](https://github.com/FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168)	<img alt="forks" src="https://img.shields.io/github/forks/FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168">	<img alt="stars" src="https://img.shields.io/github/stars/FzRsLLaSheR/CVE-2026-12166_CVE-2026-12167_CVE-2026-12168">
 
 ---
+## CVE-2026-12118 ()
+> 
+- [uday952/CVE-2026-12118-POC-](https://github.com/uday952/CVE-2026-12118-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-12118-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-12118-POC-">
+
+---
 ## CVE-2026-1208 ()
 > 
 - [SnailSploit/CVE-2026-1208](https://github.com/SnailSploit/CVE-2026-1208)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-1208">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-1208">
@@ -12735,6 +12751,11 @@
 ## CVE-2026-1111 ()
 > 
 - [George0Papasotiriou/CVE-2026-1111-Smart-Contract-Cross-Function-Reentrancy](https://github.com/George0Papasotiriou/CVE-2026-1111-Smart-Contract-Cross-Function-Reentrancy)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-1111-Smart-Contract-Cross-Function-Reentrancy">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-1111-Smart-Contract-Cross-Function-Reentrancy">
+
+---
+## CVE-2026-110912 ()
+> 
+- [dreamfast/CVE-2026-110912](https://github.com/dreamfast/CVE-2026-110912)	<img alt="forks" src="https://img.shields.io/github/forks/dreamfast/CVE-2026-110912">	<img alt="stars" src="https://img.shields.io/github/stars/dreamfast/CVE-2026-110912">
 
 ---
 ## CVE-2026-1107 ()
@@ -12970,6 +12991,7 @@
 - [uday952/CVE-2026-104711-RestPlugin-PoC](https://github.com/uday952/CVE-2026-104711-RestPlugin-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-104711-RestPlugin-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-104711-RestPlugin-PoC">
 - [pochunter/POC-EXPLOIT-CVE-2026-104711](https://github.com/pochunter/POC-EXPLOIT-CVE-2026-104711)	<img alt="forks" src="https://img.shields.io/github/forks/pochunter/POC-EXPLOIT-CVE-2026-104711">	<img alt="stars" src="https://img.shields.io/github/stars/pochunter/POC-EXPLOIT-CVE-2026-104711">
 - [uday952/CVE-2026-104711-POC---Brand-New](https://github.com/uday952/CVE-2026-104711-POC---Brand-New)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-104711-POC---Brand-New">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-104711-POC---Brand-New">
+- [uday952/CVE-2026-104711-POC-NEW-VARIANT](https://github.com/uday952/CVE-2026-104711-POC-NEW-VARIANT)	<img alt="forks" src="https://img.shields.io/github/forks/uday952/CVE-2026-104711-POC-NEW-VARIANT">	<img alt="stars" src="https://img.shields.io/github/stars/uday952/CVE-2026-104711-POC-NEW-VARIANT">
 
 ---
 ## CVE-2026-104356 ()
