@@ -12814,6 +12814,11 @@
 - [asvorg/CVE-2026-108592-poc](https://github.com/asvorg/CVE-2026-108592-poc)	<img alt="forks" src="https://img.shields.io/github/forks/asvorg/CVE-2026-108592-poc">	<img alt="stars" src="https://img.shields.io/github/stars/asvorg/CVE-2026-108592-poc">
 
 ---
+## CVE-2026-108578 ()
+> 
+- [KernelDotDLL/CVE-2026-108578](https://github.com/KernelDotDLL/CVE-2026-108578)	<img alt="forks" src="https://img.shields.io/github/forks/KernelDotDLL/CVE-2026-108578">	<img alt="stars" src="https://img.shields.io/github/stars/KernelDotDLL/CVE-2026-108578">
+
+---
 ## CVE-2026-10818 ()
 > 
 - [Nxploited/CVE-2026-10818](https://github.com/Nxploited/CVE-2026-10818)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-10818">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-10818">
