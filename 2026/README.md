@@ -5304,6 +5304,7 @@
 - [shinthink/solrradar](https://github.com/shinthink/solrradar)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/solrradar">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/solrradar">
 - [q0524/CVE-2026-44825_test](https://github.com/q0524/CVE-2026-44825_test)	<img alt="forks" src="https://img.shields.io/github/forks/q0524/CVE-2026-44825_test">	<img alt="stars" src="https://img.shields.io/github/stars/q0524/CVE-2026-44825_test">
 - [q0524/cve-2026-44825-challenge](https://github.com/q0524/cve-2026-44825-challenge)	<img alt="forks" src="https://img.shields.io/github/forks/q0524/cve-2026-44825-challenge">	<img alt="stars" src="https://img.shields.io/github/stars/q0524/cve-2026-44825-challenge">
+- [q0524/cve-2026-44825-challenge](https://github.com/q0524/cve-2026-44825-challenge)	<img alt="forks" src="https://img.shields.io/github/forks/q0524/cve-2026-44825-challenge">	<img alt="stars" src="https://img.shields.io/github/stars/q0524/cve-2026-44825-challenge">
 
 ---
 ## CVE-2026-4480 ()
@@ -12810,6 +12811,7 @@
 > 
 - [SeanDishman/telegram-cve-2026-107181](https://github.com/SeanDishman/telegram-cve-2026-107181)	<img alt="forks" src="https://img.shields.io/github/forks/SeanDishman/telegram-cve-2026-107181">	<img alt="stars" src="https://img.shields.io/github/stars/SeanDishman/telegram-cve-2026-107181">
 - [abdugafforov-bobur/cve-2026-107181-poc](https://github.com/abdugafforov-bobur/cve-2026-107181-poc)	<img alt="forks" src="https://img.shields.io/github/forks/abdugafforov-bobur/cve-2026-107181-poc">	<img alt="stars" src="https://img.shields.io/github/stars/abdugafforov-bobur/cve-2026-107181-poc">
+- [00nx/telegram-account-takeover-poc](https://github.com/00nx/telegram-account-takeover-poc)	<img alt="forks" src="https://img.shields.io/github/forks/00nx/telegram-account-takeover-poc">	<img alt="stars" src="https://img.shields.io/github/stars/00nx/telegram-account-takeover-poc">
 
 ---
 ## CVE-2026-107159 ()
@@ -12933,6 +12935,7 @@
 ## CVE-2026-104935 ()
 > 
 - [ApexBreach/CVE-2026-104935-Proof-of-concept](https://github.com/ApexBreach/CVE-2026-104935-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/ApexBreach/CVE-2026-104935-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/ApexBreach/CVE-2026-104935-Proof-of-concept">
+- [0x45dd/ivanti-cve-2026-104935-check](https://github.com/0x45dd/ivanti-cve-2026-104935-check)	<img alt="forks" src="https://img.shields.io/github/forks/0x45dd/ivanti-cve-2026-104935-check">	<img alt="stars" src="https://img.shields.io/github/stars/0x45dd/ivanti-cve-2026-104935-check">
 
 ---
 ## CVE-2026-104905 ()
