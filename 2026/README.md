@@ -1351,11 +1351,15 @@
 ## CVE-2026-79984 ()
 > 
 - [oscerd/CVE-2026-79984](https://github.com/oscerd/CVE-2026-79984)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-79984">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-79984">
+- [oscerd/CVE-2026-79986](https://github.com/oscerd/CVE-2026-79986)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-79986">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-79986">
+- [oscerd/CVE-2026-79985](https://github.com/oscerd/CVE-2026-79985)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-79985">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-79985">
 
 ---
 ## CVE-2026-79983 ()
 > 
 - [oscerd/CVE-2026-79983](https://github.com/oscerd/CVE-2026-79983)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-79983">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-79983">
+- [oscerd/CVE-2026-79986](https://github.com/oscerd/CVE-2026-79986)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-79986">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-79986">
+- [oscerd/CVE-2026-79985](https://github.com/oscerd/CVE-2026-79985)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-79985">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-79985">
 
 ---
 ## CVE-2026-79752 ()
@@ -6426,6 +6430,7 @@
 - [shibaaa204/Pack2TheRoot](https://github.com/shibaaa204/Pack2TheRoot)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/Pack2TheRoot">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/Pack2TheRoot">
 - [gbuyssens/CVE-2026-41651](https://github.com/gbuyssens/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/gbuyssens/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/gbuyssens/CVE-2026-41651">
 - [ZeroDayEvil/CVE-2026-41651](https://github.com/ZeroDayEvil/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-41651">
+- [iapetus12/cohort-htb](https://github.com/iapetus12/cohort-htb)	<img alt="forks" src="https://img.shields.io/github/forks/iapetus12/cohort-htb">	<img alt="stars" src="https://img.shields.io/github/stars/iapetus12/cohort-htb">
 
 ---
 ## CVE-2026-41575 ()
