@@ -4560,6 +4560,7 @@
 - [Frizzardsecurity/CVE-2025-55182](https://github.com/Frizzardsecurity/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Frizzardsecurity/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Frizzardsecurity/CVE-2025-55182">
 - [foxcornlab/react2shell-scanner](https://github.com/foxcornlab/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/react2shell-scanner">
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">
+- [M4rc3l08/ReactorWriteUp-HackTheBox](https://github.com/M4rc3l08/ReactorWriteUp-HackTheBox)	<img alt="forks" src="https://img.shields.io/github/forks/M4rc3l08/ReactorWriteUp-HackTheBox">	<img alt="stars" src="https://img.shields.io/github/stars/M4rc3l08/ReactorWriteUp-HackTheBox">
 
 ---
 ## CVE-2025-55130 ()
@@ -4814,12 +4815,14 @@
 ## CVE-2025-54068 ()
 > 
 - [flame-11/CVE-2025-54068-livewire](https://github.com/flame-11/CVE-2025-54068-livewire)	<img alt="forks" src="https://img.shields.io/github/forks/flame-11/CVE-2025-54068-livewire">	<img alt="stars" src="https://img.shields.io/github/stars/flame-11/CVE-2025-54068-livewire">
-- [z0d131482700x/Livewire2025CVE](https://github.com/z0d131482700x/Livewire2025CVE)	<img alt="forks" src="https://img.shields.io/github/forks/z0d131482700x/Livewire2025CVE">	<img alt="stars" src="https://img.shields.io/github/stars/z0d131482700x/Livewire2025CVE">
+- [e4zyy/Project-CVE-2025-54068](https://github.com/e4zyy/Project-CVE-2025-54068)	<img alt="forks" src="https://img.shields.io/github/forks/e4zyy/Project-CVE-2025-54068">	<img alt="stars" src="https://img.shields.io/github/stars/e4zyy/Project-CVE-2025-54068">
 - [synacktiv/Livepyre](https://github.com/synacktiv/Livepyre)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/Livepyre">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/Livepyre">
 - [haxorstars/CVE-2025-54068](https://github.com/haxorstars/CVE-2025-54068)	<img alt="forks" src="https://img.shields.io/github/forks/haxorstars/CVE-2025-54068">	<img alt="stars" src="https://img.shields.io/github/stars/haxorstars/CVE-2025-54068">
 - [Jenderal92/livewire-vuln-scanner](https://github.com/Jenderal92/livewire-vuln-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/livewire-vuln-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/livewire-vuln-scanner">
 - [zycoder0day/CVE-2025-54068](https://github.com/zycoder0day/CVE-2025-54068)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2025-54068">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2025-54068">
 - [HelgeSverre/livewire-honeypot](https://github.com/HelgeSverre/livewire-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/HelgeSverre/livewire-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/HelgeSverre/livewire-honeypot">
+- [GustavoLopreto/cve-2025-54068-vuln-intel](https://github.com/GustavoLopreto/cve-2025-54068-vuln-intel)	<img alt="forks" src="https://img.shields.io/github/forks/GustavoLopreto/cve-2025-54068-vuln-intel">	<img alt="stars" src="https://img.shields.io/github/stars/GustavoLopreto/cve-2025-54068-vuln-intel">
+- [luisdalmolin/recon-test-livewire](https://github.com/luisdalmolin/recon-test-livewire)	<img alt="forks" src="https://img.shields.io/github/forks/luisdalmolin/recon-test-livewire">	<img alt="stars" src="https://img.shields.io/github/stars/luisdalmolin/recon-test-livewire">
 
 ---
 ## CVE-2025-53964 ()
