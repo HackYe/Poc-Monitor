@@ -4559,6 +4559,7 @@
 - [OhSoomin812/cve-2025-55182-ctf](https://github.com/OhSoomin812/cve-2025-55182-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/OhSoomin812/cve-2025-55182-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/OhSoomin812/cve-2025-55182-ctf">
 - [Frizzardsecurity/CVE-2025-55182](https://github.com/Frizzardsecurity/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Frizzardsecurity/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Frizzardsecurity/CVE-2025-55182">
 - [foxcornlab/react2shell-scanner](https://github.com/foxcornlab/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/react2shell-scanner">
+- [Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">
 
 ---
 ## CVE-2025-55130 ()
