@@ -136,6 +136,7 @@
 - [aboubacar70/LAB1-metasploitable](https://github.com/aboubacar70/LAB1-metasploitable)	<img alt="forks" src="https://img.shields.io/github/forks/aboubacar70/LAB1-metasploitable">	<img alt="stars" src="https://img.shields.io/github/stars/aboubacar70/LAB1-metasploitable">
 - [ronankongala/metasploit-pentest-report](https://github.com/ronankongala/metasploit-pentest-report)	<img alt="forks" src="https://img.shields.io/github/forks/ronankongala/metasploit-pentest-report">	<img alt="stars" src="https://img.shields.io/github/stars/ronankongala/metasploit-pentest-report">
 - [Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523](https://github.com/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523">
+- [secwitness/CVE-2011-2523-vsftpd-backdoor-analysis](https://github.com/secwitness/CVE-2011-2523-vsftpd-backdoor-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/secwitness/CVE-2011-2523-vsftpd-backdoor-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/secwitness/CVE-2011-2523-vsftpd-backdoor-analysis">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
