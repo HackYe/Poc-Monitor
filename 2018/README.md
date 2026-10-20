@@ -1852,6 +1852,10 @@
 ## CVE-2018-12613 ()
 > 
 - [CyberCTF/vulhub-phpmyadmin-cve-2018-12613](https://github.com/CyberCTF/vulhub-phpmyadmin-cve-2018-12613)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-phpmyadmin-cve-2018-12613">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-phpmyadmin-cve-2018-12613">
+- [eastmountyxz/CVE-2018-12613-phpMyAdmin](https://github.com/eastmountyxz/CVE-2018-12613-phpMyAdmin)	<img alt="forks" src="https://img.shields.io/github/forks/eastmountyxz/CVE-2018-12613-phpMyAdmin">	<img alt="stars" src="https://img.shields.io/github/stars/eastmountyxz/CVE-2018-12613-phpMyAdmin">
+- [YagamiiLight/Cerberus](https://github.com/YagamiiLight/Cerberus)	<img alt="forks" src="https://img.shields.io/github/forks/YagamiiLight/Cerberus">	<img alt="stars" src="https://img.shields.io/github/stars/YagamiiLight/Cerberus">
+- [ivanitlearning/CVE-2018-12613](https://github.com/ivanitlearning/CVE-2018-12613)	<img alt="forks" src="https://img.shields.io/github/forks/ivanitlearning/CVE-2018-12613">	<img alt="stars" src="https://img.shields.io/github/stars/ivanitlearning/CVE-2018-12613">
+- [0x00-0x00/CVE-2018-12613](https://github.com/0x00-0x00/CVE-2018-12613)	<img alt="forks" src="https://img.shields.io/github/forks/0x00-0x00/CVE-2018-12613">	<img alt="stars" src="https://img.shields.io/github/stars/0x00-0x00/CVE-2018-12613">
 
 ---
 ## CVE-2018-1260 ()
