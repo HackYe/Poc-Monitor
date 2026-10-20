@@ -419,6 +419,11 @@
 - [SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection](https://github.com/SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection)	<img alt="forks" src="https://img.shields.io/github/forks/SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection">	<img alt="stars" src="https://img.shields.io/github/stars/SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection">
 
 ---
+## CVE-2026-93300 ()
+> 
+- [Datxzzz/CVE-2026-93300](https://github.com/Datxzzz/CVE-2026-93300)	<img alt="forks" src="https://img.shields.io/github/forks/Datxzzz/CVE-2026-93300">	<img alt="stars" src="https://img.shields.io/github/stars/Datxzzz/CVE-2026-93300">
+
+---
 ## CVE-2026-92966 ()
 > 
 - [murrez/CVE-2026-92966](https://github.com/murrez/CVE-2026-92966)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-92966">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-92966">
@@ -745,6 +750,11 @@
 - [murrez/CVE-2026-88772](https://github.com/murrez/CVE-2026-88772)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-88772">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-88772">
 - [FollowerSeize/CVE-2026-88772-POC](https://github.com/FollowerSeize/CVE-2026-88772-POC)	<img alt="forks" src="https://img.shields.io/github/forks/FollowerSeize/CVE-2026-88772-POC">	<img alt="stars" src="https://img.shields.io/github/stars/FollowerSeize/CVE-2026-88772-POC">
 - [watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772">
+- [emilstahl/pitscaler](https://github.com/emilstahl/pitscaler)	<img alt="forks" src="https://img.shields.io/github/forks/emilstahl/pitscaler">	<img alt="stars" src="https://img.shields.io/github/stars/emilstahl/pitscaler">
+- [orjanj/netscaler_threat_hunt_helper](https://github.com/orjanj/netscaler_threat_hunt_helper)	<img alt="forks" src="https://img.shields.io/github/forks/orjanj/netscaler_threat_hunt_helper">	<img alt="stars" src="https://img.shields.io/github/stars/orjanj/netscaler_threat_hunt_helper">
+- [technion/netscaler_scanner](https://github.com/technion/netscaler_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/technion/netscaler_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/technion/netscaler_scanner">
+- [ThomasPoppelgaard/netscaler-ctx697096-checker](https://github.com/ThomasPoppelgaard/netscaler-ctx697096-checker)	<img alt="forks" src="https://img.shields.io/github/forks/ThomasPoppelgaard/netscaler-ctx697096-checker">	<img alt="stars" src="https://img.shields.io/github/stars/ThomasPoppelgaard/netscaler-ctx697096-checker">
+- [securekomodo/citrixInspector](https://github.com/securekomodo/citrixInspector)	<img alt="forks" src="https://img.shields.io/github/forks/securekomodo/citrixInspector">	<img alt="stars" src="https://img.shields.io/github/stars/securekomodo/citrixInspector">
 
 ---
 ## CVE-2026-88771 ()
@@ -988,6 +998,26 @@
 ## CVE-2026-85520 ()
 > 
 - [murrez/CVE-2026-85520](https://github.com/murrez/CVE-2026-85520)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/CVE-2026-85520">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/CVE-2026-85520">
+
+---
+## CVE-2026-85314 ()
+> 
+- [oscerd/CVE-2026-85314](https://github.com/oscerd/CVE-2026-85314)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-85314">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-85314">
+
+---
+## CVE-2026-85313 ()
+> 
+- [oscerd/CVE-2026-85313](https://github.com/oscerd/CVE-2026-85313)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-85313">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-85313">
+
+---
+## CVE-2026-85312 ()
+> 
+- [oscerd/CVE-2026-85312](https://github.com/oscerd/CVE-2026-85312)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-85312">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-85312">
+
+---
+## CVE-2026-85301 ()
+> 
+- [oscerd/CVE-2026-85301](https://github.com/oscerd/CVE-2026-85301)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-85301">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-85301">
 
 ---
 ## CVE-2026-85300 ()
@@ -13313,6 +13343,12 @@
 ## CVE-2026-10672 ()
 > 
 - [Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri](https://github.com/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/zephyr-lwm2m-firmware-update-oob-read-cve-2026-10672-truncated-package-uri">
+
+---
+## CVE-2026-106173 ()
+> 
+- [0xBlackash/CVE-2026-106173](https://github.com/0xBlackash/CVE-2026-106173)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-106173">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-106173">
+- [horizon3ai/CVE-2026-106173](https://github.com/horizon3ai/CVE-2026-106173)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2026-106173">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2026-106173">
 
 ---
 ## CVE-2026-105950 ()
