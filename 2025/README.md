@@ -5999,6 +5999,12 @@
 - [C0D331ng/Blackash-CVE-2025-48593](https://github.com/C0D331ng/Blackash-CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/C0D331ng/Blackash-CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/C0D331ng/Blackash-CVE-2025-48593">
 
 ---
+## CVE-2025-48561 ()
+> 
+- [Ife-cyb/CYB-401-Pixnapping-CVE-2025-48561](https://github.com/Ife-cyb/CYB-401-Pixnapping-CVE-2025-48561)	<img alt="forks" src="https://img.shields.io/github/forks/Ife-cyb/CYB-401-Pixnapping-CVE-2025-48561">	<img alt="stars" src="https://img.shields.io/github/stars/Ife-cyb/CYB-401-Pixnapping-CVE-2025-48561">
+- [demining/Pixnapping-Attack-on-Android](https://github.com/demining/Pixnapping-Attack-on-Android)	<img alt="forks" src="https://img.shields.io/github/forks/demining/Pixnapping-Attack-on-Android">	<img alt="stars" src="https://img.shields.io/github/stars/demining/Pixnapping-Attack-on-Android">
+
+---
 ## CVE-2025-48543 ()
 > 
 - [gamesarchive/CVE-2025-48543](https://github.com/gamesarchive/CVE-2025-48543)	<img alt="forks" src="https://img.shields.io/github/forks/gamesarchive/CVE-2025-48543">	<img alt="stars" src="https://img.shields.io/github/stars/gamesarchive/CVE-2025-48543">
