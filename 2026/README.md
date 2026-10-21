@@ -910,6 +910,7 @@
 - [msuiche/hotcell](https://github.com/msuiche/hotcell)	<img alt="forks" src="https://img.shields.io/github/forks/msuiche/hotcell">	<img alt="stars" src="https://img.shields.io/github/stars/msuiche/hotcell">
 - [34zY/CVE-2026-86950](https://github.com/34zY/CVE-2026-86950)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/CVE-2026-86950">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/CVE-2026-86950">
 - [java99999/CVE-2026-86950-POC](https://github.com/java99999/CVE-2026-86950-POC)	<img alt="forks" src="https://img.shields.io/github/forks/java99999/CVE-2026-86950-POC">	<img alt="stars" src="https://img.shields.io/github/stars/java99999/CVE-2026-86950-POC">
+- [jpdagostin0/CVE-2026-86950-POC](https://github.com/jpdagostin0/CVE-2026-86950-POC)	<img alt="forks" src="https://img.shields.io/github/forks/jpdagostin0/CVE-2026-86950-POC">	<img alt="stars" src="https://img.shields.io/github/stars/jpdagostin0/CVE-2026-86950-POC">
 
 ---
 ## CVE-2026-86881 ()
@@ -3345,6 +3346,7 @@
 - [hypnguyen1209/CVE-2026-62911](https://github.com/hypnguyen1209/CVE-2026-62911)	<img alt="forks" src="https://img.shields.io/github/forks/hypnguyen1209/CVE-2026-62911">	<img alt="stars" src="https://img.shields.io/github/stars/hypnguyen1209/CVE-2026-62911">
 - [bhavik08-gone/CVE-2026-62911-info](https://github.com/bhavik08-gone/CVE-2026-62911-info)	<img alt="forks" src="https://img.shields.io/github/forks/bhavik08-gone/CVE-2026-62911-info">	<img alt="stars" src="https://img.shields.io/github/stars/bhavik08-gone/CVE-2026-62911-info">
 - [ZeroDayEvil/CVE-2026-62911](https://github.com/ZeroDayEvil/CVE-2026-62911)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-62911">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-62911">
+- [fahise/cve-2026-62911](https://github.com/fahise/cve-2026-62911)	<img alt="forks" src="https://img.shields.io/github/forks/fahise/cve-2026-62911">	<img alt="stars" src="https://img.shields.io/github/stars/fahise/cve-2026-62911">
 
 ---
 ## CVE-2026-62878 ()
