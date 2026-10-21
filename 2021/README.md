@@ -5846,6 +5846,7 @@
 - [GlacierGossip/PrintNightmare](https://github.com/GlacierGossip/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/GlacierGossip/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/GlacierGossip/PrintNightmare">
 - [CameraShutterBug/PrintNightmare](https://github.com/CameraShutterBug/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/CameraShutterBug/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/CameraShutterBug/PrintNightmare">
 - [AlDawli/CVE-2021-34527-](https://github.com/AlDawli/CVE-2021-34527-)	<img alt="forks" src="https://img.shields.io/github/forks/AlDawli/CVE-2021-34527-">	<img alt="stars" src="https://img.shields.io/github/stars/AlDawli/CVE-2021-34527-">
+- [honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md](https://github.com/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md)	<img alt="forks" src="https://img.shields.io/github/forks/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md">	<img alt="stars" src="https://img.shields.io/github/stars/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md">
 
 ---
 ## CVE-2021-34523 (2021-07-14T18:15:00)
@@ -7775,6 +7776,7 @@
 - [SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit](https://github.com/SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit">
 - [wysssadda/ExchangeSmash](https://github.com/wysssadda/ExchangeSmash)	<img alt="forks" src="https://img.shields.io/github/forks/wysssadda/ExchangeSmash">	<img alt="stars" src="https://img.shields.io/github/stars/wysssadda/ExchangeSmash">
 - [haotiku/CVE-2021-26855-exploit-Exchange](https://github.com/haotiku/CVE-2021-26855-exploit-Exchange)	<img alt="forks" src="https://img.shields.io/github/forks/haotiku/CVE-2021-26855-exploit-Exchange">	<img alt="stars" src="https://img.shields.io/github/stars/haotiku/CVE-2021-26855-exploit-Exchange">
+- [ifeoluwaayodeji/CVE-2021-26855-Analysis](https://github.com/ifeoluwaayodeji/CVE-2021-26855-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/ifeoluwaayodeji/CVE-2021-26855-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/ifeoluwaayodeji/CVE-2021-26855-Analysis">
 
 ---
 ## CVE-2021-26837 ()
