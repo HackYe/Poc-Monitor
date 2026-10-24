@@ -5887,6 +5887,7 @@
 ## CVE-2026-44848 ()
 > 
 - [Boreas37/CVE-2026-44848-PoC](https://github.com/Boreas37/CVE-2026-44848-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2026-44848-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2026-44848-PoC">
+- [mnk-works/portainer-cve-2026-44848-checker](https://github.com/mnk-works/portainer-cve-2026-44848-checker)	<img alt="forks" src="https://img.shields.io/github/forks/mnk-works/portainer-cve-2026-44848-checker">	<img alt="stars" src="https://img.shields.io/github/stars/mnk-works/portainer-cve-2026-44848-checker">
 
 ---
 ## CVE-2026-4484 ()
@@ -7569,6 +7570,7 @@
 - [Harry178945/CVE-2026-38526](https://github.com/Harry178945/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/Harry178945/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/Harry178945/CVE-2026-38526">
 - [MRdark-ops/CVE-2026-38526](https://github.com/MRdark-ops/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/MRdark-ops/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/MRdark-ops/CVE-2026-38526">
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE">
+- [sh3llc0d3-0x15/CVE-2026-38526-Exploit](https://github.com/sh3llc0d3-0x15/CVE-2026-38526-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sh3llc0d3-0x15/CVE-2026-38526-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sh3llc0d3-0x15/CVE-2026-38526-Exploit">
 
 ---
 ## CVE-2026-3847 ()
@@ -13374,6 +13376,11 @@
 - [0xBlackash/CVE-2026-11499](https://github.com/0xBlackash/CVE-2026-11499)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-11499">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-11499">
 
 ---
+## CVE-2026-114820 ()
+> 
+- [joedayz/cve-2026-114820-java-scan](https://github.com/joedayz/cve-2026-114820-java-scan)	<img alt="forks" src="https://img.shields.io/github/forks/joedayz/cve-2026-114820-java-scan">	<img alt="stars" src="https://img.shields.io/github/stars/joedayz/cve-2026-114820-java-scan">
+
+---
 ## CVE-2026-114509 ()
 > 
 - [tajulasri/-CVE-2026-114509-POC](https://github.com/tajulasri/-CVE-2026-114509-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tajulasri/-CVE-2026-114509-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tajulasri/-CVE-2026-114509-POC">
@@ -14141,6 +14148,23 @@
 - [vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy](https://github.com/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy)	<img alt="forks" src="https://img.shields.io/github/forks/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy">	<img alt="stars" src="https://img.shields.io/github/stars/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy">
 - [devzyai/CVE-2026-109618-POC](https://github.com/devzyai/CVE-2026-109618-POC)	<img alt="forks" src="https://img.shields.io/github/forks/devzyai/CVE-2026-109618-POC">	<img alt="stars" src="https://img.shields.io/github/stars/devzyai/CVE-2026-109618-POC">
 - [isaca0315/cve-2026-109618-109619-session-upload-progress-trigger](https://github.com/isaca0315/cve-2026-109618-109619-session-upload-progress-trigger)	<img alt="forks" src="https://img.shields.io/github/forks/isaca0315/cve-2026-109618-109619-session-upload-progress-trigger">	<img alt="stars" src="https://img.shields.io/github/stars/isaca0315/cve-2026-109618-109619-session-upload-progress-trigger">
+- [citypeople/php2shell](https://github.com/citypeople/php2shell)	<img alt="forks" src="https://img.shields.io/github/forks/citypeople/php2shell">	<img alt="stars" src="https://img.shields.io/github/stars/citypeople/php2shell">
+- [brentmartinmiller/php2shell-check](https://github.com/brentmartinmiller/php2shell-check)	<img alt="forks" src="https://img.shields.io/github/forks/brentmartinmiller/php2shell-check">	<img alt="stars" src="https://img.shields.io/github/stars/brentmartinmiller/php2shell-check">
+- [sajjadh47/php2shell-php](https://github.com/sajjadh47/php2shell-php)	<img alt="forks" src="https://img.shields.io/github/forks/sajjadh47/php2shell-php">	<img alt="stars" src="https://img.shields.io/github/stars/sajjadh47/php2shell-php">
+- [akamor2800/php-5.4-cve-2026-php2shell-patch](https://github.com/akamor2800/php-5.4-cve-2026-php2shell-patch)	<img alt="forks" src="https://img.shields.io/github/forks/akamor2800/php-5.4-cve-2026-php2shell-patch">	<img alt="stars" src="https://img.shields.io/github/stars/akamor2800/php-5.4-cve-2026-php2shell-patch">
+- [Nguemoue/project2026_20261024_php2shellcheck](https://github.com/Nguemoue/project2026_20261024_php2shellcheck)	<img alt="forks" src="https://img.shields.io/github/forks/Nguemoue/project2026_20261024_php2shellcheck">	<img alt="stars" src="https://img.shields.io/github/stars/Nguemoue/project2026_20261024_php2shellcheck">
+- [seppegadeyne/php2shell-runcloud-builds](https://github.com/seppegadeyne/php2shell-runcloud-builds)	<img alt="forks" src="https://img.shields.io/github/forks/seppegadeyne/php2shell-runcloud-builds">	<img alt="stars" src="https://img.shields.io/github/stars/seppegadeyne/php2shell-runcloud-builds">
+- [umer-r/php2shell-scan-revamp](https://github.com/umer-r/php2shell-scan-revamp)	<img alt="forks" src="https://img.shields.io/github/forks/umer-r/php2shell-scan-revamp">	<img alt="stars" src="https://img.shields.io/github/stars/umer-r/php2shell-scan-revamp">
+- [E-Sherlock/php2shell-detection-engineering-lab](https://github.com/E-Sherlock/php2shell-detection-engineering-lab)	<img alt="forks" src="https://img.shields.io/github/forks/E-Sherlock/php2shell-detection-engineering-lab">	<img alt="stars" src="https://img.shields.io/github/stars/E-Sherlock/php2shell-detection-engineering-lab">
+- [CypherSecurity/php2shell-detection](https://github.com/CypherSecurity/php2shell-detection)	<img alt="forks" src="https://img.shields.io/github/forks/CypherSecurity/php2shell-detection">	<img alt="stars" src="https://img.shields.io/github/stars/CypherSecurity/php2shell-detection">
+- [Rahat463/patchferry-check](https://github.com/Rahat463/patchferry-check)	<img alt="forks" src="https://img.shields.io/github/forks/Rahat463/patchferry-check">	<img alt="stars" src="https://img.shields.io/github/stars/Rahat463/patchferry-check">
+- [nikhilyadav551/php2shel](https://github.com/nikhilyadav551/php2shel)	<img alt="forks" src="https://img.shields.io/github/forks/nikhilyadav551/php2shel">	<img alt="stars" src="https://img.shields.io/github/stars/nikhilyadav551/php2shel">
+- [Cyber-BansalAI/php2shell-2026](https://github.com/Cyber-BansalAI/php2shell-2026)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-BansalAI/php2shell-2026">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-BansalAI/php2shell-2026">
+- [BRANDEFENSE/php2shell-defense-kit](https://github.com/BRANDEFENSE/php2shell-defense-kit)	<img alt="forks" src="https://img.shields.io/github/forks/BRANDEFENSE/php2shell-defense-kit">	<img alt="stars" src="https://img.shields.io/github/stars/BRANDEFENSE/php2shell-defense-kit">
+- [ctkqiang/PHP2ShellPOC2026](https://github.com/ctkqiang/PHP2ShellPOC2026)	<img alt="forks" src="https://img.shields.io/github/forks/ctkqiang/PHP2ShellPOC2026">	<img alt="stars" src="https://img.shields.io/github/stars/ctkqiang/PHP2ShellPOC2026">
+- [utkarsssh17/cve-2026-109618-php2shell-poc](https://github.com/utkarsssh17/cve-2026-109618-php2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/utkarsssh17/cve-2026-109618-php2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/utkarsssh17/cve-2026-109618-php2shell-poc">
+- [zhuyihenzheng/php2shell-repro](https://github.com/zhuyihenzheng/php2shell-repro)	<img alt="forks" src="https://img.shields.io/github/forks/zhuyihenzheng/php2shell-repro">	<img alt="stars" src="https://img.shields.io/github/stars/zhuyihenzheng/php2shell-repro">
+- [imaginal/docker-php74-trixie](https://github.com/imaginal/docker-php74-trixie)	<img alt="forks" src="https://img.shields.io/github/forks/imaginal/docker-php74-trixie">	<img alt="stars" src="https://img.shields.io/github/stars/imaginal/docker-php74-trixie">
 
 ---
 ## CVE-2026-10961 ()
