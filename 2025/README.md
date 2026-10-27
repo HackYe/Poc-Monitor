@@ -3840,6 +3840,9 @@
 - [pedrose-99/CVE-2025-5548](https://github.com/pedrose-99/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/pedrose-99/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/pedrose-99/CVE-2025-5548">
 - [jessoan/CVE-2025-5548](https://github.com/jessoan/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/jessoan/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/jessoan/CVE-2025-5548">
 - [libeazu/CVE-2025-5548](https://github.com/libeazu/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/libeazu/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/libeazu/CVE-2025-5548">
+- [jessoan/Cyber](https://github.com/jessoan/Cyber)	<img alt="forks" src="https://img.shields.io/github/forks/jessoan/Cyber">	<img alt="stars" src="https://img.shields.io/github/stars/jessoan/Cyber">
+- [dc04265/CVE-2025-5548-Practica-Modulo-6](https://github.com/dc04265/CVE-2025-5548-Practica-Modulo-6)	<img alt="forks" src="https://img.shields.io/github/forks/dc04265/CVE-2025-5548-Practica-Modulo-6">	<img alt="stars" src="https://img.shields.io/github/stars/dc04265/CVE-2025-5548-Practica-Modulo-6">
+- [FreemanHack/CVE-2025-5548](https://github.com/FreemanHack/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/FreemanHack/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/FreemanHack/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
@@ -9751,6 +9754,7 @@
 - [yym8538/CVE-2025-24813](https://github.com/yym8538/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yym8538/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yym8538/CVE-2025-24813">
 - [Affapple/CVE-2025-24813-POC](https://github.com/Affapple/CVE-2025-24813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Affapple/CVE-2025-24813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Affapple/CVE-2025-24813-POC">
 - [toyplan/cve-2025-24813](https://github.com/toyplan/cve-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/toyplan/cve-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/toyplan/cve-2025-24813">
+- [Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813](https://github.com/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
