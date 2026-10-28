@@ -1432,6 +1432,7 @@
 ## CVE-2026-84383 ()
 > 
 - [dinosn/libheif-cve-2026-84383-lab](https://github.com/dinosn/libheif-cve-2026-84383-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/libheif-cve-2026-84383-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/libheif-cve-2026-84383-lab">
+- [sachincool/cve-2026-84383-poc](https://github.com/sachincool/cve-2026-84383-poc)	<img alt="forks" src="https://img.shields.io/github/forks/sachincool/cve-2026-84383-poc">	<img alt="stars" src="https://img.shields.io/github/stars/sachincool/cve-2026-84383-poc">
 
 ---
 ## CVE-2026-84361 ()
@@ -3472,6 +3473,11 @@
 ## CVE-2026-63292 ()
 > 
 - [0xBlackash/CVE-2026-63292](https://github.com/0xBlackash/CVE-2026-63292)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-63292">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-63292">
+
+---
+## CVE-2026-63286 ()
+> 
+- [ricardojoserf/CVE-2026-63286](https://github.com/ricardojoserf/CVE-2026-63286)	<img alt="forks" src="https://img.shields.io/github/forks/ricardojoserf/CVE-2026-63286">	<img alt="stars" src="https://img.shields.io/github/stars/ricardojoserf/CVE-2026-63286">
 
 ---
 ## CVE-2026-63277 ()
@@ -9366,6 +9372,7 @@
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail">
 - [codesource/cve-check](https://github.com/codesource/cve-check)	<img alt="forks" src="https://img.shields.io/github/forks/codesource/cve-check">	<img alt="stars" src="https://img.shields.io/github/stars/codesource/cve-check">
 - [StackOverflowExcept1on/CVE-2026-31431](https://github.com/StackOverflowExcept1on/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/StackOverflowExcept1on/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/StackOverflowExcept1on/CVE-2026-31431">
+- [Venshell/copy-fail-CVE-2026-31431-aarch64](https://github.com/Venshell/copy-fail-CVE-2026-31431-aarch64)	<img alt="forks" src="https://img.shields.io/github/forks/Venshell/copy-fail-CVE-2026-31431-aarch64">	<img alt="stars" src="https://img.shields.io/github/stars/Venshell/copy-fail-CVE-2026-31431-aarch64">
 
 ---
 ## CVE-2026-3143 ()
@@ -14668,6 +14675,7 @@
 - [tal7aouy/php2shell-scanner](https://github.com/tal7aouy/php2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/tal7aouy/php2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/tal7aouy/php2shell-scanner">
 - [qualixar/php2shell-lab](https://github.com/qualixar/php2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/qualixar/php2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/qualixar/php2shell-lab">
 - [lflare/php2shell-cve-2026-109618-109619](https://github.com/lflare/php2shell-cve-2026-109618-109619)	<img alt="forks" src="https://img.shields.io/github/forks/lflare/php2shell-cve-2026-109618-109619">	<img alt="stars" src="https://img.shields.io/github/stars/lflare/php2shell-cve-2026-109618-109619">
+- [IamLucif3r/CVE-2026-109618-exploit](https://github.com/IamLucif3r/CVE-2026-109618-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IamLucif3r/CVE-2026-109618-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IamLucif3r/CVE-2026-109618-exploit">
 
 ---
 ## CVE-2026-10961 ()
@@ -15454,6 +15462,7 @@
 - [0xBlackash/CVE-2026-101767](https://github.com/0xBlackash/CVE-2026-101767)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-101767">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-101767">
 - [seck19/CVE-2026-101767-POC](https://github.com/seck19/CVE-2026-101767-POC)	<img alt="forks" src="https://img.shields.io/github/forks/seck19/CVE-2026-101767-POC">	<img alt="stars" src="https://img.shields.io/github/stars/seck19/CVE-2026-101767-POC">
 - [piecar21/CVE-2026-101767](https://github.com/piecar21/CVE-2026-101767)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2026-101767">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2026-101767">
+- [Sable-Research/CVE-2026-101767-research](https://github.com/Sable-Research/CVE-2026-101767-research)	<img alt="forks" src="https://img.shields.io/github/forks/Sable-Research/CVE-2026-101767-research">	<img alt="stars" src="https://img.shields.io/github/stars/Sable-Research/CVE-2026-101767-research">
 
 ---
 ## CVE-2026-10134 ()
