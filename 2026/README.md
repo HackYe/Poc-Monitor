@@ -7260,6 +7260,11 @@
 - [Lulztigre/cve-2026-41042](https://github.com/Lulztigre/cve-2026-41042)	<img alt="forks" src="https://img.shields.io/github/forks/Lulztigre/cve-2026-41042">	<img alt="stars" src="https://img.shields.io/github/stars/Lulztigre/cve-2026-41042">
 
 ---
+## CVE-2026-41036 ()
+> 
+- [mir7867/CVE-2026-41036-Quantum-Networks-Copy-repository-name](https://github.com/mir7867/CVE-2026-41036-Quantum-Networks-Copy-repository-name)	<img alt="forks" src="https://img.shields.io/github/forks/mir7867/CVE-2026-41036-Quantum-Networks-Copy-repository-name">	<img alt="stars" src="https://img.shields.io/github/stars/mir7867/CVE-2026-41036-Quantum-Networks-Copy-repository-name">
+
+---
 ## CVE-2026-40987 ()
 > 
 - [daehyuh/CVE-2026-40987](https://github.com/daehyuh/CVE-2026-40987)	<img alt="forks" src="https://img.shields.io/github/forks/daehyuh/CVE-2026-40987">	<img alt="stars" src="https://img.shields.io/github/stars/daehyuh/CVE-2026-40987">
@@ -13863,6 +13868,7 @@
 - [Nyamort/brotli-pingback-lab](https://github.com/Nyamort/brotli-pingback-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Nyamort/brotli-pingback-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Nyamort/brotli-pingback-lab">
 - [amier-ge/Node2Shell](https://github.com/amier-ge/Node2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/amier-ge/Node2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/amier-ge/Node2Shell">
 - [gik2927/CVE-2026-111497-DOS-](https://github.com/gik2927/CVE-2026-111497-DOS-)	<img alt="forks" src="https://img.shields.io/github/forks/gik2927/CVE-2026-111497-DOS-">	<img alt="stars" src="https://img.shields.io/github/stars/gik2927/CVE-2026-111497-DOS-">
+- [caveeroo/cve-2026-111497-wordpress-poc](https://github.com/caveeroo/cve-2026-111497-wordpress-poc)	<img alt="forks" src="https://img.shields.io/github/forks/caveeroo/cve-2026-111497-wordpress-poc">	<img alt="stars" src="https://img.shields.io/github/stars/caveeroo/cve-2026-111497-wordpress-poc">
 
 ---
 ## CVE-2026-111444 ()
