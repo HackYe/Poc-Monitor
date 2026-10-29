@@ -94,6 +94,10 @@
 - [4627488/cve-2026-98260-nezha](https://github.com/4627488/cve-2026-98260-nezha)	<img alt="forks" src="https://img.shields.io/github/forks/4627488/cve-2026-98260-nezha">	<img alt="stars" src="https://img.shields.io/github/stars/4627488/cve-2026-98260-nezha">
 - [b1gmang0/CVE-2026-98260-pandora-lpe](https://github.com/b1gmang0/CVE-2026-98260-pandora-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/b1gmang0/CVE-2026-98260-pandora-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/b1gmang0/CVE-2026-98260-pandora-lpe">
 - [colorgarden/CVE-2026-98260-y700-TB321FU-lpe](https://github.com/colorgarden/CVE-2026-98260-y700-TB321FU-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/colorgarden/CVE-2026-98260-y700-TB321FU-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/colorgarden/CVE-2026-98260-y700-TB321FU-lpe">
+- [Again1996-bit/CVE-2026-98260-GhostKey](https://github.com/Again1996-bit/CVE-2026-98260-GhostKey)	<img alt="forks" src="https://img.shields.io/github/forks/Again1996-bit/CVE-2026-98260-GhostKey">	<img alt="stars" src="https://img.shields.io/github/stars/Again1996-bit/CVE-2026-98260-GhostKey">
+- [Feiman55/CVE-2026-98260-GhostKey](https://github.com/Feiman55/CVE-2026-98260-GhostKey)	<img alt="forks" src="https://img.shields.io/github/forks/Feiman55/CVE-2026-98260-GhostKey">	<img alt="stars" src="https://img.shields.io/github/stars/Feiman55/CVE-2026-98260-GhostKey">
+- [NanoTurtle1145/cve-2026-98260-uaf](https://github.com/NanoTurtle1145/cve-2026-98260-uaf)	<img alt="forks" src="https://img.shields.io/github/forks/NanoTurtle1145/cve-2026-98260-uaf">	<img alt="stars" src="https://img.shields.io/github/stars/NanoTurtle1145/cve-2026-98260-uaf">
+- [kpgc10kai/TimerRoot](https://github.com/kpgc10kai/TimerRoot)	<img alt="forks" src="https://img.shields.io/github/forks/kpgc10kai/TimerRoot">	<img alt="stars" src="https://img.shields.io/github/stars/kpgc10kai/TimerRoot">
 
 ---
 ## CVE-2026-98256 ()
@@ -154,6 +158,7 @@
 > 
 - [piecar21/CVE-2026-97631](https://github.com/piecar21/CVE-2026-97631)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2026-97631">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2026-97631">
 - [slabbdev/uefi-pxe-cve-2026-97631](https://github.com/slabbdev/uefi-pxe-cve-2026-97631)	<img alt="forks" src="https://img.shields.io/github/forks/slabbdev/uefi-pxe-cve-2026-97631">	<img alt="stars" src="https://img.shields.io/github/stars/slabbdev/uefi-pxe-cve-2026-97631">
+- [Try2Take/CVE-2026-97631-PoC](https://github.com/Try2Take/CVE-2026-97631-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Try2Take/CVE-2026-97631-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Try2Take/CVE-2026-97631-PoC">
 
 ---
 ## CVE-2026-97629 ()
@@ -13564,6 +13569,11 @@
 - [asvorg/CVE-2026-117532-poc](https://github.com/asvorg/CVE-2026-117532-poc)	<img alt="forks" src="https://img.shields.io/github/forks/asvorg/CVE-2026-117532-poc">	<img alt="stars" src="https://img.shields.io/github/stars/asvorg/CVE-2026-117532-poc">
 
 ---
+## CVE-2026-117025 ()
+> 
+- [Lariinz/CVE-2026-117025](https://github.com/Lariinz/CVE-2026-117025)	<img alt="forks" src="https://img.shields.io/github/forks/Lariinz/CVE-2026-117025">	<img alt="stars" src="https://img.shields.io/github/stars/Lariinz/CVE-2026-117025">
+
+---
 ## CVE-2026-116692 ()
 > 
 - [piecar21/CVE-2026-116692](https://github.com/piecar21/CVE-2026-116692)	<img alt="forks" src="https://img.shields.io/github/forks/piecar21/CVE-2026-116692">	<img alt="stars" src="https://img.shields.io/github/stars/piecar21/CVE-2026-116692">
@@ -13766,6 +13776,11 @@
 - [MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak](https://github.com/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak)	<img alt="forks" src="https://img.shields.io/github/forks/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak">	<img alt="stars" src="https://img.shields.io/github/stars/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak">
 
 ---
+## CVE-2026-112445 ()
+> 
+- [Mas0nShi/CVE-2026-112445](https://github.com/Mas0nShi/CVE-2026-112445)	<img alt="forks" src="https://img.shields.io/github/forks/Mas0nShi/CVE-2026-112445">	<img alt="stars" src="https://img.shields.io/github/stars/Mas0nShi/CVE-2026-112445">
+
+---
 ## CVE-2026-112403 ()
 > 
 - [al4n4n/CVE-2026-112403](https://github.com/al4n4n/CVE-2026-112403)	<img alt="forks" src="https://img.shields.io/github/forks/al4n4n/CVE-2026-112403">	<img alt="stars" src="https://img.shields.io/github/stars/al4n4n/CVE-2026-112403">
@@ -13869,6 +13884,11 @@
 - [amier-ge/Node2Shell](https://github.com/amier-ge/Node2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/amier-ge/Node2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/amier-ge/Node2Shell">
 - [gik2927/CVE-2026-111497-DOS-](https://github.com/gik2927/CVE-2026-111497-DOS-)	<img alt="forks" src="https://img.shields.io/github/forks/gik2927/CVE-2026-111497-DOS-">	<img alt="stars" src="https://img.shields.io/github/stars/gik2927/CVE-2026-111497-DOS-">
 - [caveeroo/cve-2026-111497-wordpress-poc](https://github.com/caveeroo/cve-2026-111497-wordpress-poc)	<img alt="forks" src="https://img.shields.io/github/forks/caveeroo/cve-2026-111497-wordpress-poc">	<img alt="stars" src="https://img.shields.io/github/stars/caveeroo/cve-2026-111497-wordpress-poc">
+- [foxcornlab/node2shell-inventory-scanner](https://github.com/foxcornlab/node2shell-inventory-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/node2shell-inventory-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/node2shell-inventory-scanner">
+- [fieldse/brotli-node2shell-check](https://github.com/fieldse/brotli-node2shell-check)	<img alt="forks" src="https://img.shields.io/github/forks/fieldse/brotli-node2shell-check">	<img alt="stars" src="https://img.shields.io/github/stars/fieldse/brotli-node2shell-check">
+- [sakai-sktech/brotli-check](https://github.com/sakai-sktech/brotli-check)	<img alt="forks" src="https://img.shields.io/github/forks/sakai-sktech/brotli-check">	<img alt="stars" src="https://img.shields.io/github/stars/sakai-sktech/brotli-check">
+- [Quaerendir/node2shell-audit](https://github.com/Quaerendir/node2shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/Quaerendir/node2shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/Quaerendir/node2shell-audit">
+- [hkoeck/node2shell-status](https://github.com/hkoeck/node2shell-status)	<img alt="forks" src="https://img.shields.io/github/forks/hkoeck/node2shell-status">	<img alt="stars" src="https://img.shields.io/github/stars/hkoeck/node2shell-status">
 
 ---
 ## CVE-2026-111444 ()
@@ -14019,6 +14039,11 @@
 ## CVE-2026-110025 ()
 > 
 - [capivara-research/CVE-2026-110025](https://github.com/capivara-research/CVE-2026-110025)	<img alt="forks" src="https://img.shields.io/github/forks/capivara-research/CVE-2026-110025">	<img alt="stars" src="https://img.shields.io/github/stars/capivara-research/CVE-2026-110025">
+
+---
+## CVE-2026-109722 ()
+> 
+- [Scyrix-LLC/CVE-2026-109722](https://github.com/Scyrix-LLC/CVE-2026-109722)	<img alt="forks" src="https://img.shields.io/github/forks/Scyrix-LLC/CVE-2026-109722">	<img alt="stars" src="https://img.shields.io/github/stars/Scyrix-LLC/CVE-2026-109722">
 
 ---
 ## CVE-2026-109721 ()
@@ -14221,6 +14246,24 @@
 - [hktalent/cve-scanner](https://github.com/hktalent/cve-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hktalent/cve-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hktalent/cve-scanner">
 - [AmanSin001/php2shell-check](https://github.com/AmanSin001/php2shell-check)	<img alt="forks" src="https://img.shields.io/github/forks/AmanSin001/php2shell-check">	<img alt="stars" src="https://img.shields.io/github/stars/AmanSin001/php2shell-check">
 - [qw3rtyou/php2shell](https://github.com/qw3rtyou/php2shell)	<img alt="forks" src="https://img.shields.io/github/forks/qw3rtyou/php2shell">	<img alt="stars" src="https://img.shields.io/github/stars/qw3rtyou/php2shell">
+- [CarrollUniversityCS/patch-watch](https://github.com/CarrollUniversityCS/patch-watch)	<img alt="forks" src="https://img.shields.io/github/forks/CarrollUniversityCS/patch-watch">	<img alt="stars" src="https://img.shields.io/github/stars/CarrollUniversityCS/patch-watch">
+- [aulwardana/php2shell-check](https://github.com/aulwardana/php2shell-check)	<img alt="forks" src="https://img.shields.io/github/forks/aulwardana/php2shell-check">	<img alt="stars" src="https://img.shields.io/github/stars/aulwardana/php2shell-check">
+- [murat-levi/php2shell-poc](https://github.com/murat-levi/php2shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/murat-levi/php2shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/murat-levi/php2shell-poc">
+- [matarturo/php2shell-nse-scanner](https://github.com/matarturo/php2shell-nse-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/matarturo/php2shell-nse-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/matarturo/php2shell-nse-scanner">
+- [nfemenia/php56-amzn1-security](https://github.com/nfemenia/php56-amzn1-security)	<img alt="forks" src="https://img.shields.io/github/forks/nfemenia/php56-amzn1-security">	<img alt="stars" src="https://img.shields.io/github/stars/nfemenia/php56-amzn1-security">
+- [dguerri/php2leak](https://github.com/dguerri/php2leak)	<img alt="forks" src="https://img.shields.io/github/forks/dguerri/php2leak">	<img alt="stars" src="https://img.shields.io/github/stars/dguerri/php2leak">
+- [SirjanSingh/php2shell-check](https://github.com/SirjanSingh/php2shell-check)	<img alt="forks" src="https://img.shields.io/github/forks/SirjanSingh/php2shell-check">	<img alt="stars" src="https://img.shields.io/github/stars/SirjanSingh/php2shell-check">
+- [rootone-it/nginx-php2shell-monitor](https://github.com/rootone-it/nginx-php2shell-monitor)	<img alt="forks" src="https://img.shields.io/github/forks/rootone-it/nginx-php2shell-monitor">	<img alt="stars" src="https://img.shields.io/github/stars/rootone-it/nginx-php2shell-monitor">
+- [it-reinbek/php2shell-auditor](https://github.com/it-reinbek/php2shell-auditor)	<img alt="forks" src="https://img.shields.io/github/forks/it-reinbek/php2shell-auditor">	<img alt="stars" src="https://img.shields.io/github/stars/it-reinbek/php2shell-auditor">
+- [alefkaue/php2shell-security-assessor](https://github.com/alefkaue/php2shell-security-assessor)	<img alt="forks" src="https://img.shields.io/github/forks/alefkaue/php2shell-security-assessor">	<img alt="stars" src="https://img.shields.io/github/stars/alefkaue/php2shell-security-assessor">
+- [IamLucif3r/CVE-2026-109618-exploit](https://github.com/IamLucif3r/CVE-2026-109618-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IamLucif3r/CVE-2026-109618-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IamLucif3r/CVE-2026-109618-exploit">
+- [lanz/php2shell-coverage-check](https://github.com/lanz/php2shell-coverage-check)	<img alt="forks" src="https://img.shields.io/github/forks/lanz/php2shell-coverage-check">	<img alt="stars" src="https://img.shields.io/github/stars/lanz/php2shell-coverage-check">
+- [ngenieer/php-eol-backports](https://github.com/ngenieer/php-eol-backports)	<img alt="forks" src="https://img.shields.io/github/forks/ngenieer/php-eol-backports">	<img alt="stars" src="https://img.shields.io/github/stars/ngenieer/php-eol-backports">
+- [inderpreetsinghips/php2shell-audit](https://github.com/inderpreetsinghips/php2shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/inderpreetsinghips/php2shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/inderpreetsinghips/php2shell-audit">
+- [foxcornlab/php-worker-pin](https://github.com/foxcornlab/php-worker-pin)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/php-worker-pin">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/php-worker-pin">
+- [RH1TE/php2shell-fixed-images](https://github.com/RH1TE/php2shell-fixed-images)	<img alt="forks" src="https://img.shields.io/github/forks/RH1TE/php2shell-fixed-images">	<img alt="stars" src="https://img.shields.io/github/stars/RH1TE/php2shell-fixed-images">
+- [c04tl/PHP2SHELL-Lab](https://github.com/c04tl/PHP2SHELL-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/c04tl/PHP2SHELL-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/c04tl/PHP2SHELL-Lab">
+- [axisops/CVE-2026-109618-109619](https://github.com/axisops/CVE-2026-109618-109619)	<img alt="forks" src="https://img.shields.io/github/forks/axisops/CVE-2026-109618-109619">	<img alt="stars" src="https://img.shields.io/github/stars/axisops/CVE-2026-109618-109619">
 
 ---
 ## CVE-2026-109618 ()
