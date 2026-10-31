@@ -84,6 +84,8 @@
 - [paulwouters/block_cve_2026_98432](https://github.com/paulwouters/block_cve_2026_98432)	<img alt="forks" src="https://img.shields.io/github/forks/paulwouters/block_cve_2026_98432">	<img alt="stars" src="https://img.shields.io/github/stars/paulwouters/block_cve_2026_98432">
 - [techtaek77/ubuntu-tcp-guide](https://github.com/techtaek77/ubuntu-tcp-guide)	<img alt="forks" src="https://img.shields.io/github/forks/techtaek77/ubuntu-tcp-guide">	<img alt="stars" src="https://img.shields.io/github/stars/techtaek77/ubuntu-tcp-guide">
 - [Quaerendir/cve-2026-98432-audit](https://github.com/Quaerendir/cve-2026-98432-audit)	<img alt="forks" src="https://img.shields.io/github/forks/Quaerendir/cve-2026-98432-audit">	<img alt="stars" src="https://img.shields.io/github/stars/Quaerendir/cve-2026-98432-audit">
+- [brett6320/fix_CVE-2026-98432](https://github.com/brett6320/fix_CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/brett6320/fix_CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/brett6320/fix_CVE-2026-98432">
+- [alvaroguzmancode/cve-2026-98432](https://github.com/alvaroguzmancode/cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/alvaroguzmancode/cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/alvaroguzmancode/cve-2026-98432">
 
 ---
 ## CVE-2026-98385 ()
