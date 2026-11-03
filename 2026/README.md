@@ -127,6 +127,7 @@
 - [matthew-hollick/mitigate-cve-2026-98432](https://github.com/matthew-hollick/mitigate-cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/matthew-hollick/mitigate-cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/matthew-hollick/mitigate-cve-2026-98432">
 - [thiscitze/cve-2026-98432-root-shell](https://github.com/thiscitze/cve-2026-98432-root-shell)	<img alt="forks" src="https://img.shields.io/github/forks/thiscitze/cve-2026-98432-root-shell">	<img alt="stars" src="https://img.shields.io/github/stars/thiscitze/cve-2026-98432-root-shell">
 - [lowerpower/cve-2026-98432-mitigation](https://github.com/lowerpower/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/lowerpower/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/lowerpower/cve-2026-98432-mitigation">
+- [schnied/cve-2026-98432-mitigation-iptables](https://github.com/schnied/cve-2026-98432-mitigation-iptables)	<img alt="forks" src="https://img.shields.io/github/forks/schnied/cve-2026-98432-mitigation-iptables">	<img alt="stars" src="https://img.shields.io/github/stars/schnied/cve-2026-98432-mitigation-iptables">
 
 ---
 ## CVE-2026-98385 ()
@@ -179,10 +180,13 @@
 - [AzirX1337/CVE-2026-98260-PMX110-Root618-Jailbreak](https://github.com/AzirX1337/CVE-2026-98260-PMX110-Root618-Jailbreak)	<img alt="forks" src="https://img.shields.io/github/forks/AzirX1337/CVE-2026-98260-PMX110-Root618-Jailbreak">	<img alt="stars" src="https://img.shields.io/github/stars/AzirX1337/CVE-2026-98260-PMX110-Root618-Jailbreak">
 - [AmarnathCJD/CVE-2026-98260-IQOO-13](https://github.com/AmarnathCJD/CVE-2026-98260-IQOO-13)	<img alt="forks" src="https://img.shields.io/github/forks/AmarnathCJD/CVE-2026-98260-IQOO-13">	<img alt="stars" src="https://img.shields.io/github/stars/AmarnathCJD/CVE-2026-98260-IQOO-13">
 - [sabuweis/GhostLock-CVE-2026-98260](https://github.com/sabuweis/GhostLock-CVE-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/sabuweis/GhostLock-CVE-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/sabuweis/GhostLock-CVE-2026-98260">
-- [LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root](https://github.com/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root)	<img alt="forks" src="https://img.shields.io/github/forks/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root">	<img alt="stars" src="https://img.shields.io/github/stars/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root">
+- [LinXing0926/GhostCred](https://github.com/LinXing0926/GhostCred)	<img alt="forks" src="https://img.shields.io/github/forks/LinXing0926/GhostCred">	<img alt="stars" src="https://img.shields.io/github/stars/LinXing0926/GhostCred">
 - [cuteaplane/CVE-2026-98260-for-OPD2501](https://github.com/cuteaplane/CVE-2026-98260-for-OPD2501)	<img alt="forks" src="https://img.shields.io/github/forks/cuteaplane/CVE-2026-98260-for-OPD2501">	<img alt="stars" src="https://img.shields.io/github/stars/cuteaplane/CVE-2026-98260-for-OPD2501">
 - [yoro1836/SamTimer](https://github.com/yoro1836/SamTimer)	<img alt="forks" src="https://img.shields.io/github/forks/yoro1836/SamTimer">	<img alt="stars" src="https://img.shields.io/github/stars/yoro1836/SamTimer">
 - [YodonTan/cve-2026-98260-harmonyos-applicability](https://github.com/YodonTan/cve-2026-98260-harmonyos-applicability)	<img alt="forks" src="https://img.shields.io/github/forks/YodonTan/cve-2026-98260-harmonyos-applicability">	<img alt="stars" src="https://img.shields.io/github/stars/YodonTan/cve-2026-98260-harmonyos-applicability">
+- [RMDycz/K80Pro-miro-CVE-2026-98260](https://github.com/RMDycz/K80Pro-miro-CVE-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/RMDycz/K80Pro-miro-CVE-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/RMDycz/K80Pro-miro-CVE-2026-98260">
+- [kailashrs/infinitylock-app](https://github.com/kailashrs/infinitylock-app)	<img alt="forks" src="https://img.shields.io/github/forks/kailashrs/infinitylock-app">	<img alt="stars" src="https://img.shields.io/github/stars/kailashrs/infinitylock-app">
+- [super2tt/CVE-2026-98260-vivo-x-fold6-poc](https://github.com/super2tt/CVE-2026-98260-vivo-x-fold6-poc)	<img alt="forks" src="https://img.shields.io/github/forks/super2tt/CVE-2026-98260-vivo-x-fold6-poc">	<img alt="stars" src="https://img.shields.io/github/stars/super2tt/CVE-2026-98260-vivo-x-fold6-poc">
 
 ---
 ## CVE-2026-98258 ()
@@ -13893,6 +13897,7 @@
 ## CVE-2026-116512 ()
 > 
 - [BabyMushr00w/CVE-2026-116512](https://github.com/BabyMushr00w/CVE-2026-116512)	<img alt="forks" src="https://img.shields.io/github/forks/BabyMushr00w/CVE-2026-116512">	<img alt="stars" src="https://img.shields.io/github/stars/BabyMushr00w/CVE-2026-116512">
+- [0xCyp1337/CVE-2026-116512](https://github.com/0xCyp1337/CVE-2026-116512)	<img alt="forks" src="https://img.shields.io/github/forks/0xCyp1337/CVE-2026-116512">	<img alt="stars" src="https://img.shields.io/github/stars/0xCyp1337/CVE-2026-116512">
 
 ---
 ## CVE-2026-116488 ()
@@ -13951,6 +13956,11 @@
 ## CVE-2026-116105 ()
 > 
 - [ohackercego/CVE-2026-116105](https://github.com/ohackercego/CVE-2026-116105)	<img alt="forks" src="https://img.shields.io/github/forks/ohackercego/CVE-2026-116105">	<img alt="stars" src="https://img.shields.io/github/stars/ohackercego/CVE-2026-116105">
+
+---
+## CVE-2026-116063 ()
+> 
+- [SDshadow/CVE-2026-116063](https://github.com/SDshadow/CVE-2026-116063)	<img alt="forks" src="https://img.shields.io/github/forks/SDshadow/CVE-2026-116063">	<img alt="stars" src="https://img.shields.io/github/stars/SDshadow/CVE-2026-116063">
 
 ---
 ## CVE-2026-116012 ()
