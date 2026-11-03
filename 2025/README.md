@@ -3845,6 +3845,7 @@
 - [jessoan/Cyber](https://github.com/jessoan/Cyber)	<img alt="forks" src="https://img.shields.io/github/forks/jessoan/Cyber">	<img alt="stars" src="https://img.shields.io/github/stars/jessoan/Cyber">
 - [dc04265/CVE-2025-5548-Practica-Modulo-6](https://github.com/dc04265/CVE-2025-5548-Practica-Modulo-6)	<img alt="forks" src="https://img.shields.io/github/forks/dc04265/CVE-2025-5548-Practica-Modulo-6">	<img alt="stars" src="https://img.shields.io/github/stars/dc04265/CVE-2025-5548-Practica-Modulo-6">
 - [FreemanHack/CVE-2025-5548](https://github.com/FreemanHack/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/FreemanHack/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/FreemanHack/CVE-2025-5548">
+- [ppolo1/CVE-2025-5548](https://github.com/ppolo1/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/ppolo1/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/ppolo1/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
@@ -7981,6 +7982,8 @@
 - [Liam-Worsley/CVE-2025-32433-PoC-Analysis](https://github.com/Liam-Worsley/CVE-2025-32433-PoC-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Liam-Worsley/CVE-2025-32433-PoC-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Liam-Worsley/CVE-2025-32433-PoC-Analysis">
 - [damnkrishna/CVE-2025-32433-LAB](https://github.com/damnkrishna/CVE-2025-32433-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/damnkrishna/CVE-2025-32433-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/damnkrishna/CVE-2025-32433-LAB">
 - [X-Bulow/Reproduce-CVE-2025-32433](https://github.com/X-Bulow/Reproduce-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/X-Bulow/Reproduce-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/X-Bulow/Reproduce-CVE-2025-32433">
+- [Avinash37402/CVE-2025-32433-Erlang-OTP-SSH](https://github.com/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH)	<img alt="forks" src="https://img.shields.io/github/forks/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH">	<img alt="stars" src="https://img.shields.io/github/stars/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH">
+- [Avinash37402/CVE-2025-32433](https://github.com/Avinash37402/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/Avinash37402/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/Avinash37402/CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
