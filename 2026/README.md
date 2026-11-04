@@ -132,6 +132,7 @@
 - [muhammedemintombak/pardus21-cve-2026-98432](https://github.com/muhammedemintombak/pardus21-cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/muhammedemintombak/pardus21-cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/muhammedemintombak/pardus21-cve-2026-98432">
 - [mrjoshuap/ansible-ezcve](https://github.com/mrjoshuap/ansible-ezcve)	<img alt="forks" src="https://img.shields.io/github/forks/mrjoshuap/ansible-ezcve">	<img alt="stars" src="https://img.shields.io/github/stars/mrjoshuap/ansible-ezcve">
 - [zenjabba/cve-2026-98432-mitigation](https://github.com/zenjabba/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/zenjabba/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/zenjabba/cve-2026-98432-mitigation">
+- [hdp1972be-svg/cve_2026_98432_guard](https://github.com/hdp1972be-svg/cve_2026_98432_guard)	<img alt="forks" src="https://img.shields.io/github/forks/hdp1972be-svg/cve_2026_98432_guard">	<img alt="stars" src="https://img.shields.io/github/stars/hdp1972be-svg/cve_2026_98432_guard">
 
 ---
 ## CVE-2026-98385 ()
@@ -739,6 +740,11 @@
 ## CVE-2026-92208 ()
 > 
 - [do4choo/CVE-2026-92208_remote_mDNS_overflow](https://github.com/do4choo/CVE-2026-92208_remote_mDNS_overflow)	<img alt="forks" src="https://img.shields.io/github/forks/do4choo/CVE-2026-92208_remote_mDNS_overflow">	<img alt="stars" src="https://img.shields.io/github/stars/do4choo/CVE-2026-92208_remote_mDNS_overflow">
+
+---
+## CVE-2026-92183 ()
+> 
+- [CXu0630/CVE-2026-92183_GIMP_RCE_Proof-of-Concept](https://github.com/CXu0630/CVE-2026-92183_GIMP_RCE_Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/CXu0630/CVE-2026-92183_GIMP_RCE_Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/CXu0630/CVE-2026-92183_GIMP_RCE_Proof-of-Concept">
 
 ---
 ## CVE-2026-92162 ()
@@ -4279,6 +4285,11 @@
 - [Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection](https://github.com/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection">
 
 ---
+## CVE-2026-58115 ()
+> 
+- [al4n4n/CVE-2026-58115](https://github.com/al4n4n/CVE-2026-58115)	<img alt="forks" src="https://img.shields.io/github/forks/al4n4n/CVE-2026-58115">	<img alt="stars" src="https://img.shields.io/github/stars/al4n4n/CVE-2026-58115">
+
+---
 ## CVE-2026-58073 ()
 > 
 - [BishopFox/CVE-2026-58073-check](https://github.com/BishopFox/CVE-2026-58073-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-58073-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-58073-check">
@@ -4510,6 +4521,8 @@
 - [danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis](https://github.com/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis">
 - [danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis](https://github.com/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis">
 - [danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP](https://github.com/danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP)	<img alt="forks" src="https://img.shields.io/github/forks/danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP">	<img alt="stars" src="https://img.shields.io/github/stars/danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP">
+- [danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chainn](https://github.com/danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chainn)	<img alt="forks" src="https://img.shields.io/github/forks/danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chainn">	<img alt="stars" src="https://img.shields.io/github/stars/danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chainn">
+- [danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chain](https://github.com/danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chain)	<img alt="forks" src="https://img.shields.io/github/forks/danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chain">	<img alt="stars" src="https://img.shields.io/github/stars/danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chain">
 
 ---
 ## CVE-2026-56164 ()
@@ -15222,6 +15235,8 @@
 - [ankushsinghrajput-git/php_vulnerability_scanner](https://github.com/ankushsinghrajput-git/php_vulnerability_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ankushsinghrajput-git/php_vulnerability_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ankushsinghrajput-git/php_vulnerability_scanner">
 - [dguerri/php2leak](https://github.com/dguerri/php2leak)	<img alt="forks" src="https://img.shields.io/github/forks/dguerri/php2leak">	<img alt="stars" src="https://img.shields.io/github/stars/dguerri/php2leak">
 - [mrnaeem4/wazuh-php2shell](https://github.com/mrnaeem4/wazuh-php2shell)	<img alt="forks" src="https://img.shields.io/github/forks/mrnaeem4/wazuh-php2shell">	<img alt="stars" src="https://img.shields.io/github/stars/mrnaeem4/wazuh-php2shell">
+- [nanoarmando/php-focal-backports](https://github.com/nanoarmando/php-focal-backports)	<img alt="forks" src="https://img.shields.io/github/forks/nanoarmando/php-focal-backports">	<img alt="stars" src="https://img.shields.io/github/stars/nanoarmando/php-focal-backports">
+- [SquidSec/php2shell](https://github.com/SquidSec/php2shell)	<img alt="forks" src="https://img.shields.io/github/forks/SquidSec/php2shell">	<img alt="stars" src="https://img.shields.io/github/stars/SquidSec/php2shell">
 
 ---
 ## CVE-2026-10961 ()
