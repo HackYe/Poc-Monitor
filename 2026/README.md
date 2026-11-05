@@ -144,6 +144,7 @@
 - [INFOKOM-KI/CVE-2026-98432-Wazuh-](https://github.com/INFOKOM-KI/CVE-2026-98432-Wazuh-)	<img alt="forks" src="https://img.shields.io/github/forks/INFOKOM-KI/CVE-2026-98432-Wazuh-">	<img alt="stars" src="https://img.shields.io/github/stars/INFOKOM-KI/CVE-2026-98432-Wazuh-">
 - [datacenter-metrotel/Mitigating-CVE-2026-98432](https://github.com/datacenter-metrotel/Mitigating-CVE-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/datacenter-metrotel/Mitigating-CVE-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/datacenter-metrotel/Mitigating-CVE-2026-98432">
 - [sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation](https://github.com/sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation">
+- [mafudge/cve-2026-98432](https://github.com/mafudge/cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/mafudge/cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/mafudge/cve-2026-98432">
 
 ---
 ## CVE-2026-98385 ()
@@ -4255,6 +4256,7 @@
 ## CVE-2026-58868 ()
 > 
 - [probear0001/CVE-2026-58868](https://github.com/probear0001/CVE-2026-58868)	<img alt="forks" src="https://img.shields.io/github/forks/probear0001/CVE-2026-58868">	<img alt="stars" src="https://img.shields.io/github/stars/probear0001/CVE-2026-58868">
+- [redfishrouge/CVE-2026-58868-PoC](https://github.com/redfishrouge/CVE-2026-58868-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/redfishrouge/CVE-2026-58868-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/redfishrouge/CVE-2026-58868-PoC">
 
 ---
 ## CVE-2026-5865 ()
@@ -13816,6 +13818,13 @@
 - [horrister/beyondtrust-cve-2026-1232](https://github.com/horrister/beyondtrust-cve-2026-1232)	<img alt="forks" src="https://img.shields.io/github/forks/horrister/beyondtrust-cve-2026-1232">	<img alt="stars" src="https://img.shields.io/github/stars/horrister/beyondtrust-cve-2026-1232">
 
 ---
+## CVE-2026-123158 ()
+> 
+- [rothoma2/cve-2026-123158-sshole](https://github.com/rothoma2/cve-2026-123158-sshole)	<img alt="forks" src="https://img.shields.io/github/forks/rothoma2/cve-2026-123158-sshole">	<img alt="stars" src="https://img.shields.io/github/stars/rothoma2/cve-2026-123158-sshole">
+- [coboliqcom/cve-2026-123158-sshole-safe-rust](https://github.com/coboliqcom/cve-2026-123158-sshole-safe-rust)	<img alt="forks" src="https://img.shields.io/github/forks/coboliqcom/cve-2026-123158-sshole-safe-rust">	<img alt="stars" src="https://img.shields.io/github/stars/coboliqcom/cve-2026-123158-sshole-safe-rust">
+- [0xBlackash/CVE-2026-123158](https://github.com/0xBlackash/CVE-2026-123158)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-123158">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-123158">
+
+---
 ## CVE-2026-12295 ()
 > 
 - [SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm](https://github.com/SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-12295-UXXS-in-my-wasm">
@@ -16128,6 +16137,11 @@
 ## CVE-2026-102422 ()
 > 
 - [DevVaibhav07/CVE-2026-102422](https://github.com/DevVaibhav07/CVE-2026-102422)	<img alt="forks" src="https://img.shields.io/github/forks/DevVaibhav07/CVE-2026-102422">	<img alt="stars" src="https://img.shields.io/github/stars/DevVaibhav07/CVE-2026-102422">
+
+---
+## CVE-2026-102334 ()
+> 
+- [davidoberst/CVE-2026-102334-exploit](https://github.com/davidoberst/CVE-2026-102334-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/davidoberst/CVE-2026-102334-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/davidoberst/CVE-2026-102334-exploit">
 
 ---
 ## CVE-2026-102282 ()
