@@ -146,6 +146,8 @@
 - [sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation](https://github.com/sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation">
 - [mafudge/cve-2026-98432](https://github.com/mafudge/cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/mafudge/cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/mafudge/cve-2026-98432">
 - [s97472091-pixel/verification-gap-cve-2026-98432](https://github.com/s97472091-pixel/verification-gap-cve-2026-98432)	<img alt="forks" src="https://img.shields.io/github/forks/s97472091-pixel/verification-gap-cve-2026-98432">	<img alt="stars" src="https://img.shields.io/github/stars/s97472091-pixel/verification-gap-cve-2026-98432">
+- [carlosbustillordguez/cve-2026-98432-mitigation](https://github.com/carlosbustillordguez/cve-2026-98432-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/carlosbustillordguez/cve-2026-98432-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/carlosbustillordguez/cve-2026-98432-mitigation">
+- [dolistblesson/CVE-2026-98432-update](https://github.com/dolistblesson/CVE-2026-98432-update)	<img alt="forks" src="https://img.shields.io/github/forks/dolistblesson/CVE-2026-98432-update">	<img alt="stars" src="https://img.shields.io/github/stars/dolistblesson/CVE-2026-98432-update">
 
 ---
 ## CVE-2026-98385 ()
@@ -13918,6 +13920,11 @@
 ## CVE-2026-123025 ()
 > 
 - [cppghoul/CVE-2026-123025](https://github.com/cppghoul/CVE-2026-123025)	<img alt="forks" src="https://img.shields.io/github/forks/cppghoul/CVE-2026-123025">	<img alt="stars" src="https://img.shields.io/github/stars/cppghoul/CVE-2026-123025">
+
+---
+## CVE-2026-123014 ()
+> 
+- [giki-shergill/CVE-2026-123014---iTerm2-Terminal](https://github.com/giki-shergill/CVE-2026-123014---iTerm2-Terminal)	<img alt="forks" src="https://img.shields.io/github/forks/giki-shergill/CVE-2026-123014---iTerm2-Terminal">	<img alt="stars" src="https://img.shields.io/github/stars/giki-shergill/CVE-2026-123014---iTerm2-Terminal">
 
 ---
 ## CVE-2026-12295 ()
