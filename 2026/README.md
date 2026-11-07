@@ -3714,6 +3714,7 @@
 - [Yunnijian/OnePlus16-Jailbreak](https://github.com/Yunnijian/OnePlus16-Jailbreak)	<img alt="forks" src="https://img.shields.io/github/forks/Yunnijian/OnePlus16-Jailbreak">	<img alt="stars" src="https://img.shields.io/github/stars/Yunnijian/OnePlus16-Jailbreak">
 - [exumeOAO/plr110-6.12.38-cve-2026-64560-ksu](https://github.com/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu)	<img alt="forks" src="https://img.shields.io/github/forks/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu">	<img alt="stars" src="https://img.shields.io/github/stars/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu">
 - [aucai/Redmi-K90-CVE-2026-64560](https://github.com/aucai/Redmi-K90-CVE-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/aucai/Redmi-K90-CVE-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/aucai/Redmi-K90-CVE-2026-64560">
+- [000999888111/op13-cve-2026-64560](https://github.com/000999888111/op13-cve-2026-64560)	<img alt="forks" src="https://img.shields.io/github/forks/000999888111/op13-cve-2026-64560">	<img alt="stars" src="https://img.shields.io/github/stars/000999888111/op13-cve-2026-64560">
 
 ---
 ## CVE-2026-64531 ()
@@ -14110,6 +14111,9 @@
 - [foxcornlab/wordpress-core-scanner](https://github.com/foxcornlab/wordpress-core-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/wordpress-core-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/wordpress-core-scanner">
 - [Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4](https://github.com/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4)	<img alt="forks" src="https://img.shields.io/github/forks/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4">	<img alt="stars" src="https://img.shields.io/github/stars/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4">
 - [tc4dy/CVE-2026-119977-Toolkit](https://github.com/tc4dy/CVE-2026-119977-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-119977-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-119977-Toolkit">
+- [paulmann/Bash_WP-CLI_Update](https://github.com/paulmann/Bash_WP-CLI_Update)	<img alt="forks" src="https://img.shields.io/github/forks/paulmann/Bash_WP-CLI_Update">	<img alt="stars" src="https://img.shields.io/github/stars/paulmann/Bash_WP-CLI_Update">
+- [hacermuden/CVE-2026-119977](https://github.com/hacermuden/CVE-2026-119977)	<img alt="forks" src="https://img.shields.io/github/forks/hacermuden/CVE-2026-119977">	<img alt="stars" src="https://img.shields.io/github/stars/hacermuden/CVE-2026-119977">
+- [riabinov/CVE-2026-119977](https://github.com/riabinov/CVE-2026-119977)	<img alt="forks" src="https://img.shields.io/github/forks/riabinov/CVE-2026-119977">	<img alt="stars" src="https://img.shields.io/github/stars/riabinov/CVE-2026-119977">
 
 ---
 ## CVE-2026-11991 ()
