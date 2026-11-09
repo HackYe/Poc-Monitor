@@ -2854,6 +2854,11 @@
 - [mdunfjeld/cve-2025-59886](https://github.com/mdunfjeld/cve-2025-59886)	<img alt="forks" src="https://img.shields.io/github/forks/mdunfjeld/cve-2025-59886">	<img alt="stars" src="https://img.shields.io/github/stars/mdunfjeld/cve-2025-59886">
 
 ---
+## CVE-2025-59845 ()
+> 
+- [C3viche/cve-2025-59845](https://github.com/C3viche/cve-2025-59845)	<img alt="forks" src="https://img.shields.io/github/forks/C3viche/cve-2025-59845">	<img alt="stars" src="https://img.shields.io/github/stars/C3viche/cve-2025-59845">
+
+---
 ## CVE-2025-59843 ()
 > 
 - [At0mXploit/CVE-2025-59843-CVE-2025-59932](https://github.com/At0mXploit/CVE-2025-59843-CVE-2025-59932)	<img alt="forks" src="https://img.shields.io/github/forks/At0mXploit/CVE-2025-59843-CVE-2025-59932">	<img alt="stars" src="https://img.shields.io/github/stars/At0mXploit/CVE-2025-59843-CVE-2025-59932">
@@ -8708,6 +8713,7 @@
 - [Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass](https://github.com/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass">
 - [sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass](https://github.com/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass">
 - [Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass](https://github.com/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass">
+- [goheesheng/sc3010](https://github.com/goheesheng/sc3010)	<img alt="forks" src="https://img.shields.io/github/forks/goheesheng/sc3010">	<img alt="stars" src="https://img.shields.io/github/stars/goheesheng/sc3010">
 
 ---
 ## CVE-2025-29891 ()
