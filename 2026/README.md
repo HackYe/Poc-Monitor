@@ -1786,6 +1786,7 @@
 - [Cobrastrike62/CVE-2026-83844-Detection](https://github.com/Cobrastrike62/CVE-2026-83844-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Cobrastrike62/CVE-2026-83844-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Cobrastrike62/CVE-2026-83844-Detection">
 - [LACHHAB-Anas/CVE-2026-83844](https://github.com/LACHHAB-Anas/CVE-2026-83844)	<img alt="forks" src="https://img.shields.io/github/forks/LACHHAB-Anas/CVE-2026-83844">	<img alt="stars" src="https://img.shields.io/github/stars/LACHHAB-Anas/CVE-2026-83844">
 - [blkph0x/CVE-2026-83844_POC](https://github.com/blkph0x/CVE-2026-83844_POC)	<img alt="forks" src="https://img.shields.io/github/forks/blkph0x/CVE-2026-83844_POC">	<img alt="stars" src="https://img.shields.io/github/stars/blkph0x/CVE-2026-83844_POC">
+- [HackingLZ/CVE-2026-83844-public](https://github.com/HackingLZ/CVE-2026-83844-public)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/CVE-2026-83844-public">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/CVE-2026-83844-public">
 
 ---
 ## CVE-2026-83834 ()
@@ -5692,6 +5693,11 @@
 - [Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching](https://github.com/Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/ash-authentication-oauth2-oidc-account-takeover-cve-2026-49757-email-based-user-matching">
 
 ---
+## CVE-2026-4961 ()
+> 
+- [lufeng78/tenda-ac6-cve-2026-4961-patch](https://github.com/lufeng78/tenda-ac6-cve-2026-4961-patch)	<img alt="forks" src="https://img.shields.io/github/forks/lufeng78/tenda-ac6-cve-2026-4961-patch">	<img alt="stars" src="https://img.shields.io/github/stars/lufeng78/tenda-ac6-cve-2026-4961-patch">
+
+---
 ## CVE-2026-49468 ()
 > 
 - [BiiTts/CVE-2026-49468-LiteLLM-Auth-Bypass](https://github.com/BiiTts/CVE-2026-49468-LiteLLM-Auth-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-49468-LiteLLM-Auth-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-49468-LiteLLM-Auth-Bypass">
@@ -7063,6 +7069,7 @@
 - [kipcloud120/MiTV-MFTP0-GhostLock](https://github.com/kipcloud120/MiTV-MFTP0-GhostLock)	<img alt="forks" src="https://img.shields.io/github/forks/kipcloud120/MiTV-MFTP0-GhostLock">	<img alt="stars" src="https://img.shields.io/github/stars/kipcloud120/MiTV-MFTP0-GhostLock">
 - [h5hg6vy8nt-hue/meizu20pro-temp-root](https://github.com/h5hg6vy8nt-hue/meizu20pro-temp-root)	<img alt="forks" src="https://img.shields.io/github/forks/h5hg6vy8nt-hue/meizu20pro-temp-root">	<img alt="stars" src="https://img.shields.io/github/stars/h5hg6vy8nt-hue/meizu20pro-temp-root">
 - [realskyrin/fuxi-temp-root](https://github.com/realskyrin/fuxi-temp-root)	<img alt="forks" src="https://img.shields.io/github/forks/realskyrin/fuxi-temp-root">	<img alt="stars" src="https://img.shields.io/github/stars/realskyrin/fuxi-temp-root">
+- [Viper-Boss/iqoo-neo5-temp-root](https://github.com/Viper-Boss/iqoo-neo5-temp-root)	<img alt="forks" src="https://img.shields.io/github/forks/Viper-Boss/iqoo-neo5-temp-root">	<img alt="stars" src="https://img.shields.io/github/stars/Viper-Boss/iqoo-neo5-temp-root">
 
 ---
 ## CVE-2026-43494 ()
@@ -14142,6 +14149,11 @@
 ## CVE-2026-122158 ()
 > 
 - [capivara-research/CVE-2026-122158](https://github.com/capivara-research/CVE-2026-122158)	<img alt="forks" src="https://img.shields.io/github/forks/capivara-research/CVE-2026-122158">	<img alt="stars" src="https://img.shields.io/github/stars/capivara-research/CVE-2026-122158">
+
+---
+## CVE-2026-122056 ()
+> 
+- [D7EAD/CVE-2026-122056](https://github.com/D7EAD/CVE-2026-122056)	<img alt="forks" src="https://img.shields.io/github/forks/D7EAD/CVE-2026-122056">	<img alt="stars" src="https://img.shields.io/github/stars/D7EAD/CVE-2026-122056">
 
 ---
 ## CVE-2026-122051 ()
