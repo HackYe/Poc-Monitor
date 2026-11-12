@@ -8439,7 +8439,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [so1icitx/CVE-2024-25600](https://github.com/so1icitx/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/so1icitx/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/so1icitx/CVE-2024-25600">
 - [cboss43/CVE-2024-25600](https://github.com/cboss43/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/cboss43/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/cboss43/CVE-2024-25600">
 - [meli0dasH4ck3r/cve-2024-25600](https://github.com/meli0dasH4ck3r/cve-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/meli0dasH4ck3r/cve-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/meli0dasH4ck3r/cve-2024-25600">
-- [ivanbg2004/ODH-BricksBuilder-CVE-2024-25600-THM](https://github.com/ivanbg2004/ODH-BricksBuilder-CVE-2024-25600-THM)	<img alt="forks" src="https://img.shields.io/github/forks/ivanbg2004/ODH-BricksBuilder-CVE-2024-25600-THM">	<img alt="stars" src="https://img.shields.io/github/stars/ivanbg2004/ODH-BricksBuilder-CVE-2024-25600-THM">
+- [OblivionDH/oblivion-cve-2024-25600-scanner](https://github.com/OblivionDH/oblivion-cve-2024-25600-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/OblivionDH/oblivion-cve-2024-25600-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/OblivionDH/oblivion-cve-2024-25600-scanner">
 - [DedsecTeam-BlackHat/Poleposph](https://github.com/DedsecTeam-BlackHat/Poleposph)	<img alt="forks" src="https://img.shields.io/github/forks/DedsecTeam-BlackHat/Poleposph">	<img alt="stars" src="https://img.shields.io/github/stars/DedsecTeam-BlackHat/Poleposph">
 - [r0otk3r/CVE-2024-25600](https://github.com/r0otk3r/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2024-25600">
 - [ranjithxploit/CVE-2024-25600](https://github.com/ranjithxploit/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/ranjithxploit/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/ranjithxploit/CVE-2024-25600">
@@ -8450,6 +8450,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [Anjai7/TryHack3M-Bricks-Heist](https://github.com/Anjai7/TryHack3M-Bricks-Heist)	<img alt="forks" src="https://img.shields.io/github/forks/Anjai7/TryHack3M-Bricks-Heist">	<img alt="stars" src="https://img.shields.io/github/stars/Anjai7/TryHack3M-Bricks-Heist">
 - [K52-ai/CVE-2024-25600](https://github.com/K52-ai/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/K52-ai/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/K52-ai/CVE-2024-25600">
 - [eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8-AND-ABOVE](https://github.com/eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8-AND-ABOVE)	<img alt="forks" src="https://img.shields.io/github/forks/eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8-AND-ABOVE">	<img alt="stars" src="https://img.shields.io/github/stars/eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8-AND-ABOVE">
+- [zxc2009/TryHack3M-Bricks-Heist](https://github.com/zxc2009/TryHack3M-Bricks-Heist)	<img alt="forks" src="https://img.shields.io/github/forks/zxc2009/TryHack3M-Bricks-Heist">	<img alt="stars" src="https://img.shields.io/github/stars/zxc2009/TryHack3M-Bricks-Heist">
 
 ---
 ## CVE-2024-25503 (2024-04-04T08:15:00)
@@ -9083,6 +9084,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [CyberCTF/vulhub-jenkins-cve-2024-23897](https://github.com/CyberCTF/vulhub-jenkins-cve-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-jenkins-cve-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-jenkins-cve-2024-23897">
 - [ydkdk12345-bot/CVE-2024-23897-CTF](https://github.com/ydkdk12345-bot/CVE-2024-23897-CTF)	<img alt="forks" src="https://img.shields.io/github/forks/ydkdk12345-bot/CVE-2024-23897-CTF">	<img alt="stars" src="https://img.shields.io/github/stars/ydkdk12345-bot/CVE-2024-23897-CTF">
 - [foreverlanterns/secure-api-cve-2024-23897](https://github.com/foreverlanterns/secure-api-cve-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/foreverlanterns/secure-api-cve-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/foreverlanterns/secure-api-cve-2024-23897">
+- [itnsapurbalingga/POC-CVE-2024-23897](https://github.com/itnsapurbalingga/POC-CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/itnsapurbalingga/POC-CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/itnsapurbalingga/POC-CVE-2024-23897">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)
