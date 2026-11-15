@@ -1234,6 +1234,7 @@
 - [rrpeck-cybersec/threat-intelligence-log4shell-analysis](https://github.com/rrpeck-cybersec/threat-intelligence-log4shell-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/rrpeck-cybersec/threat-intelligence-log4shell-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/rrpeck-cybersec/threat-intelligence-log4shell-analysis">
 - [george-petrakis/log4j-scanner-CVE-2021-44228](https://github.com/george-petrakis/log4j-scanner-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/george-petrakis/log4j-scanner-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/george-petrakis/log4j-scanner-CVE-2021-44228">
 - [sejauhkayuh/Vulnerable-and-Outdated-Components-Insiden-Log4Shell-CVE-2021-44228-](https://github.com/sejauhkayuh/Vulnerable-and-Outdated-Components-Insiden-Log4Shell-CVE-2021-44228-)	<img alt="forks" src="https://img.shields.io/github/forks/sejauhkayuh/Vulnerable-and-Outdated-Components-Insiden-Log4Shell-CVE-2021-44228-">	<img alt="stars" src="https://img.shields.io/github/stars/sejauhkayuh/Vulnerable-and-Outdated-Components-Insiden-Log4Shell-CVE-2021-44228-">
+- [HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228](https://github.com/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
@@ -6789,6 +6790,8 @@
 - [d4ytox/CVE-2021-3156](https://github.com/d4ytox/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2021-3156">
 - [sandesh9978/CVE-2021-3156-Sudo-Checker](https://github.com/sandesh9978/CVE-2021-3156-Sudo-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/sandesh9978/CVE-2021-3156-Sudo-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/sandesh9978/CVE-2021-3156-Sudo-Checker">
 - [AmroYasserH/DFIR-CVE-2021-3156-Incident-Response](https://github.com/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response)	<img alt="forks" src="https://img.shields.io/github/forks/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response">	<img alt="stars" src="https://img.shields.io/github/stars/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response">
+- [HanaBouikni/AppArmor-Simulation-CVE-2021-3156](https://github.com/HanaBouikni/AppArmor-Simulation-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/HanaBouikni/AppArmor-Simulation-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/HanaBouikni/AppArmor-Simulation-CVE-2021-3156">
+- [HanaBouikni/Volatility3-Forensics-Incident-Response](https://github.com/HanaBouikni/Volatility3-Forensics-Incident-Response)	<img alt="forks" src="https://img.shields.io/github/forks/HanaBouikni/Volatility3-Forensics-Incident-Response">	<img alt="stars" src="https://img.shields.io/github/stars/HanaBouikni/Volatility3-Forensics-Incident-Response">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)

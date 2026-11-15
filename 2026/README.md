@@ -358,6 +358,7 @@
 - [murat-levi/gitlab-rce-toolkit](https://github.com/murat-levi/gitlab-rce-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/murat-levi/gitlab-rce-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/murat-levi/gitlab-rce-toolkit">
 - [Certbn/CVE-2026-97229-GitLab-CI-CD](https://github.com/Certbn/CVE-2026-97229-GitLab-CI-CD)	<img alt="forks" src="https://img.shields.io/github/forks/Certbn/CVE-2026-97229-GitLab-CI-CD">	<img alt="stars" src="https://img.shields.io/github/stars/Certbn/CVE-2026-97229-GitLab-CI-CD">
 - [Ghost-Bx1/cve-2026-97229-gitlab-ci-rce](https://github.com/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce">
+- [wa6n3r/cve-2026-97229](https://github.com/wa6n3r/cve-2026-97229)	<img alt="forks" src="https://img.shields.io/github/forks/wa6n3r/cve-2026-97229">	<img alt="stars" src="https://img.shields.io/github/stars/wa6n3r/cve-2026-97229">
 
 ---
 ## CVE-2026-97206 ()
@@ -15083,6 +15084,11 @@
 ## CVE-2026-114595 ()
 > 
 - [0xBlackash/CVE-2026-114595](https://github.com/0xBlackash/CVE-2026-114595)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-114595">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-114595">
+
+---
+## CVE-2026-114552 ()
+> 
+- [RossKeddy/CVE-2026-114552](https://github.com/RossKeddy/CVE-2026-114552)	<img alt="forks" src="https://img.shields.io/github/forks/RossKeddy/CVE-2026-114552">	<img alt="stars" src="https://img.shields.io/github/stars/RossKeddy/CVE-2026-114552">
 
 ---
 ## CVE-2026-114550 ()
