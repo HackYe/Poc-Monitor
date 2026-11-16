@@ -257,6 +257,8 @@
 - [qq2770355800/ExtractKit](https://github.com/qq2770355800/ExtractKit)	<img alt="forks" src="https://img.shields.io/github/forks/qq2770355800/ExtractKit">	<img alt="stars" src="https://img.shields.io/github/stars/qq2770355800/ExtractKit">
 - [mumaosong/CVE-2026-98260-Drive](https://github.com/mumaosong/CVE-2026-98260-Drive)	<img alt="forks" src="https://img.shields.io/github/forks/mumaosong/CVE-2026-98260-Drive">	<img alt="stars" src="https://img.shields.io/github/stars/mumaosong/CVE-2026-98260-Drive">
 - [BKV0369/CVE-2026-98260-Motorola](https://github.com/BKV0369/CVE-2026-98260-Motorola)	<img alt="forks" src="https://img.shields.io/github/forks/BKV0369/CVE-2026-98260-Motorola">	<img alt="stars" src="https://img.shields.io/github/stars/BKV0369/CVE-2026-98260-Motorola">
+- [linux-tools/Shark-Root-Folk_for_VIVO_Y500i](https://github.com/linux-tools/Shark-Root-Folk_for_VIVO_Y500i)	<img alt="forks" src="https://img.shields.io/github/forks/linux-tools/Shark-Root-Folk_for_VIVO_Y500i">	<img alt="stars" src="https://img.shields.io/github/stars/linux-tools/Shark-Root-Folk_for_VIVO_Y500i">
+- [jonrazta89/OneSamAKAGhostKey](https://github.com/jonrazta89/OneSamAKAGhostKey)	<img alt="forks" src="https://img.shields.io/github/forks/jonrazta89/OneSamAKAGhostKey">	<img alt="stars" src="https://img.shields.io/github/stars/jonrazta89/OneSamAKAGhostKey">
 
 ---
 ## CVE-2026-98258 ()
