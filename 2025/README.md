@@ -1702,6 +1702,11 @@
 - [praksokchea/CVE-2025-6563](https://github.com/praksokchea/CVE-2025-6563)	<img alt="forks" src="https://img.shields.io/github/forks/praksokchea/CVE-2025-6563">	<img alt="stars" src="https://img.shields.io/github/stars/praksokchea/CVE-2025-6563">
 
 ---
+## CVE-2025-65616 ()
+> 
+- [redline1736/CVE-2025-65616](https://github.com/redline1736/CVE-2025-65616)	<img alt="forks" src="https://img.shields.io/github/forks/redline1736/CVE-2025-65616">	<img alt="stars" src="https://img.shields.io/github/stars/redline1736/CVE-2025-65616">
+
+---
 ## CVE-2025-6558 ()
 > 
 - [karenucqki/CVE-2025-6558](https://github.com/karenucqki/CVE-2025-6558)	<img alt="forks" src="https://img.shields.io/github/forks/karenucqki/CVE-2025-6558">	<img alt="stars" src="https://img.shields.io/github/stars/karenucqki/CVE-2025-6558">
@@ -4497,7 +4502,7 @@
 - [predyy/totorum](https://github.com/predyy/totorum)	<img alt="forks" src="https://img.shields.io/github/forks/predyy/totorum">	<img alt="stars" src="https://img.shields.io/github/stars/predyy/totorum">
 - [DeDnY/CVE-2025-55182-in-docker](https://github.com/DeDnY/CVE-2025-55182-in-docker)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-in-docker">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-in-docker">
 - [H4R335HR/reactshell](https://github.com/H4R335HR/reactshell)	<img alt="forks" src="https://img.shields.io/github/forks/H4R335HR/reactshell">	<img alt="stars" src="https://img.shields.io/github/stars/H4R335HR/reactshell">
-- [0xBlackash/CVE-2025-55182](https://github.com/0xBlackash/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-55182">
+- [ashrafzaryouh/CVE-2025-55182](https://github.com/ashrafzaryouh/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ashrafzaryouh/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ashrafzaryouh/CVE-2025-55182">
 - [alptexans/RSC-Detect-CVE-2025-55182](https://github.com/alptexans/RSC-Detect-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/alptexans/RSC-Detect-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/alptexans/RSC-Detect-CVE-2025-55182">
 - [Yusril-git/OWASP-Detection-Lab](https://github.com/Yusril-git/OWASP-Detection-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Yusril-git/OWASP-Detection-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Yusril-git/OWASP-Detection-Lab">
 - [revasec/CVE-2025-55182-Interactive-mode](https://github.com/revasec/CVE-2025-55182-Interactive-mode)	<img alt="forks" src="https://img.shields.io/github/forks/revasec/CVE-2025-55182-Interactive-mode">	<img alt="stars" src="https://img.shields.io/github/stars/revasec/CVE-2025-55182-Interactive-mode">
@@ -4603,6 +4608,9 @@
 - [hadayalab-web/pandemic-fortress-advisories](https://github.com/hadayalab-web/pandemic-fortress-advisories)	<img alt="forks" src="https://img.shields.io/github/forks/hadayalab-web/pandemic-fortress-advisories">	<img alt="stars" src="https://img.shields.io/github/stars/hadayalab-web/pandemic-fortress-advisories">
 - [manshoor/php2shell-scanner](https://github.com/manshoor/php2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/manshoor/php2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/manshoor/php2shell-scanner">
 - [bytesAIren/THM_Corp_Website_CTF](https://github.com/bytesAIren/THM_Corp_Website_CTF)	<img alt="forks" src="https://img.shields.io/github/forks/bytesAIren/THM_Corp_Website_CTF">	<img alt="stars" src="https://img.shields.io/github/stars/bytesAIren/THM_Corp_Website_CTF">
+- [alinaclark672377250/React2Shell_Rce-cve-2025-55182](https://github.com/alinaclark672377250/React2Shell_Rce-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/alinaclark672377250/React2Shell_Rce-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/alinaclark672377250/React2Shell_Rce-cve-2025-55182">
+- [cloud-on-demand/React2Shell](https://github.com/cloud-on-demand/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/cloud-on-demand/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/cloud-on-demand/React2Shell">
+- [sg-evals/react--v19.2.1](https://github.com/sg-evals/react--v19.2.1)	<img alt="forks" src="https://img.shields.io/github/forks/sg-evals/react--v19.2.1">	<img alt="stars" src="https://img.shields.io/github/stars/sg-evals/react--v19.2.1">
 
 ---
 ## CVE-2025-55130 ()
