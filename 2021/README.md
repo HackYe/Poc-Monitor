@@ -1257,6 +1257,7 @@
 - [mcpmark-eval-liuhezi/log4shell-audit-18](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-18)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-18">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-18">
 - [mcpmark-eval-liuhezi/log4shell-audit-17](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-17)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-17">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-17">
 - [Morgenlicht1210/log4j2-cve-2021-44228-poc](https://github.com/Morgenlicht1210/log4j2-cve-2021-44228-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Morgenlicht1210/log4j2-cve-2021-44228-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Morgenlicht1210/log4j2-cve-2021-44228-poc">
+- [minBuild/unhacked](https://github.com/minBuild/unhacked)	<img alt="forks" src="https://img.shields.io/github/forks/minBuild/unhacked">	<img alt="stars" src="https://img.shields.io/github/stars/minBuild/unhacked">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
