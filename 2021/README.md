@@ -1258,6 +1258,14 @@
 - [mcpmark-eval-liuhezi/log4shell-audit-17](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-17)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-17">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-17">
 - [Morgenlicht1210/log4j2-cve-2021-44228-poc](https://github.com/Morgenlicht1210/log4j2-cve-2021-44228-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Morgenlicht1210/log4j2-cve-2021-44228-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Morgenlicht1210/log4j2-cve-2021-44228-poc">
 - [minBuild/unhacked](https://github.com/minBuild/unhacked)	<img alt="forks" src="https://img.shields.io/github/forks/minBuild/unhacked">	<img alt="stars" src="https://img.shields.io/github/stars/minBuild/unhacked">
+- [johnyProDev/CVE-2021-44228-Writeup](https://github.com/johnyProDev/CVE-2021-44228-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-Writeup">
+- [one-zyd/Log4j2-CVE-2021-44228](https://github.com/one-zyd/Log4j2-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/one-zyd/Log4j2-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/one-zyd/Log4j2-CVE-2021-44228">
+- [Scorpion691/Log4Shell-LDAP-Lab](https://github.com/Scorpion691/Log4Shell-LDAP-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Scorpion691/Log4Shell-LDAP-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Scorpion691/Log4Shell-LDAP-Lab">
+- [Pathfind1357/Log4Shell-CVE-2021-44228](https://github.com/Pathfind1357/Log4Shell-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Pathfind1357/Log4Shell-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Pathfind1357/Log4Shell-CVE-2021-44228">
+- [for-toolathlon/log4shell-research-brief](https://github.com/for-toolathlon/log4shell-research-brief)	<img alt="forks" src="https://img.shields.io/github/forks/for-toolathlon/log4shell-research-brief">	<img alt="stars" src="https://img.shields.io/github/stars/for-toolathlon/log4shell-research-brief">
+- [for-toolathlon/log4shell-audit-2](https://github.com/for-toolathlon/log4shell-audit-2)	<img alt="forks" src="https://img.shields.io/github/forks/for-toolathlon/log4shell-audit-2">	<img alt="stars" src="https://img.shields.io/github/stars/for-toolathlon/log4shell-audit-2">
+- [for-toolathlon/log4shell-audit2](https://github.com/for-toolathlon/log4shell-audit2)	<img alt="forks" src="https://img.shields.io/github/forks/for-toolathlon/log4shell-audit2">	<img alt="stars" src="https://img.shields.io/github/stars/for-toolathlon/log4shell-audit2">
+- [for-toolathlon/log4shell-audit](https://github.com/for-toolathlon/log4shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/for-toolathlon/log4shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/for-toolathlon/log4shell-audit">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
@@ -5607,6 +5615,7 @@
 - [0xlane/CVE-2021-3493](https://github.com/0xlane/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/CVE-2021-3493">
 - [r3dw4n48m3d/CVE-2021-3493-Exploit](https://github.com/r3dw4n48m3d/CVE-2021-3493-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/r3dw4n48m3d/CVE-2021-3493-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/r3dw4n48m3d/CVE-2021-3493-Exploit">
 - [devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493](https://github.com/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493">
+- [LaurenceBDavid/CVE-2021-3493](https://github.com/LaurenceBDavid/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/LaurenceBDavid/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/LaurenceBDavid/CVE-2021-3493">
 
 ---
 ## CVE-2021-3490 (2021-06-04T02:15:00)
@@ -6232,6 +6241,11 @@
 ## CVE-2021-33235 (2022-08-15T20:15:00)
 > Buffer overflow vulnerability in write_node in htmldoc through 1.9.11 allows attackers to cause a denial of service via htmldoc/htmldoc/html.cxx:588.
 - [Live-Hack-CVE/CVE-2021-33235](https://github.com/Live-Hack-CVE/CVE-2021-33235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33235">
+
+---
+## CVE-2021-33200 ()
+> 
+- [d4ytox/CVE-2021-33200](https://github.com/d4ytox/CVE-2021-33200)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2021-33200">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2021-33200">
 
 ---
 ## CVE-2021-33198 (2021-08-02T19:15:00)
