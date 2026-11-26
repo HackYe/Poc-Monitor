@@ -8771,6 +8771,7 @@
 - [elkhaoudari/CVE-2025-29927-Python](https://github.com/elkhaoudari/CVE-2025-29927-Python)	<img alt="forks" src="https://img.shields.io/github/forks/elkhaoudari/CVE-2025-29927-Python">	<img alt="stars" src="https://img.shields.io/github/stars/elkhaoudari/CVE-2025-29927-Python">
 - [dexteon/nextjs-middleware-auth-bypass-cve-2025-29927](https://github.com/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927">
 - [alinaclark672377250/CVE-2025-29927-POC](https://github.com/alinaclark672377250/CVE-2025-29927-POC)	<img alt="forks" src="https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-29927-POC">	<img alt="stars" src="https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-29927-POC">
+- [gabrielchv/seguranca-informacao-cve-2025-29927](https://github.com/gabrielchv/seguranca-informacao-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielchv/seguranca-informacao-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielchv/seguranca-informacao-cve-2025-29927">
 
 ---
 ## CVE-2025-29891 ()

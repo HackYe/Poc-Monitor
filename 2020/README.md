@@ -102,6 +102,10 @@
 - [0dayCTF/CVE-2020-9484](https://github.com/0dayCTF/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/0dayCTF/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/0dayCTF/CVE-2020-9484">
 - [Disturbante/CVE-2020-9484](https://github.com/Disturbante/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/Disturbante/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/Disturbante/CVE-2020-9484">
 - [deathquote/CVE-2020-9484](https://github.com/deathquote/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/deathquote/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/deathquote/CVE-2020-9484">
+- [CrieHeiki/Apache-Tomcat-CVE-2020-9484](https://github.com/CrieHeiki/Apache-Tomcat-CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/CrieHeiki/Apache-Tomcat-CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/CrieHeiki/Apache-Tomcat-CVE-2020-9484">
+- [googlesky/CVE-2021-25329](https://github.com/googlesky/CVE-2021-25329)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2021-25329">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2021-25329">
+- [googlesky/CVE-2020-9484](https://github.com/googlesky/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2020-9484">
+- [savsch/PoC_CVE-2020-9484](https://github.com/savsch/PoC_CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/savsch/PoC_CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/savsch/PoC_CVE-2020-9484">
 
 ---
 ## CVE-2020-9483 ()
@@ -1056,6 +1060,7 @@
 - [zaryouhashraf/CVE-2020-5902](https://github.com/zaryouhashraf/CVE-2020-5902)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2020-5902">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2020-5902">
 - [0xAshwesker/CVE-2020-5902](https://github.com/0xAshwesker/CVE-2020-5902)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2020-5902">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2020-5902">
 - [yora1928/cve-2020-5902](https://github.com/yora1928/cve-2020-5902)	<img alt="forks" src="https://img.shields.io/github/forks/yora1928/cve-2020-5902">	<img alt="stars" src="https://img.shields.io/github/stars/yora1928/cve-2020-5902">
+- [googlesky/CVE-2020-5902](https://github.com/googlesky/CVE-2020-5902)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2020-5902">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2020-5902">
 
 ---
 ## CVE-2020-5847 (2020-03-16T18:15:00)

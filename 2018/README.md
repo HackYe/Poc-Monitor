@@ -1789,6 +1789,11 @@
 - [milo2012/CVE-2018-13379](https://github.com/milo2012/CVE-2018-13379)	<img alt="forks" src="https://img.shields.io/github/forks/milo2012/CVE-2018-13379">	<img alt="stars" src="https://img.shields.io/github/stars/milo2012/CVE-2018-13379">
 
 ---
+## CVE-2018-1336 ()
+> 
+- [googlesky/CVE-2018-1336](https://github.com/googlesky/CVE-2018-1336)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2018-1336">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2018-1336">
+
+---
 ## CVE-2018-1335 (2018-04-25T21:29:00)
 > From Apache Tika versions 1.7 to 1.17, clients could send carefully crafted headers to tika-server that could be used to inject commands into the command line of the server running tika-server. This vulnerability only affects those running tika-server on a server that is open to untrusted clients. The mitigation is to upgrade to Tika 1.18.
 - [Zebra64/CVE-2018-1335](https://github.com/Zebra64/CVE-2018-1335)	<img alt="forks" src="https://img.shields.io/github/forks/Zebra64/CVE-2018-1335">	<img alt="stars" src="https://img.shields.io/github/stars/Zebra64/CVE-2018-1335">
