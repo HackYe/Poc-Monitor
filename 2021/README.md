@@ -1266,6 +1266,10 @@
 - [for-toolathlon/log4shell-audit-2](https://github.com/for-toolathlon/log4shell-audit-2)	<img alt="forks" src="https://img.shields.io/github/forks/for-toolathlon/log4shell-audit-2">	<img alt="stars" src="https://img.shields.io/github/stars/for-toolathlon/log4shell-audit-2">
 - [for-toolathlon/log4shell-audit2](https://github.com/for-toolathlon/log4shell-audit2)	<img alt="forks" src="https://img.shields.io/github/forks/for-toolathlon/log4shell-audit2">	<img alt="stars" src="https://img.shields.io/github/stars/for-toolathlon/log4shell-audit2">
 - [for-toolathlon/log4shell-audit](https://github.com/for-toolathlon/log4shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/for-toolathlon/log4shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/for-toolathlon/log4shell-audit">
+- [johnyProDev/CVE-2021-44228-Essay](https://github.com/johnyProDev/CVE-2021-44228-Essay)	<img alt="forks" src="https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-Essay">	<img alt="stars" src="https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-Essay">
+- [johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling](https://github.com/johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling)	<img alt="forks" src="https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling">	<img alt="stars" src="https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling">
+- [googlesky/CVE-2021-44228](https://github.com/googlesky/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/googlesky/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/googlesky/CVE-2021-44228">
+- [YujiSoftware/log4shell-poc](https://github.com/YujiSoftware/log4shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/YujiSoftware/log4shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/YujiSoftware/log4shell-poc">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
