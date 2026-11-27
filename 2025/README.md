@@ -7834,11 +7834,12 @@
 - [LeotheGGman/Langflow-RCE-CVE-2025-3248](https://github.com/LeotheGGman/Langflow-RCE-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/LeotheGGman/Langflow-RCE-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/LeotheGGman/Langflow-RCE-CVE-2025-3248">
 - [hideki233/CVE-2025-3248-Langflow-RCE](https://github.com/hideki233/CVE-2025-3248-Langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hideki233/CVE-2025-3248-Langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hideki233/CVE-2025-3248-Langflow-RCE">
 - [preemware/langflow-exploit](https://github.com/preemware/langflow-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/preemware/langflow-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/preemware/langflow-exploit">
-- [Atomics-hub/exposecheck](https://github.com/Atomics-hub/exposecheck)	<img alt="forks" src="https://img.shields.io/github/forks/Atomics-hub/exposecheck">	<img alt="stars" src="https://img.shields.io/github/stars/Atomics-hub/exposecheck">
+- [A5omics/exposecheck](https://github.com/A5omics/exposecheck)	<img alt="forks" src="https://img.shields.io/github/forks/A5omics/exposecheck">	<img alt="stars" src="https://img.shields.io/github/stars/A5omics/exposecheck">
 - [get-xor/coreweave-demo-2026-05](https://github.com/get-xor/coreweave-demo-2026-05)	<img alt="forks" src="https://img.shields.io/github/forks/get-xor/coreweave-demo-2026-05">	<img alt="stars" src="https://img.shields.io/github/stars/get-xor/coreweave-demo-2026-05">
 - [12-test-12/CVE-2025-3248](https://github.com/12-test-12/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/12-test-12/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/12-test-12/CVE-2025-3248">
 - [zoly-zoly/CVE-2025-3248](https://github.com/zoly-zoly/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/zoly-zoly/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/zoly-zoly/CVE-2025-3248">
 - [cpwjdgh/CVE-2025-3248-CTF-Lab](https://github.com/cpwjdgh/CVE-2025-3248-CTF-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/cpwjdgh/CVE-2025-3248-CTF-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/cpwjdgh/CVE-2025-3248-CTF-Lab">
+- [Yasinnozbek/langflow-cve-2025-3248-detector](https://github.com/Yasinnozbek/langflow-cve-2025-3248-detector)	<img alt="forks" src="https://img.shields.io/github/forks/Yasinnozbek/langflow-cve-2025-3248-detector">	<img alt="stars" src="https://img.shields.io/github/stars/Yasinnozbek/langflow-cve-2025-3248-detector">
 
 ---
 ## CVE-2025-32463 ()
@@ -7950,6 +7951,7 @@
 - [EthanEvans92/CVE-2025-32463](https://github.com/EthanEvans92/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/EthanEvans92/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/EthanEvans92/CVE-2025-32463">
 - [jigrit/CVE-2025-32463](https://github.com/jigrit/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/jigrit/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/jigrit/CVE-2025-32463">
 - [roock3t/CVE-2025-32463](https://github.com/roock3t/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/roock3t/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/roock3t/CVE-2025-32463">
+- [chenceyang/cve-2025-32463-presentation](https://github.com/chenceyang/cve-2025-32463-presentation)	<img alt="forks" src="https://img.shields.io/github/forks/chenceyang/cve-2025-32463-presentation">	<img alt="stars" src="https://img.shields.io/github/stars/chenceyang/cve-2025-32463-presentation">
 
 ---
 ## CVE-2025-32462 ()
