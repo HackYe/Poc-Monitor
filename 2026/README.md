@@ -74,12 +74,23 @@
 - [woshigenm/CVE-2026-99491-FANXIAOCHAO](https://github.com/woshigenm/CVE-2026-99491-FANXIAOCHAO)	<img alt="forks" src="https://img.shields.io/github/forks/woshigenm/CVE-2026-99491-FANXIAOCHAO">	<img alt="stars" src="https://img.shields.io/github/stars/woshigenm/CVE-2026-99491-FANXIAOCHAO">
 
 ---
+## CVE-2026-99490 ()
+> 
+- [Aoki-Shinshi/CVE-2026-99490](https://github.com/Aoki-Shinshi/CVE-2026-99490)	<img alt="forks" src="https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-99490">	<img alt="stars" src="https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-99490">
+
+---
+## CVE-2026-99489 ()
+> 
+- [Aoki-Shinshi/CVE-2026-99489](https://github.com/Aoki-Shinshi/CVE-2026-99489)	<img alt="forks" src="https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-99489">	<img alt="stars" src="https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-99489">
+
+---
 ## CVE-2026-99362 ()
 > 
 - [ashrafzaryouh/CVE-2026-99362](https://github.com/ashrafzaryouh/CVE-2026-99362)	<img alt="forks" src="https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-99362">	<img alt="stars" src="https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-99362">
 - [ansonhsu-ai/proxmox-nfs2root-cve-2026-99362-ste](https://github.com/ansonhsu-ai/proxmox-nfs2root-cve-2026-99362-ste)	<img alt="forks" src="https://img.shields.io/github/forks/ansonhsu-ai/proxmox-nfs2root-cve-2026-99362-ste">	<img alt="stars" src="https://img.shields.io/github/stars/ansonhsu-ai/proxmox-nfs2root-cve-2026-99362-ste">
 - [seguridadentrerios/CVE-2026-99362](https://github.com/seguridadentrerios/CVE-2026-99362)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-99362">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-99362">
 - [suominen/CVE-2026-99362](https://github.com/suominen/CVE-2026-99362)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-99362">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-99362">
+- [Anhydrite/nfs2root](https://github.com/Anhydrite/nfs2root)	<img alt="forks" src="https://img.shields.io/github/forks/Anhydrite/nfs2root">	<img alt="stars" src="https://img.shields.io/github/stars/Anhydrite/nfs2root">
 
 ---
 ## CVE-2026-99320 ()
@@ -333,6 +344,8 @@
 - [k-o-n-t-o-r/sm-s936b-cve-2026-98260](https://github.com/k-o-n-t-o-r/sm-s936b-cve-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/k-o-n-t-o-r/sm-s936b-cve-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/k-o-n-t-o-r/sm-s936b-cve-2026-98260">
 - [minhmc2007/CVE-2026-98260-My-A55](https://github.com/minhmc2007/CVE-2026-98260-My-A55)	<img alt="forks" src="https://img.shields.io/github/forks/minhmc2007/CVE-2026-98260-My-A55">	<img alt="stars" src="https://img.shields.io/github/stars/minhmc2007/CVE-2026-98260-My-A55">
 - [CrystalXYN/cve-2026-98260](https://github.com/CrystalXYN/cve-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/CrystalXYN/cve-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/CrystalXYN/cve-2026-98260">
+- [okk30721-cell/cve-2026-98260-ksu](https://github.com/okk30721-cell/cve-2026-98260-ksu)	<img alt="forks" src="https://img.shields.io/github/forks/okk30721-cell/cve-2026-98260-ksu">	<img alt="stars" src="https://img.shields.io/github/stars/okk30721-cell/cve-2026-98260-ksu">
+- [pjnssb/CVE-2026-98260-GhostKey](https://github.com/pjnssb/CVE-2026-98260-GhostKey)	<img alt="forks" src="https://img.shields.io/github/forks/pjnssb/CVE-2026-98260-GhostKey">	<img alt="stars" src="https://img.shields.io/github/stars/pjnssb/CVE-2026-98260-GhostKey">
 
 ---
 ## CVE-2026-98258 ()
