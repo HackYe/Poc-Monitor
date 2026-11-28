@@ -346,6 +346,7 @@
 - [CrystalXYN/cve-2026-98260](https://github.com/CrystalXYN/cve-2026-98260)	<img alt="forks" src="https://img.shields.io/github/forks/CrystalXYN/cve-2026-98260">	<img alt="stars" src="https://img.shields.io/github/stars/CrystalXYN/cve-2026-98260">
 - [okk30721-cell/cve-2026-98260-ksu](https://github.com/okk30721-cell/cve-2026-98260-ksu)	<img alt="forks" src="https://img.shields.io/github/forks/okk30721-cell/cve-2026-98260-ksu">	<img alt="stars" src="https://img.shields.io/github/stars/okk30721-cell/cve-2026-98260-ksu">
 - [pjnssb/CVE-2026-98260-GhostKey](https://github.com/pjnssb/CVE-2026-98260-GhostKey)	<img alt="forks" src="https://img.shields.io/github/forks/pjnssb/CVE-2026-98260-GhostKey">	<img alt="stars" src="https://img.shields.io/github/stars/pjnssb/CVE-2026-98260-GhostKey">
+- [laobinggunzhao-lab/TimerRoot-Next](https://github.com/laobinggunzhao-lab/TimerRoot-Next)	<img alt="forks" src="https://img.shields.io/github/forks/laobinggunzhao-lab/TimerRoot-Next">	<img alt="stars" src="https://img.shields.io/github/stars/laobinggunzhao-lab/TimerRoot-Next">
 
 ---
 ## CVE-2026-98258 ()
@@ -15116,6 +15117,11 @@
 - [LLCForge/CVE-2026-133968](https://github.com/LLCForge/CVE-2026-133968)	<img alt="forks" src="https://img.shields.io/github/forks/LLCForge/CVE-2026-133968">	<img alt="stars" src="https://img.shields.io/github/stars/LLCForge/CVE-2026-133968">
 
 ---
+## CVE-2026-133742 ()
+> 
+- [tryformy/CVE-2026-133742](https://github.com/tryformy/CVE-2026-133742)	<img alt="forks" src="https://img.shields.io/github/forks/tryformy/CVE-2026-133742">	<img alt="stars" src="https://img.shields.io/github/stars/tryformy/CVE-2026-133742">
+
+---
 ## CVE-2026-1337 ()
 > 
 - [George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape](https://github.com/George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-1337-AI-Coding-Assistant-Prompt-Injection-to-Sandbox-Escape">
@@ -16962,6 +16968,8 @@
 - [devkirgantenk/patched_ptero](https://github.com/devkirgantenk/patched_ptero)	<img alt="forks" src="https://img.shields.io/github/forks/devkirgantenk/patched_ptero">	<img alt="stars" src="https://img.shields.io/github/stars/devkirgantenk/patched_ptero">
 - [cveForge/CVE-2026-114938](https://github.com/cveForge/CVE-2026-114938)	<img alt="forks" src="https://img.shields.io/github/forks/cveForge/CVE-2026-114938">	<img alt="stars" src="https://img.shields.io/github/stars/cveForge/CVE-2026-114938">
 - [nu1170r007/java4shell](https://github.com/nu1170r007/java4shell)	<img alt="forks" src="https://img.shields.io/github/forks/nu1170r007/java4shell">	<img alt="stars" src="https://img.shields.io/github/stars/nu1170r007/java4shell">
+- [victorlarrubia/Java4Shell](https://github.com/victorlarrubia/Java4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/victorlarrubia/Java4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/victorlarrubia/Java4Shell">
+- [jburgess-r7/java4shell-teamcity-poc](https://github.com/jburgess-r7/java4shell-teamcity-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jburgess-r7/java4shell-teamcity-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jburgess-r7/java4shell-teamcity-poc">
 
 ---
 ## CVE-2026-114820 ()
